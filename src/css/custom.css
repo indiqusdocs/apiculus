@@ -140,3 +140,23 @@ img:active {
   margin: 1em 0;
 }
 
+/* Custom blocks for the dark theme */
+
+/* Custom block for dark theme */
+:root[data-theme='dark'] .custom-block-blue {
+  background-color: #f0f8ff; /* Same light blue background */
+  border-left: 4px solid #000000; /* Black border */
+  color: #000000; /* Black text */
+}
+
+:root[data-theme='dark'] .custom-block-peach {
+  background-color: #FFDAB9; /* Same light peach background */
+  border-left: 4px solid #000000; /* Black border */
+  color: #000000; /* Black text */
+}
+
+:root[data-theme='dark'] .custom-block-green {
+  background-color: ##D0F0C0; /* Same light green background */
+  border-left: 4px solid #000000; /* Black border */
+  color: #000000; /* Black text */
+}
