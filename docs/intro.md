@@ -20,7 +20,7 @@ Items in ***blue*** are Apiculus software capabilities; items in ***grey*** 
 
 import DocusaurusSvg from './StackComponents.svg'; 
 
-<DocusaurusSvg />;
+<DocusaurusSvg />
 
 ## Features and Specifications
 ### Self-service and Administration
