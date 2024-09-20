@@ -149,6 +149,7 @@
   },
   "active": "e7e9b10592058728",
   "lastOpenFiles": [
+    "StackComponents.drawio.crswap",
     "build/docs/ServicesandSystemRequirements/LoadBalancerInstances/FeatureList/index.html",
     "build/docs/ServicesandSystemRequirements/LoadBalancerInstances/SystemRequirements/index.html",
     "build/docs/ServicesandSystemRequirements/LoadBalancerInstances/About/index.html",
@@ -159,7 +160,6 @@
     "build/docs/ServicesandSystemRequirements/ApiculusObjectStorage/SystemRequirements/index.html",
     "build/docs/ServicesandSystemRequirements/ApiculusObjectStorage/FeatureListandIntegrationDetails/index.html",
     "build/docs/ServicesandSystemRequirements/ApiculusObjectStorage/AboutApiculusObjectStorage/index.html",
-    "build/docs/ServicesandSystemRequirements/ApiculusAuthoritiveNameserver/SystemRequirements/index.html",
     "LoggingIn.md",
     "intro.md",
     "docs/intro.md",
