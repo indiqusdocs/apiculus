@@ -20,5 +20,5 @@ Bulk transactions can be recorded using the spreadsheet template available (as .
 ---
 
 :::note
-On transaction recording, all target customers will be notified on email. All recorded [transactions are visible to subscribers/customers](https://docs.apiculus.com/hc/en-in/articles/12844407671965) in their Account Centre.
+On transaction recording, all target customers will be notified on email. All recorded [transactions are visible to subscribers/customers](/docs/Subscribers/AccountCentre/WalletandTransactions) in their Account Centre.
 :::

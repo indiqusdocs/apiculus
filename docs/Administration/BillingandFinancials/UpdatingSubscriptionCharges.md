@@ -9,6 +9,10 @@ Subscription price updates can be done from the subscriptions listing under an a
 
 ![Updating Subscription Charges](img/UpdatingSubscriptionCharges.png)
 
-Entering a new price will make the components visible and the distribution of charges across components can de defined. _The sum of component prices should add up to the total target price._
+Entering a new price will make the components visible and the distribution of charges across components can de defined. 
+
+:::note
+The sum of component prices should add up to the total target price.
+:::
 
 Once updated, the subscriber will be notified over email (and SMS, if enabled).
