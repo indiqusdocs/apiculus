@@ -190,8 +190,8 @@ const config = {
 	  // Algolia Search is here.
 	  
 	  algolia: {
-      appId: "3XE90GM0CQ",
-      apiKey: "5d7545855dee375745dadae82b4d3ab2",
+      appId: "LR4IO8TKPQ",
+      apiKey: "86496eb0535959e8d78cff40e68ba3b8",
       indexName: "apiculus",
       contextualSearch: true,
       searchParameters: {
