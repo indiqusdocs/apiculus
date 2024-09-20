@@ -34,7 +34,9 @@ Available actions:
 
 ![Billing and Financials Overview](img/Overview2.png)
 
-_**Note** - the invoice template is customisable via a support request to the IndiQus Support team. However, certain information, such as the prefix for the invoice numbering, payment period, and dunning rules are customisable from the Apiculus admin console._
+:::note
+The invoice template is customisable via a support request to the IndiQus Support team. However, certain information, such as the prefix for the invoice numbering, payment period, and dunning rules are customisable from the Apiculus admin console.
+:::
 
 ## Credit Notes
 
@@ -50,7 +52,7 @@ Available actions:
 A credit note can be created by downloading the .xls or .ods template and uploading it back to the UI.
 :::
 
-![Billing and Financials Overview](img/Overview3.png)_
+![Billing and Financials Overview](img/Overview3.png)
 
 ## Transactions
 
@@ -82,7 +84,7 @@ The Unbilled Charges show details of the current month’s billing, i.e., all th
 
 Available actions:
 
-- _None; list view-only_
+- None; list view-only
 
 ![Billing and Financials Overview](img/Overview6.png)
 
@@ -94,6 +96,6 @@ The Usage Feed shows the total units of each service or resource consumed in the
 
 Available actions:
 
-- _None; list view-only_
+- None; list view-only
 
 ![Billing and Financials Overview](img/Overview7.png)

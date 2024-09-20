@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 # Configuring Password Policies
-Apiculus platform admins can set up password policies from **Settings >Platform Settings > Passwords**. A host of controls is available to set up password policies, including:
+Apiculus platform admins can set up password policies from **Settings > Platform Settings > Passwords**. A host of controls is available to set up password policies, including:
 
 - Password length (min and max)
 - Password lifespan (days after which password needs to be reset)

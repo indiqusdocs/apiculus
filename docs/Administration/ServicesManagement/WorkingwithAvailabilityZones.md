@@ -26,12 +26,12 @@ The following is a description of AZ for each type of Service that uses AZ:
 
 For mapping a new availability zone, navigate to **Services > Availability Zones** and click on the **+ MAP NEW AVAILABILITY ZONE** button, and pop over the window that will open up and fill in/ choose the following details:
 
-1. **AVAILABILITY ZONE** – _The name you want to display or call this availability Zone._
-2. **REGION** – _Choose any regions listed; these regions’ data will be displayed as configured on the ACS._
-3. **CLOUDSTACK ZONE** - _Choose any of the listed zones._
-4. **HYPERVISOR**- _Choose any of the hypervisors available in the list._
-5. **CLUSTER**- _Choose any of the available clusters in the list._
-6. **LABEL** – _Choose any of the available labels. Currently, there are two labels present, i.e., Basic and Premium._
+1. **AVAILABILITY ZONE** – The name you want to display or call this availability Zone.
+2. **REGION** – Choose any regions listed; these regions’ data will be displayed as configured on the ACS.
+3. **CLOUDSTACK ZONE** - Choose any of the listed zones.
+4. **HYPERVISOR**- Choose any of the hypervisors available in the list.
+5. **CLUSTER**- Choose any of the available clusters in the list.
+6. **LABEL** – Choose any of the available labels. Currently, there are two labels present, i.e., Basic and Premium.
 
 Once you have filled in and chosen the above options, click on the **CREATE AVAILABILITY ZONE.**
 

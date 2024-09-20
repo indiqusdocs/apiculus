@@ -17,17 +17,19 @@ Admins can configure the Object storage from the services section. To configure 
 6. Click on the **Provisioning** section to offer the Object Storage service as _approval-based_. Enable the approval required switch. Enabling the switch, you will get two more options, i.e., Custom instructions that you want to send to the end user upon approval; you can also attach a maximum of 5 files up to 3 MB. 
 	![Configuring Object Storage](img/ConfiguringObjectStorage3.png)
 
-7. Click on the **Storage** under Pricing, Click on the AZ, and specify the _pricing in GB/hr._ 
+7. Click on the **Storage** under **Pricing**.
+8. Click on the AZ, and specify the pricing in GB/hr. 
 	![Configuring Object Storage](img/ConfiguringObjectStorage4.png)
 
-8. Click on the **Data** section, click on the Availability Zone, and specify the _pricing in GB/hr for both Data Rate in and Data Rate out._ 
+9. Click on the **Data** section, click on the Availability Zone, and specify the pricing in GB/hr for both Data Rate in and Data Rate out.
 	![Configuring Object Storage](img/ConfiguringObjectStorage5.png)
 
-9. Click on the **Requests** section, select the availability zone, and specify the pricing for the below:
+10. Click on the **Requests** section, select the availability zone, and specify the pricing for the following:
     a. HTTP requests GET/HEAD
     b. HTTP requests PUT/POST
     c. HTTP requests DELETE
 
-	![Configuring Object Storage](img/ConfiguringObjectStorage6.png) Return to the _Default Services_ and click on "**PUBLISH DEFAULT CATALOGUE**."
+	![Configuring Object Storage](img/ConfiguringObjectStorage6.png) 
+	Return to the Default Services and click on **PUBLISH DEFAULT CATALOGUE**.
 
 	![Configuring Object Storage](img/ConfiguringObjectStorage7.png)

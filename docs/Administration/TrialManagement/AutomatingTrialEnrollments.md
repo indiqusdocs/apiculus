@@ -11,18 +11,18 @@ Automation policies need to be of type **Trial** to have all trial triggers av
 
 ![Automating Trial Enrollments](img/AutomatingTrials.png)
 
-Supported triggers _(available only for automation policies of type **Trial**)_:
+Supported triggers (available only for automation policies of type **Trial**):
 
-- Account creation - _self-signup or admin-assisted_
-- Account trial enrollment start date - _before, on or after_
-- Account trial enrollment end date - _before, on or after_
-- Subscription trial enrollment start date - _before, on or after_
-- Subscription trial enrollment end date - _before, on or after_
-- Expiry of selected trial programme - _on expiry of chosen trial programme_
+- **Account creation** - self-signup or admin-assisted
+- **Account trial enrollment start date** - before, on or after
+- **Account trial enrollment end date** - before, on or after
+- **Subscription trial enrollment start date** - before, on or after
+- **Subscription trial enrollment end date** - before, on or after
+- **Expiry of selected trial programme** - on expiry of chosen trial programme
 
 Supported actions (available for any automation policy type):
 
-- Enroll into account trial - _enrollment into specified account trial_
+- **Enroll into account trial** - enrollment into specified account trial
 
 ## Sample Trial Automations
 
