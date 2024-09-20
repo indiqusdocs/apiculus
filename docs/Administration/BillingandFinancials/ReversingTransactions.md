@@ -8,5 +8,5 @@ Transactions and payments, once received and recorded, can not be edited. In cas
 ![Reversing Transactions](img/ReversingTransactions.png)
 
 :::note 
-Reverse transactions show in red colour in the transactions listing and carry a negative (-) amount. All recorded [transactions are visible to subscribers/customers](https://docs.apiculus.com/hc/en-in/articles/12844407671965) in their Account Centre.
+Reverse transactions show in red colour in the transactions listing and carry a negative (-) amount. All recorded [transactions are visible to subscribers/customers](/docs/Subscribers/AccountCentre/WalletandTransactions) in their Account Centre.
 :::

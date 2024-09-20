@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1df5c77526788f23",
+        "id": "7a321810a7a0da0e",
         "type": "tabs",
         "children": [
           {
-            "id": "e7e9b10592058728",
+            "id": "4c0a5d6d12510aea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/intro.md",
+                "file": "docs/Administration/MarketingManagement/WorkingwithCoupons.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/intro.md",
+                "file": "docs/Administration/MarketingManagement/WorkingwithCoupons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/intro.md",
+                "file": "docs/Administration/MarketingManagement/WorkingwithCoupons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/intro.md"
+                "file": "docs/Administration/MarketingManagement/WorkingwithCoupons.md"
               }
             }
           }
@@ -147,54 +147,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7e9b10592058728",
+  "active": "4c0a5d6d12510aea",
   "lastOpenFiles": [
-    "StackComponents.drawio.crswap",
-    "build/docs/ServicesandSystemRequirements/LoadBalancerInstances/FeatureList/index.html",
-    "build/docs/ServicesandSystemRequirements/LoadBalancerInstances/SystemRequirements/index.html",
-    "build/docs/ServicesandSystemRequirements/LoadBalancerInstances/About/index.html",
-    "build/docs/ServicesandSystemRequirements/AWSLinkage/IntegrationDetails/index.html",
-    "build/docs/ServicesandSystemRequirements/AWSLinkage/Prerequisites/index.html",
-    "build/docs/ServicesandSystemRequirements/AWSLinkage/AboutAWSLinkage/index.html",
-    "build/docs/ServicesandSystemRequirements/ApiculusObjectStorage/FrequentlyAskedQuestions/index.html",
-    "build/docs/ServicesandSystemRequirements/ApiculusObjectStorage/SystemRequirements/index.html",
-    "build/docs/ServicesandSystemRequirements/ApiculusObjectStorage/FeatureListandIntegrationDetails/index.html",
-    "build/docs/ServicesandSystemRequirements/ApiculusObjectStorage/AboutApiculusObjectStorage/index.html",
-    "LoggingIn.md",
-    "intro.md",
-    "docs/intro.md",
-    "docs/Subscribers/intro.md",
-    "docs/Subscribers/LoggingIn.md",
+    "build/blog/tags/facebook/index.html",
+    "build/blog/tags/hola/index.html",
+    "build/blog/tags/hello/index.html",
+    "build/blog/authors/all-sebastien-lorber-articles/index.html",
+    "build/blog/tags/docusaurus/index.html",
+    "build/blog/authors/yangshun/index.html",
+    "build/blog/welcome/index.html",
+    "build/blog/tags/index.html",
+    "build/blog/tags/hola",
+    "build/blog/tags/facebook",
+    "build/blog/tags/hello",
     "build/img/undraw_docusaurus_tree.svg",
     "build/img/undraw_docusaurus_react.svg",
-    "build/img/sps.svg",
-    "build/img/rn.svg",
-    "build/img/undraw_docusaurus_mountain.svg",
-    "build/img/apiculus-social-card.png",
-    "build/img/sps.png",
-    "build/img/sbs.svg",
     "build/img/sbs.png",
+    "build/img/sps.svg",
+    "build/img/sps.png",
+    "build/img/undraw_docusaurus_mountain.svg",
+    "build/img/sbs.svg",
+    "build/img/rn.svg",
     "build/img/rn.png",
-    "docs/Subscribers/Compute/WindowsInstances/VolumeManagementwithWindowsInstances.md",
-    "docs/Subscribers/Compute/WindowsInstances/WorkingwithWindowsInstanceSnapshots.md",
-    "docs/Subscribers/Compute/WindowsInstances/WindowsInstanceOperations.md",
-    "docs/Subscribers/Compute/WindowsInstances/ViewingGraphsandUtilisationofWindowsInstances.md",
-    "docs/Subscribers/Compute/WindowsInstances/ViewingDetailsofWindowsInstances.md",
-    "docs/Subscribers/Compute/WindowsInstances/ReconfiguringWindowsInstances.md",
-    "docs/Subscribers/Compute/WindowsInstances/NetworkingManagementonWindowsInstances.md",
-    "docs/Subscribers/Compute/WindowsInstances/CreatingWindowsInstances.md",
-    "docs/Subscribers/Compute/WindowsInstances/ConnectingtoaWindowsInstance.md",
-    "docs/Subscribers/Compute/WindowsInstances/ConfiguringAlertsonWindowsInstances.md",
-    "docs/Subscribers/Compute/WindowsInstances/AboutWindowsInstances.md",
-    "docs/Subscribers/Compute/LinuxInstances/WorkingwithLinuxInstanceSnapshots.md",
-    "docs/Subscribers/Compute/LinuxInstances/VolumeManagementwithLinuxInstances.md",
-    "docs/Subscribers/Compute/LinuxInstances/ViewingGraphsandUtilizationofLinuxInstances.md",
-    "docs/Subscribers/Compute/LinuxInstances/ViewingDetailsofLinuxInstances.md",
-    "docs/Subscribers/Compute/LinuxInstances/ReconfiguringLinuxInstances.md",
-    "docs/Subscribers/Compute/LinuxInstances/NetworkingManagementwithLinuxInstances.md",
-    "docs/Subscribers/Compute/LinuxInstances/LinuxInstanceOperations.md",
-    "docs/Subscribers/Compute/LinuxInstances/CreatingLinuxInstances.md",
-    "docs/Subscribers/Compute/LinuxInstances/ConnectingtoaLinuxInstance.md",
+    "build/img/apiculus-social-card.png",
+    "docs/Administration/MarketingManagement/WorkingwithDiscountCodes.md",
+    "docs/Administration/MarketingManagement/WorkingwithCoupons.md",
+    "docs/Administration/BillingandFinancials/RecordingTaxDeductions.md",
+    "docs/Administration/BillingandFinancials/ReversingTransactions.md",
+    "docs/Administration/BillingandFinancials/RecordingTransactionsandOfflinePayments.md",
+    "docs/Administration/BillingandFinancials/AddingOne-timeChargesandDiscounts.md",
+    "docs/Administration/BillingandFinancials/CreatingaCreditNoteAgainstanInvoice.md",
+    "docs/Administration/ServicesManagement/UpdatingPricesonCatalogues.md",
+    "docs/Administration/BillingandFinancials/UpdatingSubscriptionCharges.md",
+    "docs/Administration/BillingandFinancials/Overview.md",
+    "docs/Administration/ServicesManagement/WorkingwithCustomCatalogues.md",
+    "docs/Administration/ServicesManagement/WorkingwithDefaultServices.md",
+    "docs/Administration/ServicesManagement/WorkingwithCloudCollections.md",
+    "docs/Administration/ServicesManagement/WorkingwithAvailabilityZones.md",
+    "docs/Administration/TrialManagement/AutomatingTrialEnrollments.md",
+    "docs/Administration/TrialManagement/WorkingwithSubscriptionTrials.md",
+    "docs/Administration/TrialManagement/WorkingwithAccountTrials.md",
+    "docs/Administration/TrialManagement/AboutTrials.md",
+    "docs/Administration/SubscribersandAccounts/WorkingwithKYCandAccountVerification.md",
+    "docs/Administration/SubscribersandAccounts/UpdatingaSubscribersTaxationCategory.md",
+    "docs/Administration/SubscribersandAccounts/ChangingSubscribersPrimaryEmail.md",
+    "docs/Administration/SubscribersandAccounts/UpdatingCreditLimitandOtherBillingInformation.md",
+    "docs/Administration/SubscribersandAccounts/ImpersonatinganAccount.md",
+    "docs/Administration/SubscribersandAccounts/WorkingwithAccountStates.md",
+    "docs/Administration/ConfiguringSections/ConfiguringAppOverlays.md",
     "Untitled.canvas"
   ]
 }

@@ -5,7 +5,10 @@ sidebar_position: 3
 
 Apiculus allows for customer life cycle management using account states. All accounts can be navigated through these account states based on where the relationship with individual customers is at as part of their life cycle. The following states are supported:
 
-- **Active** - these are accounts that are active and have no special restrictions applied to their usage of cloud services. Active accounts can use the cloud freely to create and manage their cloud resources, work with payments and invoices, maintain their team and profiles, and manage support interactions in the usual manner. _Credit limits, resource limits and other general availability restrictions apply as usual._
+- **Active** - these are accounts that are active and have no special restrictions applied to their usage of cloud services. Active accounts can use the cloud freely to create and manage their cloud resources, work with payments and invoices, maintain their team and profiles, and manage support interactions in the usual manner. 
+	:::note
+	Credit limits, resource limits and other general availability restrictions apply as usual.
+	:::
 - **Restricted** - these are accounts that can operate existing resources, but are not allowed to purchase any new resources. This is a forced restriction and supersedes any general usage or availability restrictions. Restricted accounts can be reactivated.
 - **Disabled** - these are accounts that can neither operate existing resources, nor can they purchase new ones. This is akin to a 'soft-shutdown' or 'suspension' where the only permitted action is to make a payment to reactivate access to the cloud services. No resource belonging to a disabled account is deleted. Disabled accounts can be reactivated manually from the admin console.
 - **Terminated** - these are accounts that typically signify an end-of-life (EoL) state. In such cases, all the account's resources are deleted and non-recoverable. Terminated or EoL accounts can not be reactivated as termination is an irreversible action.

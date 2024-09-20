@@ -7,7 +7,7 @@ Apiculus offers two ways of managing trial programmes:
 - Account trials 
 - Subscription trials
 
-Trial programmes are created with duration (days) and benefit (discount %) definitions. All billing amounts generated in the specified _duration_ are applied with the specified _benefit_ when the next invoice is generated.
+Trial programmes are created with duration (days) and benefit (discount %) definitions. All billing amounts generated in the specified duration are applied with the specified benefit when the next invoice is generated.
 
 :::note
 Trial benefits for the billing cycle will be shown on the invoice if the subscriber was enrolled in any trial programme.
