@@ -7,20 +7,20 @@ sidebar_position: 2
 
 To create a new trial programme, click on **+ ADD NEW ACCOUNT TRIAL** and enter the below-mentioned details.
 
-- _Name of the programme-_ Specify the name of the trial programme.
-- _Description-_ You can add details or explanations about the trial programme.
-- _Trial Benefit_- Discount % is offered to the account that will enrol in this particular trial programme.
-- _Duration_ -This is the time of the trial programme; Admins need to specify the days.
+- **Name of the programme** - Specify the name of the trial programme.
+- **Description** - You can add details or explanations about the trial programme.
+- **Trial Benefit** - Discount % is offered to the account that will enrol in this particular trial programme.
+- **Duration** -This is the time of the trial programme; Admins need to specify the days.
 
 ![Working with Account Trials](img/AccountTrials1.png)
 
-To create the trial programme click on the **CREATE** button.
+To create the trial programme, click on the **CREATE** button.
 
 ## Enrolling Accounts into Trial Programme
 
 To add accounts in the created trial Programme, click on the edit button to go inside the trial programme.
 
-**_Trial programme > Edit > Accounts > +ADD ACCOUNTS > select account > Click on CONFIRM > Select Yes to pop over message_**
+Navigate to **Trial programme > Edit > Accounts > +ADD ACCOUNTS > select account > Click on CONFIRM > Select Yes to pop over message**.
 
 ![Working with Account Trials](img/AccountTrials2.png)
 

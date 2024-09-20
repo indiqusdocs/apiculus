@@ -17,17 +17,17 @@ Discount Codes can be accessed from the **Marketing > Promotions** section on 
 
 3. The various information about the discount codes that are listed is as follows.
 
-	- Discount Code- _This is the code displayed to the customer (e.g., DIWALI10OFF)._
-	- Description- _Specifies the description of the promotion (e.g., 10% off on all purchases)._
-	- Applicable To- _To which customer this code is applicable. It can be for a particular customer or for all customers._
-	- Applicable On- _Codes can be applied to all categories or a single product category._
-	- Discount Value- _Specified Discount Type_
-	- Valid From- _The starting date can be blank also, which means it can be redeemed from the time it has been created_ 
-	- Valid Till- _The discount expiry date can also be blank, which means that it doesn’t have any expiry date associated with it_
-	- Redeemed Value-_This specifies the Value that the customer has already used_
-	- Maximum Value- _This is the maximum value of the discount that a customer can avail of._
-	- Times Used- _How many times this particular discount code has been used._
-	- Maximum Uses- _This is the maximum limit up to which the customer can use the discount code._
+	- Discount Code - This is the code displayed to the customer (e.g., DIWALI10OFF).
+	- Description - Specifies the description of the promotion (e.g., 10% off on all purchases).
+	- Applicable To - To which customer this code is applicable. It can be for a particular customer or for all customers.
+	- Applicable On - Codes can be applied to all categories or a single product category.
+	- Discount Value - Specified Discount Type
+	- Valid From - The starting date can be blank also, which means it can be redeemed from the time it has been created 
+	- Valid Till - The discount expiry date can also be blank, which means that it doesn’t have any expiry date associated with it
+	- Redeemed Value -This specifies the Value that the customer has already used
+	- Maximum Value - This is the maximum value of the discount that a customer can avail of.
+	- Times Used - How many times this particular discount code has been used.
+	- Maximum Uses - This is the maximum limit up to which the customer can use the discount code.
 
 4. This information can also be downloaded in the .CSV format.
 5. These discount codes can be edited by clicking on the pencil button and enabled/disabled by using the switch button.

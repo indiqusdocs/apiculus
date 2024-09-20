@@ -20,11 +20,11 @@ A Cloud Collection (CC) on Apiculus is a grouping of repeating components (calle
 
 To create a new collection, navigate to **Services > Cloud collections** and click on the **+ CREATE NEW COLLECTION** and fill in or choose the options listed below:
 
-1. **COLLECTION NAME** – _The name you want to call this collection._
-2. **COLLECTION TYPE** – _Choose any one of the collection types. There are three major types of collection available, i.e.,_ **_Operating Systems, Compute, and Disk_**_._
-3. **AVAILABILITY ZONE** – _Choose any one of the availability zones available in the list._
-4. **DISPLAY TITLE** – _Describe the title by which you want to show this collection._
-5. **COLLECTION PREFIX** – _Specify the prefix here, which is prepended to any item purchased from this collection._
+1. **COLLECTION NAME** – The name you want to call this collection.
+2. **COLLECTION TYPE** – Choose any one of the collection types. There are three major types of collection available, i.e., Operating Systems, Compute, and Disk.
+3. **AVAILABILITY ZONE** – Choose any one of the availability zones available in the list.
+4. **DISPLAY TITLE** – Describe the title by which you want to show this collection.
+5. **COLLECTION PREFIX** – Specify the prefix here, which is prepended to any item purchased from this collection.
 
 Click on the **CREATE COLLECTION** button to create the particular collection, and if you wish to cancel this action click on the **CANCEL** button.
 
@@ -36,19 +36,19 @@ Cloud Collections are dependent on Availability Zones, which means that the same
 
 ## Adding Collection Items
 
-Once a Cloud Collection is created, Collection Items can be added by going into the collection's details and choosing from the upload options. Each collection 'type' has its own specific item types and the Apiculus admin console UI lists the sections accordingly. There are 2 ways of creating Collection Items:
+Once a Cloud Collection is created, Collection Items can be added by going into the collection's details and choosing from the upload options. Each collection 'type' has its own specific item types and the Apiculus admin console UI lists the sections accordingly. There are two ways of creating Collection Items:
 
-- **Upload Using Template** – This option gives a way to bulk-upload Collection Items; _useful for adding multiple items together, but prone to error as data entered manually to the spreadsheet/template is only validated at the time of upload_.
-- **Add Using UI** – This option gives a way to create Collection Items individually; _useful as chances of misconfigurations are low since the UI shows a list of available options to choose from_.
+- **Upload Using Template** – This option gives a way to bulk-upload Collection Items; useful for adding multiple items together, but prone to error as data entered manually to the spreadsheet/template is only validated at the time of upload.
+- **Add Using UI** – This option gives a way to create Collection Items individually; useful as chances of misconfigurations are low since the UI shows a list of available options to choose from.
 
 ## Publishing and Managing Collections
 
-Collections may be 'published' after all required details and items have been added. Publishing a collection makes it available for use in catalogues. Below are some considerations while working with published Collections:
+Collections may be published after all required details and items have been added. Publishing a collection makes it available for use in catalogues. Below are some considerations while working with published Collections:
 
-1. A Collection Item can be reverted to 'draft' mode, which will keep it in the system but make it unavailable to all catalogues using it.
+1. A Collection Item can be reverted to draft mode, which will keep it in the system but make it unavailable to all catalogues using it.
 2. Any edits to Collection details and Collection Items need to be published, without which, the changes will not propagate to catalogues.
 3. Deleting a Collection will remove it from all catalogues using it.
-4. The _Availability Zone - Cloud Collection_ mapping can not be modified after a collection is created.
+4. The Availability Zone - Cloud Collection mapping can not be modified after a collection is created.
 
 :::note
 If any resource in the underlying ISV is recreated, the corresponding Collection Item needs to be updated on Apiculus failing which, any resource purchase action that uses this Collection Item will  fail.

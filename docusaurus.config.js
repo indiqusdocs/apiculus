@@ -13,15 +13,15 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://apiculus.netlify.app',
+  url: 'https://docs.apiculus.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'Apiculus', // Usually your GitHub org/user name.
+  projectName: 'Technical Documentation', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -98,6 +98,12 @@ const config = {
         },
         items: [
           {
+          to: '/', // Change to the desired link
+          label: 'Home', // The label of your button
+          position: 'left',
+          className: 'button button--primary', // Add button classes here
+        },
+		  {
             type: 'docSidebar',
             sidebarId: 'sidebar1',
             position: 'left',
@@ -188,6 +194,7 @@ const config = {
 	  */
 	  
 	  // Algolia Search is here.
+	 
 	  
 	  algolia: {
       appId: "LR4IO8TKPQ",
