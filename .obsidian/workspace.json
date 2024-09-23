@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/Networking/FirewallandSecurity/AccessingtheVFIControlPanel.md",
+                "file": "docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Subscribers/Networking/FirewallandSecurity/AccessingtheVFIControlPanel.md",
+                "file": "docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Subscribers/Networking/FirewallandSecurity/AccessingtheVFIControlPanel.md",
+                "file": "docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Subscribers/Networking/FirewallandSecurity/AccessingtheVFIControlPanel.md"
+                "file": "docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairs.md"
               }
             }
           }
@@ -149,6 +149,18 @@
   },
   "active": "4c0a5d6d12510aea",
   "lastOpenFiles": [
+    "build/assets/js/0058b4c6.0f1d07bf.js",
+    "build/docs/Subscribers/Networking/VirtualPrivateClouds/WorkingwithVPNConnectionsinaVPC/index.html",
+    "build/docs/Subscribers/Networking/VirtualPrivateClouds/VPCManagementandBasicOperations/index.html",
+    "build/docs/Subscribers/Networking/VirtualPrivateClouds/ManagingAccessControlonVPCSubnets/index.html",
+    "build/docs/Subscribers/Networking/VirtualPrivateClouds/ManagingVPCInstances/index.html",
+    "build/docs/Subscribers/Networking/VirtualPrivateClouds/IPv4AddressesandVPC/index.html",
+    "build/docs/Subscribers/Networking/VirtualPrivateClouds/DifferenceBetweenL2NetworksandVPC/index.html",
+    "build/docs/Subscribers/Networking/VirtualPrivateClouds/CreatingVPCSubnetsTiers/index.html",
+    "build/docs/Subscribers/Networking/VirtualPrivateClouds/CreateListandViewVPCs/index.html",
+    "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVirtualPrivateClouds/index.html",
+    "build/docs/Subscribers/Networking/LoadBalancerInstances/CreatingaLoadBalancerInstance/index.html",
+    "docs/Subscribers/Networking/FirewallandSecurity/AccessingtheVFIControlPanel.md",
     "docs/Subscribers/Storage/BlockVolumes/WorkingwithVolumeSnapshots.md",
     "docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairs.md",
     "docs/Subscribers/ToolsandUtilities/ManagingInstanceandVolumeSnapshots.md",
@@ -159,16 +171,6 @@
     "docs/Introduction/AccessCentral.md",
     "docs/Introduction/ApiculusCentral.png",
     "docs/Administration/MarketingManagement/WorkingwithCoupons.md",
-    "build/blog/tags/facebook/index.html",
-    "build/blog/tags/hola/index.html",
-    "build/blog/tags/hello/index.html",
-    "build/blog/authors/all-sebastien-lorber-articles/index.html",
-    "build/blog/tags/docusaurus/index.html",
-    "build/blog/authors/yangshun/index.html",
-    "build/blog/welcome/index.html",
-    "build/blog/tags/index.html",
-    "build/blog/tags/hola",
-    "build/blog/tags/facebook",
     "build/img/undraw_docusaurus_tree.svg",
     "build/img/undraw_docusaurus_react.svg",
     "build/img/sbs.png",
@@ -193,8 +195,6 @@
     "docs/Administration/ServicesManagement/WorkingwithAvailabilityZones.md",
     "docs/Administration/TrialManagement/AutomatingTrialEnrollments.md",
     "docs/Administration/TrialManagement/WorkingwithSubscriptionTrials.md",
-    "docs/Administration/TrialManagement/WorkingwithAccountTrials.md",
-    "docs/Administration/TrialManagement/AboutTrials.md",
     "Untitled.canvas"
   ]
 }
