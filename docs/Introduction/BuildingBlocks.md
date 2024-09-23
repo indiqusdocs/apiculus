@@ -14,6 +14,6 @@ In short, the building blocks of Apiculus are:
 - [Metabase](https://metabase.com/) - business intelligence and reporting dashboards
 - [StorPool](https://storpool.com/) - software-defined storage solution for reliability and underlying performance
 - [Cloudian HyperStore](https://cloudian.com/products/hyperstore/) - S3-compatible object storage
-- Hypervisors - [KVM virtualisation](https://www.linux-kvm.org/page/Main_Page) with support for [ESXi](https://www.vmware.com/in/products/esxi-and-esx.html) and [Xenserver](https://www.citrix.com/products/citrix-hypervisor/)
+- Hypervisors - [KVM virtualisation](https://www.linux-kvm.org/page/Main_Page) with support for ESXi and [Xenserver](https://www.citrix.com/products/citrix-hypervisor/)
 - Networking - firewalls, switches and routers from industry-leading providers
 - High-performance Servers - [HPE preference hardware](https://www.hpe.com/greenlake), with support for other leading (Dell, Huawei etc.) or commodity providers

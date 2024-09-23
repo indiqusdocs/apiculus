@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Introduction/BuildingBlocks.md",
+                "file": "docs/Subscribers/Networking/FirewallandSecurity/AccessingtheVFIControlPanel.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Introduction/BuildingBlocks.md",
+                "file": "docs/Subscribers/Networking/FirewallandSecurity/AccessingtheVFIControlPanel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Introduction/BuildingBlocks.md",
+                "file": "docs/Subscribers/Networking/FirewallandSecurity/AccessingtheVFIControlPanel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Introduction/BuildingBlocks.md"
+                "file": "docs/Subscribers/Networking/FirewallandSecurity/AccessingtheVFIControlPanel.md"
               }
             }
           }
@@ -149,11 +149,15 @@
   },
   "active": "4c0a5d6d12510aea",
   "lastOpenFiles": [
+    "docs/Subscribers/Storage/BlockVolumes/WorkingwithVolumeSnapshots.md",
+    "docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairs.md",
+    "docs/Subscribers/ToolsandUtilities/ManagingInstanceandVolumeSnapshots.md",
+    "docs/Introduction/BuildingBlocks.md",
+    "docs/Introduction/BillingConcepts.md",
+    "docs/Subscribers/Compute/LinuxInstances/ConnectingtoaLinuxInstance.md",
     "docs/AboutServiceProviderAdministration/AdminConsole.md",
     "docs/Introduction/AccessCentral.md",
     "docs/Introduction/ApiculusCentral.png",
-    "docs/Introduction/BuildingBlocks.md",
-    "docs/Introduction/BillingConcepts.md",
     "docs/Administration/MarketingManagement/WorkingwithCoupons.md",
     "build/blog/tags/facebook/index.html",
     "build/blog/tags/hola/index.html",
@@ -191,10 +195,6 @@
     "docs/Administration/TrialManagement/WorkingwithSubscriptionTrials.md",
     "docs/Administration/TrialManagement/WorkingwithAccountTrials.md",
     "docs/Administration/TrialManagement/AboutTrials.md",
-    "docs/Administration/SubscribersandAccounts/WorkingwithKYCandAccountVerification.md",
-    "docs/Administration/SubscribersandAccounts/UpdatingaSubscribersTaxationCategory.md",
-    "docs/Administration/SubscribersandAccounts/ChangingSubscribersPrimaryEmail.md",
-    "docs/Administration/SubscribersandAccounts/UpdatingCreditLimitandOtherBillingInformation.md",
     "Untitled.canvas"
   ]
 }
