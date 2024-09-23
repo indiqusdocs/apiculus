@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Administration/MarketingManagement/WorkingwithCoupons.md",
+                "file": "docs/Subscribers/Networking/FirewallandSecurity/AccessingtheVFIControlPanel.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Administration/MarketingManagement/WorkingwithCoupons.md",
+                "file": "docs/Subscribers/Networking/FirewallandSecurity/AccessingtheVFIControlPanel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Administration/MarketingManagement/WorkingwithCoupons.md",
+                "file": "docs/Subscribers/Networking/FirewallandSecurity/AccessingtheVFIControlPanel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Administration/MarketingManagement/WorkingwithCoupons.md"
+                "file": "docs/Subscribers/Networking/FirewallandSecurity/AccessingtheVFIControlPanel.md"
               }
             }
           }
@@ -149,6 +149,16 @@
   },
   "active": "4c0a5d6d12510aea",
   "lastOpenFiles": [
+    "docs/Subscribers/Storage/BlockVolumes/WorkingwithVolumeSnapshots.md",
+    "docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairs.md",
+    "docs/Subscribers/ToolsandUtilities/ManagingInstanceandVolumeSnapshots.md",
+    "docs/Introduction/BuildingBlocks.md",
+    "docs/Introduction/BillingConcepts.md",
+    "docs/Subscribers/Compute/LinuxInstances/ConnectingtoaLinuxInstance.md",
+    "docs/AboutServiceProviderAdministration/AdminConsole.md",
+    "docs/Introduction/AccessCentral.md",
+    "docs/Introduction/ApiculusCentral.png",
+    "docs/Administration/MarketingManagement/WorkingwithCoupons.md",
     "build/blog/tags/facebook/index.html",
     "build/blog/tags/hola/index.html",
     "build/blog/tags/hello/index.html",
@@ -159,7 +169,6 @@
     "build/blog/tags/index.html",
     "build/blog/tags/hola",
     "build/blog/tags/facebook",
-    "build/blog/tags/hello",
     "build/img/undraw_docusaurus_tree.svg",
     "build/img/undraw_docusaurus_react.svg",
     "build/img/sbs.png",
@@ -169,9 +178,7 @@
     "build/img/sbs.svg",
     "build/img/rn.svg",
     "build/img/rn.png",
-    "build/img/apiculus-social-card.png",
     "docs/Administration/MarketingManagement/WorkingwithDiscountCodes.md",
-    "docs/Administration/MarketingManagement/WorkingwithCoupons.md",
     "docs/Administration/BillingandFinancials/RecordingTaxDeductions.md",
     "docs/Administration/BillingandFinancials/ReversingTransactions.md",
     "docs/Administration/BillingandFinancials/RecordingTransactionsandOfflinePayments.md",
@@ -188,13 +195,6 @@
     "docs/Administration/TrialManagement/WorkingwithSubscriptionTrials.md",
     "docs/Administration/TrialManagement/WorkingwithAccountTrials.md",
     "docs/Administration/TrialManagement/AboutTrials.md",
-    "docs/Administration/SubscribersandAccounts/WorkingwithKYCandAccountVerification.md",
-    "docs/Administration/SubscribersandAccounts/UpdatingaSubscribersTaxationCategory.md",
-    "docs/Administration/SubscribersandAccounts/ChangingSubscribersPrimaryEmail.md",
-    "docs/Administration/SubscribersandAccounts/UpdatingCreditLimitandOtherBillingInformation.md",
-    "docs/Administration/SubscribersandAccounts/ImpersonatinganAccount.md",
-    "docs/Administration/SubscribersandAccounts/WorkingwithAccountStates.md",
-    "docs/Administration/ConfiguringSections/ConfiguringAppOverlays.md",
     "Untitled.canvas"
   ]
 }

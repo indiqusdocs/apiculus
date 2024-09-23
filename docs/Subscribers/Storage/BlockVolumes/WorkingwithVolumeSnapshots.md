@@ -32,7 +32,7 @@ While configuring snapshot schedules, the following points should be considered:
 
 ## Creating a Volume from a Snapshot
 
-Volume Snapshots created manually or using a schedule will be listed under the **Snapshots** section of disk details. To create a new data disk using a snapshot, the option to _create volume_ can be used, which will initiate a purchase flow similar to [creating a data disk](https://docs.apiculus.com/hc/en-in/articles/13233099636125).
+Volume Snapshots created manually or using a schedule will be listed under the **Snapshots** section of disk details. To create a new data disk using a snapshot, the option to _create volume_ can be used, which will initiate a purchase flow similar to [creating a data disk](/docs/Subscribers/Storage/BlockVolumes/WorkingwithInstanceVolumes).
 
 :::note
 This operation may have associated billing impacts.

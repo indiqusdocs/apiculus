@@ -9,7 +9,7 @@ Depending on the software/appliance powering the VFI, the steps needed to activa
 
 ## Prerequisites and Preparation
 
-Under the VFI listing, click on the VFI whose control panel needs to be activated. The [details popover](https://docs.apiculus.com/hc/en-in/articles/13260458464413) will list the required information, which are:
+Under the VFI listing, click on the VFI whose control panel needs to be activated. The [details popover](/docs/Subscribers/Networking/FirewallandSecurity/ViewingVFINetworkDetails) will list the required information, which are:
 
 ```
 Virtual Firewall: <virtual_firewall_vm_name>
