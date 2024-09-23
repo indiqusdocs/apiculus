@@ -2,19 +2,19 @@
 sidebar_position: 3
 ---
 # Managing Instance and Volume Snapshots
-Snapshots use the [Apiculus Block Volumes](https://docs.apiculus.com/hc/en-in/articles/13232676912797) Service and occupy billable storage space.
+Snapshots use the [Apiculus Block Volumes](/docs/Subscribers/Storage/BlockVolumes/AboutBlockVolumes) Service and occupy billable storage space.
 
 You can view and manage all your Instance and Volume Snapshots and perform various associated operations.
 ## Instance Snapshots
 
 The Instance Snapshots tab will list the details as below:
 
-- _Snapshot Name_
-- _Description_
-- _Internal Name_
-- _Instance Name_
-- _Type_
-- _Created On_
+- Snapshot Name
+- Description
+- Internal Name
+- Instance Name
+- Type
+- Created On
 
 ![Managing Instance and Volume Snapshots](img/ManagingInstanceandVolumeSnapshots1.png)
 
@@ -32,12 +32,12 @@ You can simply delete the Instance Snapshot by clicking on the delete icon from 
 
 The Volume Snapshots section shows the details as below:
 
-- _Snapshot Name_
-- _Volume Name_
-- _Size_
-- _State_
-- _Interval_
-- _Created on_
+- Snapshot Name
+- Volume Name
+- Size
+- State
+- Interval
+- Created on
 
 ![Managing Instance and Volume Snapshots](img/ManagingInstanceandVolumeSnapshots5.png)
 
