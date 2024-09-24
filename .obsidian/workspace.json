@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7a321810a7a0da0e",
+        "id": "accda127f419662d",
         "type": "tabs",
         "children": [
           {
-            "id": "4c0a5d6d12510aea",
+            "id": "8c79ca545c625094",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairs.md",
+                "file": "docs/intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairs.md",
+                "file": "docs/intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairs.md",
+                "file": "docs/intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairs.md"
+                "file": "docs/intro.md"
               }
             }
           }
@@ -147,22 +147,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c0a5d6d12510aea",
+  "active": "8c79ca545c625094",
   "lastOpenFiles": [
-    "build/assets/js/0058b4c6.0f1d07bf.js",
-    "build/docs/Subscribers/Networking/VirtualPrivateClouds/WorkingwithVPNConnectionsinaVPC/index.html",
-    "build/docs/Subscribers/Networking/VirtualPrivateClouds/VPCManagementandBasicOperations/index.html",
-    "build/docs/Subscribers/Networking/VirtualPrivateClouds/ManagingAccessControlonVPCSubnets/index.html",
-    "build/docs/Subscribers/Networking/VirtualPrivateClouds/ManagingVPCInstances/index.html",
-    "build/docs/Subscribers/Networking/VirtualPrivateClouds/IPv4AddressesandVPC/index.html",
-    "build/docs/Subscribers/Networking/VirtualPrivateClouds/DifferenceBetweenL2NetworksandVPC/index.html",
-    "build/docs/Subscribers/Networking/VirtualPrivateClouds/CreatingVPCSubnetsTiers/index.html",
-    "build/docs/Subscribers/Networking/VirtualPrivateClouds/CreateListandViewVPCs/index.html",
-    "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVirtualPrivateClouds/index.html",
-    "build/docs/Subscribers/Networking/LoadBalancerInstances/CreatingaLoadBalancerInstance/index.html",
+    "build/blog/atom.xml",
+    "build/blog/rss.xml",
+    "build/blog/atom.css",
+    "build/blog/rss.css",
+    "build/blog/atom.xsl",
+    "build/blog/rss.xsl",
+    "build/docs/Subscribers/Storage/ObjectStogageBucket/SystemRequirements/index.html",
+    "build/docs/Subscribers/Storage/ObjectStogageBucket/FrequentlyAskedQuestions/index.html",
+    "build/docs/Subscribers/Storage/ObjectStogageBucket/AboutApiculusObjectStorage/index.html",
+    "build/docs/Subscribers/Storage/ObjectStogageBucket/FeatureListandIntegrationDetails/index.html",
+    "build/docs/Subscribers/Storage/BlockVolumes/WorkingwithVolumeSnapshots/index.html",
+    "().md",
+    "docs/intro.md",
+    "Self-service and Administration.md",
+    "docs/Subscribers/FAQs.md",
+    "docs/Subscribers/AccessCentral.md",
+    "docs/Subscribers/intro.md",
+    "docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairs.md",
     "docs/Subscribers/Networking/FirewallandSecurity/AccessingtheVFIControlPanel.md",
     "docs/Subscribers/Storage/BlockVolumes/WorkingwithVolumeSnapshots.md",
-    "docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairs.md",
     "docs/Subscribers/ToolsandUtilities/ManagingInstanceandVolumeSnapshots.md",
     "docs/Introduction/BuildingBlocks.md",
     "docs/Introduction/BillingConcepts.md",
@@ -189,12 +195,6 @@
     "docs/Administration/ServicesManagement/UpdatingPricesonCatalogues.md",
     "docs/Administration/BillingandFinancials/UpdatingSubscriptionCharges.md",
     "docs/Administration/BillingandFinancials/Overview.md",
-    "docs/Administration/ServicesManagement/WorkingwithCustomCatalogues.md",
-    "docs/Administration/ServicesManagement/WorkingwithDefaultServices.md",
-    "docs/Administration/ServicesManagement/WorkingwithCloudCollections.md",
-    "docs/Administration/ServicesManagement/WorkingwithAvailabilityZones.md",
-    "docs/Administration/TrialManagement/AutomatingTrialEnrollments.md",
-    "docs/Administration/TrialManagement/WorkingwithSubscriptionTrials.md",
     "Untitled.canvas"
   ]
 }
