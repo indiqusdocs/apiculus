@@ -13,7 +13,6 @@ Apiculus enables:
 - New service providers to launch and operate independent, green-field public clouds with 100% data localisation.
 - Established IaaS providers to transform and scale their VPS service into a full-fledged multi-service public cloud offering.
 - Service providers to offer a standardised service delivery and user experience.
-- When installing Node.js, you are recommended to check all checkboxes related to dependencies.
 
 ## Stack Components
 Items in ***blue*** are Apiculus software capabilities; items in ***grey*** are services and extensions that can be monetised; items in ***green*** are service provider’s assets.
@@ -23,6 +22,10 @@ import DocusaurusSvg from './StackComponents.svg';
 <DocusaurusSvg />
 
 ## Features and Specifications
+This section covers the following:
+- [Self-service and Administration](intro#self-service-and-administration)
+- [Integrated Billing and XaaS Monetisation](intro#integrated-billing-and-xaas-monetisation)
+- [End-to-end Business Enablement](intro#end-to-end-business-enablement)
 ### Self-service and Administration
 
 Apiculus brings a powerful layer of self-service along with a multitude of configurable options for managing customer journeys, admin operations and cloud-commerce.
