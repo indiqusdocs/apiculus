@@ -5,6 +5,7 @@
  */
 
 /* You can override the default Infima variables here. */
+
 :root {
   --ifm-color-primary: #004080;
   --ifm-color-primary-dark: #003a73;
@@ -29,7 +30,7 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
-/* Custom CSS for Docusaurus Fonts and Styles */
+/* Custom CSS for Fonts and Styles */
 
 /* Set Montserrat font for all headings */
 h1, h2, h3, h4, h5, h6 {
@@ -159,5 +160,45 @@ img:active {
   background-color: ##D0F0C0; /* Same light green background */
   border-left: 4px solid #000000; /* Black border */
   color: #000000; /* Black text */
+}
+
+
+/* Text colors */
+.red {
+  color: red;
+}
+
+.blue {
+  color: blue;
+}
+
+.green {
+  color: green;
+}
+
+/* Default link style */
+.navbar__link {
+  padding: 10px 15px;
+  color: navy;
+  text-decoration: none;
+  border: none;
+  background: none;
+  border-radius: 5px;
+}
+
+/* When a menu item is active, make it look like a button */
+.navbar__link--active {
+  background-color: #0c1d73;
+  color: white;
+  border: 1px navy;
+  border-radius: 35px;
+  padding: 5px 10px;
+
+}
+/* Keep the hover color the same as the active state */
+.navbar__link--active:hover {
+  background-color: navy;
+  color: white; /* Ensure the text remains white on hover */
+  border-color: navy;
 }
 
