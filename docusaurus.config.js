@@ -130,19 +130,23 @@ const config = {
             position: 'left',
             label: 'Release Notes',
           },
-		   {
-            type: 'docSidebar',
-            sidebarId: 'sidebar3',
-            position: 'left',
-            label: 'Management APIs',
-          },
+		  
+		  {
+          type: 'dropdown',
+          label: 'APIs',
+          position: 'left', // Can be 'left' or 'right'
+          items: [
+            {
+              label: 'Management APIs',
+             to: '/docs/APIs/apioverview',
+            },
+            {
+              label: 'Global APIs',
+              href: 'https://swagger.apiculus.io',
+            },
+          ],
+        },
 		   
-    //      {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://swagger.apiculus.io',
-            label: 'Global APIs',
-            position: 'right',
-          },
 		  
 		  {
           href: 'https://try.apiculus.io', // Change to the desired link
