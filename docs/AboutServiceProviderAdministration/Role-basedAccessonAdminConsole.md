@@ -18,7 +18,7 @@ The Apiculus system ships with the following default admin roles:
 - User (read-only)
 
 :::note
-To create new roles or modify any of the existing ones, a ticket may be raised to IndiQus Support. The ability to manage roles on the admin console UI is under development._
+To create new roles or modify any of the existing ones, a ticket may be raised to IndiQus Support. The ability to manage roles on the admin console UI is under development.
 :::
 
 ## RBAC Details
@@ -27,69 +27,74 @@ The system follows the RBAC blueprint as below:
 
 ||Admin|AOM|Product|Marketing|Service|Finance|User|
 |---|---|---|---|---|---|---|---|
-|Dashboard|   |   |   |   |   |   |   |
-|Utilisation widgets|Y|N|N|N|Y|N|Y|
-|Commercial widgets|Y|N|Y|Y|N|Y|Y|
-|Accounts|   |   |   |   |   |   |   |
+|**Dashboard**|   |   |   |   |   |   |   |
+|Utilisation Widgets|Y|N|N|N|Y|N|Y|
+|Commercial Widgets|Y|N|Y|Y|N|Y|Y|
+|**Accounts**|   |   |   |   |   |   |   |
+|Accounts Dashboard|Y|Y|N|N|N|N|Y|
+|Account Management|RW|RW|R|R|R|R|R|
 |List of accounts|RW|RW|R|R|R|R|R|
 |New account creation|RW|RW|N|N|N|N|N|
 |Account details|RW|RW|N|N|R|R|R|
 |Account actions|All|Partial|N|N|Partial|Partial|N|
-|Accounts dashboard|Y|Y|N|N|N|N|Y|
-|Account management|RW|RW|R|R|R|R|R|
 |Account reports|Y|N|N|N|N|Y|Y|
-|Billing & Financial|   |   |   |   |   |   |   |
-|Finance dashboard|Y|N|N|N|N|Y|Y|
+|**Trials**||||||||
+|Account Trials|RW|||||||
+|Subscription Trials|RW|||||||
+|**Services**||||||||
+|Availability Zones|RW|||||||
+|Cloud Collections|RW|||||||
+|Default Services|RW|||||||
+|Custom Catalogues|RW|||||||
+|**Billing & Financial**|   |   |   |   |   |   |   |
+|Billing Dashboard|Y|N|N|N|N|Y|Y|
 |Subscriptions|RW|N|N|N|N|RW|R|
 |Invoices|RW|N|N|N|N|RW|R|
-|Credit note||||||||
-|Statements|RW|N|N|N|N|RW|R|
+|Credit Notes|RW|||||||
 |Transactions|RW|N|N|N|N|RW|R|
-|Unbilled|RW|N|N|N|N|RW|R|
-|Billing & invoice settings|RW|N|N|N|N|RW|N|
-|Billing reports|Y|N|N|N|N|Y|Y|
-|Support & Operations|   |   |   |   |   |   |   |
-|Utilisation dashboard|Y|N|N|N|Y|N|Y|
-|Tickets|Y|Y|N|Y|Y|N|Y|
+|Tax Deductions|RW|||||||
+|Unbilled Charges|RW|N|N|N|N|RW|R|
+|Usage Feed|Y|N|N|N|N|Y|Y|
+|**Marketplace**|   |   |   |   |   |   |   |
+|Dashboard|Y|N|N|N|Y|N|Y|
+|Quick Plans|RW|N|N|N|Y|N|Y|
+|**Marketing**|   |   |   |   |   |   |   |
+|Promotions|RW|||||||
+|Coupons|RW|||||||
+|**Support & Operations**|   |   |   |   |   |   |   |
+|Utilisation Dashboard|Y|N|N|N|Y|N|Y|
+|Resource Dashboard|Y|N|N|N|Y|N|Y|
+|Support Dashboard|Y|N|N|N|Y|N|Y|
 |Logs|Y|N|N|N|Y|N|Y|
-|Service reports|Y|Y|N|Y|Y|N|Y|
-|Services|   |   |   |   |   |   |   |
-|Commercial dashboard|Y|N|Y|Y|N|N|Y|
-|Plan management|RW|R|RW|R|N|N|R|
-|Catalogue management|RW|R|RW|R|N|N|R|
-|List of plans|RW|R|RW|R|R|R|R|
-|New plan creation|RW|N|RW|N|N|N|N|
-|Plan details|RW|R|RW|R|R|R|R|
-|Plan actions|All|N|RW|N|N|N|N|
-|List of catalogues|RW|R|RW|R|R|R|R|
-|New catalogue creation|RW|N|RW|N|N|N|N|
-|Catalogue details|RW|R|RW|R|R|R|R|
-|Catalogue actions|All|N|RW|N|N|N|N|
-|Marketplace reports|Y|N|Y|Y|N|N|Y|
-|Marketing|   |   |   |   |   |   |   |
-|Marketing dashboard|Y|Y|Y|Y|N|N|Y|
-|Promotions|RW|R|R|RW|N|N|R|
-|Trials|RW|R|R|RW|N|N|R|
-|List of promos|RW|R|R|RW|R|R|R|
-|New promo creation|RW|N|N|RW|N|N|N|
-|Promo actions|RW|N|N|RW|N|N|N|
-|Branding & preferences|RW|N|N|RW|N|N|N|
-|Marketing reports|Y|Y|Y|Y|N|N|R|
-|Administration|   |   |   |   |   |   |   |
-|Admin creation|RW|N|N|N|N|N|N|
-|Platform settings|RW|N|N|N|N|N|N|
-|Configurations|RW|N|N|N|N|N|N|
-|Admin reports|Y|N|N|N|N|N|N|
-|SP profile|RW|R|R|RW|R|R|R|
-|Admin management|RW|R|R|R|R|R|R|
-|Content management|RW|R|R|RW|R|R|R|
-|Asset management|RW|R|R|RW|R|R|R|
-|Invoice settings|RW|R|R|R|R|RW|R|
-|Custom help links|RW|R|R|RW|R|R|R|
-|Logs|   |   |   |   |   |   |   |
-|All logs|R|R|R|R|R|R|R|
-|Reports|   |   |   |   |   |   |   |
-|All reports|R|R|R|R|R|R|R|
+|Requests|Y|Y|N|Y|Y|N|Y|
+|**Administration > Platform Settings**|   |   |   |   |   |   |   |
+|Profile|RW|N|N|N|N|N|N|
+|Admin Users|RW|N|N|N|N|N|N|
+|Passwords|RW|N|N|N|N|N|N|
+|Signup|RW|N|N|N|N|N|N|
+|Automation|RW|N|N|N|N|N|N|
+|Reseller|RW|N|N|N|N|N|N|
+|General|RW|N|N|N|N|N|N|
+|Security|RW|N|N|N|N|N|N|
+|Account Defaults|RW|N|N|N|N|N|N|
+|**Administration > Financials and Business**|RW|N|N|N|N|N|N|
+|Billing|RW|N|N|N|N|N|N|
+|Tax Deduction|RW|N|N|N|N|N|N|
+|Additional Fields|RW|N|N|N|N|N|N|
+|Quick Plans|RW|N|N|N|N|N|N|
+|Payment Gateways|RW|N|N|N|N|N|N|
+|Currencies|RW|N|N|N|N|N|N|
+|**Administration > Marketing & Communications**|RW|N|N|N|N|N|N|
+|Email|RW|N|N|N|N|N|N|
+|SMS|RW|N|N|N|N|N|N|
+|Links|RW|N|N|N|N|N|N|
+|Content|RW|N|N|N|N|N|N|
+|Brand Assets|RW|N|N|N|N|N|N|
+|Restricted Domains|RW|N|N|N|N|N|N|
+|**Administration > Extensions**|RW|N|N|N|N|N|N|
+|Google|RW|N|N|N|N|N|N|
+|AWS|RW|N|N|N|N|N|N|
+|Custom Scripts|RW|N|N|N|N|N|N|
 
 Y = Yes / Visible  
 N = No / Not visible  
