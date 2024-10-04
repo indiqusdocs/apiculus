@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/intro.md",
+                "file": "docs/AboutServiceProviderAdministration/Role-basedAccessonAdminConsole.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/intro.md",
+                "file": "docs/AboutServiceProviderAdministration/Role-basedAccessonAdminConsole.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/intro.md",
+                "file": "docs/AboutServiceProviderAdministration/Role-basedAccessonAdminConsole.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/intro.md"
+                "file": "docs/AboutServiceProviderAdministration/Role-basedAccessonAdminConsole.md"
               }
             }
           }
@@ -149,6 +149,13 @@
   },
   "active": "8c79ca545c625094",
   "lastOpenFiles": [
+    "docs/intro.md",
+    "docs/LoggingIn.md",
+    "docs/welcome1.png",
+    "docs/StackComponents.svg",
+    "docs/StackComponents.png",
+    "docs/ResettingPassword.md",
+    "docs/FAQs.md",
     "static/icons/home.svg",
     "static/icons",
     "static/New folder",
@@ -166,12 +173,7 @@
     "build/img/undraw_docusaurus_react.svg",
     "build/img/sps.svg",
     "build/img/sps.png",
-    "build/img/sbs.svg",
-    "build/img/sbs.png",
-    "build/img/rn.svg",
-    "build/img/apiculus-social-card.png",
     "().md",
-    "docs/intro.md",
     "Self-service and Administration.md",
     "docs/Subscribers/FAQs.md",
     "docs/Subscribers/AccessCentral.md",
@@ -192,9 +194,6 @@
     "docs/Administration/BillingandFinancials/RecordingTransactionsandOfflinePayments.md",
     "docs/Administration/BillingandFinancials/AddingOne-timeChargesandDiscounts.md",
     "docs/Administration/BillingandFinancials/CreatingaCreditNoteAgainstanInvoice.md",
-    "docs/Administration/ServicesManagement/UpdatingPricesonCatalogues.md",
-    "docs/Administration/BillingandFinancials/UpdatingSubscriptionCharges.md",
-    "docs/Administration/BillingandFinancials/Overview.md",
     "Untitled.canvas"
   ]
 }
