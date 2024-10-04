@@ -29,77 +29,77 @@ The system follows the RBAC blueprint as below:
 |---|---|---|---|---|---|---|---|
 |**Dashboard**|   |   |   |   |   |   |   |
 |Utilisation Widgets|Y|N|N|N|Y|N|Y|
-|Commercial Widgets|Y|N|Y|Y|N|Y|Y|
+|Commercial Widgets|Y|N|Y|Y|N|RW|Y|
 |**Accounts**|   |   |   |   |   |   |   |
 |Accounts Dashboard|Y|Y|N|N|N|N|Y|
 |Account Management|RW|RW|R|R|R|R|R|
-|List of accounts|RW|RW|R|R|R|R|R|
-|New account creation|RW|RW|N|N|N|N|N|
-|Account details|RW|RW|N|N|R|R|R|
-|Account actions|All|Partial|N|N|Partial|Partial|N|
-|Account reports|Y|N|N|N|N|Y|Y|
+|List of Accounts|RW|RW|R|R|R|R|R|
+|New Account Creation|RW|RW|N|N|N|N|N|
+|Account Details|RW|RW|N|N|R|R|R|
+|Account Actions|All|Partial|N|N|Partial|Partial|N|
+|Account Reports|Y|N|N|N|N|N|Y|
 |**Trials**||||||||
-|Account Trials|RW|||||||
-|Subscription Trials|RW|||||||
+|Account Trials|RW|RW|R|R|R|R|R|
+|Subscription Trials|RW|RW|R|R|R|R|R|
 |**Services**||||||||
-|Availability Zones|RW|||||||
-|Cloud Collections|RW|||||||
-|Default Services|RW|||||||
-|Custom Catalogues|RW|||||||
+|Availability Zones|RW|R|RW|R|R|R|R|
+|Cloud Collections|RW|R|RW|R|R|R|R|
+|Default Services|RW|R|RW|R|R|R|R|
+|Custom Catalogues|RW|R|RW|R|R|R|R|
 |**Billing & Financial**|   |   |   |   |   |   |   |
 |Billing Dashboard|Y|N|N|N|N|Y|Y|
 |Subscriptions|RW|N|N|N|N|RW|R|
-|Invoices|RW|N|N|N|N|RW|R|
-|Credit Notes|RW|||||||
+|Invoices|RW|N|N|R|N|RW|R|
+|Credit Notes|RW|RW|N|N|N|RW|R|
 |Transactions|RW|N|N|N|N|RW|R|
-|Tax Deductions|RW|||||||
+|Tax Deductions|RW|N|N|N|N|RW|R|
 |Unbilled Charges|RW|N|N|N|N|RW|R|
 |Usage Feed|Y|N|N|N|N|Y|Y|
 |**Marketplace**|   |   |   |   |   |   |   |
-|Dashboard|Y|N|N|N|Y|N|Y|
-|Quick Plans|RW|N|N|N|Y|N|Y|
+|Dashboard|Y|N|N|N|N|N|Y|
+|Quick Plans|RW|R|N|R|R|R|Y|
 |**Marketing**|   |   |   |   |   |   |   |
-|Promotions|RW|||||||
-|Coupons|RW|||||||
+|Promotions|RW|Partial|Partial|RW|R|R|R|
+|Coupons|RW|Partial|Partial|RW|R|R|R|
 |**Support & Operations**|   |   |   |   |   |   |   |
 |Utilisation Dashboard|Y|N|N|N|Y|N|Y|
 |Resource Dashboard|Y|N|N|N|Y|N|Y|
-|Support Dashboard|Y|N|N|N|Y|N|Y|
+|Support Dashboard|Y|N|N|N|N|N|Y|
 |Logs|Y|N|N|N|Y|N|Y|
 |Requests|Y|Y|N|Y|Y|N|Y|
 |**Administration > Platform Settings**|   |   |   |   |   |   |   |
-|Profile|RW|N|N|N|N|N|N|
-|Admin Users|RW|N|N|N|N|N|N|
-|Passwords|RW|N|N|N|N|N|N|
-|Signup|RW|N|N|N|N|N|N|
-|Automation|RW|N|N|N|N|N|N|
-|Reseller|RW|N|N|N|N|N|N|
-|General|RW|N|N|N|N|N|N|
-|Security|RW|N|N|N|N|N|N|
-|Account Defaults|RW|N|N|N|N|N|N|
-|**Administration > Financials and Business**|RW|N|N|N|N|N|N|
-|Billing|RW|N|N|N|N|N|N|
+|Profile|RW|R|N|R|R|R|N|
+|Admin Users|RW|R|R|N|R|R|N|
+|Passwords|RW|R|N|R|R|R|N|
+|Signup|RW|N|N|R|R|R|N|
+|Automation|RW|R|N|R|R|R|N|
+|Reseller|RW|R|N|R|R|R|N|
+|General|RW|R|N|N|R|R|N|
+|Security|RW|R|N|R|R|R|N|
+|Account Defaults|RW|R|N|R|R|R|N|
+|**Administration > Financials and Business**||||||||
+|Billing|RW|R|N|R|R|R|N|
 |Tax Deduction|RW|N|N|N|N|N|N|
-|Additional Fields|RW|N|N|N|N|N|N|
-|Quick Plans|RW|N|N|N|N|N|N|
-|Payment Gateways|RW|N|N|N|N|N|N|
-|Currencies|RW|N|N|N|N|N|N|
-|**Administration > Marketing & Communications**|RW|N|N|N|N|N|N|
+|Additional Fields|RW|N|N|N|R|N|N|
+|Quick Plans|RW|R|N|N|R|N|N|
+|Payment Gateways|RW|R|N|N|N|N|N|
+|Currencies|RW|R|N|R|R|R|N|
+|**Administration > Marketing & Communications**||||||||
 |Email|RW|N|N|N|N|N|N|
 |SMS|RW|N|N|N|N|N|N|
-|Links|RW|N|N|N|N|N|N|
-|Content|RW|N|N|N|N|N|N|
-|Brand Assets|RW|N|N|N|N|N|N|
-|Restricted Domains|RW|N|N|N|N|N|N|
-|**Administration > Extensions**|RW|N|N|N|N|N|N|
+|Links|RW|R|N|R|N|R|N|
+|Content|RW|R|N|R|N|R|N|
+|Brand Assets|RW|R|N|R|N|R|N|
+|Restricted Domains|RW|R|N|R|N|R|N|
+|**Administration > Extensions**||||||||
 |Google|RW|N|N|N|N|N|N|
 |AWS|RW|N|N|N|N|N|N|
-|Custom Scripts|RW|N|N|N|N|N|N|
+|Custom Scripts|RW|N|N|R|N|N|N|
 
-Y = Yes / Visible  
-N = No / Not visible  
-R = Read / Option visible but in disabled state  
-RW = Read & Write / Option visible and can take action  
+Y = Yes/Visible  
+N = No/Not visible  
+R = Read/Option visible but in disabled state  
+RW = Read & Write/Option visible and can take action  
 Partial = Limited access available  
 
 :::note
