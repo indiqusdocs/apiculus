@@ -68,28 +68,28 @@ The system follows the RBAC blueprint as below:
 |Logs|Y|N|N|N|Y|N|Y|
 |Requests|Y|Y|N|Y|Y|N|Y|
 |**Administration > Platform Settings**|   |   |   |   |   |   |   |
-|Profile|RW|R|N|R|R|R|N|
-|Admin Users|RW|R|R|N|R|R|N|
-|Passwords|RW|R|N|R|R|R|N|
-|Signup|RW|N|N|R|R|R|N|
-|Automation|RW|R|N|R|R|R|N|
-|Reseller|RW|R|N|R|R|R|N|
-|General|RW|R|N|N|R|R|N|
+|Profile|RW|R|N|R|R|R|R|
+|Admin Users|RW|R|R|N|R|R|R|
+|Passwords|RW|R|N|R|R|R|R|
+|Signup|RW|N|N|R|R|R|R|
+|Automation|RW|R|N|R|R|R|R|
+|Reseller|RW|R|N|R|R|R|R|
+|General|RW|R|N|N|R|R|R|
 |Security|RW|R|N|R|R|R|N|
-|Account Defaults|RW|R|N|R|R|R|N|
+|Account Defaults|RW|R|N|R|R|R|R|
 |**Administration > Financials and Business**||||||||
 |Billing|RW|R|N|R|R|R|N|
 |Tax Deduction|RW|N|N|N|N|N|N|
 |Additional Fields|RW|N|N|N|R|N|N|
 |Quick Plans|RW|R|N|N|R|N|N|
 |Payment Gateways|RW|R|N|N|N|N|N|
-|Currencies|RW|R|N|R|R|R|N|
+|Currencies|RW|R|N|R|R|R|R|
 |**Administration > Marketing & Communications**||||||||
 |Email|RW|N|N|N|N|N|N|
 |SMS|RW|N|N|N|N|N|N|
-|Links|RW|R|N|R|N|R|N|
-|Content|RW|R|N|R|N|R|N|
-|Brand Assets|RW|R|N|R|N|R|N|
+|Links|RW|R|N|R|N|R|R|
+|Content|RW|R|N|R|N|R|R|
+|Brand Assets|RW|R|N|R|N|R|R|
 |Restricted Domains|RW|R|N|R|N|R|N|
 |**Administration > Extensions**||||||||
 |Google|RW|N|N|N|N|N|N|
