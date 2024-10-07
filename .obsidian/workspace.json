@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/AboutServiceProviderAdministration/Role-basedAccessonAdminConsole.md",
+                "file": "docs/GettingStarted/PlatformAdministration/ConfiguringAutomationPolicies.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/AboutServiceProviderAdministration/Role-basedAccessonAdminConsole.md",
+                "file": "docs/GettingStarted/PlatformAdministration/ConfiguringAutomationPolicies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/AboutServiceProviderAdministration/Role-basedAccessonAdminConsole.md",
+                "file": "docs/GettingStarted/PlatformAdministration/ConfiguringAutomationPolicies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/AboutServiceProviderAdministration/Role-basedAccessonAdminConsole.md"
+                "file": "docs/GettingStarted/PlatformAdministration/ConfiguringAutomationPolicies.md"
               }
             }
           }
@@ -149,30 +149,42 @@
   },
   "active": "8c79ca545c625094",
   "lastOpenFiles": [
+    "docs/GettingStarted/PlatformAdministration/GeneralPlatformSettings.md",
+    "docs/GettingStarted/PlatformAdministration/ConfiguringAutomationPolicies.md",
+    "docs/GettingStarted/PlatformAdministration/ManagingSPAdminUsers.md",
+    "docs/GettingStarted/PlatformAdministration/ManagingServiceProviderProfile.md",
+    "Pasted image 20241007165954.png",
+    "docs/GettingStarted/PlatformAdministration/img/EditAccount.png",
+    "docs/GettingStarted/PlatformAdministration/img/ConfiguringProfile1.png",
+    "docs/ServicesandSystemRequirements/LoadBalancerInstances/SystemRequirements.md",
+    "docs/ServicesandSystemRequirements/LoadBalancerInstances/About.md",
+    "docs/ServicesandSystemRequirements/LoadBalancerInstances/FeatureList.md",
+    "docs/ServicesandSystemRequirements/AWSLinkage/IntegrationDetails.md",
+    "docs/ServicesandSystemRequirements/ApiculusAuthoritiveNameserver/SupportedRecordTypes.md",
+    "docs/ServicesandSystemRequirements/ApiculusAuthoritiveNameserver/DNSRequirements.md",
+    "docs/ServicesandSystemRequirements/ApiculusObjectStorage/FrequentlyAskedQuestions.md",
+    "build/search/index.html",
+    "build/search",
+    "build/markdown-page/index.html",
+    "build/markdown-page",
+    "build/docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairs/index.html",
+    "build/docs/Subscribers/ToolsandUtilities/ManagingCustomTemplatesandImages/index.html",
+    "build/docs/Subscribers/ToolsandUtilities/ManagingInstanceandVolumeSnapshots/index.html",
+    "build/docs/Subscribers/ToolsandUtilities/AboutToolsandUtilities/index.html",
+    "build/docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairs",
+    "build/docs/Subscribers/ToolsandUtilities/ManagingInstanceandVolumeSnapshots",
+    "build/img/sps.svg",
+    "build/img/undraw_docusaurus_tree.svg",
+    "build/img/sps.png",
+    "build/img/undraw_docusaurus_react.svg",
+    "build/img/undraw_docusaurus_mountain.svg",
+    "build/img/sbs.svg",
+    "build/img/sbs.png",
+    "docs/AboutServiceProviderAdministration/Role-basedAccessonAdminConsole.md",
     "docs/intro.md",
     "docs/LoggingIn.md",
-    "docs/welcome1.png",
-    "docs/StackComponents.svg",
-    "docs/StackComponents.png",
     "docs/ResettingPassword.md",
     "docs/FAQs.md",
-    "static/icons/home.svg",
-    "static/icons",
-    "static/New folder",
-    "static/img/home.svg",
-    "build/blog/tags/docusaurus/index.html",
-    "build/blog/tags/hola/index.html",
-    "build/blog/tags/facebook/index.html",
-    "build/blog/tags/hello/index.html",
-    "build/blog/authors/yangshun/index.html",
-    "build/blog/authors/all-sebastien-lorber-articles/index.html",
-    "build/blog/mdx-blog-post/index.html",
-    "build/blog/welcome/index.html",
-    "build/img/undraw_docusaurus_mountain.svg",
-    "build/img/undraw_docusaurus_tree.svg",
-    "build/img/undraw_docusaurus_react.svg",
-    "build/img/sps.svg",
-    "build/img/sps.png",
     "().md",
     "Self-service and Administration.md",
     "docs/Subscribers/FAQs.md",
@@ -182,18 +194,6 @@
     "docs/Subscribers/Networking/FirewallandSecurity/AccessingtheVFIControlPanel.md",
     "docs/Subscribers/Storage/BlockVolumes/WorkingwithVolumeSnapshots.md",
     "docs/Subscribers/ToolsandUtilities/ManagingInstanceandVolumeSnapshots.md",
-    "docs/Introduction/BuildingBlocks.md",
-    "docs/Introduction/BillingConcepts.md",
-    "docs/Subscribers/Compute/LinuxInstances/ConnectingtoaLinuxInstance.md",
-    "docs/AboutServiceProviderAdministration/AdminConsole.md",
-    "docs/Introduction/AccessCentral.md",
-    "docs/Administration/MarketingManagement/WorkingwithCoupons.md",
-    "docs/Administration/MarketingManagement/WorkingwithDiscountCodes.md",
-    "docs/Administration/BillingandFinancials/RecordingTaxDeductions.md",
-    "docs/Administration/BillingandFinancials/ReversingTransactions.md",
-    "docs/Administration/BillingandFinancials/RecordingTransactionsandOfflinePayments.md",
-    "docs/Administration/BillingandFinancials/AddingOne-timeChargesandDiscounts.md",
-    "docs/Administration/BillingandFinancials/CreatingaCreditNoteAgainstanInvoice.md",
     "Untitled.canvas"
   ]
 }

@@ -11,24 +11,21 @@ Apiculus allows service providers to define automation policies and workflows to
 
 Account actions can be automated by creating automation policies that trigger an action based on a trigger condition. These policies can be created globally, which are applied to all new subscriber accounts and can also be overridden for individual accounts.
 
-For creating a new policy, click on +Add Policy, then a dialogue box will open up, enter the name for the policy, select the policy type and click on Create.
+1. To create a new automation policy, click on **Add New** button.
+   ![Configuring Automation Policies](img/ConfiguringAutomationPolicies2.png)
+   
+	The Create Automation Policy screen opens:
+	  ![Configuring Automation Policies](img/ConfiguringAutomationPolicies3.png)
+1. Enter the desired **Policy Name**.
+2. Select one of the following **Policy Type**:
+	- Dunning
+	- Trial
+	- KYC
+## Configuring Conditions
 
-![Configuring Automation Policies](img/ConfiguringAutomationPolicies2.png)
+The actions are triggered when the configured conditions are met.
 
-Once the policy is created, the admin must add the condition and desired trigger to this created policy.
-
-## Configuring Condition Triggers
-
-For the desired automation policy, click on + Add Condition and select a condition from the list of requirements. Various Policy types, conditions, and actions are listed below.
-
-#### Policy Types
-
-- Dunning
-- Trial
-- KYC
-- Legacy
-
-**Condition**: This is the condition on which the action is triggered.
+Click on **Add New Condition** and select a condition from the drop-down list. 
 
 **Dunning Conditions**
 
@@ -63,7 +60,7 @@ Example of a configured **dunning** condition trigger that checks for **3 day
 
 
 
-## Configuring Automation Actions
+## Configuring Actions
 
 For adding action, click on the + Add Action.
 

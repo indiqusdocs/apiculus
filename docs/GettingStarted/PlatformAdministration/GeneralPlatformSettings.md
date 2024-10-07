@@ -2,8 +2,11 @@
 sidebar_position: 3
 ---
 # General Platform Settings
-
-This setting includes the options whose concurrent behavior will be applicable as a whole. For example, it can be something like destroying VM once it is deleted, or it can be like enabling the Apiculus platform to access through mobile.
+Navigate to **Administration** > **Settings** > **General** to configure the following portal settings:
+- **Portal Access on Mobile Browsers.**
+- **Destroy VM on Deletion**
+- **Session Timeout for Subscribers**
+- **Session Timeout for Admins**
 
 ![General Platform Settings](img/GeneralPlatformSettings.png)
 
