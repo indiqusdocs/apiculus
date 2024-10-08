@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/GettingStarted/PlatformAdministration/ConfiguringAutomationPolicies.md",
+                "file": "docs/GettingStarted/BrandingandContent/PublishingStandardStaticContent.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/GettingStarted/PlatformAdministration/ConfiguringAutomationPolicies.md",
+                "file": "docs/GettingStarted/BrandingandContent/PublishingStandardStaticContent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/GettingStarted/PlatformAdministration/ConfiguringAutomationPolicies.md",
+                "file": "docs/GettingStarted/BrandingandContent/PublishingStandardStaticContent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/GettingStarted/PlatformAdministration/ConfiguringAutomationPolicies.md"
+                "file": "docs/GettingStarted/BrandingandContent/PublishingStandardStaticContent.md"
               }
             }
           }
@@ -149,9 +149,16 @@
   },
   "active": "8c79ca545c625094",
   "lastOpenFiles": [
-    "docs/GettingStarted/PlatformAdministration/GeneralPlatformSettings.md",
+    "docs/GettingStarted/BrandingandContent/CustomisingBrandandGraphicAssets.md",
+    "docs/GettingStarted/BrandingandContent/PublishingStandardStaticContent.md",
+    "docs/GettingStarted/BrandingandContent/img/brand5.png",
+    "docs/GettingStarted/BrandingandContent/img/brand4.png",
+    "docs/GettingStarted/BrandingandContent/img/brand3.png",
     "docs/GettingStarted/PlatformAdministration/ConfiguringAutomationPolicies.md",
+    "docs/GettingStarted/PlatformAdministration/GeneralPlatformSettings.md",
     "docs/GettingStarted/PlatformAdministration/ManagingSPAdminUsers.md",
+    "docs/GettingStarted/PlatformAdministration/img/threedots.png",
+    "docs/GettingStarted/PlatformAdministration/img/ConfiguringAutomationPolicies9.png",
     "docs/GettingStarted/PlatformAdministration/ManagingServiceProviderProfile.md",
     "Pasted image 20241007165954.png",
     "docs/GettingStarted/PlatformAdministration/img/EditAccount.png",
@@ -175,11 +182,6 @@
     "build/docs/Subscribers/ToolsandUtilities/ManagingInstanceandVolumeSnapshots",
     "build/img/sps.svg",
     "build/img/undraw_docusaurus_tree.svg",
-    "build/img/sps.png",
-    "build/img/undraw_docusaurus_react.svg",
-    "build/img/undraw_docusaurus_mountain.svg",
-    "build/img/sbs.svg",
-    "build/img/sbs.png",
     "docs/AboutServiceProviderAdministration/Role-basedAccessonAdminConsole.md",
     "docs/intro.md",
     "docs/LoggingIn.md",
@@ -192,8 +194,6 @@
     "docs/Subscribers/intro.md",
     "docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairs.md",
     "docs/Subscribers/Networking/FirewallandSecurity/AccessingtheVFIControlPanel.md",
-    "docs/Subscribers/Storage/BlockVolumes/WorkingwithVolumeSnapshots.md",
-    "docs/Subscribers/ToolsandUtilities/ManagingInstanceandVolumeSnapshots.md",
     "Untitled.canvas"
   ]
 }

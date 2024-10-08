@@ -5,45 +5,48 @@ sidebar_position: 4
 
 Apiculus allows service providers to define automation policies and workflows to handle scenarios around invoice reminders, non-payments, and customer identity verification.
 
+Navigate to **Administration** > **Settings** > **Automation** to configure automation policies.
+
 ![Configuring Automation Policies](img/ConfiguringAutomationPolicies1.png)
 
 ## Creating an Automation Policy
 
 Account actions can be automated by creating automation policies that trigger an action based on a trigger condition. These policies can be created globally, which are applied to all new subscriber accounts and can also be overridden for individual accounts.
 
-1. To create a new automation policy, click on **Add New** button.
-   ![Configuring Automation Policies](img/ConfiguringAutomationPolicies2.png)
+1. To create a new automation policy, click on **Add New** button.   ![Configuring Automation Policies](img/ConfiguringAutomationPolicies2.png)
    
 	The Create Automation Policy screen opens:
 	  ![Configuring Automation Policies](img/ConfiguringAutomationPolicies3.png)
 1. Enter the desired **Policy Name**.
-2. Select one of the following **Policy Type**:
+2. Select the **Policy Type**. The following are the available options:
 	- Dunning
 	- Trial
 	- KYC
+3. Configure the [Conditions](#configuring-conditions) and [Actions](#configuring-actions).
+4. Click **Create**.	
 ## Configuring Conditions
 
 The actions are triggered when the configured conditions are met.
 
-Click on **Add New Condition** and select a condition from the drop-down list. 
-
-**Dunning Conditions**
+Click on **Add New Condition** and select a condition from the drop-down list.
+### Dunning Conditions
+The following conditions are available when you select the Policy Type as Dunning.
 
 - Due date expiry of an invoice
-- No. of days without account verification
-- Negative service balance or service balance below a fixed value
-- Service balance going below a percentage of the credit limit
-- Transaction balance going below a percentage of the credit limit
+- Negative service balance
+- Service balance below a fixed value
+- Number of days before the invoice is generated
+- Number of days upon invoice generation
+- Service balance as a percentage of the credit limit
+- Transaction balance as a percentage of the credit limit
+![Configuring Automation Policies](img/ConfiguringAutomationPolicies9.png)
 
-![Configuring Automation Policies](img/ConfiguringAutomationPolicies3.png)
+The following is an example of a configured **Dunning** condition trigger that checks for **3 days before invoice due date.**
 
-**KYC Conditions**
+![Configuring Automation Policies](img/ConfiguringAutomationPolicies6.png)
 
-- No. of days without account verification.
-
-![Configuring Automation Policies](img/ConfiguringAutomationPolicies4.png)
-
-**Trial Conditions**
+### Trial Conditions
+The following conditions are available when you select the Policy Type as Trial.
 
 - Account Trial Period Beginning
 - Account Trial Period Expiry
@@ -54,39 +57,46 @@ Click on **Add New Condition** and select a condition from the drop-down list.
 
 ![Configuring Automation Policies](img/ConfiguringAutomationPolicies5.png)
 
-Example of a configured **dunning** condition trigger that checks for **3 days before invoice due date.**
+### KYC Conditions
+The following conditions are available when you select the Policy Type as Dunning.
 
-![Configuring Automation Policies](img/ConfiguringAutomationPolicies6.png)
+- No. of days without account verification.
 
-
+![Configuring Automation Policies](img/ConfiguringAutomationPolicies4.png)
 
 ## Configuring Actions
+Actions are triggered based on the conditions.
 
-For adding action, click on the + Add Action.
+To configure an action, click on **Add New Action**.
 
-**Action** - These are the actions that are triggered based on the condition.
+The following are the options available:
 
-- Notification (email or SMS)
-- Restriction from new purchases
-- Suspension of accounts
-- Termination and deletion of all resources
+- Notification via email
+- Notification via SMS
+- Notify admin
+- Suspend account
+- Restrict account from new purchases
+- Terminate account and delete all resources
 - Enroll into Trial Programme
 
 ![Configuring Automation Policies](img/ConfiguringAutomationPolicies7.png)
 
-For notification actions, smart tags can be used to insert dynamic data in the email or SMS. Smart tags currently available are:
+For notification actions (email and sms), you can use smart tags to insert dynamic data in the content. The following are the available Smart tags:
 
-1. Primary contact name
-2. Organisation name
-3. Latest invoice number
-4. Latest invoice due date
-5. Latest invoice due amount
-6. Days to trial expiry
-7. Trial programme name
-8. Trial duration
-9. Trial discount/benefits
-10. Trial start and end dates
-11. List of open invoices
+| Action                  | Smart Tag                     |
+| ----------------------- | ----------------------------- |
+| Primary contact name    | `{account_contact_name}`      |
+| Organisation name       | `{account_organisation_name}` |
+| Latest invoice number   | `{latest_invoice_number}`     |
+| Latest invoice due date | `{latest_invoice_due_date}`   |
+| Latest invoice value    | `{latest_invoice_value}`      |
+| Days to trial expiry    | `{trial_expiry_days}`         |
+| Trial programme name    | `{trial_programme_name}`      |
+| Trial duration          | `{trial_duration}`            |
+| Trial discount/benefits | `{trial_discount}`            |
+| Trial start date        | `{trial_start_date}`          |
+| Trial end date          | `{trial_end_date}`            |
+| List of open invoices   | `{open_invoices_list}`        |
 
-Example of a **notification by email** action using **smart tags**.
+The following is an example of a **Notify Subscriber on Email** action using **smart tags**.
 ![Configuring Automation Policies](img/ConfiguringAutomationPolicies8.png)

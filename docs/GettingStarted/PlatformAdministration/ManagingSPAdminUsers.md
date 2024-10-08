@@ -12,14 +12,16 @@ The user’s list has the following details:
 - **Admin ID** - The ID associated with an account.
 - **Admin Details** - This displays the name and email ID associated with the account.
 - **Roles** - This specifies the role associated with an account.
-- **Active Since-** -Day and date of the account creation.
+- **Active Since** - Day and date of the account creation.
 - **Status** - This shows the present status of the particular administrator user. It can be active or terminated.
-- **Edit** - A pencil icon is available to edit the user’s information and update it accordingly.
-- **Delete** - The delete button is available to delete the user.
+
+Click on the three-dots icon ![Three dots](img/threedots.png) at the end of each admin user record for the following options:
+	- **Edit** the user’s information.
+	- **Delete** the user.
 
 ## Creating Users
 
-To create administrative users:
+To create admin users:
 1. Click on the **Add New** button. The Add New Admin dialogue box opens.
    ![Managing SP Admin Users](img/Managing-SP-Admin-Users2.png)
 
