@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "accda127f419662d",
+        "id": "733668f2601fa87e",
         "type": "tabs",
         "children": [
           {
-            "id": "8c79ca545c625094",
+            "id": "dfbd9fff9210ae8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/GettingStarted/BrandingandContent/PublishingStandardStaticContent.md",
+                "file": "docs/GettingStarted/LoginConfigurations/LoginSecurityand2FA.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/GettingStarted/BrandingandContent/PublishingStandardStaticContent.md",
+                "file": "docs/GettingStarted/LoginConfigurations/LoginSecurityand2FA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/GettingStarted/BrandingandContent/PublishingStandardStaticContent.md",
+                "file": "docs/GettingStarted/LoginConfigurations/LoginSecurityand2FA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/GettingStarted/BrandingandContent/PublishingStandardStaticContent.md"
+                "file": "docs/GettingStarted/LoginConfigurations/LoginSecurityand2FA.md"
               }
             }
           }
@@ -147,22 +147,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8c79ca545c625094",
+  "active": "dfbd9fff9210ae8d",
   "lastOpenFiles": [
-    "docs/GettingStarted/BrandingandContent/CustomisingBrandandGraphicAssets.md",
+    "docs/GettingStarted/LoginConfigurations/ConfiguringPasswordPolicies.md",
+    "docs/GettingStarted/LoginConfigurations/LoginSecurityand2FA.md",
+    "docs/GettingStarted/SignupConfigurations/RestrictingFreeEmailDomains.md",
+    "docs/GettingStarted/SignupConfigurations/img/restrictfreeemails2.png",
+    "docs/GettingStarted/SignupConfigurations/SignupSettings.md",
+    "docs/GettingStarted/SignupConfigurations/ConfiguringAccountDefaults.md",
     "docs/GettingStarted/BrandingandContent/PublishingStandardStaticContent.md",
+    "docs/GettingStarted/BrandingandContent/CustomisingBrandandGraphicAssets.md",
+    "docs/GettingStarted/BrandingandContent/ConfiguringCustomLinks.md",
+    "docs/GettingStarted/BrandingandContent/img/threedots.png",
+    "docs/GettingStarted/PlatformAdministration/ManagingSPAdminUsers.md",
+    "docs/GettingStarted/PlatformAdministration/ManagingServiceProviderProfile.md",
+    "docs/GettingStarted/PlatformAdministration/GeneralPlatformSettings.md",
+    "docs/GettingStarted/PlatformAdministration/ConfiguringAutomationPolicies.md",
+    "docs/ReleaseNotes/Ver2400.md",
+    "next-gen-vnf-virtual-firewalls.md",
+    "docs/ReleaseNotes/Ver2310 - Copy.md",
+    "docs/GettingStarted/BrandingandContent/img/customlinks1.png",
     "docs/GettingStarted/BrandingandContent/img/brand5.png",
     "docs/GettingStarted/BrandingandContent/img/brand4.png",
     "docs/GettingStarted/BrandingandContent/img/brand3.png",
-    "docs/GettingStarted/PlatformAdministration/ConfiguringAutomationPolicies.md",
-    "docs/GettingStarted/PlatformAdministration/GeneralPlatformSettings.md",
-    "docs/GettingStarted/PlatformAdministration/ManagingSPAdminUsers.md",
     "docs/GettingStarted/PlatformAdministration/img/threedots.png",
     "docs/GettingStarted/PlatformAdministration/img/ConfiguringAutomationPolicies9.png",
-    "docs/GettingStarted/PlatformAdministration/ManagingServiceProviderProfile.md",
     "Pasted image 20241007165954.png",
     "docs/GettingStarted/PlatformAdministration/img/EditAccount.png",
-    "docs/GettingStarted/PlatformAdministration/img/ConfiguringProfile1.png",
     "docs/ServicesandSystemRequirements/LoadBalancerInstances/SystemRequirements.md",
     "docs/ServicesandSystemRequirements/LoadBalancerInstances/About.md",
     "docs/ServicesandSystemRequirements/LoadBalancerInstances/FeatureList.md",
@@ -180,20 +191,10 @@
     "build/docs/Subscribers/ToolsandUtilities/AboutToolsandUtilities/index.html",
     "build/docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairs",
     "build/docs/Subscribers/ToolsandUtilities/ManagingInstanceandVolumeSnapshots",
-    "build/img/sps.svg",
-    "build/img/undraw_docusaurus_tree.svg",
     "docs/AboutServiceProviderAdministration/Role-basedAccessonAdminConsole.md",
     "docs/intro.md",
     "docs/LoggingIn.md",
     "docs/ResettingPassword.md",
-    "docs/FAQs.md",
-    "().md",
-    "Self-service and Administration.md",
-    "docs/Subscribers/FAQs.md",
-    "docs/Subscribers/AccessCentral.md",
-    "docs/Subscribers/intro.md",
-    "docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairs.md",
-    "docs/Subscribers/Networking/FirewallandSecurity/AccessingtheVFIControlPanel.md",
     "Untitled.canvas"
   ]
 }

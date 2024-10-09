@@ -2,13 +2,14 @@
 sidebar_position: 2
 ---
 # Configuring Password Policies
-Apiculus platform admins can set up password policies from **Settings > Platform Settings > Passwords**. A host of controls is available to set up password policies, including:
+Apiculus platform admins can set up password policies from **Administration** > **Settings** >  **Passwords**. A host of controls is available to set up password policies, including:
 
-- Password length (min and max)
-- Password lifespan (days after which password needs to be reset)
-- Lockout attempts (failed attempts after which the account should be locked out)
-- Rotation (last-used passwords that can not be reused)
-- Recovery mode (email and mobile, mobile available if SMS gateway is set up)
+- Minimum Password Length 
+- Maximum Password Length 
+- Password Lifespan Days (the number of days after which password needs to be reset).
+- Failed Attempts For Lockout  (failed attempts after which the account should be locked out).
+- Last Passwords To Restrict (the number of last-used passwords that can not be reused).
+- Account Recovery (account recovery via email and mobile; mobile available if SMS gateway is set up)
 
 ![PasswordPolicies.png](img/PasswordPolicies.png)
 
