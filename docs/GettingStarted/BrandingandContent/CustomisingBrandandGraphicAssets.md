@@ -3,35 +3,49 @@ sidebar_position: 1
 ---
 # Customising Brand and Graphic Assets
 
-Service providers can use this to customize their cloud as per their branding; 100% white labeling is possible. So right from the logo, fonts to the email footer are easily configurable from the assets section. Details are mentioned below:
+You can customize your cloud to match your branding; 100% white labeling is possible. So right from the logo, fonts to the email footer are easily configurable. 
+
+Navigate to **Administration** > **Settings** > **Brand Assets** to customise brand and graphic assets.
 
 ![Branding](img/brand1.png)
 
-### Logo
+### Signup/Logon Page Layout
+Select the layout for the signup/logon page by clicking on the respective icon.
 
-Service providers can view and delete the existing logo and upload it as per their branding requirements. Click on the edit button beside Customize Brand assets and then upload the logo. At the time of uploading the logo, alternate versions (for Account Centre display) can also be defined, if preferred.
+|                                                                                                                      |                             |
+| -------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+| > Form on left; banner on right <br /> > Form in centre; banner as background <br /> > Banner on left; form on right | ![Branding](img/brand2.png) |
+
+### Main Logo
+
+You can view and delete the existing logo and upload a new one to match your branding requirements. 
+
+Click on the **Attach File** button to upload the logo. 
+
+You can use the Main Logo for the Cloud Navigation, Account Center, and Email footer by selecting the respective check boxes.
+
+![Branding](img/brand3.png)
 
 ### Favicon
 
-Service providers can view and delete the existing logo and upload it as per their branding requirements. Click on the edit button beside Customize Brand assets and then upload the Favicon.
+You can view and delete the existing favicon and upload a new favicon to match your branding requirements. 
+
+Click on the **Attach File** button upload a new favicon.
 
 ### Banner
 
-Service providers can view and delete the existing Banner and upload it as per their branding requirements. Click on the edit button beside Customize Brand assets and then upload the Banner. At the time of uploading, the signup/login page layout can also be defined. The supported layouts are:
+You can view and delete the existing banner and upload a new banner to match your branding requirements. 
 
-|                                                                                                                          |                             |
-| ------------------------------------------------------------------------------------------------------------------------ | --------------------------- |
-| > Banner on left; form on right <br /> > Form on left; banner on right **<br />** > Form in centre; banner as background | ![Branding](img/brand2.png) |
-
-### Email Footer’s Logo
-
-Service providers can view and delete the existing Email Footer logo and upload it as per their branding requirements. Click on the edit button beside Customize Brand assets and then upload the Email Footer’s logo.
+Click on the **Attach File** button upload a new Banner.
 
 ### Theme
 
-Service providers can download and upload the existing theme file per their branding requirements. Click on the edit button beside Customize Brand assets and then upload the Theme. This will download the theme customisation kit in _.css_ format which can be edited and re-uploaded.
+You can edit the existing theme to match your branding requirements. 
+![Branding](img/brand4.png)
 
-The theme customisation kit can be used to define:
+Click the **Download** button to download the theme customisation kit in _.css_ format and edit it to match your branding requirements. Then, click on the **Attach File** to upload the .css file.
+
+You can modify the theme customisation kit (.css) to define the following:
 
 - Brand colour palette (primary, secondary and tertiary colours)
 - Standard colour palette (red, green, blue, orange etc.)
@@ -39,9 +53,14 @@ The theme customisation kit can be used to define:
 - Navigation panel colour palette
 - Login/signup page colour palette
 
-### Font
+### Fonts
 
-Service providers can download the existing font file and upload it as per their branding requirements. Click on the edit button beside Customize Brand assets and then upload the font file. The system supports .woff files for fonts.
+The system supports .woff files for fonts. 
+
+You can edit existing font file (.woff) to match your branding requirements. 
+![Branding](img/brand5.png)
+
+Click the **Download** button to download the fonts file and make the desired modifications. Then, click on the **Attach File** button to upload the modified font file. 
 
 :::note
 The correct font licenses should be procured by the service provider.
