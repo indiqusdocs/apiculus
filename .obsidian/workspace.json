@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/GettingStarted/LoginConfigurations/LoginSecurityand2FA.md",
+                "file": "docs/ReleaseNotes/Ver2400.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/GettingStarted/LoginConfigurations/LoginSecurityand2FA.md",
+                "file": "docs/ReleaseNotes/Ver2400.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/GettingStarted/LoginConfigurations/LoginSecurityand2FA.md",
+                "file": "docs/ReleaseNotes/Ver2400.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/GettingStarted/LoginConfigurations/LoginSecurityand2FA.md"
+                "file": "docs/ReleaseNotes/Ver2400.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "dfbd9fff9210ae8d",
   "lastOpenFiles": [
-    "docs/GettingStarted/LoginConfigurations/ConfiguringPasswordPolicies.md",
     "docs/GettingStarted/LoginConfigurations/LoginSecurityand2FA.md",
+    "docs/GettingStarted/LoginConfigurations/ConfiguringPasswordPolicies.md",
     "docs/GettingStarted/SignupConfigurations/RestrictingFreeEmailDomains.md",
     "docs/GettingStarted/SignupConfigurations/img/restrictfreeemails2.png",
     "docs/GettingStarted/SignupConfigurations/SignupSettings.md",
