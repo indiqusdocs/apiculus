@@ -50,7 +50,7 @@ The system follows the RBAC blueprint as below:
 |Billing Dashboard|Y|N|N|N|N|Y|Y|
 |Subscriptions|RW|N|N|N|N|RW|R|
 |Invoices|RW|N|N|R|N|RW|R|
-|Credit Notes|RW|RW|N|N|N|RW|R|
+|Credit Notes|RW|N|N|N|N|RW|R|
 |Transactions|RW|N|N|N|N|RW|R|
 |Tax Deductions|RW|N|N|N|N|RW|R|
 |Unbilled Charges|RW|N|N|N|N|RW|R|
@@ -68,33 +68,33 @@ The system follows the RBAC blueprint as below:
 |Logs|Y|N|N|N|Y|N|Y|
 |Requests|Y|Y|N|Y|Y|N|Y|
 |**Administration > Platform Settings**|   |   |   |   |   |   |   |
-|Profile|RW|R|N|R|R|R|R|
+|Profile|RW|R|R|R|R|R|R|
 |Admin Users|RW|R|R|N|R|R|R|
-|Passwords|RW|R|N|R|R|R|R|
-|Signup|RW|N|N|R|R|R|R|
-|Automation|RW|R|N|R|R|R|R|
-|Reseller|RW|R|N|R|R|R|R|
-|General|RW|R|N|N|R|R|R|
-|Security|RW|R|N|R|R|R|N|
-|Account Defaults|RW|R|N|R|R|R|R|
+|Passwords|RW|R|R|R|R|R|R|
+|Signup|RW|N|R|R|R|R|R|
+|Automation|RW|R|R|R|R|R|R|
+|Reseller|RW|R|R|R|R|R|R|
+|General|RW|R|R|N|R|R|R|
+|Security|RW|R|R|R|R|R|N|
+|Account Defaults|RW|R|R|R|R|R|R|
 |**Administration > Financials and Business**||||||||
-|Billing|RW|R|N|R|R|R|N|
-|Tax Deduction|RW|N|N|N|N|N|N|
-|Additional Fields|RW|N|N|N|R|N|N|
-|Quick Plans|RW|R|N|N|R|N|N|
-|Payment Gateways|RW|R|N|N|N|N|N|
-|Currencies|RW|R|N|R|R|R|R|
+|Billing|RW|R|R|R|R|R|N|
+|Tax Deduction|RW|N|R|N|N|N|N|
+|Additional Fields|RW|N|R|N|R|N|N|
+|Quick Plans|RW|R|R|N|R|N|N|
+|Payment Gateways|RW|R|R|N|N|N|N|
+|Currencies|RW|R|R|R|R|R|R|
 |**Administration > Marketing & Communications**||||||||
-|Email|RW|N|N|N|N|N|N|
-|SMS|RW|N|N|N|N|N|N|
-|Links|RW|R|N|R|N|R|R|
-|Content|RW|R|N|R|N|R|R|
-|Brand Assets|RW|R|N|R|N|R|R|
-|Restricted Domains|RW|R|N|R|N|R|N|
+|Email|RW|N|R|N|N|N|N|
+|SMS|RW|N|R|N|N|N|N|
+|Links|RW|R|R|R|N|R|R|
+|Content|RW|R|R|R|N|R|R|
+|Brand Assets|RW|R|R|R|N|R|R|
+|Restricted Domains|RW|R|R|R|N|R|N|
 |**Administration > Extensions**||||||||
-|Google|RW|N|N|N|N|N|N|
-|AWS|RW|N|N|N|N|N|N|
-|Custom Scripts|RW|N|N|R|N|N|N|
+|Google|RW|N|R|N|N|N|N|
+|AWS|RW|N|R|R|N|N|N|
+|Custom Scripts|RW|N|R|R|N|N|N|
 
 Y = Yes/Visible  
 N = No/Not visible  
