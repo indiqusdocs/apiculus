@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/ReleaseNotes/Ver2400.md",
+                "file": "docs/AboutServiceProviderAdministration/Role-basedAccessonAdminConsole.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/ReleaseNotes/Ver2400.md",
+                "file": "docs/AboutServiceProviderAdministration/Role-basedAccessonAdminConsole.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/ReleaseNotes/Ver2400.md",
+                "file": "docs/AboutServiceProviderAdministration/Role-basedAccessonAdminConsole.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/ReleaseNotes/Ver2400.md"
+                "file": "docs/AboutServiceProviderAdministration/Role-basedAccessonAdminConsole.md"
               }
             }
           }
@@ -149,6 +149,9 @@
   },
   "active": "dfbd9fff9210ae8d",
   "lastOpenFiles": [
+    "docs/AboutServiceProviderAdministration/ZabbixDashboardandNMS.md",
+    "docs/ReleaseNotes/Ver2400.md",
+    "docs/AboutServiceProviderAdministration/Role-basedAccessonAdminConsole.md",
     "docs/GettingStarted/LoginConfigurations/LoginSecurityand2FA.md",
     "docs/GettingStarted/LoginConfigurations/ConfiguringPasswordPolicies.md",
     "docs/GettingStarted/SignupConfigurations/RestrictingFreeEmailDomains.md",
@@ -163,7 +166,6 @@
     "docs/GettingStarted/PlatformAdministration/ManagingServiceProviderProfile.md",
     "docs/GettingStarted/PlatformAdministration/GeneralPlatformSettings.md",
     "docs/GettingStarted/PlatformAdministration/ConfiguringAutomationPolicies.md",
-    "docs/ReleaseNotes/Ver2400.md",
     "next-gen-vnf-virtual-firewalls.md",
     "docs/ReleaseNotes/Ver2310 - Copy.md",
     "docs/GettingStarted/BrandingandContent/img/customlinks1.png",
@@ -191,10 +193,8 @@
     "build/docs/Subscribers/ToolsandUtilities/AboutToolsandUtilities/index.html",
     "build/docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairs",
     "build/docs/Subscribers/ToolsandUtilities/ManagingInstanceandVolumeSnapshots",
-    "docs/AboutServiceProviderAdministration/Role-basedAccessonAdminConsole.md",
     "docs/intro.md",
     "docs/LoggingIn.md",
-    "docs/ResettingPassword.md",
     "Untitled.canvas"
   ]
 }
