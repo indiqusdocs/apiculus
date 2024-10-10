@@ -1,14 +1,21 @@
 ---
 sidebar_position: 1
 ---
-# Managing Service Provider (SP) Profile
+# Managing Service Provider Profile
 
-The profile consists of all the service provider details; admins can configure all the details straight from the name of the cloud they will offer as to the address. The profile details are given below:
+The profile consists of all the service provider (SP) details; admins can configure all the details straight from the name of the cloud they will offer as to the address. 
 
-1. **Name** - The name of the cloud by which service providers want to deliver the services in the market.
-2. **Primary Contact name** - Enter the service provider’s contact person’s name.
-3. **Primary Email** - Specify the service provider’s email address.
-4. **Website** - Specify the URL of the website.
-5. **Primary Address** - Enter the service provider’s address and the Zip code.
-6. **Other Phone(s)** - Enter the service provider’s contact number(s).
+To manage the service provider profile, navigate to **Administration** > **Settings**. The following screen appears:
+![Managing Service Provider Profile](img/ConfiguringProfile1.png)
+
+The following screen appears:
 ![Managing Service Provider Profile](img/ManagingServiceProviderProfile.png)
+
+Under Profile, enter the following details, and click **Update**.
+
+- **Organization Name** - The name of the cloud by which service provider wants to deliver the services in the market.
+- **Website** - Specify the URL of the organization website.
+- **Primary Contact Name** - Enter the service provider’s contact person’s name.
+- **Primary Email** - Specify the service provider’s email address.
+- **Primary Number** - Specify the service provider’s email address.
+- **Address** - Enter the service provider’s address and the Zip code.
