@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 8
 ---
 # Configuring Object Storage
 
@@ -11,7 +11,10 @@ Admins can configure the Object storage from the services section. To configure 
 4. Go to the Availability section. Select the **availability zones** where you want to offer the service. Then, click on **Save & Update**.
 	![Configuring Object Storage](img/ConfiguringObjectStorage1.png)
 
-5. Click on the **Billing section**. The following two options will be listed. i.e. **Prorate on Entry** and **Prorate on Exit**.
+5. 5. Under the **Billing** section, select the **Billing Options**.
+	- **Prorate on Entry**: Purchases will be pro-rated at the time of purchase of services.
+	- **Prorate on Exit**: Removals will be pro-rated at the time of removal of services.
+6. Select the **Billing Cycle** to be displayed to the subscribers: **Hourly**, **Monthly**, or **Both**.
 	![Configuring Object Storage](img/ConfiguringObjectStorage2.png)
 
 6. Click on the **Provisioning** section to offer the Object Storage service as _approval-based_. Enable the approval required switch. Enabling the switch, you will get two more options, i.e., Custom instructions that you want to send to the end user upon approval; you can also attach a maximum of 5 files up to 3 MB. 
