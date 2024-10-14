@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/AboutServiceProviderAdministration/Role-basedAccessonAdminConsole.md",
+                "file": "docs/Administration/ServicesManagement/CustomCatalogues/EnablingorDisablingCatalogueItems.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/AboutServiceProviderAdministration/Role-basedAccessonAdminConsole.md",
+                "file": "docs/Administration/ServicesManagement/CustomCatalogues/EnablingorDisablingCatalogueItems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/AboutServiceProviderAdministration/Role-basedAccessonAdminConsole.md",
+                "file": "docs/Administration/ServicesManagement/CustomCatalogues/EnablingorDisablingCatalogueItems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/AboutServiceProviderAdministration/Role-basedAccessonAdminConsole.md"
+                "file": "docs/Administration/ServicesManagement/CustomCatalogues/EnablingorDisablingCatalogueItems.md"
               }
             }
           }
@@ -149,52 +149,52 @@
   },
   "active": "dfbd9fff9210ae8d",
   "lastOpenFiles": [
-    "docs/AboutServiceProviderAdministration/ZabbixDashboardandNMS.md",
-    "docs/ReleaseNotes/Ver2400.md",
-    "docs/AboutServiceProviderAdministration/Role-basedAccessonAdminConsole.md",
-    "docs/GettingStarted/LoginConfigurations/LoginSecurityand2FA.md",
-    "docs/GettingStarted/LoginConfigurations/ConfiguringPasswordPolicies.md",
-    "docs/GettingStarted/SignupConfigurations/RestrictingFreeEmailDomains.md",
-    "docs/GettingStarted/SignupConfigurations/img/restrictfreeemails2.png",
-    "docs/GettingStarted/SignupConfigurations/SignupSettings.md",
-    "docs/GettingStarted/SignupConfigurations/ConfiguringAccountDefaults.md",
-    "docs/GettingStarted/BrandingandContent/PublishingStandardStaticContent.md",
-    "docs/GettingStarted/BrandingandContent/CustomisingBrandandGraphicAssets.md",
-    "docs/GettingStarted/BrandingandContent/ConfiguringCustomLinks.md",
-    "docs/GettingStarted/BrandingandContent/img/threedots.png",
-    "docs/GettingStarted/PlatformAdministration/ManagingSPAdminUsers.md",
-    "docs/GettingStarted/PlatformAdministration/ManagingServiceProviderProfile.md",
-    "docs/GettingStarted/PlatformAdministration/GeneralPlatformSettings.md",
-    "docs/GettingStarted/PlatformAdministration/ConfiguringAutomationPolicies.md",
-    "next-gen-vnf-virtual-firewalls.md",
-    "docs/ReleaseNotes/Ver2310 - Copy.md",
-    "docs/GettingStarted/BrandingandContent/img/customlinks1.png",
-    "docs/GettingStarted/BrandingandContent/img/brand5.png",
-    "docs/GettingStarted/BrandingandContent/img/brand4.png",
-    "docs/GettingStarted/BrandingandContent/img/brand3.png",
-    "docs/GettingStarted/PlatformAdministration/img/threedots.png",
-    "docs/GettingStarted/PlatformAdministration/img/ConfiguringAutomationPolicies9.png",
-    "Pasted image 20241007165954.png",
-    "docs/GettingStarted/PlatformAdministration/img/EditAccount.png",
-    "docs/ServicesandSystemRequirements/LoadBalancerInstances/SystemRequirements.md",
-    "docs/ServicesandSystemRequirements/LoadBalancerInstances/About.md",
-    "docs/ServicesandSystemRequirements/LoadBalancerInstances/FeatureList.md",
-    "docs/ServicesandSystemRequirements/AWSLinkage/IntegrationDetails.md",
-    "docs/ServicesandSystemRequirements/ApiculusAuthoritiveNameserver/SupportedRecordTypes.md",
-    "docs/ServicesandSystemRequirements/ApiculusAuthoritiveNameserver/DNSRequirements.md",
-    "docs/ServicesandSystemRequirements/ApiculusObjectStorage/FrequentlyAskedQuestions.md",
+    "docs/Administration/ServicesManagement/CustomCatalogues/CreatingaCustomCatalogue.md",
+    "docs/Administration/ServicesManagement/CustomCatalogues/AssigningCustomCataloguestoCustomers.md",
+    "docs/Administration/ServicesManagement/CustomCatalogues/EnablingorDisablingCatalogueItems.md",
+    "docs/Administration/ServicesManagement/CustomCatalogues/UpdatingPricesonCatalogues.md",
+    "docs/Administration/ServicesManagement/WorkingwithAvailabilityZones.md",
+    "docs/Administration/ServicesManagement/WorkingwithCloudCollections.md",
+    "docs/Administration/ServicesManagement/WorkingwithDefaultServices.md",
+    "docs/Administration/ServicesManagement/Overview.md",
+    "docs/Administration/ManagingQuickPlans.md",
+    "docs/Administration/ServicesManagement/CustomCatalogues/img/NewCatalogue2.png",
+    "docs/Administration/ServicesManagement/CustomCatalogues/img/NewCatalogue1.png",
+    "docs/Administration/ServicesManagement/WorkingwithCustomCatalogues.md",
+    "docs/Administration/ServicesManagement/CustomCatalogues/img/CustomCatalogues1.png",
+    "docs/Administration/ServicesManagement/CustomCatalogues/img/CustomCatalogues2.png",
+    "docs/Administration/ServicesManagement/CustomCatalogues/img/AvailabilityZones.jpg",
+    "docs/Administration/ServicesManagement/CustomCatalogues/img",
+    "docs/Administration/ServicesManagement/CustomCatalogues/_category_.json",
+    "docs/Administration/ServicesManagement/CustomCatalogues",
+    "docs/Administration/ServicesManagement/New folder",
+    "docs/Administration/ServicesManagement/UpdatingPricesonCatalogues.md",
+    "docs/Administration/ServicesManagement/AssigningCustomCataloguestoCustomers.md",
+    "docs/Administration/ConfiguringSections/ConfiguringObjectStorage.md",
+    "docs/Administration/ConfiguringSections/ConfiguringBlockVolumes.md",
+    "docs/Administration/ConfiguringSections/ConfiguringLinuxInstances.md",
+    "Pasted image 20241014130459.png",
+    "docs/Administration/ConfiguringSections/ConfiguringKubernetesService.md",
+    "docs/Administration/ConfiguringSections/ConfiguringIPv4Addresses.md",
+    "Pasted image 20241014130144.png",
+    "docs/Administration/ConfiguringSections/ConfiguringInstanceProtection.md",
+    "docs/Administration/ConfiguringSections/ConfiguringAppOverlays.md",
+    "docs/Administration/ConfiguringSections/ConfiguringRHELInstances.md",
+    "docs/Administration/ConfiguringSections/ConfiguringWindowsInstances.md",
+    "docs/Administration/ConfiguringSections/ConfiguringVirtualFirewallInstances.md",
+    "Pasted image 20241014125222.png",
+    "docs/Administration/ConfiguringSections/img/rhel.png",
+    "docs/Administration/ConfiguringSections/img/rhel7.png",
+    "docs/ReleaseNotes/Ver2310.md",
+    "docs/Administration/ConfiguringSections/ConfiguringLinuxInstances - Copy.md",
+    "docs/ReleaseNotes/Ver2300.md",
+    "docs/GettingStarted/BillingandFinancials/ConfiguringAdditionalFields.md",
     "build/search/index.html",
     "build/search",
     "build/markdown-page/index.html",
     "build/markdown-page",
     "build/docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairs/index.html",
     "build/docs/Subscribers/ToolsandUtilities/ManagingCustomTemplatesandImages/index.html",
-    "build/docs/Subscribers/ToolsandUtilities/ManagingInstanceandVolumeSnapshots/index.html",
-    "build/docs/Subscribers/ToolsandUtilities/AboutToolsandUtilities/index.html",
-    "build/docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairs",
-    "build/docs/Subscribers/ToolsandUtilities/ManagingInstanceandVolumeSnapshots",
-    "docs/intro.md",
-    "docs/LoggingIn.md",
     "Untitled.canvas"
   ]
 }

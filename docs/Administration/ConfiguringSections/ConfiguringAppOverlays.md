@@ -1,9 +1,9 @@
 ---
-sidebar_position: 9
+sidebar_position: 10
 ---
 # Configuring App Overlays
 
-Admins have the ability to set up the applications accessible to end-users during the deployment of a Linux instance. Presently, these specific applications are exclusively accessible for Linux Instances.  
+Admins have the ability to set up the applications accessible to end-users during the deployment of a Linux/RHEL instances. Presently, these specific applications are exclusively accessible for Linux/RHEL Instances.  
 ## Configuring Apps
 
 To configure App Overlays, follow these steps:
