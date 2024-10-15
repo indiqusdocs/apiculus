@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 5
 ---
 # Configuring IPv4 Addresses
 
@@ -12,10 +12,10 @@ Follow these steps to configure IPv4 Addresses :
 
 ![Configuring IPv4 Addresses](img/ConfiguringIPv4Addresses1.png)
 
-5. Within the Billing section, two options are available: 
-	- Prorate on Entry
-	- Prorate on Exit
-
+5. Under the **Billing** section, select the **Billing Options**.
+	- **Prorate on Entry**: Purchases will be pro-rated at the time of purchase of services.
+	- **Prorate on Exit**: Removals will be pro-rated at the time of removal of services.
+6. Select the **Billing Cycle** to be displayed to the subscribers: **Hourly**, **Monthly**, or **Both**.
 ![Configuring IPv4 Addresses](img/ConfiguringIPv4Addresses2.png)
 
 6. IPv4 Addresses can be provisioned to an approval-based system within the Provisioning section. This is done by activating the Approval Required switch, offering additional functionalities such as sending custom instructions to end-users upon approval and attaching up to five files, each up to 3 MB.
