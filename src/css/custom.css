@@ -14,7 +14,7 @@
   --ifm-color-primary-light: #00468d;
   --ifm-color-primary-lighter: #004a93;
   --ifm-color-primary-lightest: #0053a6;
-  --ifm-h1-font-size: 12;
+  --ifm-h1-font-size: 10;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -34,28 +34,32 @@
 
 /* Set Montserrat font for all headings */
 h1, h2, h3, h4, h5, h6 {
-  font-family: Montserrat, sans-serif;
+  font-family: Poppins, sans-serif;
 }
 
 /* Set Open Sans font for all body text */
 body {
-  font-family: 'Open Sans Medium', sans-serif;
+  font-family: Poppins, 'Open Sans Medium', sans-serif;
 }
 
-/* Set H1 color to navy and font size to 40px */
+/* Set H1 color to navy and font size to 28px */
 h1 {
   color: navy;
-  font-size: 36px;
+  font-size: 24px;
 }
 
-/* Set H2 font size to 32px */
+/* Set H2 font size to 20px */
 h2 {
-  font-size: 28px;
+  font-size: 20px;
 }
 
-/* Set H3 font size to 26px */
+/* Set H3 font size to 16px */
 h3 {
-  font-size: 20px;
+  font-size: 16px;
+}
+
+body {
+  font-size: 14px; /* You can adjust the size as needed */
 }
 
 /* Dark mode heading color */
