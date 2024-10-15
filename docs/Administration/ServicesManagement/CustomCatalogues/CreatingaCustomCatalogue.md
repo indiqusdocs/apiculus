@@ -16,7 +16,7 @@ To create a custom catalogue, follow these steps:
 ![Create a Custom Catalogue](img/NewCatalogue2.png)
 5. You can create a new catalogue from one of the following options:
 	- Select an existing catalogue (from the drop-down list) as a template with prepopulated details. Then, click **Proceed** to customize the existing catalogue.
-	- Create a new catalogue from scratch. To do so, click on **Create New from Scratch**.
+	- Create a new catalogue from scratch by click on **Create New from Scratch**.
 1. Continue configuring services the same way as described in [Configuring Sections](/docs/category/configuring-sections).
 
 
