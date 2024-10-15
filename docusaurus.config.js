@@ -34,7 +34,23 @@ const config = {
     locales: ['en'],
   },
 
-
+stylesheets: [
+    {
+      href: 'https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap',
+      rel: 'stylesheet',
+    },
+  ],
+  presets: [
+    [
+      '@docusaurus/preset-classic',
+      {
+        theme: {
+          customCss: require.resolve('./src/css/custom.css'),
+        },
+      },
+    ],
+  ],
+  
   presets: [
     [
       'classic',
