@@ -5,8 +5,7 @@ sidebar_position: 1
 
 Apiculus is an end-to-end cloud-as-a-service solution that addresses the technology, business enablement and customer experience needs of regional, domestic and edge cloud service providers. Apiculus presents itself as an all-in-one technology platform that combines cloud service monetisation, infrastructure management and customer life cycle management, and offers an integrated solution for cloud providers in edge markets.
 
-
-	![Welcome](welcome1.png)
+![Welcome](welcome1.png)
 
 Apiculus enables:
 
@@ -16,10 +15,8 @@ Apiculus enables:
 
 ## Stack Components
 Items in <span class="blue">**blue**</span> are Apiculus software capabilities; items in **black** are services and extensions that can be monetised; items in <span class="green">**green**</span> are service provider’s assets.
+![Stack Components](StackComponents.webp)
 
-import DocusaurusSvg from './StackComponents.svg'; 
-
-<DocusaurusSvg />
 
 ## Features and Specifications
 This section covers the following:

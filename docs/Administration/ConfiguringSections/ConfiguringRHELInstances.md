@@ -23,7 +23,7 @@ Follow these steps to configure RHEL Instances:
 6. Select the **Billing Cycle** to be displayed to the subscribers: **Hourly**, **Monthly**, or **Both**.
 ![Configuring Linux Instances](img/rhel2.png) 
 
-7. You can provision the RHEL Instances to an approval-based system within the **Provisioning** section. Turn on the **Approval Required** toggle button, to offer additional functionalities such as sending custom instructions to end-users upon approval and attaching up to five files, each up to three MB.
+7. You can provision the RHEL Instances to an approval-based system within the **Provisioning** section. To do so, turn on the **Approval Required** toggle button to offer additional functionalities such as sending custom instructions to end-users upon approval and attaching up to five files, each up to three MB.
 
 ![Configuring Linux Instances](img/linux3.png)
 
@@ -36,7 +36,7 @@ Follow these steps to configure RHEL Instances:
 9. Under the **Root Disks** section, click on Availability Zones and enable packs for the designated collection.
 ![Configuring Linux Instances](img/rhel6.png)
 
-10. Under the **App Overlays** section, select all the apps that you want to provide as part of this default service. 
+10. Under the **App Overlays** section, select all the apps that you want to provide as part of the default service to the end-users during the deployment of the RHEL instance.
 ![Configuring Linux Instances](img/rhel7.png)
 
 11. Return to the Default Services, and click **PUBLISH DEFAULT CATALOGUE**.
