@@ -2,13 +2,22 @@
 sidebar_position: 6
 ---
 # Configuring Virtual Firewall Instances
+Apiculus offers Virtual Firewall Instances as integrations with pfSense® and FortiGate VM.
+
+You can monetise the service with the following components:
+- Firewall provider
+- Appliance config
+- Public IPv4
+- Additional IPv4
+- Public Gateway
 
 Follow these steps to configure Virtual Firewall Instances:
 
 1. Navigate to **Services** > **Default Services**.
 2. Under **Networking**, select **Virtual Firewall**.
-3. Turn on the toggle switch at the top to make this service available as part of the default services. This action will enable all associated sections.
-4. Under **Availability Zones**, select the availability zone from which you want to offer the service, then click **Save and Update**.
+![Configuring Linux Instances](img/rhel.png) 
+4. Turn on the toggle switch at the top to make this service available as part of the default services. This action will enable all associated sections.
+5. Under **Availability Zones**, select the availability zone from which you want to offer the service, then click **Save and Update**.
 ![Configuring Virtual Firewall Instances](img/ConfiguringVirtualFirewallInstances1.png)
 
 5. Under the **Billing** section, select the **Billing Options**.
