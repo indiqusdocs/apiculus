@@ -31,7 +31,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`${siteConfig.title} documentation`}
+      title={`${siteConfig.title} Documentation`}
       description="Apiculus Documentation">
       <HomepageHeader />
       <main>
