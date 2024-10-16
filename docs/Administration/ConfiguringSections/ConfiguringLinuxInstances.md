@@ -38,7 +38,7 @@ Follow these steps to configure Linux Instances:
 
 ![Configuring Linux Instances](img/linux6.png)
 
-10. If you want to offer the apps, click the **App Overlays** section and enable the listed apps.
+10. Under the **App Overlays** section, select all the apps that you want to provide as part of the default service to the end-users during the deployment of the Linux instance.
 
 ![Configuring Linux Instances](img/linux7.png)
 

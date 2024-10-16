@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Administration/ConfiguringSections/ConfiguringVirtualFirewallInstances.md",
+                "file": "docs/intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Administration/ConfiguringSections/ConfiguringVirtualFirewallInstances.md",
+                "file": "docs/intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Administration/ConfiguringSections/ConfiguringVirtualFirewallInstances.md",
+                "file": "docs/intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Administration/ConfiguringSections/ConfiguringVirtualFirewallInstances.md"
+                "file": "docs/intro.md"
               }
             }
           }
@@ -149,30 +149,33 @@
   },
   "active": "dfbd9fff9210ae8d",
   "lastOpenFiles": [
-    "build/sitemap.xml",
-    "build/opensearch.xml",
-    "build/docs/ReleaseNotes/Ver2110/index.html",
-    "build/docs/ReleaseNotes/Ver2110",
-    "build/docs/ReleaseNotes/Ver11900/index.html",
-    "build/docs/ReleaseNotes/Ver11900",
-    "build/docs/ReleaseNotes/Ver1710/index.html",
-    "build/docs/ReleaseNotes/Ver1710",
-    "build/docs/ReleaseNotes/Ver1711/index.html",
-    "build/docs/ReleaseNotes/Ver1711",
-    "build/docs/ReleaseNotes/Ver1720/index.html",
-    "build/assets/images/20001-25c08e61f0a96333d0cbfd5a58efe9aa.png",
-    "build/assets/images/20002-71a435e414b2b8230c280c086cd0f65c.png",
-    "build/assets/images/20004-d03e8543264b969cea8a0afcd677cfa2.png",
-    "build/assets/images/20006-4336e3f0e04fefd36660a9330745da66.png",
-    "build/assets/images/22001-f78a43fcb62dc98122438eeffabd731a.png",
-    "build/assets/images/22002-51637e0a8ecb0a6dbd239bd58ad6c0f3.png",
-    "build/assets/images/22003-0df3c9e7a27910df294a2f5f36608672.png",
-    "build/assets/images/2FA-30de6ee9a31ef219d99cdc73cbd62276.png",
-    "build/assets/images/AccountCentre-32d194ea85d8c086155dbeebc7c1533d.png",
-    "build/assets/images/AccountManagementOverview-ba32f084b696ab5e45a6af6928d719ab.png",
-    "docs/Administration/ConfiguringSections/ConfiguringWindowsInstances.md",
-    "docs/Administration/ConfiguringSections/ConfiguringVirtualFirewallInstances.md",
+    "build/blog/atom.xml",
+    "build/blog/rss.xml",
+    "build/blog/rss.css",
+    "build/blog/atom.css",
+    "build/blog/atom.xsl",
+    "build/blog/rss.xsl",
+    "build/docs/Subscribers/Storage/BlockVolumes/WorkingwithInstanceVolumes/index.html",
+    "build/docs/Subscribers/Storage/ObjectStogageBucket/SystemRequirements/index.html",
+    "build/docs/Subscribers/Storage/ObjectStogageBucket/FeatureListandIntegrationDetails/index.html",
+    "build/docs/Subscribers/Storage/ObjectStogageBucket/FrequentlyAskedQuestions/index.html",
+    "build/docs/Subscribers/Compute/Autoscale/CreatingAutoscaleGroups/index.html",
+    "src/css/DocumentationCover.webp",
+    "src/css/Documentation Cover.webp",
+    "build/img/undraw_docusaurus_react.svg",
+    "build/img/undraw_docusaurus_tree.svg",
+    "build/img/sps.svg",
+    "build/img/undraw_docusaurus_mountain.svg",
+    "build/img/sps.png",
+    "build/img/sbs.svg",
+    "build/img/sbs.png",
+    "build/img/rn.svg",
     "docs/Administration/ConfiguringSections/ConfiguringRHELInstances.md",
+    "docs/Administration/ConfiguringSections/ConfiguringLinuxInstances.md",
+    "docs/Administration/ConfiguringSections/ConfiguringAppOverlays.md",
+    "docs/Administration/ConfiguringSections/ConfiguringVirtualFirewallInstances.md",
+    "docs/APIs/apioverview.md",
+    "docs/Administration/ConfiguringSections/ConfiguringWindowsInstances.md",
     "docs/Administration/ServicesManagement/CustomCatalogues/CreatingaCustomCatalogue.md",
     "docs/AboutServiceProviderAdministration/AdminConsole.md",
     "docs/Administration/ServicesManagement/CustomCatalogues/EnablingorDisablingCatalogueItems.md",
@@ -188,13 +191,10 @@
     "docs/Administration/ServicesManagement/AssigningCustomCataloguestoCustomers.md",
     "docs/Administration/ConfiguringSections/ConfiguringObjectStorage.md",
     "docs/Administration/ConfiguringSections/ConfiguringBlockVolumes.md",
-    "docs/Administration/ConfiguringSections/ConfiguringLinuxInstances.md",
     "docs/Administration/ConfiguringSections/ConfiguringKubernetesService.md",
     "docs/Administration/ConfiguringSections/ConfiguringIPv4Addresses.md",
     "docs/Administration/ConfiguringSections/ConfiguringInstanceProtection.md",
-    "docs/Administration/ConfiguringSections/ConfiguringAppOverlays.md",
     "docs/ReleaseNotes/Ver2310.md",
-    "docs/Administration/ConfiguringSections/ConfiguringLinuxInstances - Copy.md",
     "Untitled.canvas"
   ]
 }
