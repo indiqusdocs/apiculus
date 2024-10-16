@@ -1,45 +1,48 @@
 ---
-sidebar_position: 5
+sidebar_position: 6
 ---
 # Configuring Virtual Firewall Instances
+Apiculus offers Virtual Firewall Instances as integrations with pfSense® and FortiGate VM.
+
+You can monetise the service with the following components:
+- Firewall provider
+- Appliance config
+- Public IPv4
+- Additional IPv4
+- Public Gateway
 
 Follow these steps to configure Virtual Firewall Instances:
 
-1. Access the **Default Services** in the main navigation menu.
-2. Select "**Virtual Firewall**" located within the **Networking section**.
-3. Turn on the switch at the top to make this service available as part of the default services. This action will enable all associated sections.
-4. Move to the **Availability section**. Choose the availability zone from which you want to offer the service, then click **Save & Update**.
-
+1. Navigate to **Services** > **Default Services**.
+2. Under **Networking**, select **Virtual Firewall**.
+![Configuring Linux Instances](img/rhel.png) 
+4. Turn on the toggle switch at the top to make this service available as part of the default services. This action will enable all associated sections.
+5. Under **Availability Zones**, select the availability zone from which you want to offer the service, then click **Save and Update**.
 ![Configuring Virtual Firewall Instances](img/ConfiguringVirtualFirewallInstances1.png)
 
-5. Within the Billing section, two options are available: 
-	- Prorate on Entry
-	- Prorate on Exit
-
+5. Under the **Billing** section, select the **Billing Options**.
+	- **Prorate on Entry**: Purchases will be pro-rated at the time of purchase of services.
+	- **Prorate on Exit**: Removals will be pro-rated at the time of removal of services.
+6. Select the **Billing Cycle** to be displayed to the subscribers: **Hourly**, **Monthly**, or **Both**.
 ![Configuring Virtual Firewall Instances](img/ConfiguringVirtualFirewallInstances2.png)
 
-6. Virtual Firewall Instances can be provisioned to an approval-based system within the **Provisioning** section. This is done by activating the **Approval Required** switch, offering additional functionalities such as sending custom instructions to end-users upon approval and attaching up to five files, each up to 3 MB.
+6. To provision, Virtual Firewall Instances to an approval-based system, navigate to **Provisioning** and turn on the **Approval Required** toggle button. Additionally, you can send custom instructions to end-users upon approval and attach up to five files, each up to three MB.
 
 ![Configuring Virtual Firewall Instances](img/ConfiguringVirtualFirewallInstances3.png)
 
-Further, the _**PRICING**_ options include:
+The PRICING options include the following:
 
-- Access the **Compute** section, select **Availability Zone**, and enable the compute pack for the desired collection available to end-users.
-
+- Navigate to the **Configuration** section, select the **Availability Zone**, and enable the desired compute packs for the end-users.
 ![Configuring Virtual Firewall Instances](img/ConfiguringVirtualFirewallInstances4.png)
 
-- Navigate to the **Providers** Section, choose the **Availability Zone**, and activate both providers—**pfSense and Fortinet** based on your requirement. Specify the descriptions and then establish the pricing accordingly.
-
+- Navigate to the **Providers** section, select the **Availability Zone**, and activate both providers—**pfSense and Fortinet** based on your requirement. Specify the descriptions and then establish the pricing accordingly.
 ![Configuring Virtual Firewall Instances](img/ConfiguringVirtualFirewallInstances5.png)
 
-- In the Root Disks section, select the availability zone and enable packs for the designated collection.
-
+- Navigate to the **Root Disks** section, select the **Availability Zone** and enable packs for the designated collection.
 ![Configuring Virtual Firewall Instances](img/ConfiguringVirtualFirewallInstances6.png)
 
-- Click on the IPv4 Addresses to enable the default IPv4 Address for VPC Networking and define the pricing.
-
+- Navigate to the **Gateway** section, select the **Availability Zone**, and and define the pricing for the NAT gateway and IPv4 address.
 ![Configuring Virtual Firewall Instances](img/ConfiguringVirtualFirewallInstances7.png)
 
-Finally, return to Default Services and click on "**_PUBLISH DEFAULT CATALOGUE_**."
-
-![Configuring Virtual Firewall Instances](img/ConfiguringVirtualFirewallInstances8.png)
+Finally, return to Default Services and click on **PUBLISH DEFAULT CATALOGUE**.
+![Configuring Virtual Firewall Instances](img/rhel.png)

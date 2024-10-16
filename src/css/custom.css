@@ -14,7 +14,7 @@
   --ifm-color-primary-light: #00468d;
   --ifm-color-primary-lighter: #004a93;
   --ifm-color-primary-lightest: #0053a6;
-  --ifm-h1-font-size: 12;
+  --ifm-h1-font-size: 10;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -34,28 +34,32 @@
 
 /* Set Montserrat font for all headings */
 h1, h2, h3, h4, h5, h6 {
-  font-family: Montserrat, sans-serif;
+  font-family: Poppins, sans-serif;
 }
 
 /* Set Open Sans font for all body text */
 body {
-  font-family: 'Open Sans Medium', sans-serif;
+  font-family: Poppins, 'Open Sans Medium', sans-serif;
 }
 
-/* Set H1 color to navy and font size to 40px */
+/* Set H1 color to navy and font size to 28px */
 h1 {
-  color: navy;
-  font-size: 36px;
+  color: #183F7C;
+  font-size: 24px;
 }
 
-/* Set H2 font size to 32px */
+/* Set H2 font size to 20px */
 h2 {
-  font-size: 28px;
+  font-size: 20px;
 }
 
-/* Set H3 font size to 26px */
+/* Set H3 font size to 16px */
 h3 {
-  font-size: 20px;
+  font-size: 16px;
+}
+
+body {
+  font-size: 14px; /* You can adjust the size as needed */
 }
 
 /* Dark mode heading color */
@@ -68,7 +72,7 @@ h3 {
 
 a {
    /* text-decoration: none;  Removes underline from links */
-    color: #0066cc; /* Default link color */
+    color: #183F7C; /* Default link color */
   /* transition: color 0.3s ease;  Smooth transition for color change */
 
   transition: text-shadow 0.3s ease; /* Smooth transition for glow effect */
@@ -94,24 +98,24 @@ img {
   z-index: 1; /* Base z-index for all images */
 }
 
+
 /* Zoom effect on click */
 img:active {
   transform: scale(1.5); /* Zoom in the image on click */
   cursor: zoom-out; /* Change cursor to zoom-out */
   z-index: 1000; /* Bring zoomed image above all other elements */
-  
-}
+  }
 
 .footer {
   background-color: #708090; /* Replace with your desired color */
 }
 
 .navbar .button--primary {
-  background-color: #003366; /* Custom background color */
+  background-color: #183F7C; /* Custom background color */
   color: white; /* Text color */
   border: none; /* Optional: remove border */
   border-radius: 20px; /* Optional: rounded corners */
-  padding: 8px 16px; /* Optional: padding for better appearance */
+  padding: 6px 10px; /* Optional: padding for better appearance */
   font-weight: bold; /* Optional: make the text bold */
 }
 
@@ -178,8 +182,8 @@ img:active {
 
 /* Default link style */
 .navbar__link {
-  padding: 10px 15px;
-  color: navy;
+  padding: 6px 10px;
+  color: #004080;
   text-decoration: none;
   border: none;
   background: none;
@@ -188,23 +192,23 @@ img:active {
 
 /* When a menu item is active, make it look like a button */
 .navbar__link--active {
-  background-color: #0c1d73;
-  color: white;
-  border: 1px navy;
+  background-color: #D0EAFF;
+  color: #004080;
+  border: 1px D0EAFF;
   border-radius: 35px;
   padding: 5px 10px;
 
 }
 /* Keep the hover color the same as the active state */
 .navbar__link--active:hover {
-  background-color: navy;
-  color: white; /* Ensure the text remains white on hover */
-  border-color: navy;
+  background-color: #D0EAFF;
+  color: #004080; /* Ensure the text remains navy on hover */
+  border-color: #D0EAFF;
 }
 
 
+.DocSearch-Button-Placeholder {
+  font-family: Poppins, sans-serif; /* Replace with your desired font */
+}
 
-
-
-
-
+/* Set background image for the homepage */

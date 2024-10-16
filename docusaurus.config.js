@@ -34,7 +34,23 @@ const config = {
     locales: ['en'],
   },
 
-
+stylesheets: [
+    {
+      href: 'https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap',
+      rel: 'stylesheet',
+    },
+  ],
+  presets: [
+    [
+      '@docusaurus/preset-classic',
+      {
+        theme: {
+          customCss: require.resolve('./src/css/custom.css'),
+        },
+      },
+    ],
+  ],
+  
   presets: [
     [
       'classic',
@@ -97,20 +113,7 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-          {
-        //  to: '/', // Change to the desired link
-         // label: 'Home', // The label of your button
-         position: 'left',
-		 type: 'html',
-		value: `
-            <a href="/" class="navbar__home-icon">
-              <svg xmlns="http://www.w3.org/2000/svg" fill="#000080" viewBox="0 0 20 20" width="35" height="35	">
-  <path fill-rule="evenodd" d="M10.707 1.707a1 1 0 00-1.414 0l-8 8a1 1 0 101.414 1.414L4 10.414V18a2 2 0 002 2h2.586a1 1 0 001-1V14a1 1 0 011-1h2a1 1 0 011 1v5a1 1 0 001 1H14a2 2 0 002-2v-7.586l1.293 1.293a1 1 0 001.414-1.414l-8-8z" clip-rule="evenodd"/>
-</svg>
-            </a>`
-
-		 // className: 'button button--primary', // Add button classes here
-        },
+          
 		  {
             type: 'docSidebar',
             sidebarId: 'sidebar1',
@@ -152,7 +155,7 @@ const config = {
           href: 'https://try.apiculus.io', // Change to the desired link
           label: 'Try Apiculus', // The label of your button
           position: 'right',
-          // className: 'button button--primary', // Add button classes here
+          className: 'button button--primary', // Add button classes here
         },
 		  	  
 		  ],
