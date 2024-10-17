@@ -6,54 +6,52 @@ const FeatureList = [
   {
     title: (
 	<a href="/docs/intro" target="_self" rel="noopener noreferrer">
-	Service Providers
+<div className="title">Service Providers</div>
 	</a>
 	),
     Svg: require('@site/static/img/sps.svg').default,	
     description: (
-      <>
+    <div className="description">  <>
         <a href="/docs/intro" target="_self" rel="noopener noreferrer">
           Click here
-        </a> to read the documents that offer guidance on platform setup, user management, billing, customer support, etc.
-
-		
-		</>
-	
+        </a> to read the documents that offer guidance on platform setup, user management, billing, customer support, etc.</>
+	</div>
 	   
     ),
   },
   {
     title: (
 	<a href="/docs/Subscribers/intro" target="_self" rel="noopener noreferrer">
-	Subscribers
+	<div className="title">Subscribers</div>
 	</a>
 	),
     Svg: require('@site/static/img/sbs.svg').default,
     description: (
-      <>
+      <div className="description"> <>
        <a href="/docs/Subscribers/intro" target="_self" rel="noopener noreferrer">
           Click here
         </a> to access detailed documentation on all services supported and deliverable via the Apiculus CloudConsole.
       </>
-	 
+		</div>
 
     ),
   },
   {
     title: (
 	<a href="/docs/category/release-notes" target="_self" rel="noopener noreferrer">
-	Release Notes
+	<div className="title">Release Notes</div>
 	</a>
 	),
     Svg: require('@site/static/img/rn.svg').default,
 	
     
 	description: (
-      <>
+      <div className="description"> <>
         <a href="/docs/category/release-notes" target="_self" rel="noopener noreferrer">
           Click here 
         </a> to learn about the new features, enhancements, known issues, and bugs in all the releases till date.
       </>
+	  </div>
     ),
   },
   

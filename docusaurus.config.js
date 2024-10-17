@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Apiculus',
-  tagline: 'For the Service Providers and the Subscribers.',
+  title: 'Apiculus Documentation',
+  tagline: 'Find user guides, quickstarts, release notes, FAQs, and more for Service Providers and Subscribers.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
