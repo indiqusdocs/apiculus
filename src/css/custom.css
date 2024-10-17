@@ -212,3 +212,35 @@ img:active {
 }
 
 /* Set background image for the homepage */
+
+.hero {
+    background-image: url('DocumentationCover.webp'); /* Replace with your image path */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 38vh; /* Adjust the height as needed */
+}	
+
+.hero .button {
+    background-color: #183F7C;  /* Change the background color */
+    color: white;  /* Change the text color */
+    border-radius: 25px;  /* Make the button rounded */
+    padding: 10px 20px;  /* Adjust padding */
+    font-size: 16px;  /* Adjust font size */
+    text-transform: uppercase;  /* Make text uppercase */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);  /* Add shadow effect */
+    transition: background-color 0.3s ease;  /* Add a hover transition */
+}
+
+.hero .button:hover {
+    background-color: #183F7C;  /* Change background color on hover */
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.25);  /* Increase shadow on hover */
+}
+
+.hero__title {
+    color: #183F7C; /* Change this to your desired title text color */
+}
+
+.hero__subtitle {
+    color: #183F7C; /* Change this to your desired subtitle text color */
+}
