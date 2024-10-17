@@ -193,12 +193,13 @@ img:active {
 /* When a menu item is active, make it look like a button */
 .navbar__link--active {
   background-color: #D0EAFF;
-  color: #004080;
+  color: #004080 !important;
   border: 1px D0EAFF;
   border-radius: 35px;
   padding: 5px 10px;
 
 }
+
 /* Keep the hover color the same as the active state */
 .navbar__link--active:hover {
   background-color: #D0EAFF;
@@ -218,7 +219,7 @@ img:active {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    height: 38vh; /* Adjust the height as needed */
+    height: 32vh; /* Adjust the height as needed */
 }	
 
 .hero .button {
@@ -230,6 +231,7 @@ img:active {
     text-transform: uppercase;  /* Make text uppercase */
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);  /* Add shadow effect */
     transition: background-color 0.3s ease;  /* Add a hover transition */
+	text-transform: none;  /* Prevents capitalization */
 }
 
 .hero .button:hover {
@@ -237,10 +239,21 @@ img:active {
     box-shadow: 0 10px 10px rgba(0, 0, 0, 0.25);  /* Increase shadow on hover */
 }
 
-.hero__title {
-    color: #183F7C; /* Change this to your desired title text color */
+/* Title color for both light and dark modes */
+html .hero__title {
+     font-size: 32px; /* Title size */
+	color: #000000 !important; /* Force the title color to remain black */
 }
 
 .hero__subtitle {
-    color: #183F7C; /* Change this to your desired subtitle text color */
+    color: #334253; /* Replace with your desired description color */
+	font-size: 19px; /* Title size */
+}
+
+.title {
+  font-size: 19px;
+}
+
+.description {
+  font-size: 16px;
 }
