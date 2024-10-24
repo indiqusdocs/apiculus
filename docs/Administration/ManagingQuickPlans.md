@@ -2,10 +2,10 @@
 sidebar_position: 0
 ---
 # Managing Quick Plans
-The following are the tasks required to configure quick plans:
-1. [Setting Up a Quick Plan Category](#setting-up-a-quick-plan-category)
-2. [Creating Quick Plans](#setting-up-a-quick-plan-category)
-3. [Adding Quick Plans to a Catalogue](#adding-quick-plans-to-a-catalogue)
+The following are the tasks required to configure and manage quick plans:
+1. [Set up a Quick Plan Category](#setting-up-a-quick-plan-category)
+2. [Create Quick Plans](#setting-up-a-quick-plan-category)
+3. [Add Quick Plans to a Catalogue](#adding-quick-plans-to-a-catalogue)
 ---
 ## Setting Up a Quick Plan Category
 
@@ -38,11 +38,11 @@ Follow these steps to create a Quick Plan:
 2. Click the **+Add Quick Plan** button at the top right of the Quick Plans page. This action will open a new page with a few sections that you need to complete.
 
 The creation process is divided into five key sections.
-1. [Details Section](#details-section)
-2. [Components Section](#components-section)
-3. [Customer Input Section](#customer-input-section)
-4. [Access Fields Section](#access-fields-section)
-5. [Customer Communication Section](#customer-communication-section)
+- [Details Section](#details-section)
+- [Components Section](#components-section)
+- [Customer Input Section](#customer-input-section)
+- [Access Fields Section](#access-fields-section)
+- [Customer Communication Section](#customer-communication-section)
 
 ### Details Section
 
