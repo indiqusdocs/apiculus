@@ -32,11 +32,11 @@ On the top right corner, two quick options are available, one for accessing the 
 
 Details on available Linux Instance operations and actions can be found in their respective sections.
 
-- [Overview](ViewingDetailsofLinuxInstances)
-- [Graphs & Utilisation](ViewingGraphsandUtilizationofLinuxInstances)
-- [Alerts](ConfiguringAlertsonLinuxInstances)
-- [Volumes](VolumeManagementwithLinuxInstances)
-- [Networking](NetworkingManagementwithLinuxInstances)
-- [Snapshots](WorkingwithLinuxInstanceSnapshots)
-- [Reconfigure](ReconfiguringLinuxInstances)
-- [Operations](LinuxInstanceOperations)
+- [Overview](ViewingDetailsofLinuxInstances.md)
+- [Graphs & Utilisation](ViewingGraphsandUtilizationofLinuxInstances.md)
+- [Alerts](ConfiguringAlertsonLinuxInstances.md)
+- [Volumes](VolumeManagementwithLinuxInstances.md)
+- [Networking](NetworkingManagementwithLinuxInstances.md)
+- [Snapshots](WorkingwithLinuxInstanceSnapshots.md)
+- [Reconfigure](ReconfiguringLinuxInstances.md)
+- [Operations](LinuxInstanceOperations.md)

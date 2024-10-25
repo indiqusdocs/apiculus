@@ -1,9 +1,9 @@
 ---
 sidebar_position: 9
 ---
-# Reconfiguring Linux Instances
+# Reconfiguring RHEL Instances
 
-From [Operating Linux Instances](AboutLinuxInstances.md), navigate into a Linux Instance and access the **Reconfigure** tab to see available reconfiguration options.
+From [Operating Linux Instances](AboutRHELInstances.md), navigate into a Linux Instance and access the **Reconfigure** tab to see available reconfiguration options.
 
 A Linux Instance on Apiculus can be reconfigured in the following ways:
 
