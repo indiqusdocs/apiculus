@@ -1,9 +1,9 @@
 ---
 sidebar_position: 10
 ---
-# Linux Instance Operations
+# RHEL Instance Operations
 
-From [Operating Linux Instances](AboutLinuxInstances.md), navigate into a Linux Instance and access the **Operations** tab to see all available Instance operations.
+From [Operating Linux Instances](AboutRHELInstances.md), navigate into a Linux Instance and access the **Operations** tab to see all available Instance operations.
 
 Apiculus CloudConsole provides the options to perform common operations on Linux Instances.
 
