@@ -1,9 +1,9 @@
 ---
 sidebar_position: 3
 ---
-# Viewing Details of Linux Instances
+# Viewing Details of RHEL Instances
 
-From [Operating Linux Instances](AboutLinuxInstances.md), navigate into a Linux Instance and access the **Overview** tab to see its details.
+From [Operating Linux Instances](AboutRHELInstances.md), navigate into a Linux Instance and access the **Overview** tab to see its details.
 
 1. Configuration and Availability
     1. The instance's status, **RUNNING**, is displayed in Green, whereas STOPPED is displayed in greyed out.

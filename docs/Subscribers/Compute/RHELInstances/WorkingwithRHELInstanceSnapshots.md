@@ -1,9 +1,9 @@
 ---
 sidebar_position: 8
 ---
-# Working with Linux Instance Snapshots
+# Working with RHEL Instance Snapshots
 
-From [Operating Linux Instances](AboutLinuxInstances.md), navigate into a Linux Instance and access the **Snapshots** tab to see all the snapshots taken for this Instance.
+From [Operating Linux Instances](AboutRHELInstances.md), navigate into a Linux Instance and access the **Snapshots** tab to see all the snapshots taken for this Instance.
 
 Instance Snapshots allow you to create point-in-time images of instances that preserve all their data volume as well as (optionally) their CPU/memory states. You can use Snapshots to quickly restore Instances.
 

@@ -1,9 +1,9 @@
 ---
 sidebar_position: 5
 ---
-# Configuring Alerts on Linux Instances
+# Configuring Alerts on RHEL Instances
 
-From [Operating Linux Instances](AboutLinuxInstances.md), navigate into a Linux Instance and access the **Alerts** tab to view the configured alerts or configure new ones.
+From [Operating Linux Instances](AboutRHELInstances.md), navigate into a Linux Instance and access the **Alerts** tab to view the configured alerts or configure new ones.
 
 Alerts get triggered whenever a configured condition is met. You can create multiple alerts on an instance. Alerts are sent to recipients that you can define and manage.
 

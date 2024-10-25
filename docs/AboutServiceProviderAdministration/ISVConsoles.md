@@ -1,11 +1,11 @@
 ---
 sidebar_position: 3
 ---
-# ISV Consoles
+# Independent Software Vendor Consoles
 
-The [Apiculus solution](/docs/Introduction/BuildingBlocks) is built using an 'integrations' approach using ISV products that are enterprise-grade and deliver powerful technical orchestration capabilities.
+The [Apiculus solution](/docs/Introduction/BuildingBlocks) is built using an 'integrations' approach using Independent Software Vendor (ISV) products that are enterprise-grade and deliver powerful technical orchestration capabilities.
 
-A standard Apiculus deployment includes the following ISV on which, service provider teams get restricted access:
+A standard Apiculus deployment includes the following ISVs on which, service provider teams get restricted access:
 
 - Apache CloudStack
 - Cloudian HyperStore (if object storage is enabled)
