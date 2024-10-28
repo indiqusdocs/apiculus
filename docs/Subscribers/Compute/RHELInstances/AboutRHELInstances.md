@@ -5,10 +5,7 @@ sidebar_position: 0
 
 Instances are computing units that provide you with resources to run your applications/workloads. Red Hat Enterprise Linux (RHEL) Instances are virtual machines that run the images of RHEL Operating System.
 
-Before creating an RHEL instance, it is important to plan the architecture, networking and access to the RHEL Instances. As a thumb rule:
-
-- You can use a Basic/Flat (or elastic compute) RHEL Instance to get started quickly and set up your RHEL Instances behind apiculus Cloud’s global server load balancer (GSLB) and control access by setting up virtual firewall rules; or;
-- You can use a tiered network (or Advanced VPC, virtual private cloud) RHEL Instances to configure advanced networking and application architectures and control access by setting up access control lists.
+Before creating an RHEL instance, it is important to plan the architecture, networking and access to the RHEL Instances.
 
 Apiculus offers a highly usable and visual way of working with and operating RHEL Instances using the CloudConsole. All RHEL Instances available in your account can be accessed in the following way:
 

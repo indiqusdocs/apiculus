@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/Compute/RHELInstances/RHELInstanceOperations.md",
+                "file": "docs/Subscribers/Compute/RHELInstances/ViewingGraphsandUtilizationofRHELInstances.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RHELInstanceOperations"
+              "title": "ViewingGraphsandUtilizationofRHELInstances"
             }
           }
         ]
@@ -165,25 +165,25 @@
   },
   "active": "dfbd9fff9210ae8d",
   "lastOpenFiles": [
-    "docs/Subscribers/Compute/RHELInstances/ReconfiguringRHELInstances.md",
+    "docs/Subscribers/Compute/RHELInstances/ViewingDetailsofRHELInstances.md",
     "docs/Subscribers/Compute/RHELInstances/RHELInstanceOperations.md",
+    "docs/Subscribers/Compute/RHELInstances/ReconfiguringRHELInstances.md",
+    "docs/Subscribers/Compute/RHELInstances/NetworkingManagementwithRHELInstances.md",
+    "docs/Subscribers/Compute/RHELInstances/CreatingRHELInstances.md",
+    "docs/Subscribers/Compute/RHELInstances/ConnectingtoaRHELInstance.md",
+    "docs/Subscribers/Compute/RHELInstances/ConfiguringAlertsonRHELInstances.md",
+    "docs/Subscribers/Compute/RHELInstances/AboutRHELInstances.md",
     "docs/Subscribers/Compute/RHELInstances/img/Reconfiguring1.png",
     "docs/Subscribers/Compute/RHELInstances/img/Reconfigure1.png",
     "docs/Subscribers/Compute/RHELInstances/img/RHEL5.png",
     "docs/Subscribers/Compute/RHELInstances/WorkingwithRHELInstanceSnapshots.md",
     "docs/Subscribers/Compute/RHELInstances/VolumeManagementwithRHELInstances.md",
-    "docs/Subscribers/Compute/RHELInstances/NetworkingManagementwithRHELInstances.md",
     "docs/Subscribers/Compute/RHELInstances/ViewingGraphsandUtilizationofRHELInstances.md",
-    "docs/Subscribers/Compute/RHELInstances/ConfiguringAlertsonRHELInstances.md",
-    "docs/Subscribers/Compute/RHELInstances/ConnectingtoaRHELInstance.md",
-    "docs/Subscribers/Compute/RHELInstances/AboutRHELInstances.md",
     "docs/Subscribers/Compute/RHELInstances/img/Utilisation.png",
-    "docs/Subscribers/Compute/RHELInstances/ViewingDetailsofRHELInstances.md",
     "docs/intro.md",
     "docs/AboutServiceProviderAdministration/AdminConsole.md",
     "docs/Introduction/AccessCentral.md",
     "docs/Subscribers/Compute/RHELInstances/img/Screenshot (2).png",
-    "docs/Subscribers/Compute/RHELInstances/CreatingRHELInstances.md",
     "docs/Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoscaleGroupVMs.md",
     "docs/Administration/ManagingQuickPlans.md",
     "docs/Subscribers/Compute/Autoscale/RequirementsforAutoscale.md",

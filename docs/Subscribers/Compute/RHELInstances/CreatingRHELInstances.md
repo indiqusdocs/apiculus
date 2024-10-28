@@ -4,10 +4,6 @@ sidebar_position: 1
 # Creating RHEL Instances
 
 Before creating a RHEL instance, it is important to plan the architecture, networking and access to the RHEL Instances. As a thumb rule:
-
-- You can use a Basic/Flat  (or elastic compute) RHEL Instance to get started quickly and set up your RHEL Instances behind apiculus Cloud’s global server load balancer (GSLB) and control access by setting up virtual firewall rules; or;
-- You can use a tiered network (or Advanced VPC, virtual private cloud) RHEL Instances to configure advanced networking and application architectures and control access by setting up access control lists.
-
 ## Creating a RHEL Instance on a  Basic/Flat/EC Network
 
 To create a RHEL instance on a basic/flat networking zone, follow these steps:
