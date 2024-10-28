@@ -18,15 +18,7 @@ This displays the information that is used for internal identification of this i
 ## Security and Access Control
 Depending on the networking zone, the information and operations will be available here.
 
-If it's a VPC Networking zone, then the below information will be shown:
+The following information will be shown:
 	- Network Name
 	- VPC Name
 	- Access Control
-
-**Surjeet**: `<Is the following text correct?>` <br />
-If it’s a Basic/Flat EC networking zone, then the following information will be shown:
-	- Default Guest Network
-	- MAC Address
-	- IP Address
-	- Netmask
-	- Gateway
