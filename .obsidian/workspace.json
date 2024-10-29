@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/Compute/RHELInstances/WorkingwithRHELInstanceSnapshots.md",
+                "file": "docs/Subscribers/Compute/LinuxInstances/WorkingwithLinuxInstanceSnapshots.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WorkingwithRHELInstanceSnapshots"
+              "title": "WorkingwithLinuxInstanceSnapshots"
             }
           }
         ]
@@ -165,17 +165,27 @@
   },
   "active": "dfbd9fff9210ae8d",
   "lastOpenFiles": [
+    "docs/Subscribers/Compute/LinuxInstances/VolumeManagementwithLinuxInstances.md",
+    "docs/Subscribers/Compute/LinuxInstances/ViewingGraphsandUtilizationofLinuxInstances.md",
+    "docs/Subscribers/Compute/LinuxInstances/ViewingDetailsofLinuxInstances.md",
+    "docs/Subscribers/Compute/LinuxInstances/ReconfiguringLinuxInstances.md",
+    "docs/Subscribers/Compute/RHELInstances/ViewingDetailsofRHELInstances.md",
     "docs/Subscribers/Compute/RHELInstances/VolumeManagementwithRHELInstances.md",
     "docs/Subscribers/Compute/RHELInstances/ViewingGraphsandUtilizationofRHELInstances.md",
-    "docs/Subscribers/Compute/RHELInstances/ViewingDetailsofRHELInstances.md",
     "docs/Subscribers/Compute/RHELInstances/RHELInstanceOperations.md",
+    "docs/Subscribers/Compute/LinuxInstances/ConnectingtoaLinuxInstance.md",
+    "docs/Subscribers/Compute/LinuxInstances/ConfiguringAlertsonLinuxInstances.md",
+    "docs/Subscribers/Compute/LinuxInstances/AboutLinuxInstances.md",
+    "docs/Subscribers/Compute/RHELInstances/AboutRHELInstances.md",
+    "docs/Subscribers/Compute/RHELInstances/CreatingRHELInstances.md",
+    "docs/Subscribers/Compute/LinuxInstances/CreatingLinuxInstances.md",
+    "docs/Subscribers/Compute/LinuxInstances/LinuxInstanceOperations.md",
+    "docs/Subscribers/Compute/LinuxInstances/NetworkingManagementwithLinuxInstances.md",
+    "docs/Subscribers/Compute/RHELInstances/WorkingwithRHELInstanceSnapshots.md",
     "docs/Subscribers/Compute/RHELInstances/ReconfiguringRHELInstances.md",
     "docs/Subscribers/Compute/RHELInstances/NetworkingManagementwithRHELInstances.md",
-    "docs/Subscribers/Compute/RHELInstances/CreatingRHELInstances.md",
     "docs/Subscribers/Compute/RHELInstances/ConnectingtoaRHELInstance.md",
-    "docs/Subscribers/Compute/RHELInstances/AboutRHELInstances.md",
     "docs/Subscribers/Compute/RHELInstances/ConfiguringAlertsonRHELInstances.md",
-    "docs/Subscribers/Compute/LinuxInstances/CreatingLinuxInstances.md",
     "docs/Subscribers/Networking/FirewallandSecurity - Copy/img/DeletingaVFINetwork2.png",
     "docs/Subscribers/Networking/FirewallandSecurity - Copy/img/ViewingVFINetworkDetails2.png",
     "docs/Subscribers/Networking/FirewallandSecurity - Copy/img/ViewingVFINetworkDetails1.png",
@@ -193,16 +203,7 @@
     "docs/Subscribers/Networking/FirewallandSecurity - Copy/CreatingaVirtualFirewall.md",
     "docs/Subscribers/Networking/FirewallandSecurity - Copy/AddingInstancestoaVFI-basedNetwork.md",
     "docs/Subscribers/Networking/FirewallandSecurity - Copy/AccessingtheVFIControlPanel.md",
-    "docs/Subscribers/Networking/FirewallandSecurity - Copy/AboutFirewallInstances.md",
     "docs/Subscribers/Networking/FirewallandSecurity - Copy",
-    "docs/Subscribers/Compute/RHELInstances/WorkingwithRHELInstanceSnapshots.md",
-    "docs/intro.md",
-    "docs/AboutServiceProviderAdministration/AdminConsole.md",
-    "docs/Introduction/AccessCentral.md",
-    "docs/Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoscaleGroupVMs.md",
-    "docs/Administration/ManagingQuickPlans.md",
-    "docs/Subscribers/Compute/Autoscale/RequirementsforAutoscale.md",
-    "docs/Introduction/SupportedPaymentGateways.md",
     "build/sitemap.xml",
     "build/opensearch.xml",
     "build/docs/ServicesandSystemRequirements/ApiculusObjectStorage/FeatureListandIntegrationDetails/index.html",
@@ -210,7 +211,6 @@
     "build/docs/ServicesandSystemRequirements/ApiculusObjectStorage/FrequentlyAskedQuestions/index.html",
     "build/docs/ServicesandSystemRequirements/ApiculusObjectStorage/SystemRequirements/index.html",
     "build/docs/ServicesandSystemRequirements/ApiculusObjectStorage/AboutApiculusObjectStorage/index.html",
-    "docs/Subscribers/Compute/Autoscale/CreatingAutoscaleGroups.md",
     "Untitled.canvas"
   ]
 }
