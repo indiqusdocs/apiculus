@@ -16,9 +16,7 @@ This displays the information that is used for internal identification of this i
     -  Internal Name
     -  Created On
 ## Security and Access Control
-Depending on the networking zone, the information and operations will be available here.
-
-The following information will be shown:
+The following information is avaialble:
 	- Network Name
 	- VPC Name
 	- Access Control

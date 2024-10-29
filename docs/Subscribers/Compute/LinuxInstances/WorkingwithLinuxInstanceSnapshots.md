@@ -7,7 +7,7 @@ From [Operating Linux Instances](AboutLinuxInstances.md), navigate into a Linux 
 
 Instance Snapshots allow you to create point-in-time images of instances that preserve all their data volume as well as (optionally) their CPU/memory states. You can use Snapshots to quickly restore Instances.
 
-The Snapshots section shows all Linux Instance snapshots, which can be used to revert the Linux Instances to an earlier state.
+The Snapshots section shows all the Linux Instance snapshots, which can be used to revert the Linux Instances to an earlier state.
 
 ![Linux Instance Snapshots](img/Snapshots.png)
 

@@ -8,7 +8,7 @@ From [Operating Linux Instances](AboutLinuxInstances.md), navigate into a Linux 
 Apiculus CloudConsole provides the options to perform common operations on Linux Instances.
 
 - **Restart Instance** - Use this option to perform a quick reboot on your Instance. This is a simple restart, and no data will be lost.
-- **Force Stop Instance**- to forcefully stop a running or a hung Linux Instance.
+- **Force Stop Instance** - to forcefully stop a running or a hung Linux Instance.
 - **Reset Password**- to reset the Linux Instances root user password. This requires the Linux Instance to be powered off.
 - **Reset SSH Key** - to (re)set the Linux Instances SSH key association. This requires the Linux Instance to be powered off.
 - **Rename Instance** - to rename the Linux Instance.
