@@ -9,7 +9,7 @@ Instance Snapshots allow you to create point-in-time images of instances that pr
 
 The Snapshots section shows all RHEL Instance snapshots, which can be used to revert the RHEL Instances to an earlier state.
 
-![Linux Instance Snapshots](img/Snapshots.png)
+![RHEL Instance Snapshots](img/Snapshots.png)
 
 Snapshot will list down the following details:
 
@@ -26,4 +26,4 @@ To create a snapshot:
 2. Enter the name of the snapshot and the description of the snapshot.
 3. Click on **Create**. 
 
-![Linux Instance Snapshots](img/Snapshots2.png)
+![RHEL Instance Snapshots](img/Snapshots2.png)

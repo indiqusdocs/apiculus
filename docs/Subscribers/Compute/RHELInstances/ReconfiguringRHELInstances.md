@@ -11,7 +11,7 @@ A RHEL Instance on Apiculus can be reconfigured in the following ways:
 - Choosing and applying a new Compute pack.
 - Choosing and applying a new Root Disk pack.
 
-![Reconfiguring Linux Instances](img/Reconfiguring1.png)
+![Reconfiguring RHEL Instances](img/Reconfiguring1.png)
 
 :::note
 You can only reconfigure with the same billing interval. If you wish just to change the billing interval, please use the Switch Plan button. We recommend switching the plan first before reconfiguring the Instance if you wish to use both the Reconfigure and Switch Plan options. You will be charged as per the pack you have reconfigured, not based on the older pack.
