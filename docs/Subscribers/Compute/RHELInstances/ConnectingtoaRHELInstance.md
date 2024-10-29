@@ -7,7 +7,7 @@ You can connect to RHEL Instances via SSH sessions using passwords (less secure)
 
 ## Connecting from a Windows Machine
 
-To connect to your Linux Instance from a Windows machine, you will need to use an application called PuTTy, an SSH client.
+To connect to your RHEL Instance from a Windows machine, you will need to use an application called PuTTy, an SSH client.
 
 1. [Download and install PuTTy.](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 2. Launch PuTTy on your computer.

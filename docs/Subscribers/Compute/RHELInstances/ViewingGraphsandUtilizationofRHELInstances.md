@@ -16,11 +16,11 @@ The following graphs are available on a 24-hour time-scale graph with a 30-day t
 - Network Input
 - Network Output
 
-![Viewing Graphs and Utilization of Linux Instances](img/ViewingGraphs.png)
+![Viewing Graphs and Utilization of RHEL Instances](img/ViewingGraphs.png)
 
 ## Utilisation (Historical)
 
 Navigate into a [RHEL Instance](AboutRHELInstances.md) and access the **Utilisation** tab to view historical usage across supported parameters. 
-![Utilization of Linux Instances](img/Utilisation.png)
+![Utilization of RHEL Instances](img/Utilisation.png)
 
 The Utillisation table shows a historical date-wise details of daily maximum, minimum, and average readings for all parameters. The utilisation report is downloadable as a _.csv_ file. 
