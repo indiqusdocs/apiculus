@@ -11,11 +11,10 @@ To connect to your Linux Instance from a Windows machine, you will need to use a
 
 1. [Download and install PuTTy.](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 2. Launch PuTTy on your computer.
-3. You now need to enter your Instance’s IP address in the Hostname field.
-	1. You need to navigate to the Auth sub-category under Connection from the side menu (Connection —> SSH —> Auth)
-4. Next step is to click the Browse button and select the private key file you that you had already generated.
-5. Click Open at the bottom of the screen to open a connection to the Instance. PuttY asks you to allow the connection to the host.
-6. Click OK to confirm and the terminal window will be displayed.
+3. You now need to enter your Instance’s IP address in the Hostname field. You need to navigate to the Auth sub-category under Connection from the side menu (**Connection** > **SSH** > **Auth**.)
+4. Click the **Browse** button and select the private key file you that you had already generated.
+5. Click **Open** at the bottom of the screen to open a connection to the Instance. PuttY asks you to allow the connection to the host.
+6. Click **OK** to confirm and the terminal window will be displayed.
 7.  Then enter the default root user name (typically _**ubuntu**_ for Ubuntu images and _**root**_ for all other Linux OS images) and press Enter to authenticate against the server with your SSH key.
 
 You are now connected to your Instance.
@@ -31,10 +30,10 @@ You are now connected to your Instance.
 
 3. If/when prompted, allow connection to the host by typing **_yes_**, then press **Enter**.
 
-```
-The authenticity of host 'myhost.ext (212.47.206.34)' can't be established.  
-RSA key fingerprint is 4f:ba:65:cf:14:64:a7:1e:b6:07:7c:00:71:95:21:fa.
-Are you sure you want to continue connecting (yes/no)?
-
-You are now connected to your Instance.
-```
+	```
+	The authenticity of host 'myhost.ext (212.47.206.34)' can't be established.  
+	RSA key fingerprint is 4f:ba:65:cf:14:64:a7:1e:b6:07:7c:00:71:95:21:fa.
+	Are you sure you want to continue connecting (yes/no)?
+	
+	You are now connected to your Instance.
+	```
