@@ -3,10 +3,9 @@ sidebar_position: 1
 ---
 # Creating RHEL Instances
 
-Before creating a RHEL instance, it is important to plan the architecture, networking and access to the RHEL Instances. As a thumb rule:
-## Creating a RHEL Instance on a  Basic/Flat/EC Network
+Before creating a RHEL instance, it is important to plan the architecture, networking and access to the RHEL Instances. 
 
-To create a RHEL instance on a basic/flat networking zone, follow these steps:
+To create a RHEL instance, follow these steps:
 
 1. Navigate to **Compute > RHEL Instances**.
    ![RHEL Instances](img/RHEL1.png)
