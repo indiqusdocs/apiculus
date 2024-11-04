@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/Compute/LinuxInstances/AboutLinuxInstances.md",
+                "file": "docs/Subscribers/Compute/LinuxInstances/CreatingLinuxInstances.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AboutLinuxInstances"
+              "title": "CreatingLinuxInstances"
             }
           }
         ]
@@ -165,21 +165,25 @@
   },
   "active": "dfbd9fff9210ae8d",
   "lastOpenFiles": [
-    "docs/Subscribers/Compute/LinuxInstances/ConfiguringAlertsonLinuxInstances.md",
+    "docs/Subscribers/Compute/LinuxInstances/ViewingDetailsofLinuxInstances.md",
+    "docs/Subscribers/Compute/RHELInstances/ViewingDetailsofRHELInstances.md",
+    "docs/Subscribers/Compute/LinuxInstances/ConnectingtoaLinuxInstance.md",
+    "docs/Subscribers/Compute/LinuxInstances/CreatingLinuxInstances.md",
+    "docs/Subscribers/Compute/LinuxInstances/img/putty1.png",
+    "docs/Subscribers/Compute/LinuxInstances/img/putty1.png.crdownload",
+    "docs/Subscribers/Compute/LinuxInstances/img/putty2.png",
+    "docs/Subscribers/Compute/LinuxInstances/img/putty2.png.crdownload",
     "docs/Subscribers/Compute/LinuxInstances/AboutLinuxInstances.md",
+    "docs/Subscribers/Compute/LinuxInstances/ConfiguringAlertsonLinuxInstances.md",
     "docs/Subscribers/Compute/LinuxInstances/WorkingwithLinuxInstanceSnapshots.md",
     "docs/Subscribers/Compute/LinuxInstances/VolumeManagementwithLinuxInstances.md",
     "docs/Subscribers/Compute/LinuxInstances/ViewingGraphsandUtilizationofLinuxInstances.md",
-    "docs/Subscribers/Compute/LinuxInstances/ViewingDetailsofLinuxInstances.md",
     "docs/Subscribers/Compute/LinuxInstances/ReconfiguringLinuxInstances.md",
-    "docs/Subscribers/Compute/RHELInstances/ViewingDetailsofRHELInstances.md",
     "docs/Subscribers/Compute/RHELInstances/VolumeManagementwithRHELInstances.md",
     "docs/Subscribers/Compute/RHELInstances/ViewingGraphsandUtilizationofRHELInstances.md",
     "docs/Subscribers/Compute/RHELInstances/RHELInstanceOperations.md",
-    "docs/Subscribers/Compute/LinuxInstances/ConnectingtoaLinuxInstance.md",
     "docs/Subscribers/Compute/RHELInstances/AboutRHELInstances.md",
     "docs/Subscribers/Compute/RHELInstances/CreatingRHELInstances.md",
-    "docs/Subscribers/Compute/LinuxInstances/CreatingLinuxInstances.md",
     "docs/Subscribers/Compute/LinuxInstances/LinuxInstanceOperations.md",
     "docs/Subscribers/Compute/LinuxInstances/NetworkingManagementwithLinuxInstances.md",
     "docs/Subscribers/Compute/RHELInstances/WorkingwithRHELInstanceSnapshots.md",
@@ -195,22 +199,17 @@
     "docs/Subscribers/Networking/FirewallandSecurity - Copy/img/DeletingaVFINetwork1.png",
     "docs/Subscribers/Networking/FirewallandSecurity - Copy/img/CreatingaVirtualFirewall9.png",
     "docs/Subscribers/Networking/FirewallandSecurity - Copy/img/CreatingaVirtualFirewall8.png",
-    "docs/Subscribers/Networking/FirewallandSecurity - Copy/img/CreatingaVirtualFirewall7.png",
-    "docs/Subscribers/Networking/FirewallandSecurity - Copy/img/CreatingaVirtualFirewall6.png",
     "docs/Subscribers/Networking/FirewallandSecurity - Copy/ViewingVFINetworkDetails.md",
     "docs/Subscribers/Networking/FirewallandSecurity - Copy/DeletingaVFINetwork.md",
     "docs/Subscribers/Networking/FirewallandSecurity - Copy/_category_.json",
     "docs/Subscribers/Networking/FirewallandSecurity - Copy/img",
     "docs/Subscribers/Networking/FirewallandSecurity - Copy/CreatingaVirtualFirewall.md",
-    "docs/Subscribers/Networking/FirewallandSecurity - Copy/AddingInstancestoaVFI-basedNetwork.md",
     "docs/Subscribers/Networking/FirewallandSecurity - Copy",
     "build/sitemap.xml",
     "build/opensearch.xml",
     "build/docs/ServicesandSystemRequirements/ApiculusObjectStorage/FeatureListandIntegrationDetails/index.html",
     "build/docs/ServicesandSystemRequirements/LoadBalancerInstances/SystemRequirements/index.html",
     "build/docs/ServicesandSystemRequirements/ApiculusObjectStorage/FrequentlyAskedQuestions/index.html",
-    "build/docs/ServicesandSystemRequirements/ApiculusObjectStorage/SystemRequirements/index.html",
-    "build/docs/ServicesandSystemRequirements/ApiculusObjectStorage/AboutApiculusObjectStorage/index.html",
     "Untitled.canvas"
   ]
 }
