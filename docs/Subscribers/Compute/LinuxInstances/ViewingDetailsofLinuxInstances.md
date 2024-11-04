@@ -7,7 +7,7 @@ From [Operating Linux Instances](AboutLinuxInstances.md), navigate into a Linux 
 
 ## Configuration and Availability
 
-- The instance's status, **RUNNING**, is displayed in Green, whereas STOPPED is displayed in greyed out.
+- The instance's status, **RUNNING**, is displayed in <span class="green">**green**</span>, whereas STOPPED is displayed in greyed out.
 - Information about the networking zone.
 
 ![Viewing Details of Linux Instances](img/ViewingDetailsofLinuxInstances1.png)
