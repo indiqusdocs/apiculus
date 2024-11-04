@@ -11,16 +11,21 @@ The Snapshots section shows all the Linux Instance snapshots, which can be used 
 
 ![Linux Instance Snapshots](img/Snapshots.png)
 
-Snapshot will list down the following details:
+A snapshot lists the following details:
 
 - Snapshot Name
-- Description
 - Internal Name
+- Description
 - Type
 - Created On
 
-Two quick options are available, one is to revert the Instance from the snapshot, and the other is to delete the particular snapshot.
-
-To create a snapshot, please click on the **CREATE SNAPSHOT** button and it will ask you for the name of the snapshot and the description of the snapshot click on create the snapshot will be created, and if you click on cancel the action will be canceled.
+The following quick options are available:
+- Revert the Instance from the snapshot
+- Delete the snapshot
+## Creating a Snapshot
+To create a snapshot, follow these steps:
+1. Click on the **CREATE SNAPSHOT** button. The Take Snapshot window appears.
+2. Enter the name of the snapshot and the description of the snapshot. 
+3. Click on the Create button. The snapshot will be created.
 
 ![Linux Instance Snapshots](img/Snapshots2.png)

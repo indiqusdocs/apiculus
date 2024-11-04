@@ -17,7 +17,7 @@ To connect to your Linux Instance from a Windows machine, you will need to use a
 4. Navigate to **Connection** > **SSH** > **Auth**.
 
 	  ![Putty](img/putty2.png)
-1. Click the **Browse** button and select the private key file you that you had already generated.
+1. Click the **Browse** button and select the private key file that you had already generated.
 2. Click **Open** at the bottom of the screen to open a connection to the Instance. PuttY prompts you to allow the connection to the host.
 3. Click **OK** to confirm and the terminal window will be displayed.
 4. Enter the default root user name (typically **ubuntu** for Ubuntu images and **root** for all other Linux OS images) and press **Enter** to authenticate against the server with your SSH key.
@@ -27,10 +27,14 @@ You are now connected to your Instance.
 ## Connect from a macOS or Linux Machine
 
 1. Open any terminal program.
-2. Enter the command below into the terminal. Make sure you replace _your_private_key_ with the filename of your private key; _your_instance_ip_ with the IP address of your Instance; and _username_ with the default root user name (typically **ubuntu** for Ubuntu images and **root** for all other Linux OS images).
+2. Enter the following command below into the terminal. 
+   
+   :::important 
+   Make sure you replace `<your_private_key>` with the filename of your private key; `<your_instance_ip>` with the IP address of your Instance; and `<username>` with the default root user name (typically **ubuntu** for Ubuntu images and **root** for all other Linux OS images).
+   :::
 
 	```
-	ssh -i ~/.ssh/**your_private_key** **username**@**your_instance_ip**
+	ssh -i ~/.ssh/<your_private_key> <username>@<your_instance_ip>
 	```
 
 3. If/when prompted, allow connection to the host by typing **yes**, then press **Enter**.
