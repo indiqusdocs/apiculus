@@ -3,7 +3,12 @@ sidebar_position: 3
 ---
 # Viewing Details of RHEL Instances
 
-Navigate to a [RHEL Instance](AboutRHELInstances.md) and access the **Overview** tab to see its details.
+From [RHEL Instance](AboutRHELInstances.md) navigate into a RHEL Instance and access the **Overview** tab to see the following details:
+
+- [Configuration and Availability](#configuration-and-availability)
+- [Internal Information](#internal-information)
+- [Security and Access Control](#security-and-access-control)
+---
 ## Configuration and Availability
 - The instance's status, **RUNNING**, is displayed in <span class="green">**green**</span>, whereas STOPPED is displayed in greyed out.
 - Information about the networking zone, whether it is a VPC networking zone or a Basic/Flat/EC networking zone.
