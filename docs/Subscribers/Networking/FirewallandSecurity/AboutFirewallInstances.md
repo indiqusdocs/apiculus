@@ -16,7 +16,7 @@ Currently, VFI is an experimental Service on Apiculus and there are a few limita
 
 Apiculus offers the following features in its current scope:
 
-- [Creating a Virtual Firewall Instance](CreatingaVirtualFirewall)
+- [Creating a Virtual Firewall Instance](docs/Subscribers/Networking/FirewallandSecurity/CreatingaVirtualFirewall.md)
 - [Creating a VFI-based network](AddingInstancestoaVFI-basedNetwork)
 - [Activating and accessing the VFI control panel](AccessingtheVFIControlPanel)
 - [Viewing VFI network details](ViewingVFINetworkDetails)
