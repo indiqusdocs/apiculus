@@ -9,6 +9,13 @@ To manage a NAT gateway, follow these steps:
    ![Manage NAT gateway](img/NAT1.png)
 2. Click on a gateway from the list. The following screen appears:
    ![Manage NAT gateway](img/NAT2.png)
+
+The gateways show the details under the following categories:
+
+- [Overview](#overview)
+- [Instances](#instances)
+- [IPv4 Addresses](#ipv4-addresses)
+- [Operations](#operations)
 ## Overview
 Navigate to the **Overview** tab to view the following details:
 - Configuration and Availability
