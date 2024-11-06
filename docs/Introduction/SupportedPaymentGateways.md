@@ -18,7 +18,7 @@ The following payment gateways are supported on Apiculus to receive payments:
 - [PayTM (India)](https://paytm.com/)
 - [PayTabs (Global)](https://www.paytabs.com/login)
 - [Hyperpay (MENA)](https://wordpresshyperpay.docs.oppwa.com/integrations/widget)
-- [HDFC](https://hdfc.com))
+- [HDFC](https://hdfc.com)
 - DataWorld (Nepal) - In-house Gateway for DataWorld. Not available globally.
 
 :::note
