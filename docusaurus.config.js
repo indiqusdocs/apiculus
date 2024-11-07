@@ -87,7 +87,14 @@ stylesheets: [
       }),
     ],
   ],
-
+plugins: [
+[
+require.resolve("@easyops-cn/docusaurus-search-local"),
+{
+	hashed: true,
+},
+],
+],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -207,7 +214,7 @@ stylesheets: [
       },
 	  */
 	  
-	  // Algolia Search is here.
+	  /* Algolia Search is here.
 	 
 	  
 	  algolia: {
@@ -219,6 +226,7 @@ stylesheets: [
       facetFilters: ["keywords"]
       }
     },
+	*/
 	
       prism: {
         theme: prismThemes.github,
