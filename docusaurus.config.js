@@ -70,13 +70,11 @@ stylesheets: [
             xslt: true,
           },
 		  
-	
-		
 		
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
     //      editUrl:
-      //      'https://github.com/imyogeshs/apiculus',
+      //      'https://github.com/indiqus/docs',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -89,7 +87,14 @@ stylesheets: [
       }),
     ],
   ],
-
+plugins: [
+[
+require.resolve("@easyops-cn/docusaurus-search-local"),
+{
+	hashed: true,
+},
+],
+],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -209,7 +214,7 @@ stylesheets: [
       },
 	  */
 	  
-	  // Algolia Search is here.
+	  /* Algolia Search is here.
 	 
 	  
 	  algolia: {
@@ -221,6 +226,7 @@ stylesheets: [
       facetFilters: ["keywords"]
       }
     },
+	*/
 	
       prism: {
         theme: prismThemes.github,

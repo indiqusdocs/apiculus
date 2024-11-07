@@ -16,10 +16,10 @@ The following payment gateways are supported on Apiculus to receive payments:
 - [Esewa (Nepal)](https://esewa.com.np/)
 - [Fortis (USA)](https://fortispay.com/)
 - [PayTM (India)](https://paytm.com/)
-- [PayTabs (Global)](https://paytm.com/)
-- [DataWorld](https://paytm.com/)[(Nepal)](https://esewa.com.np/)
-- [Hyperpay](https://paytm.com/)[(MENA)](https://esewa.com.np/)
-- [HDFC](https://paytm.com/)[(India)](https://esewa.com.np/)
+- [PayTabs (Global)](https://www.paytabs.com/login)
+- [Hyperpay (MENA)](https://wordpresshyperpay.docs.oppwa.com/integrations/widget)
+- [HDFC](https://hdfc.com)
+- DataWorld (Nepal) - In-house Gateway for DataWorld. Not available globally.
 
 :::note
 Apiculus supports the listed payment gateways in a **redirect** mode. Currently, auto-debits and recurring payments are not supported.
