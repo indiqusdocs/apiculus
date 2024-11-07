@@ -5,7 +5,7 @@ sidebar_position: 2
 
 ## Software Version
 
-The required version may vary depending on the HyperStore release. The recommended version is Cloudian HyperStore Version  7.4.1.
+The required version may vary depending on the HyperStore release. The recommended version is Cloudian HyperStore Version 7.4.1.
 
 ## Management VM Requirements
 
@@ -29,7 +29,7 @@ Cloudian HyperStore can be deployed as a software-defined storage solution on in
 
 ### Operating System Requirements
 
-To perform a fresh installation of HyperStore 7.4.1, you must have an RHEL 7. x or CentOS 7. x Linux operating system on each host.
+To perform a fresh installation of HyperStore 7.4.1, you must have an RHEL 7. x or CentOS 7. x Linux Operating System on each host.
 
 ## HyperStore License
 

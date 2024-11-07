@@ -5,7 +5,7 @@ sidebar_position: 1
 
 The profile consists of all the service provider (SP) details; admins can configure all the details straight from the name of the cloud they will offer as to the address. 
 
-To manage the service provider profile, navigate to **Administration** > **Settings**. The following screen appears:
+To manage the service provider profile, navigate to **Administration** > **Settings**.
 ![Managing Service Provider Profile](img/ConfiguringProfile1.png)
 
 The following screen appears:
