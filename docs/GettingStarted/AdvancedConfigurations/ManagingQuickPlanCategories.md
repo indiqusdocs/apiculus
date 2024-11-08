@@ -1,12 +1,12 @@
 ---
 sidebar_position: 2
 ---
-# Managing QuickPlan Categories
+# Managing Quick Plan Categories
 
-Apiculus QuickPlan categories can be set up and managed from **Settings > QuickPlans**. These categories allow for grouping QuickPlans visually and semantically under the 'Other Services' marketplace/section on Apiculus CloudConsole.
+Apiculus Quick Plan categories can be set up and managed from **Settings > Quick Plans**. These categories allow for grouping Quick Plans visually and semantically under the 'Other Services' marketplace/section on Apiculus CloudConsole.
 
 ![Managing QuickPlan Categories](img/ManagingQuickPlanCategories.png)
 
 :::note
-Once created, a QuickPlan category can not be deleted.
+Once created, a Quick Plan category can not be deleted.
 :::
