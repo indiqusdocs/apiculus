@@ -7,7 +7,7 @@ AWS Linkage is delivered as an integration with Amazon Web Services. The integra
 
 ## Standard Integration Touchpoints
 - **Account Creation** - As end-users opt for the AWS Linkage, the user's AWS account is linked to the service provider's AWS Organisation account. This allows the service provider to raise invoices to the end-users.
-- **Cataloguing** - This service will be part of the catalogue, (i.e. the service provider configures from where to deliver the service and what price to deliver the service.)
+- **Cataloguing** - This service will be part of the catalogue, (that is, the service provider configures from where to deliver the service and what price to deliver the service.)
 - **Account-level Billing** - All the usage generated on AWS will be available as an invoice on Apiculus, with the service provider as the biller.
 
 ## Specific Integration Touchpoints

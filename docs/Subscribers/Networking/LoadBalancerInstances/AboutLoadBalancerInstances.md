@@ -8,7 +8,7 @@ The Apiculus Load Balancer Instances (LBI) Service allows CloudConsole users to 
 The following management features are supported on Apiculus CloudConsole:
 
 - [Creating Load Balancer Instance inside a VPC](CreatingaLoadBalancerInstance)
-- [Accessing the NetScaler VPX Control Panel](ActivatingtheNetScalerVPX)
+- [Activating the NetScaler VPX Control Panel](ActivatingtheNetScalerVPX)
 
 :::note
 Apiculus LBI is an experimental feature.

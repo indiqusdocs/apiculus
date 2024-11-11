@@ -7,7 +7,7 @@ Apiculus admin console allows service providers to use any of the available paym
 
 ## Enabling and Disabling Payment Gateways
 
-To enable a payment gateway from the list of available gateways, navigate to **Settings >Financials & Business > Payment Gateways** from the user menu on the top right in the admin console. By default the payment gateway switch will be disabled. Once enabled, the available options will get enabled and can be selectively switched ON or OFF.
+To enable a payment gateway from the list of available gateways, navigate to **Settings > Financials & Business > Payment Gateways** from the user menu on the top right in the admin console. By default, the payment gateway switch will be disabled. Once enabled, the available options will get enabled and can be selectively switched ON or OFF.
 
 ![Enabling and Disabling Payment Gateways](img/ManagingPaymentGateways1.png)
 
@@ -16,6 +16,5 @@ Apiculus only supports payment gateways as integrations. Obtaining the correct c
 :::
 
 The subscriber users will see a list of all enabled gateways to choose from.
-
 ![Enabling and Disabling Payment Gateways](img/ManagingPaymentGateways2.png)
 

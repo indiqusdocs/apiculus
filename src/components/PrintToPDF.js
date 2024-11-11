@@ -14,7 +14,7 @@ const PrintToPDF = () => {
         onClick={handlePrint}
         className={styles.printButton}
         aria-label="Print to PDF"
-        title="Print to PDF" // Tooltip for better UX
+        title="Print" // Tooltip for better UX
       >
         <AiOutlinePrinter size={24} /> {/* Print icon with size */}
       </button>

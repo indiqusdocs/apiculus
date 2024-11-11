@@ -8,7 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Apiculus Documentation',
+  title: 'Apiculus Technical Documentation',
   tagline: 'Find user guides, quickstarts, release notes, FAQs, and more for Service Providers and Subscribers.',
   favicon: 'img/favicon.ico',
 
@@ -20,8 +20,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Apiculus', // Usually your GitHub org/user name.
-  projectName: 'Technical Documentation', // Usually your repo name.
+  organizationName: '', // Usually your GitHub org/user name.
+  projectName: '', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -97,6 +97,7 @@ require.resolve("@easyops-cn/docusaurus-search-local"),
 ],
 
   themeConfig:
+  
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
 		docs: {
