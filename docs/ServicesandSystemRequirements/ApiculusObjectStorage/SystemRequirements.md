@@ -15,7 +15,7 @@ Cloudian HyperStore can be deployed as a software-defined storage solution on in
 
 - 1 CPU, 8 cores 
 - 64GB RAM
-- 2 x 300GB SSD (for RAID-1 mirrored hosting of the OS as well as Cassandra and Redis databases storing system metadata) l 
+- 2 x 300GB SSD (for RAID-1 mirrored hosting of the OS as well as Cassandra and Redis databases storing system metadata) 
 - 12 x 4TB HDD (for ext4 file systems storing object data) (JBOD, no RAID)
 - 2x10GbE Ports
 

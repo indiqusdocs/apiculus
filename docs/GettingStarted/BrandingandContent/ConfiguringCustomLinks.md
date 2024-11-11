@@ -9,8 +9,7 @@ You can add custom links such as demo videos, help guides, etc. These custom lin
 
 1. Navigate to **Administration** > **Settings** > **Links**. The following screen appears:
    ![Custom Links](img/customlinks.png)
-   
-1. Click on the **Add New** button. The Add New Link window opens.
+2. Click on the **Add New** button. The Add New Link window opens.
     ![Custom Links](img/customlinks1.png)
 3. Enter the **Display Name** and the **Target URL**.
 4. Click **Confirm**.

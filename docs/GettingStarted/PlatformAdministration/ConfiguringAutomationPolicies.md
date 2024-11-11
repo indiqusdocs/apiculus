@@ -6,16 +6,15 @@ sidebar_position: 4
 Apiculus allows service providers to define automation policies and workflows to handle scenarios around invoice reminders, non-payments, and customer identity verification.
 
 Navigate to **Administration** > **Settings** > **Automation** to configure automation policies.
-
 ![Configuring Automation Policies](img/ConfiguringAutomationPolicies1.png)
 
 ## Creating an Automation Policy
 
 Account actions can be automated by creating automation policies that trigger an action based on a trigger condition. These policies can be created globally, which are applied to all new subscriber accounts and can also be overridden for individual accounts.
 
-1. To create a new automation policy, click on **Add New** button.   ![Configuring Automation Policies](img/ConfiguringAutomationPolicies2.png)
-   
-	The Create Automation Policy screen opens:
+1. To create a new automation policy, click on **Add New** button.
+      ![Configuring Automation Policies](img/ConfiguringAutomationPolicies2.png)
+2. The Create Automation Policy screen opens:
 	  ![Configuring Automation Policies](img/ConfiguringAutomationPolicies3.png)
 1. Enter the desired **Policy Name**.
 2. Select the **Policy Type**. The following are the available options:
@@ -30,7 +29,7 @@ The actions are triggered when the configured conditions are met.
 
 Click on **Add New Condition** and select a condition from the drop-down list.
 ### Dunning Conditions
-The following conditions are available when you select the Policy Type as Dunning.
+The following conditions are available when you select **Dunning** as the **Policy Type**.
 
 - Due date expiry of an invoice
 - Negative service balance
@@ -46,7 +45,7 @@ The following is an example of a configured **Dunning** condition trigger that
 ![Configuring Automation Policies](img/ConfiguringAutomationPolicies6.png)
 
 ### Trial Conditions
-The following conditions are available when you select the Policy Type as Trial.
+The following conditions are available when you select **Trial** as the **Policy Type**.
 
 - Account Trial Period Beginning
 - Account Trial Period Expiry
@@ -58,7 +57,7 @@ The following conditions are available when you select the Policy Type as Trial.
 ![Configuring Automation Policies](img/ConfiguringAutomationPolicies5.png)
 
 ### KYC Conditions
-The following conditions are available when you select the Policy Type as Dunning.
+The following conditions are available when you select the **KYC** as the **Policy Type**.
 
 - No. of days without account verification.
 

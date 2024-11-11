@@ -14,14 +14,14 @@ This section does not support adding new currencies. These settings are only for
 The following settings can be controlled for configured currencies:
 
 - **Currency** - The configured currency
-- **ISO Code** - Specify the ISO code for the currency, e.g., USD, GBP, etc.
-- **Name** - Specify the currency name as singular, e.g., Dollar, Pound, etc.
-- **Subunit** - Specify the currency name as singular, e.g., Cent, Pence, etc.
-- **Subunit Conversion** - The conversion subunit value.
+- **ISO Code** - Specify the ISO code for the currency (USD, GBP, etc.)
+- **Name** - Specify the currency name as singular (Dollar, Pound, etc.)
+- **Subunit** - Specify the currency name as singular (Cent, Pence, etc.)
+- **Subunit Conversion** - The conversion sub unit value
 - **Thousand Separator** - Select the separator;  it can be (. )and (,)
-- **Decimal** - Select the decimal place; it can be (. )and (,)
-- **Precision** - Select the precision value with values 0,1,2,3, and as required
-- **Vedic** - Select if Vedic is needed (x,xx,xxx vs x,xxx,xxx)
+- **Decimal** - Select the decimal place; it can be (. ) and (,)
+- **Precision** - Select the precision value with values 0, 1, 2, 3, and as required
+- **Vedic** - Select if Vedic is needed (x,xx,xxx vs. x,xxx,xxx)
 
 ![Currency Localisation](img/CurrencyLocalisation.png)
 

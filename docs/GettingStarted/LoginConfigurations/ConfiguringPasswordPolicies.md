@@ -6,9 +6,9 @@ Apiculus platform admins can set up password policies from **Administration** >
 
 - Minimum Password Length 
 - Maximum Password Length 
-- Password Lifespan Days (the number of days after which password needs to be reset).
-- Failed Attempts For Lockout  (failed attempts after which the account should be locked out).
-- Last Passwords To Restrict (the number of last-used passwords that can not be reused).
+- Password Lifespan Days (the number of days after which password needs to be reset)
+- Failed Attempts For Lockout  (failed attempts after which the account should be locked out)
+- Last Passwords To Restrict (the number of last-used passwords that can not be reused)
 - Account Recovery (account recovery via email and mobile; mobile available if SMS gateway is set up)
 
 ![PasswordPolicies.png](img/PasswordPolicies.png)

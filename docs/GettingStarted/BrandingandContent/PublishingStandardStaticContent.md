@@ -18,10 +18,8 @@ To update the standard content/policies:
 	- **Service Level Agreement** 
 	- **End User License Agreement**
 	- **Privacy Policy**  
-1. Make the desired changes.
-2. Click on **Save and Update**. The following screen opens:
-   ![Publishing](img/Publishing2.png)
-
+3. Make the desired changes.
+4. Click on **Save and Update**. The following screen opens:   ![Publishing](img/Publishing2.png)
 4. Select **Update Type** (**New version** or **Modified version**) and the document update date.
 5. Click on **Confirm**. 
 
