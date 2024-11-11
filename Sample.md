@@ -52,17 +52,41 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 <Tabs>
-  <TabItem value="apple" label="Apple" default>
-    This is an apple 🍎
-  </TabItem>
-  <TabItem value="orange" label="Orange">
-    This is an orange 🍊
-  </TabItem>
-  <TabItem value="Code" label="Code">
-    ```jsx title="/src/components/HelloCodeTitle.js"
-function HelloCodeTitle(props) {
-  return <h1>Hello, {props.name}</h1>;
+  <TabItem value="Body" label="Body" default>
+      ```jsx title="JSON"
+{ 
+"email": "sample@gmail.com", 
+"password": "Py%@hTff3"
 }
+```
+  </TabItem>
+  <TabItem value="ResponseJSON" label="Response JSON">
+      ```jsx title="JSON"
+{
+   "httpStatus": 200,
+   "success": true,
+   "result": {
+       "token": "<user_token>",
+       "onboarded": true,
+       "account_type": 0,
+       "currency": "INR",
+       "last_logged_in": "2022-12-09T06:36:51.000Z",
+       "paymentCurrency": "INR"
+   }
+}
+```
+  </TabItem>
+  <TabItem value="AccountTypes" label="Account Types">
+  ```jsx title="JSON"
+0: Retail user (subscriber), created from the self-service signup UI
+1: Enterprise user (subscriber), created using API or with admin intervention on the UI
+11: Admin user, can be created from the SP admin UI.
+12: Superadmin user, can not be created from the UI or using API.
+```
+  </TabItem>
+</Tabs>
+
+
 ```
   </TabItem>
 </Tabs>
