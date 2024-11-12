@@ -22,6 +22,7 @@ Navigate to the **Overview** tab to view the following details:
 - Internal Information
 
 To power off the virtual router, click on the **Powered On** button. The Stop Virtual Router window appears that lets you stop the virtual router. To power on a virtual router, click the **Powered Off** button.
+
    ![Manage NAT gateway](img/NAT3.png)
 ## Instances
 This section lists all the instances that are a part of this Virtual Firewall.
@@ -44,7 +45,7 @@ You can add additional public IPv4 addresses to configure load balancers, port f
    ![Manage NAT gateway](img/NAT4a.png)
 2. Enter the details as shown to create a new firewall rule.
 	1. Select Traffic Rule from the drop-down list.
-	2. Enter the Source CIRD.
+	2. Enter the Source CIDR.
 	3. Select the Protocol from the drop-down list.
 	4. Enter the Start Port. 
 	5. Enter the End Port.
@@ -52,7 +53,7 @@ You can add additional public IPv4 addresses to configure load balancers, port f
     ![Manage NAT gateway](img/NAT4aa.png)
 
 ### Managing Port Forwarding Rules
-1. Click on the **Firewall Rules** icon.
+1. Click on the **Port Forwarding Rule** icon.
    ![Manage NAT gateway](img/NAT4b.png)
 	The following screen appears where you can view the already created port forwarding rules.
 	

@@ -40,6 +40,7 @@ h1, h2, h3, h4, h5, h6 {
 /* Set Open Sans font for all body text */
 body {
   font-family: Poppins, 'Open Sans Medium', sans-serif;
+  font-size: 14px; /* You can adjust the size as needed */
 }
 
 /* Set H1 color to navy and font size to 28px */
@@ -58,12 +59,12 @@ h3 {
   font-size: 16px;
 }
 
-body {
-  font-size: 14px; /* You can adjust the size as needed */
+/* Dark mode heading color */
+[data-theme='dark'] h1
+{
+  color: #a3d1ff; /* White text for headings in dark mode */
 }
 
-/* Dark mode heading color */
-[data-theme='dark'] h1,
 [data-theme='dark'] h2,
 [data-theme='dark'] h3 {
   color: #ffffff; /* White text for headings in dark mode */

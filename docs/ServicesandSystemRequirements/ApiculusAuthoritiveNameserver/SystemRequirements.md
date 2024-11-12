@@ -10,7 +10,7 @@ The recommended versions for the underlying software are:
 - PowerDNS - version 4.2.1 and above
 - Poweradmin - version 2.1.7 and above
 ## Software License
-[PowerDNS](https://doc.powerdns.com/authoritative/common/license.html)  is distributed under the GNU General Public License. [Poweradmin](https://poweradmin.org/)  is also distributed under the GNU General Public License.
+[PowerDNS](https://doc.powerdns.com/authoritative/common/license.html) and [Poweradmin](https://poweradmin.org/)  are distributed under the GNU General Public License.
 
 ## Networking and VM Requirements
 A VM with minimum 4 vCPU cores and 4GB or RAM running any supported version of Ubuntu is recommended.
