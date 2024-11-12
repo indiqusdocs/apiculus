@@ -33,8 +33,14 @@ To perform a fresh installation of HyperStore 7.4.1, you must have an RHEL 7. x 
 
 ## HyperStore License
 
-A software license is required to use Cloudian HyperStore. You should contact Cloudian or their authorised partners to discuss licensing options, pricing, and any specific requirements related to software licensing. Apiculus doesn’t ship with a Cloudian HyperStore license.
+A software license is required to use Cloudian HyperStore. Contact Cloudian or their authorised partners to discuss licensing options, pricing, and any specific requirements related to software licensing. 
+
+:::note
+Apiculus does not ship with a Cloudian HyperStore license.
+:::
 
 ## Hardware BoQ
 
-The hardware Bill of Quantity (BoQ) will depend on expected data capacity, performance requirements, and desired redundancy levels. Cloudian provides hardware guidelines and recommendations for deploying HyperStore, including information on server specifications, disk configurations, networking, and power requirements. Consulting the official documentation or contacting Cloudian or their authorized partners will help determine the appropriate hardware BoQ for your specific needs.
+The hardware Bill of Quantity (BoQ) will depend on expected data capacity, performance requirements, and desired redundancy levels. Cloudian provides hardware guidelines and recommendations for deploying HyperStore, including information on server specifications, disk configurations, networking, and power requirements.
+
+To determine the appropriate hardware BoQ for your specific needs, consult the official documentation or contact Cloudian or their authorized partners.

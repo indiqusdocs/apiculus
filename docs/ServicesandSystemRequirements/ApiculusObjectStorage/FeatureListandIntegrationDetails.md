@@ -19,12 +19,12 @@ AS3 is delivered as an integration with Cloudian HyperStore. The integration fun
 
 ## Feature List
 
-The following features are available as part of AS3, with enhancements underway.
+The following features are available as part of AS3, with enhancements underway:
 
 - **Single S3 Zone** - Currently, on Apiculus, only single S3 zone support is available
 - **Buckets View** - On Apiculus UI, the end user can log in and view all the distinct buckets they have created.
-- **Bucket Creation** - The user can create Buckets with unique names following the naming convention which is mentioned on the Apiculus UI
-- **Bucket Edit** - The end user can edit the already created Buckets at any point in time by logging in to the Apiculus UI
+- **Bucket Creation** - The user can create Buckets with unique names following the naming convention which is mentioned on the Apiculus UI.
+- **Bucket Edit** - The end user can edit the already created Buckets at any point in time by logging in to the Apiculus UI.
 - **Object Creation** - The users from the Apiculus UI itself can upload objects.
 - **Object Deletion** - Users can delete the objects associated with the Bucket straightforwardly and hassle-free.
 - **Object Access** - There is a Manage service button on the UI; clicking on it will open a new tab with Cloudian Hyperstore URL, and users can log in with their username and password, and simply they can access, manage and configure things related to their storage environment.
