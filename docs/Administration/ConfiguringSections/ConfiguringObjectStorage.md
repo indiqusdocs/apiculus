@@ -11,7 +11,7 @@ Admins can configure the Object storage from the services section. To configure 
 4. Go to the Availability section. Select the **availability zones** where you want to offer the service. Then, click on **Save & Update**.
 	![Configuring Object Storage](img/ConfiguringObjectStorage1.png)
 
-5. 5. Under the **Billing** section, select the **Billing Options**.
+5. Under the **Billing** section, select the **Billing Options**.
 	- **Prorate on Entry**: Purchases will be pro-rated at the time of purchase of services.
 	- **Prorate on Exit**: Removals will be pro-rated at the time of removal of services.
 6. Select the **Billing Cycle** to be displayed to the subscribers: **Hourly**, **Monthly**, or **Both**.
