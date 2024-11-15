@@ -22,8 +22,8 @@ Navigate to the **Overview** tab to view the following details:
 - Internal Information
 
 To power off the virtual router, click on the **Powered On** button. The Stop Virtual Router window appears that lets you stop the virtual router. To power on a virtual router, click the **Powered Off** button.
-
    ![Manage NAT gateway](img/NAT3.png)
+   
 ## Instances
 This section lists all the instances that are a part of this Virtual Firewall.
 
@@ -32,7 +32,7 @@ Each virtual gateway comes with a default IPv4 address that belongs to the Virtu
 ![Manage NAT gateway](img/NAT4.png)
 
 ### Adding Public IPv4 Addresses
-You can add additional public IPv4 addresses to configure load balancers, port forwarding and static NATs.
+You can add additional public IPv4 addresses to configure firewall rules, port forwarding rules and source NATs.
 
 1. Click on the **Add Public IPv4 Address** button. The following screen appears:
    ![Manage NAT gateway](img/NAT5.png)
