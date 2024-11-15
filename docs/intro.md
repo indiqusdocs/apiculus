@@ -96,5 +96,3 @@ The Apiculus cloud catalogue is offered for all production [Availability Zones]
 | 22  | Professional Services                      | Core     | Service Provider          |
 | 23  | QuickPlans                                 | Core     | Service Provider          |
 | 24  | Object Storage/S3                          | Extended | Cloudian HyperStore       |
-
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=CI3JBkqBX_4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
