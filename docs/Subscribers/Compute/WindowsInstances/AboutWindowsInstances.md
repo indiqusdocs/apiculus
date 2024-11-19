@@ -10,7 +10,7 @@ Before purchasing a Windows Instance, it is important to plan the architecture, 
 - You can use a ‘Basic/Flat’ (or EC, elastic compute) Windows Instance to get started quickly and set up your Windows Instances behind apiculus Cloud’s global server load balancer (GSLB) and control access by setting up virtual firewall rules; or;
 - You can use a ‘tiered’ network (or Advanced VPC, virtual private cloud) Windows Instances to configure advanced networking and application architectures and control access by setting up access control lists.
 
-Apiculus offers a highly usable and visual way of working with and operating Windows Instances using the CloudConsole. All Linux Instances available in your account can be accessed in the following way:
+Apiculus offers a highly usable and visual way of working with and operating Windows Instances using the Cloud Console. All Linux Instances available in your account can be accessed in the following way:
 
 1. Navigate to **Compute > Windows Instances**.
 2. All the Windows Instances for your account will be listed here with the following details

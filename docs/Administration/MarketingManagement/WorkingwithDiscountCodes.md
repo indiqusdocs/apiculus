@@ -63,7 +63,7 @@ Now the discount codes can be emailed quickly to the specific customer by simply
 
 ## Applying Discount Codes
 
-Subscribers/customers can view and apply all available Discount Codes at the time of purchase confirmation on all supported Services on Apiculus CloudConsole.
+Subscribers/customers can view and apply all available Discount Codes at the time of purchase confirmation on all supported Services on Apiculus Cloud Console.
 
 :::note
 Discount-deflated amounts are lifelong, i.e., any Service subscribed at a discounted rate using a Discount Code will carry the discounted price for its lifetime.

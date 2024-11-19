@@ -9,7 +9,7 @@ Apiculus supports adding custom `<script>` elements to the platform's HTML `<hea
 - You want to write a custom function or logic to affect how and what elements render on the web page.
 - You don't want ad-blockers or privacy-focused browsers to flag external scripts (for example, Google Analytics, Tag Manager etc.) as ads.
 
-Custom scripts can be added individually to Apiculus CloudConsole and to the admin console. To add a custom script, navigate to **Settings > Custom Scripts** from the user menu on the top right of the Apiculus admin console and paste the script in either of the text boxes as suitable.
+Custom scripts can be added individually to Apiculus Cloud Console and to the admin console. To add a custom script, navigate to **Settings > Custom Scripts** from the user menu on the top right of the Apiculus admin console and paste the script in either of the text boxes as suitable.
 
 :::note
 The script should be wrapped between `<script>` and `</script>` tags.

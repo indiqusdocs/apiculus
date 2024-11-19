@@ -12,3 +12,4 @@ Enter the following details and then click **Confirm**:
 	- **Select the Availability Zone** from the drop-down list.
    
 
+

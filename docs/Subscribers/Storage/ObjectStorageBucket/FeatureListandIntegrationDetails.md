@@ -13,9 +13,9 @@ AS3 is delivered as an integration with Cloudian HyperStore. The integration fun
 
 ## Specific Integration Touchpoints
 
-- **Create Buckets** - Users can create Buckets with unique names following the naming convention mentioned on Apiculus CloudConsole.
-- **Add Objects** -  Users can add Objects to their respective Buckets using Apiculus CloudConsole.
-- **Manage Service on Cloudian Hyperstore** -  Detailed Object and Bucket management is done via the HyperStore admin panel which can be accessed directly from Apiculus CloudConsole.
+- **Create Buckets** - Users can create Buckets with unique names following the naming convention mentioned on Apiculus Cloud Console.
+- **Add Objects** -  Users can add Objects to their respective Buckets using Apiculus Cloud Console.
+- **Manage Service on Cloudian Hyperstore** -  Detailed Object and Bucket management is done via the HyperStore admin panel which can be accessed directly from Apiculus Cloud Console.
 
 ## Feature List
 

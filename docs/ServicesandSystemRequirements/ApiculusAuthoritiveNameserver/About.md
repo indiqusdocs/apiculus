@@ -14,3 +14,4 @@ The following sections outline the scope of the system:
 - [System requirements](SystemRequirements)
 - [DNS requirements](DNSRequirements)
 - [Types of records supported](SupportedRecordTypes)
+

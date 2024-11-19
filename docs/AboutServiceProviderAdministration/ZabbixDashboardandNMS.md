@@ -8,7 +8,7 @@ Service provider NOC teams get restricted access to the Zabbix monitoring system
 Apiculus uses Zabbix for the following:
 
 - Agent-based monitoring of all guest/customer Instances
-- Alert configurations using Apiculus CloudConsole
+- Alert configurations using Apiculus Cloud Console
 - System-level alerting for capacity utilisation
 - Parametric monitoring of the entire cloud infrastructure
 

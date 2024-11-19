@@ -6,7 +6,7 @@ Apiculus Cloud provides SLA-driven support to all subscriber customers in accord
 ![Support and Tickets](img/SupportandTickets1.png)
 ## Creating a Support Ticket
 
-The Apiculus CloudConsole has a ticketing section that can be accessed by clicking on **Support & Tickets** in the main navigation panel of the Account Centre. The tickets section shows a list of all the tickets in your account and lets you filter the view based on ticket priority and ticket status.
+The Apiculus Cloud Console has a ticketing section that can be accessed by clicking on **Support & Tickets** in the main navigation panel of the Account Centre. The tickets section shows a list of all the tickets in your account and lets you filter the view based on ticket priority and ticket status.
 
 Clicking on the **CREATE TICKET** button on the left corner will open up the ticket creation dialog box. Ticket creation also follows the single-form interaction paradigm where all the relevant information is captured intelligently in one place to create the ticket. The ticket creation dialog will show the following options:
 
@@ -26,7 +26,7 @@ You may reply to the assigned support agent from the ticket interface by using t
 
 ![Support and Tickets](img/SupportandTickets3.png)
 
-Alternatively, you can reply to the email that you received with the ticket information or the latest reply from the support agent. Email replies will also show up in the ticket details section on apiculus CloudConsole.
+Alternatively, you can reply to the email that you received with the ticket information or the latest reply from the support agent. Email replies will also show up in the ticket details section on apiculus Cloud Console.
 
 # Ticket Classifiers
 

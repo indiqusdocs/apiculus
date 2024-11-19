@@ -17,7 +17,7 @@ We recommend the following specifications for [branding the cloud platform](/do
 ### How are data durability and redundancy achieved with block volumes?
 Data redundancy is achieved at the storage level by design as the storage layer replicates Block Volume data across multiple storage devices and Availability Zones.
 
-### What Linux distributions are supported on Apiculus CloudConsole?
+### What Linux distributions are supported on Apiculus Cloud Console?
 Apiculus supports a range of popular Linux distributions such as Ubuntu, CentOS, Rocky, Oracle, Debian, Alma and OpenSUSE.
 
 Further, any commercially supported Linux distros, e.g., RHEL, Ubuntu Enterprise etc.. are also supported. Apiculus, however, does not include licenses for enterprise Linux distributions and those need to be procured by service providers separately in a SPLA or similar model.
@@ -41,7 +41,7 @@ Yes, invoice templates are 100% customisable. While there are 'standard' data ro
 ### What is the difference between Block Volumes and Object Storage and which ones are supported on Apiculus?
 **Block Storage:** Storage such as hard disk drives and solid-state drives, use block-level access protocols like iSCSI and Fibre Channel to read and write data. This storage method is ideal for low-latency, high-performance environments where data access speed is crucial. [Block Volumes](/docs/Subscribers/Storage/BlockVolumes/AboutBlockVolumes) is a core cloud Service on Apiculus.  
   
-**Object Storage:** It is a technology that manages data as objects. All data is stored in one large repository, which may be distributed across multiple physical storage devices instead of being divided into files or folders. Object Storage is a service based on the S3 protocol. It allows you to store objects, i.e., documents, images, videos, etc. Apiculus offers [object storage as a service (AS3)](/docs/ServicesandSystemRequirements/ApiculusObjectStorage/AboutApiculusObjectStorage) as an integration with the Cloudian Hyperstore. Service providers can offer this service through Apiculus CloudConsole.
+**Object Storage:** It is a technology that manages data as objects. All data is stored in one large repository, which may be distributed across multiple physical storage devices instead of being divided into files or folders. Object Storage is a service based on the S3 protocol. It allows you to store objects, i.e., documents, images, videos, etc. Apiculus offers [object storage as a service (AS3)](/docs/ServicesandSystemRequirements/ApiculusObjectStorage/AboutApiculusObjectStorage) as an integration with the Cloudian Hyperstore. Service providers can offer this service through Apiculus Cloud Console.
 
 ### Why can I see more Instances for some customers than specified in the limits?
 If there are Instance provisioning failures, these failed provisionings would be counted in the limits, till the "Scavenger thread" runs and cleans up the failures. Once this is done, you will see the limits being restored to what is normal.
