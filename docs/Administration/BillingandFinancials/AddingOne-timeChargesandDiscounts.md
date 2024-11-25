@@ -37,3 +37,4 @@ Admins need to perform the following steps on the admin portal to add charges an
 - Multiple charges and discounts can be added.
 :::
 
+

@@ -7,7 +7,7 @@ Instances are computing units that provide you with resources to run your applic
 
 Before creating a Linux instance, it is important to plan the architecture, networking and access to the Linux Instances. 
 
-Apiculus offers a highly usable and visual way of working with and operating Linux Instances using the CloudConsole. You can access all the Linux Instances available in your account in the following way:
+Apiculus offers a highly usable and visual way of working with and operating Linux Instances using the Cloud Console. You can access all the Linux Instances available in your account in the following way:
 
 1. Navigate to **Compute > Linux Instances**.
 2. All the Linux instances for your account are listed here with the following details:

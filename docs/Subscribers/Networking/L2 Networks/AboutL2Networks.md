@@ -15,3 +15,4 @@ Click on the icons at the end of each network for the following operations:
    ![Manage NAT gateway](img/L21.png)
 
 
+

@@ -3,7 +3,7 @@ sidebar_position: 3
 ---
 # Working with Volume Snapshots
 
-The Apiculus Block Volumes Service allows for extensively working with volume snapshots. Snapshots are point-in-time 'images' of the contents of a volume and can be used as a restoration point for the parent volume. The following sections outline all available snapshot functions and capabilities on Apiculus CloudConsole.
+The Apiculus Block Volumes Service allows for extensively working with volume snapshots. Snapshots are point-in-time 'images' of the contents of a volume and can be used as a restoration point for the parent volume. The following sections outline all available snapshot functions and capabilities on Apiculus Cloud Console.
 
 ## Creating Instant Snapshots
 
@@ -13,7 +13,7 @@ Volume snapshots can be created manually with the current timestamp by using the
 
 ## Creating Automated Snapshot Schedules
 
-Apiculus CloudConsole users can create snapshot policies for their root and data disks. These schedules allow for strategic management of data retention policies and can be used as an alternative to using a backup solution. Snapshot schedules can be managed from the **Schedules** section of disk details.
+Apiculus Cloud Console users can create snapshot policies for their root and data disks. These schedules allow for strategic management of data retention policies and can be used as an alternative to using a backup solution. Snapshot schedules can be managed from the **Schedules** section of disk details.
 
 The following schedules are supported:
 

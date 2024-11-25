@@ -18,5 +18,5 @@ sidebar_position: 4
 5. Once all the desired changes are done, **publish** the catalogue.
 
 :::note
-If the newly-linked customer is already on any resource creation/purchase page on the Apiculus CloudConsole at the time of publishing the edits, their purchase will fail.
+If the newly-linked customer is already on any resource creation/purchase page on the Apiculus Cloud Console at the time of publishing the edits, their purchase will fail.
 :::

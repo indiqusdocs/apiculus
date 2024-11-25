@@ -11,7 +11,7 @@ All sections allow downloading of data as a .csv file.
 
 ## Subscriptions
 
-This section shows records of all customers’ subscriptions. A subscription is created whenever a resource is purchased (or service is activated) on the Apiculus CloudConsole.
+This section shows records of all customers’ subscriptions. A subscription is created whenever a resource is purchased (or service is activated) on the Apiculus Cloud Console.
 
 Available actions:
 

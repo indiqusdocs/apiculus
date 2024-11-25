@@ -26,7 +26,7 @@ To create a VPC, follow the below steps:
 
 Once ready, you’ll be notified of this purchase on your email address on record. 
 
-_**Note** - this might take up to 5-8 minutes. You may use the CloudConsole during this time, but it is advised that you do not refresh the browser window._
+_**Note** - this might take up to 5-8 minutes. You may use the Cloud Console during this time, but it is advised that you do not refresh the browser window._
 
 ## Listing Available VPC
 

@@ -20,3 +20,4 @@ To create a custom catalogue, follow these steps:
 1. Continue configuring services the same way as described in [Configuring Sections](/docs/category/configuring-sections).
 
 
+

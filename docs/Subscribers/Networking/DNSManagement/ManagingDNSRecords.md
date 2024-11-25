@@ -3,7 +3,7 @@ sidebar_position: 3
 ---
 # Managing DNS Records
 
-DNS records and subdomains can be managed on Apiculus CloudConsole to be used with Instances, IPv4 Addresses and other workloads created on Apiculus-powered clouds. This only requires a [domain to be linked with the Apiculus nameservers](LinkingDomainstoApiculusCloudConsole).
+DNS records and subdomains can be managed on Apiculus Cloud Console to be used with Instances, IPv4 Addresses and other workloads created on Apiculus-powered clouds. This only requires a [domain to be linked with the Apiculus nameservers](LinkingDomainstoApiculusCloud Console).
 
 DNS records can be viewed and managed for all linked domains by navigating to **Networking > DNS Management** and into the **Records** section of the target domain or Zone.
 

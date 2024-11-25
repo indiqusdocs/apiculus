@@ -11,7 +11,7 @@ Apiculus integrates with OTRS in the following ways:
 2. [Service provider agents get their dedicated accounts on OTRS](/docs/AboutServiceProviderAdministration/OTRSTicketingandServiceInterface).
 3. All customer/subscriber accounts created on Apiculus get created on OTRS as customer organisations.
 4. Tickets created on Apiculus get created on OTRS.
-5. Agent replies are relayed to the customer via Apiculus CloudConsole, and customer replies are relayed to the agent on OTRS.
+5. Agent replies are relayed to the customer via Apiculus Cloud Console, and customer replies are relayed to the agent on OTRS.
 
 :::note
 Apiculus supports OTRS Community Edition versions 5 and 6.
