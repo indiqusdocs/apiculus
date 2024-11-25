@@ -20,7 +20,7 @@ Each slab follows Red Hat's established core model, ensuring transparent and pre
 
 Before creating an RHEL instance, it is important to plan the architecture, networking and access to the RHEL Instances.
 
-Apiculus offers a highly usable and visual way of working with and operating RHEL Instances using the CloudConsole. All RHEL Instances available in your account can be accessed in the following way:
+Apiculus offers a highly usable and visual way of working with and operating RHEL Instances using the Cloud Console. All RHEL Instances available in your account can be accessed in the following way:
 
 1. Navigate to **Compute > RHEL Instances**.
 2. All the RHEL instances for your account are listed here with the following details:

@@ -8,3 +8,4 @@ Welcome to Apiculus! As a subscriber, you have access to a powerful platform des
 This manual provides step-by-step guidance to help you navigate the Apiculus platform effectively. Whether you need help setting up your account, managing resources, or utilizing advanced features, this guide is here to support you.
 
 Let's get started on maximizing the value of your Apiculus subscription!
+

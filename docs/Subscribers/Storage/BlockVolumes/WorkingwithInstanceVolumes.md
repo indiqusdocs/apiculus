@@ -37,7 +37,7 @@ To create a Block Volume data disk, follow the below steps:
 
 ![Working with Instance Volumes](img/WorkingwithInstanceVolumes1.png)
 
-Please note that this might take up to 5-8 minutes. You may use the CloudConsole during this time, but it is advised that you do not refresh the browser window.
+Please note that this might take up to 5-8 minutes. You may use the Cloud Console during this time, but it is advised that you do not refresh the browser window.
 
 Once ready, you’ll be notified of this purchase on your email address on record. The newly created Data Disk can be accessed from **Storage >** **Block Volumes** on the main navigation panel.
 

@@ -10,5 +10,5 @@ sidebar_position: 7
 3. **Service level** - Services in a Custom Catalogue can be toggled by using the switch to the right of the Service title. Services in the Default Services catalogue can be toggled by using the switch on the top of the section.
 
 :::note
-All changes need to be **published** in order to reflect on the Apiculus CloudConsole. If a customer is on a resource creation/purchase page at the time of publishing these edits, their purchase will fail.
+All changes need to be **published** in order to reflect on the Apiculus Cloud Console. If a customer is on a resource creation/purchase page at the time of publishing these edits, their purchase will fail.
 :::

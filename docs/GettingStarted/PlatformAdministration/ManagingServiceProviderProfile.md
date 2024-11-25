@@ -19,3 +19,4 @@ Under Profile, enter the following details, and click **Update**.
 - **Primary Email** - Specify the service provider’s email address.
 - **Primary Number** - Specify the service provider’s email address.
 - **Address** - Enter the service provider’s address and the Zip code.
+

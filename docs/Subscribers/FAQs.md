@@ -16,7 +16,7 @@ Depending on how your service provider has set up the payment collections polici
 While scenario 1 is the most ideal, realistically one of 2-5 will be configured as a policy. To avoid any likelihood of these events, it is best recommended to always pay your due invoices on time and never miss a due date.
 
 ### How is my wallet balance calculated?
-Wallet balance (or [Service Balance](/docs/Subscribers/AccountCentre/WalletandTransactions) is a real-time 'ability to spend' on Apiculus CloudConsole. It is a net total of your credit limit, all charges incurred and all payments made for your account.
+Wallet balance (or [Service Balance](/docs/Subscribers/AccountCentre/WalletandTransactions) is a real-time 'ability to spend' on Apiculus Cloud Console. It is a net total of your credit limit, all charges incurred and all payments made for your account.
 
 ```
 Service Balance = Credit Limit - sum(Incurred Charges) + sum(Payments)
@@ -46,22 +46,22 @@ Once a cluster is deployed, you can deploy pretty much any application using `k
 - Advanced Load balancing and Certificate management - typically these are handled at the cloud provider level and not at the Kubernetes level.
 
 ### Can I deploy a Kubernetes cluster with a private registry?
-Private registry is not supported on Apiculus CloudConsole. However, using the Apiculus API gateway, you can still pass the private registry details (username, password, URL) as the API query parameters and the API will work as intended, but with restrictive SLA on support.
+Private registry is not supported on Apiculus Cloud Console. However, using the Apiculus API gateway, you can still pass the private registry details (username, password, URL) as the API query parameters and the API will work as intended, but with restrictive SLA on support.
 
 ### Why can't I access Kubernetes cluster nodes or cluster volumes directly?
-Accessing cluster nodes and volumes is disabled on Apiculus CloudConsole in order to maintain sanity around cluster billing mechanisms.
+Accessing cluster nodes and volumes is disabled on Apiculus Cloud Console in order to maintain sanity around cluster billing mechanisms.
 
 ### Can I deploy stateful applications using Apiculus Kubernetes?
 Yes, Kubernetes supports stateful applications using features like StatefulSets and Persistent Volumes for data storage.
 
-### Can I use my S3 bucket with a Kubernetes cluster created on Apiculus CloudConsole?
-Yes, if the S3 bucket has been created using the Apiculus S3 Service, you can use the CSI (container storage interface) plugin maintained by Cloudian. If you're using a hyperscaler S3 service or a ceph cluster, you can use the CSI maintained by the hyperscaler (or ceph) with your Kubernetes cluster created on Apiculus CloudConsole.
+### Can I use my S3 bucket with a Kubernetes cluster created on Apiculus Cloud Console?
+Yes, if the S3 bucket has been created using the Apiculus S3 Service, you can use the CSI (container storage interface) plugin maintained by Cloudian. If you're using a hyperscaler S3 service or a ceph cluster, you can use the CSI maintained by the hyperscaler (or ceph) with your Kubernetes cluster created on Apiculus Cloud Console.
 
-### Which Kubernetes versions are supported on Apiculus CloudConsole?
+### Which Kubernetes versions are supported on Apiculus Cloud Console?
 Apiculus supports Kubernetes versions 1.20.x and above.
 
 ### Can I modify my VPC's super CIDR after creation?
-No, super CIDR modification is not currently allowed on Apiculus CloudConsole. If you wish to change the supernet, it is recommended that you create a new VPC, new subnets and migrate Instances to the new VPC.
+No, super CIDR modification is not currently allowed on Apiculus Cloud Console. If you wish to change the supernet, it is recommended that you create a new VPC, new subnets and migrate Instances to the new VPC.
 
 ### What traffic will I be charged for in a VPC?
 In a VPC, any east-west traffic is free. This includes any traffic or communication between subnets, load balancing between Instances etc.
@@ -69,14 +69,14 @@ In a VPC, any east-west traffic is free. This includes any traffic or communicat
 North-south traffic may be chargeable based on your country of usage and/or service provider's preferences. This includes any traffic moving in and out of the VPC through the VR.
 
 ### Can I use Terraform to provision my cloud resources?
-Yes, Apiculus CloudConsole supports infrastructure as code (IaC) and cloud resource creation using Terraform and the Apiculus Gateway API.
+Yes, Apiculus Cloud Console supports infrastructure as code (IaC) and cloud resource creation using Terraform and the Apiculus Gateway API.
 
 :::note
 Any resource created using IaC will be billed hourly.
 :::
 
 ### Can I upload my own ISO or VHD images?
-No, custom Image uploads are currently not possible on Apiculus CloudConsole.
+No, custom Image uploads are currently not possible on Apiculus Cloud Console.
 
 ### Can control and worker nodes be scaled individually in a Kubernetes cluster?
 No, when a Kubernetes cluster is scaled, the scaling configurations are applied to all the nodes alike.
@@ -88,10 +88,10 @@ The following [scaling modes](/docs/Subscribers/Compute/Kubernetes/ScalingKuber
 - Reconfiguring the Cluster - this can be done by specifying a new number of Worker Nodes and changing their Compute configuration.
 
 ### Is there a way to add or link multiple emails to an account?
-Yes, multiple email IDs can be used to login to the same subscriber 'parent' account by [creating child users](/docs/Subscribers/AccountCentre/TeamandChildUserManagement). Child users are semi-isolated accounts, in the sense that they all have their own identities on Apiculus CloudConsole, but share all resources created in the parent subscriber account.
+Yes, multiple email IDs can be used to login to the same subscriber 'parent' account by [creating child users](/docs/Subscribers/AccountCentre/TeamandChildUserManagement). Child users are semi-isolated accounts, in the sense that they all have their own identities on Apiculus Cloud Console, but share all resources created in the parent subscriber account.
 
-### How can I get admin credentials for Windows Instances on Apiculus CloudConsole?
-When you create a Windows Instance on Apiculus CloudConsole, you will receive the password on the email ID registered for your Apiculus CloudConsole account.
+### How can I get admin credentials for Windows Instances on Apiculus Cloud Console?
+When you create a Windows Instance on Apiculus Cloud Console, you will receive the password on the email ID registered for your Apiculus Cloud Console account.
 
 ### Can Kubernetes clusters be created with differently-sized control and worker nodes?
 No, Apiculus Kubernetes Service (AK8s) only supports equally-sized Control and Worker nodes in a Kubernetes cluster.

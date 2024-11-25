@@ -5,7 +5,7 @@ sidebar_position: 11
 
 From [Operating Windows Instances](AboutWindowsInstances), navigate into a Windows Instance and access the **Operations** tab to see all available Instance operations.
 
-Apiculus CloudConsole provides the options to perform common operations on Windows Instances.
+Apiculus Cloud Console provides the options to perform common operations on Windows Instances.
 
 - **Restart Instance** - Use this option to perform a quick reboot on your Instance. This is a simple restart, and no data will be lost.
 - **Force Stop Instance**- to forcefully stop a running or a hung Windows Instance.
