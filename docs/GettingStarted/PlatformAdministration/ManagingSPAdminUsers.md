@@ -36,3 +36,4 @@ To delete existing admin user's details: <br />
    ![Deleting Admin Users](img/Delete1.png)
 2. Click on **Yes, Delete**.
 
+

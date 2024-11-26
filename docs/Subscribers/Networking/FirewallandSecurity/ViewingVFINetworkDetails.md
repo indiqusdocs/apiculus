@@ -3,7 +3,7 @@ sidebar_position: 4
 ---
 # Viewing VFI Network Details
 
-As the VFI and the VFI-based network are created, CloudConsole users can view the enabled Virtual Firewall in the **Networking > Firewalls and Security** section. Clicking on this section, the following details will be shown:
+As the VFI and the VFI-based network are created, Cloud Console users can view the enabled Virtual Firewall in the **Networking > Firewalls and Security** section. Clicking on this section, the following details will be shown:
 
 1. List of all the Virtual Firewall domains as per the Availability Zone
 2. Name of the Virtual Firewall

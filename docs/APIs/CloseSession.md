@@ -27,3 +27,4 @@ This endpoint will only work with authenticated admin tokens, i.e., `<user_token
 <div className="custom-block-green">
  **POST**: `https://<api_url>/auth/logout`
 </div>
+

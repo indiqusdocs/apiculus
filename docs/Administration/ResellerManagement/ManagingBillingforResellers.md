@@ -14,8 +14,8 @@ Even with the Reseller module enabled and customers getting acquired via reselle
 
 Once an invoice is generated, payments can be received from the customers in the following ways:
 
-1. Making a payment against an invoice from **Account Centre > Invoices and Credit Notes** on Apiculus CloudConsole; _self-service, initiated by customer, executed via payment gateway_
-2. Making a 'bulk' payment from **Account Centre > Wallet and Transactions** on Apiculus CloudConsole; _self-service, initiated by customer, executed via payment gateway_
+1. Making a payment against an invoice from **Account Centre > Invoices and Credit Notes** on Apiculus Cloud Console; _self-service, initiated by customer, executed via payment gateway_
+2. Making a 'bulk' payment from **Account Centre > Wallet and Transactions** on Apiculus Cloud Console; _self-service, initiated by customer, executed via payment gateway_
 3. Recording an offline transaction from the account-level or global **Transactions** section on Apiculus admin console; _admin-assisted, initiated by admin, recorded manually_
 
 ## Settling Bills with Resellers
