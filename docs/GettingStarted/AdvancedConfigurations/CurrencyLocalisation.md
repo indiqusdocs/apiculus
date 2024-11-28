@@ -3,9 +3,9 @@ sidebar_position: 1
 ---
 # Currency Localisation
 
-All currencies can be localised for display and financial logic.
+All currencies can be localised for display and financial logic. This can help deliver localised experiences based on local and cultural considerations.
 
-Navigate to **Administration** > **Settings** > **Financials & Business** > **Currencies**. This can help deliver localised experiences based on local and cultural considerations.
+Navigate to **Administration** > **Settings** > **Financials & Business** > **Currencies**. 
 
 :::note
 This section does not support adding new currencies. These settings are only for localisation of the currencies that are already set up. If you wish to add more currencies to your cloud setup, get in touch with IndiQus Support.
