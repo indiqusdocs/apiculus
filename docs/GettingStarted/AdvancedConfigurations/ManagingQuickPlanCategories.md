@@ -2,9 +2,9 @@
 sidebar_position: 2
 ---
 # Managing Quick Plan Categories
+Quick Plan categories allow for grouping Quick Plans visually and semantically under the Marketplace section on the Apiculus Cloud Console.
 
-Apiculus Quick Plan categories can be set up and managed from **Settings > Quick Plans**. These categories allow for grouping Quick Plans visually and semantically under the Marketplace section on the Apiculus Cloud Console.
-
+To set up and manage Apiculus Quick Plan categories, navigate to **Settings > Quick Plans**.
 ![Managing QuickPlan Categories](img/ManagingQuickPlanCategories.png)
 
 :::note
