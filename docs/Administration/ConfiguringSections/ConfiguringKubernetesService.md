@@ -18,15 +18,18 @@ Follow the below steps to configure the Kubernetes Service:
 6. Kubernetes service provisioning can be offered as an approval-based system from the Provisioning section. This is done by activating the Approval Required switch, offering additional functionalities such as sending custom instructions to end-users upon approval and attaching up to five files, each up to 3 MB.
 ![Configuring Kubernetes Service](img/Kubernetes4.png)
 Further, the PRICING options include:
-- Click on **Virtual Routers** under the **Pricing** section, then select the **Availability Zone**. Enable the collections or specific packs within a collection, and specify the pricing for your selection.
+	- Virtual Routers
+	- Compute
+	- Root Disks
+	- IPv4 Addresses
+
+1. Under **Pricing**, click on **Virtual Routers**, then select the **Availability Zone**. Enable the desired collections or packs within a collection, and specify the pricing for your selection.
 ![Configuring Kubernetes Service](img/Kubernetes5.png)
-- Access the **Compute** section, select **Availability Zone**.
-- Enable the collections or specific packs within a collection, and specify the pricing for your selection.
+1. Under the **Compute** section, select **Availability Zone**. Enable the collections or specific packs within a collection, and specify the pricing for your selection.
 ![Configuring Kubernetes Service](img/Kubernetes6.png)
-- In the Root Disks section, select the **Availability Zone**. 
-- Enable the collections or specific packs within a collection, and specify the pricing for your selection.
+1. Under the **Root Disks** section, select the **Availability Zone**. Enable the collections or specific packs within a collection, and specify the pricing for your selection.
 ![Configuring Kubernetes Service](img/Kubernetes7.png)
-- In the IPv4 Addresses section, click on the **Availability Zone** and specify the pricing for the Default IPv4 address.
+1. In the IPv4 Addresses section, click on the **Availability Zone** and specify the pricing for the default IPv4 address.
 ![Configuring Kubernetes Service](img/Kubernetes8.png)
 Finally, return to **Default Services** and select **PUBLISH DEFAULT CATALOGUE**.
 ![Configuring Kubernetes Instances](img/rhel.png)
