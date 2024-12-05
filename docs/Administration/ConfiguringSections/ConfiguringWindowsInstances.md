@@ -3,7 +3,7 @@ sidebar_position: 2
 ---
 # Configuring Windows Instances
 
-Follow these steps to configure Windows Instances :
+Follow these steps to configure Windows Instances:
 
 1. Navigate to the **Default Services** in the primary navigation menu.
 ![Configuring Windows Instances](img/rhel.png)
@@ -21,9 +21,6 @@ Follow these steps to configure Windows Instances :
 7. Under **Pricing**, click on **Operating System**.
 8. Click on the **Availability Zone**, and enable the desired packs inside the collections.
 ![Configuring Windows Instances](img/windows4.png)
-8. Under on the **Compute** section, click on the **Availability Zone** and enable the compute pack of the specific collection and define the pricing that you want to offer to the end user.
-   ![Configuring Windows Instances](img/windows5.png)
-9. Under the **Root Disks** section, select the availability zone and enable the packs for the designated collection.
-   ![Configuring Windows Instances](img/windows6.png)
-
+8. Under on the **Compute** section, click on the **Availability Zone** and enable the compute pack of the specific collection and define the pricing that you want to offer to the end user.   ![Configuring Windows Instances](img/windows5.png)
+9. Under the **Root Disks** section, select the availability zone and enable the packs for the designated collection.   ![Configuring Windows Instances](img/windows6.png)
 10. Return to the **Default Services** and click **PUBLISH DEFAULT CATALOGUE**.![Configuring Windows Instances](img/rhel.png)
