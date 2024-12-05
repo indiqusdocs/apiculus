@@ -22,7 +22,6 @@ Further, the PRICING options include:
 	- Compute
 	- Root Disks
 	- IPv4 Addresses
-
 1. Under **Pricing**, click on **Virtual Routers**, then select the **Availability Zone**. Enable the desired collections or packs within a collection, and specify the pricing for your selection.
 ![Configuring Kubernetes Service](img/Kubernetes5.png)
 1. Under the **Compute** section, select **Availability Zone**. Enable the collections or specific packs within a collection, and specify the pricing for your selection.
