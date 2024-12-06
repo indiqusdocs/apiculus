@@ -10,5 +10,5 @@ Subscriber accounts' credit limits and other billing details can be updated from
 - To update billing contact, navigate to account details and update the field(s) under the **People** sub-section.
 
 :::note
-his article only applies to information update; all billing actions are available under their respective sections.
+This article only applies to information update; all billing actions are available under their respective sections.
 :::
