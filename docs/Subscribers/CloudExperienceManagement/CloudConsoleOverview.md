@@ -8,4 +8,4 @@ Apiculus Cloud Console is the white-label CMP (cloud management platform) that s
 - [Cloud Operations Management](CloudOperationsManagement)
 - [Account Centre](/docs/Subscribers/AccountCentre/AboutApiculusAccountCentre)
 
-![Cloud Console Overview](img/Cloud ConsoleOverview.png)
+![Cloud Console Overview](img/CloudConsoleOverview.png)
