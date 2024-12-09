@@ -6,8 +6,11 @@ sidebar_position: 2
 Using the **Profile** section, you can manage your organisation account profile on Apiculus Cloud. The profile management section can be accessed from Account Centre from the top helper bar by clicking on the organisation. Account profiles include the following:
 
 1. **Details -** These are the basic demographic details of your organisation. All editable fields can be updated at any time.
-2. **Billing Information -** These are the billing details for your organisation, viz., billing address, taxation ID, etc.
-3. **Technical Contact -** These are the details for billing and technical contacts in your organisation. 
+	![Account Profile](img/AccountProfile1.png)
+2. **Billing Information -** These are the billing details of your organisation, viz., billing address, taxation ID, etc.
+   ![Billing Information](img/BillingInformation.png)
+3. **Technical Contact -** These are the details for billing and technical contacts of your organisation. 
+   ![Technical Contact](img/TechnicalContact.png)
 	:::note 
 	These contacts are not child users and do not get login credentials.
 	:::
@@ -15,9 +18,5 @@ Using the **Profile** section, you can manage your organisation account profil
 	:::note 
 	Apiculus might require these documents to allow continued usage of the cloud services.
 	:::
+	![Account Profile](img/AccountProfile2.png)
 5. **Relationship Personnel -** This section will show the point of contact details that have been assigned to your account by the service provider.
-
-![Account Profile](img/AccountProfile1.png)
-
-
-![Account Profile](img/AccountProfile2.png)
