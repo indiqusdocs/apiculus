@@ -3,7 +3,7 @@ sidebar_position: 8
 ---
 # Working with Linux Instance Snapshots
 
-From [Operating Linux Instances](AboutLinuxInstances.md), navigate into a Linux Instance and access the **Snapshots** tab to see all the snapshots taken for this Instance.
+ To view all the snapshots taken for Instance, navigate to the [Operating Linux Instances](AboutLinuxInstances.md), select a Linux Instance and access the **Snapshots** tab.
 
 Instance Snapshots allow you to create point-in-time images of instances that preserve all their data volume as well as (optionally) their CPU/memory states. You can use Snapshots to quickly restore Instances.
 
