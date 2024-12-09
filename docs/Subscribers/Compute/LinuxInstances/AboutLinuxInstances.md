@@ -18,7 +18,7 @@ Apiculus offers a highly usable and visual way of working with and operating Lin
 
 ![Create Linux Instance](img/CreatingLinuxInstances1.png)
 
-Click on the instance name to view a list of sections and the various operations or actions you can perform by going inside the particular section. Below the Instance name, there is an informational view where you can find the following details:
+To view a list of section and the various operations or actions you can perform by going inside the particular section, click on the instance name. Below the Instance name, there is an informational view where you can find the following details:
 
 - Configuration
 - Availability Zone

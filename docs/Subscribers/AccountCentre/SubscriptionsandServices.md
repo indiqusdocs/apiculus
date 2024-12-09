@@ -19,7 +19,10 @@ Apiculus Cloud supports the following types of subscriptions:
 
 Subscriptions can be accessed by clicking on **Billing  > Subscriptions & Services** in the main navigation panel of the account centre. This section shows the following information:
 
-1. **Active Subscriptions -** a tabulated list of all subscriptions that are currently active in your account. _Please note that data transfer and secondary storage subscriptions are always enabled by default._
+1. **Active Subscriptions -** a tabulated list of all subscriptions that are currently active in your account.
+   :::note
+   The data transfer and secondary storage subscriptions are always enabled by default.
+   :::
 2. **Inactive Subscriptions -** a tabulated list of all subscriptions that were active in the past. This includes all removed subscriptions.
 3. **Scheduled for Deletion -** a tabulated list of all subscriptions that are set not to renew automatically.
 

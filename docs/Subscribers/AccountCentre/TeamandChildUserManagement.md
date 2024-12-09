@@ -10,7 +10,10 @@ Team members or child users can be onboarded using the **TEAM** section from t
 To add a child user, click on the **+ADD TEAM MEMBERS** button on the top right. This will open up a dialog box with the following information requirements:
 
 - **User Details -** name, email, country, phone number, etc., for the child user.
-- **Password -** a password to begin with. Please note that the child user can reset the password from the Apiculus Cloud Console.
+- **Password -** set a strong password to begin with. 
+  :::note
+   The child user can reset the password from the Apiculus Cloud Console.
+  :::
 - **Group -** the role for the child user. These can be:
     - **Admin -** gets access to all functionalities.
     - **Billing -** gets permissions to perform billing actions and read-only for other actions.
