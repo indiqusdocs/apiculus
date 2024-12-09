@@ -5,9 +5,14 @@ sidebar_position: 2
 
 ## Creating New Subscriber Accounts
 
-New subscriber accounts can be created by clicking the **+ New Account** button above the accounts listing.
+You can create new subscriber accounts by clicking the **+ New Account** button above the accounts listing.![Account Management Overview](img/AccountManagementOverview.png)
 
-General account creation flow is: `Draft > Awaiting Confirmation > Active > Pending Profile Completion`
+The following is the general account creation flow: 
+
+1. Draft
+2. Awaiting Confirmation
+3. Active 
+4. Pending Profile Completion
 
 :::note
 Admins can create accounts from the admin console regardless of the [signup mode](/docs/GettingStarted/SignupConfigurations/SignupSettings) specified under platform configurations.
