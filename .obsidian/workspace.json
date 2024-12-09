@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/Compute/LinuxInstances/ReconfiguringLinuxInstances.md",
+                "file": "docs/Subscribers/Compute/WindowsInstances/CreatingWindowsInstances.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ReconfiguringLinuxInstances"
+              "title": "CreatingWindowsInstances"
             }
           }
         ]
@@ -165,6 +165,11 @@
   },
   "active": "84d0bba12d17b32b",
   "lastOpenFiles": [
+    "docs/Subscribers/Compute/WindowsInstances/img/WindowInstance1.png",
+    "docs/Subscribers/Compute/WindowsInstances/AboutWindowsInstances.md",
+    "docs/Subscribers/Compute/LinuxInstances/LinuxInstanceOperations.md",
+    "docs/Subscribers/Compute/LinuxInstances/ProtectingLinuxInstances.md",
+    "docs/Subscribers/Compute/LinuxInstances/ReconfiguringLinuxInstances.md",
     "docs/Subscribers/Compute/LinuxInstances/WorkingwithLinuxInstanceSnapshots.md",
     "docs/Subscribers/Compute/LinuxInstances/NetworkingManagementwithLinuxInstances.md",
     "docs/Subscribers/Compute/LinuxInstances/VolumeManagementwithLinuxInstances.md",
@@ -190,12 +195,7 @@
     "img/Cloud.md",
     "docs/Subscribers/AccountCentre/StandardAgreements.md",
     "docs/Subscribers/AccountCentre/Payments.md",
-    "docs/Administration/SubscribersandAccounts/ChangingSubscribersPrimaryEmail.md",
     "Sample.zip",
-    "docs/Administration/SubscribersandAccounts/UpdatingCreditLimitandOtherBillingInformation.md",
-    "docs/Administration/SubscribersandAccounts/AccountManagementOverview.md",
-    "docs/Administration/ManagingQuickPlans/AddingQuickPlanstoaCatalogue.md",
-    "docs/GettingStarted/PlatformAdministration/ManagingSPAdminUsers.md",
     "build/blog/tags/hola/index.html",
     "build/blog/tags/hello/index.html",
     "build/blog/tags/facebook/index.html",

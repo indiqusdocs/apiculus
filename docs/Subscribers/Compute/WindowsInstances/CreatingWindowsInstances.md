@@ -5,7 +5,7 @@ sidebar_position: 2
 
 Before creating a Windows Instance, it is important to plan the architecture, networking and access to the Windows Instances. As a thumb rule:
 
-- You can use a ‘Basic/Flat’ (or EC, elastic compute) Windows Instance to get started quickly and set up your Linux Instances behind Apiculus-powered cloud’s global server load balancer (GSLB) and control access by setting up virtual firewall rules; or;
+- You can use a **Basic/Flat** Windows Instance to get started quickly and set up your Linux Instances behind Apiculus-powered cloud’s global server load balancer (GSLB) and control access by setting up virtual firewall rules; or;
 - You can use a ‘tiered’ network (or Advanced VPC, virtual private cloud) Windows Instances to configure advanced networking and application architectures and control access by setting up access control lists.
 
 ## Creating a Windows Instance on a Basic/Flat/EC Network
@@ -42,9 +42,9 @@ To create a Windows instance on an advanced VPC AZ, follow the below steps:
 
 1. Navigate to **Compute > Windows** Instances
 2. Click on the **+ NEW WINDOWS INSTANCE** from the top right.
-3. Enter the name for your Windows instance by following the naming convention mentioned below in the helper text.
-4. Choose an Availability Zone, which is the geographical region where your Instance will be deployed. The chosen option should be the **advanced VPC** from all available AZs.
-5.  Select a VPC network from the **Select Network** Dropdown and select the appropriate tier listed in **Select a Network Tier**.
+   ![Window Instance Creation](img/WindowInstance1.png)
+2. Choose an Availability Zone, which is the geographical region where your Instance will be deployed. The chosen option should be the **advanced VPC** from all available AZs.
+3. Select a VPC network from the **Select Network** Dropdown and select the appropriate tier listed in **Select a Network Tier**.
 	:::note
 	To add a Windows Instance to a VPC, you need to have a VPC configured with at least one tier.
 	:::
