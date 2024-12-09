@@ -5,7 +5,7 @@ sidebar_position: 6
 
 Apiculus admin console gives the option of changing the customer’s primary email ID. The customer's primary email ID can be changed anytime in simple and verifiable steps, and the notification will go to both the new and old email IDs.
 ## Steps for Changing the Primary Email
-1. Navigate to **Account Management** > **Select Account**> **Edit Account** > **Account details** > **Primary Email Change**.
+1. Navigate to **Account Management** > **Select Account** > **Edit Account** > **Account details** > **Primary Email Change**.
 ![Changing Subscribers Primary Email](img/ChangingEmail.png)
 2. Click on **Primary Email Change**, enter the new email ID, and click on Update.
 3. An email will be sent to the updated email ID.
