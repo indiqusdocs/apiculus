@@ -13,7 +13,7 @@ Before purchasing a Windows Instance, it is important to plan the architecture, 
 Apiculus offers a highly usable and visual way of working with and operating Windows Instances using the Cloud Console. All Linux Instances available in your account can be accessed in the following way:
 
 1. Navigate to **Compute > Windows Instances**.
-2. All the Windows Instances for your account will be listed here with the following details
+2. All the Windows Instances for your account will be listed here with the following details:
     - Instance Name (Along with the configuration details)
     - OS- Icon will be displayed.
     - Default IP Address

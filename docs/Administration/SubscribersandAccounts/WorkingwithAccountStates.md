@@ -15,13 +15,13 @@ Apiculus allows for customer life cycle management using account states. All acc
 
 ## Changing Account States from Admin Console
 
-Account states can be changed by going into the target account and selecting the appropriate action from the ellipsis (...) menu on top of the account details pane, next to the _Impersonate_ button.
+Account states can be changed by going into the target account and selecting the appropriate action from the ellipsis (...) menu on top of the account details pane, next to the **Impersonate** button.
 
 ## Changing Account States using Automation
 
 Most automation policies created on Apiculus provide the option to automatically change account states whenever a specified trigger condition is met. This can be used to automate scenarios like dunning, trial expiry, disabling access for unverified accounts etc. These automated state changes can be configured using the Automation section at the global or at the account level. Automated state changes can be overridden (unless terminated automatically) manually.
 
-:::note
+:::caution
 It is recommended that an automated termination action be used with utmost caution as there will be no way to reverse the action.
 :::
 
