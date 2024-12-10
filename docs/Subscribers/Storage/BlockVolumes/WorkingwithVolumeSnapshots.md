@@ -26,13 +26,13 @@ The following schedules are supported:
 
 While configuring snapshot schedules, the following points should be considered:
 
-- There can only be one policy per schedule, and creating a second policy of an existing schedule will override the previous one;
-- All schedule options support time specifications in custom time zones;
-- All schedule options allow for a _snapshots to keep_ option, which is a limit on how many snapshots to keep (or rotate after) as the retention policy.
+- There can only be one policy per schedule, and creating a second policy of an existing schedule will override the previous one.
+- All schedule options support time specifications in custom time zones.
+- All schedule options allow for a **snapshots to keep** option, which is a limit on how many snapshots to keep (or rotate after) as the retention policy.
 
 ## Creating a Volume from a Snapshot
 
-Volume Snapshots created manually or using a schedule will be listed under the **Snapshots** section of disk details. To create a new data disk using a snapshot, the option to _create volume_ can be used, which will initiate a purchase flow similar to [creating a data disk](/docs/Subscribers/Storage/BlockVolumes/WorkingwithInstanceVolumes).
+Volume Snapshots created manually or using a schedule will be listed under the **Snapshots** section of disk details. To create a new data disk using a snapshot, the option to **create volume** can be used, which will initiate a purchase flow similar to [creating a data disk](/docs/Subscribers/Storage/BlockVolumes/WorkingwithInstanceVolumes).
 
 :::note
 This operation may have associated billing impacts.
@@ -40,7 +40,7 @@ This operation may have associated billing impacts.
 
 ## Creating an Image from a Snapshot
 
-Volume Snapshots can be used to create OS Images which can be used at the time of Instance creation. This can be done by using the option to _create image_ which will make the template available and listed under the **My Images** section.
+Volume Snapshots can be used to create OS Images which can be used at the time of Instance creation. This can be done by using the option to **create image** which will make the template available and listed under the **My Images** section.
 
 :::note
 Images occupy account-level storage space which may be billed on usage by the service provider.

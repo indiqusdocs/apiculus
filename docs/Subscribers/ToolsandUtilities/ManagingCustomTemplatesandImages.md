@@ -4,12 +4,12 @@ sidebar_position: 4
 # Managing Custom Templates and Images
 Custom OS templates can be created from a Volume Snapshot. These custom templates can be found under **Tools and Utilities > My Images** with the following details:
 
-- _Image Name_
-- _Operating System_
-- _Availability Zone_
-- _Password Enabled_
-- _Format_
-- _Created On_
+- Image Name
+- Operating System
+- Availability Zone
+- Password Enabled
+- Format
+- Created On
 
 ![Managing Custom Templates and Images](img/ManagingCustomTemplatesandImages1.png)
 
