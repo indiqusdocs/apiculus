@@ -3,12 +3,9 @@ sidebar_position: 2
 ---
 # Enabling Instance Protection
 
-Instance Protection service can be enabled in two ways.
-
-**During Instance Creation**
-
-1. Follow the steps to create a [Linux](/docs/Subscribers/Compute/LinuxInstances/CreatingLinuxInstances) or a [Windows](/docs/Subscribers/Compute/WindowsInstances/CreatingWindowsInstances) instance.
-2. You have to enable the _Protect this Instance_ switch. There, you will get a _Standard Protection Service_, and you can also opt for _Advance Protection Features_. 
+Instance Protection service can be enabled in two ways:
+**During Instance Creation**, follow the steps to create a [Linux](/docs/Subscribers/Compute/LinuxInstances/CreatingLinuxInstances) or a [Windows](/docs/Subscribers/Compute/WindowsInstances/CreatingWindowsInstances) instance.
+1. You have to enable the Protect this Instance switch. There, you will get a Standard Protection Service, and you can also opt for Advance Protection Features. 
 
 ![Enabling Instance Protection](img/EnablingInstanceProtection1.png)
 
@@ -20,7 +17,7 @@ Instance Protection service can be enabled in two ways.
 
 If you already have a Linux or Windows Instance and didn't enable the protection service while creating the instance, you can do it later. Navigate to the Listing of the Linux/Windows Instances. Click on the particular instance. Follow the below steps to activate the protection plan service.
 
-1. Inside the instance listing, find the **Protection** section and click on the **ENABLE PROTECTION** button.
+1. Navigate to the instance listing, select the **Protection** section and click on the **ENABLE PROTECTION** button.
 
 ![Enabling Instance Protection](img/EnablingInstanceProtection3.png)
 
