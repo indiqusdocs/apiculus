@@ -8,8 +8,8 @@ Apiculus allows service providers to manage their subscriber/customer life cycle
 All subscriber accounts can be viewed as a list by navigating to **Accounts > Account Management**.
 ![Account Management Overview](img/AccountManagementOverview.png)
 The following operations are available at this level:
-- Searching for accounts
-- Filtering accounts by their states (_active, restricted, disabled, terminated_)
-- Switching between published, drafts, accounts awaiting confirmation and accounts pending profile completion
-- Viewing subscriber account details
-- Creating new subscriber accounts
+- Search for accounts.
+- Filter accounts by their states (active, restricted, disabled, or terminated).
+- Switch between published, drafts, accounts awaiting confirmation and accounts pending profile completion.
+- View subscriber account details.
+- Create new subscriber accounts.

@@ -8,13 +8,13 @@ Apiculus Cloud provides SLA-driven support to all subscriber customers in accord
 
 The Apiculus Cloud Console has a ticketing section that can be accessed by clicking on **Support & Tickets** in the main navigation panel of the Account Centre. The tickets section shows a list of all the tickets in your account and lets you filter the view based on ticket priority and ticket status.
 
-Clicking on the **CREATE TICKET** button on the left corner will open up the ticket creation dialog box. Ticket creation also follows the single-form interaction paradigm where all the relevant information is captured intelligently in one place to create the ticket. The ticket creation dialog will show the following options:
+To open the ticket creation dialog box, click the **CREATE TICKET** button in the left corner. Ticket creation follows the single-form interaction paradigm where all the relevant information is captured intelligently in one place to create the ticket. The ticket creation dialog will show the following options:
 
-- **Ticket Type:** This is a high-level classification in terms of Account, Billing, Technical or another issue.
-- **Sub-type:** Based on the ticket type chosen above, you’ll be asked to specify a sub-type for further classification. This is optional but it is recommended that you provide as much information as possible for apiculus’s support agents to be able to diagnose your issue better.
-- **Item:** Based on the type and sub-type combination, you’ll be able to pinpoint exactly which item you’re having an issue with. Again, this is optional but it is recommended that you provide as much information as possible for apiculus’s support agents to be able to diagnose your issue better.
-- **Ticket Details:** Providing a subject, priority, and message/description are mandatory.
-- **Attachment:** Optionally, you can also attach a .png, .jpg, or .pdf file as an attachment. Please note that the size limit on ticket attachments is 5MB.
+- **Type:** This is a high-level classification in terms of Account, Billing, Technical or another issue.
+- **Priority:** You can choose priority level for your ticket : Very Low, Low, Normal, High, Critical.
+- **Subject:** Based on the type provide a relevant subject to your ticket that pinpoint exactly which item you’re having an issue with.
+- **Details:** You should provide as much information as possible for apiculus’s support agents to be able to diagnose your issue better. 
+- **Attachments:** Optionally, you can also attach a .png, .jpg, or .pdf file as an attachment. Please note that the size limit on ticket attachments is 3 MB.
 
 ![Support and Tickets](img/SupportandTickets2.png)
 
