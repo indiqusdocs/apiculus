@@ -5,7 +5,7 @@ sidebar_position: 1
 
 Instance protection safeguards virtual machine instances and workloads by creating backups using Acronis backup solutions. This ensures that end-users can quickly restore the Instances to a previous state in the event of data loss, corruption, or system failure. The service is integrated with **Acronis Cyber Protect.**
 
-About **Acronis Cyber Protect**
+About **Acronis Cyber Protect**:
 
 - One of the top-rated Enterprise backup and recovery software with a wide-reaching service provider programme.
 - Simplifies the management and automation of backup, recovery, and cybersecurity.  

@@ -3,7 +3,7 @@ sidebar_position: 6
 ---
 # Volume Management with Linux Instances
 
-From [Operating Linux Instances](AboutLinuxInstances.md), navigate into a Linux Instance and access the **Volumes** tab to see the disks attached to this Instance.
+To view the disks attached to this Instance, navigate to the [Operating Linux Instances](AboutLinuxInstances.md), select a Linux Instance and access the **Volumes** tab.
 
 Linux Instances on Apiculus work with the [Block Volumes Service](/docs/Subscribers/Storage/BlockVolumes/AboutBlockVolumes) and let you carry out basic disk operations.
 

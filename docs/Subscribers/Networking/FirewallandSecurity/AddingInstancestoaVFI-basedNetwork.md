@@ -6,10 +6,10 @@ sidebar_position: 3
 Instances can be created and placed in the L2-LAN (called Free Networks) created by the Virtual Firewall. These Instances use special Linux OS images, which will be available as a separate OS Collection. Users can go to the usual Instance creation workflow and choose the appropriate options/controls to create an Instance in the Virtual Firewall network. The following steps need to create the Linux instance under the particular L2-LAN network.
 
 - Enter the name of the Instance
-- Choose your Availability Zone (In the screenshot, AZ2 Delhi VPC is selected)
+- Choose your Availability Zone
 - Select a Network (Free Networks)
 - Automatically, the L2 LAN tier will be chosen based on the network selected (adc-E10_L2_LAN-Tier1)
-- Select the OS Image (In the screenshot, PFSENSE LINUX 2 is selected)
+- Select the OS Image
 - Choose a Compute pack
 - Choose the Root Disk pack
 - Check the summary and estimated costs for both Hourly and Monthly 
