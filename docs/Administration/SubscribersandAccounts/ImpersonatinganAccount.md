@@ -16,7 +16,7 @@ To impersonate an account, follow these steps:
 	:::
 1. If SMS is enabled, the customer will receive the OTP on their registered mobile number as well.
 2. A one-time session will be created for the support personnel who can login with the customer's primary email ID and the OTP obtained as above.
-
-:::note
-If the customer logs in while an impersonated session is going on, the support personnel will get logged out and will have to generate and obtain the OTP again.
-:::
+   
+   :::note
+	If the customer logs in while an impersonated session is going on, the support personnel will get logged out and will have to generate and obtain the OTP again.
+	:::
