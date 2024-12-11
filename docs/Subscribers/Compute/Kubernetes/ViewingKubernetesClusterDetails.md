@@ -14,7 +14,7 @@ To view cluster details on the UI, follow these steps:
     3. Autoscaling Enabled/Disabled
     4. Created 
 
-Clicking on the Kubernetes Cluster name, you can view a list of sections and the various operations or actions you can perform inside the particular section. Below the cluster name is an informational view where you can find the below details.
+You can view a list of sections and the various operations or actions you can perform inside the particular section by clicking on the Kubernetes Cluster name. Below the cluster name is an informational view where you can find the below details.
 
 - Configuration
 - Availability Zone

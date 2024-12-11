@@ -3,8 +3,7 @@ sidebar_position: 7
 ---
 # Volume Management with Windows Instances
 
-From [Operating Windows Instances](AboutWindowsInstances), navigate into a Windows Instance and access the **Volumes** tab to see the disks attached to this Instance.
-
+To view the disks attached to this instance, navigate to the [Operating Windows Instances](AboutWindowsInstances), select a Windows Instance and access the **Volumes** tab.
 Windows Instances on Apiculus work with the [Block Volumes Service](/docs/Subscribers/Storage/BlockVolumes/AboutBlockVolumes) and let you carry out basic disk operations.
 
 ![Volume Management](img/VolumeManagement.png)

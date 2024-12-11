@@ -3,11 +3,11 @@ sidebar_position: 4
 ---
 # Viewing Details of Windows Instances
 
-From [Operating Windows Instances](AboutWindowsInstances), navigate into a Windows Instance and access the **Overview** tab to see its details.
+Toe see the details of Windows Instances, navigate to the [Operating Windows Instances](AboutWindowsInstances), select a Windows Instance and access the **Overview** tab.
 
 1. Configuration and Availability
     1. The instance's status, **RUNNING**, is displayed in Green, whereas **STOPPED** is displayed in greyed out.
-    2. Information about the networking zone, whether it is a VPC networking zone or a Basic/Flat/EC networking zone.
+    2. Information about the networking zone, whether it is a VPC networking zone or a Basic/Flat networking zone.
 
 ![Viewing Details of Windows Instances](img/ViewingDetailsofWindowsInstances1.png)
 
@@ -26,7 +26,7 @@ From [Operating Windows Instances](AboutWindowsInstances), navigate into a Windo
 
 ![Viewing Details of Windows Instances](img/ViewingDetailsofWindowsInstances3.png)
 
-5. If it’s a Basic/Flat EC networking zone, then the following information will be shown.
+5. If it’s a Basic/Flat networking zone, then the following information will be shown.
     1. Default Guest Network
     2. MAC Address
     3. IP Address

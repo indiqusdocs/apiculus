@@ -27,7 +27,7 @@ To create a Linux instance, follow these steps:
 15. Click on the **BUY HOURLY** or **BUY MONTHLY** button. The Confirm Instance Purchase window appears, and the price summary is displayed along with the discount codes if you have any in your account. 
     - You can apply any of the discount codes listed by clicking on the **APPLY** button. 
     - You can also remove the applied discount code by clicking the **REMOVE** button. 
-    - Clicking on the **CANCEL** button, this action will be canceled.
+    - You can cancel this action by clicking on the **CANCEL** button.
 16. Click on the **CONFIRM** to create the Linux Instance.
 
 :::note

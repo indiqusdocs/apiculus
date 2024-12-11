@@ -16,7 +16,7 @@ Apiculus Cloud Console allows for manual and automatic cluster scaling. Clusters
 
 ## Automatically Scaling a Cluster
 
-1. Under **Nodes** (or under **Operations**), click on **SCALE CLUSTER**, and a popover will appear, enable 'autoscaling' by flipping the switch.
+1. Under **Nodes** (or under **Operations**), click on **SCALE CLUSTER**, and a popover will appear, enable **autoscaling** by flipping the switch.
 2. Enter the minimum and maximum number of worker nodes.
 3. Click on **CONFIRM SCALING**.
 
