@@ -14,6 +14,6 @@ As the VFI and the VFI-based network are created, Cloud Console users can view t
 
 ![Viewing VFI Network Details](img/ViewingVFINetworkDetails1.png)
 
-Clicking on the Virtual Firewall name will show details of this appliance. Additionally, users will also be able to log in to the Virtual Firewall’s self-service UI.
+To view the details of appliance, click on the Virtual Firewall name. Additionally, users will also be able to log in to the Virtual Firewall’s self-service UI.
 
 ![Viewing VFI Network Details](img/ViewingVFINetworkDetails2.png)

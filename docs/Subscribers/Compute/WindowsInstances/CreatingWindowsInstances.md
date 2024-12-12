@@ -14,7 +14,7 @@ To create a Windows instance on a basic/flat networking zone, follow the below s
 
 1. Navigate to **Compute > Windows Instances**.
 2. Click on the **+ NEW WINDOWS INSTANCE** from the top right.
-3. Choose an Availability Zone, which is the geographical region where your Instance will be deployed. The chosen option should be the Basic/Flat/EC-type networking zones from all available AZs.
+3. Choose an Availability Zone, which is the geographical region where your Instance will be deployed. The chosen option should be the Basic/Flat type networking zones from all available AZs.
 4. Choose a security group from the available options. 
 5. Choose an Image to run on your Instance. This can be an operating system or a custom image that is available under **MY IMAGES.**
 6. Choose a compute pack from the available compute collections.
@@ -39,7 +39,7 @@ Once ready, you’ll be notified of this purchase on your email address on recor
 
 To create a Windows instance on an advanced VPC AZ, follow the below steps:
 
-1. Navigate to **Compute > Windows** Instances
+1. Navigate to **Compute > Windows** Instances.
 2. Click on the **+ NEW WINDOWS INSTANCE** from the top right.
    ![Window Instance Creation](img/WindowInstance1.png)
 2. Choose an Availability Zone, which is the geographical region where your Instance will be deployed. The chosen option should be the **advanced VPC** from all available AZs.

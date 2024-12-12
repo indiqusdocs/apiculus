@@ -39,7 +39,7 @@ You can add additional public IPv4 addresses to configure firewall rules, port f
 2. Select **Monthly** or **Hourly** option and then click the **Confirm Purchase** button. The following screen appears.
    
 	  ![Manage NAT gateway](img/NAT6.png)
-1. Verify the details and click the **Confirm** button to create complete adding a public IPv4 address.
+3. Verify the details and click the **Confirm** button to create complete adding a public IPv4 address.
 ### Managing Firewall Rules
 1. Click on the **Firewall Rules** icon.
    ![Manage NAT gateway](img/NAT4a.png)
@@ -57,10 +57,10 @@ You can add additional public IPv4 addresses to configure firewall rules, port f
    ![Manage NAT gateway](img/NAT4b.png)
 	The following screen appears where you can view the already created port forwarding rules.
 	
-1. To add a new rule, click on **Add Rule**.
+2. To add a new rule, click on **Add Rule**.
    ![Manage NAT gateway](img/NAT4ba.png)
 
-4. Enter the required details to add a rule.
+3. Enter the required details to add a rule.
    ![Manage NAT gateway](img/NAT4bb.png)
 
 5. Click the **Add Port Forwarding Rule** button.

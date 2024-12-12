@@ -3,7 +3,7 @@ sidebar_position: 11
 ---
 # Windows Instance Operations
 
-From [Operating Windows Instances](AboutWindowsInstances), navigate into a Windows Instance and access the **Operations** tab to see all available Instance operations.
+To view all available Instance operations, navigate to the [Operating Windows Instances](AboutWindowsInstances), select a Windows Instance and access the **Operations** tab.
 
 Apiculus Cloud Console provides the options to perform common operations on Windows Instances.
 
