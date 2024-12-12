@@ -30,7 +30,7 @@ A firewall restricts incoming and outgoing network traffic to enhance the securi
 Port forwarding allows external traffic to access specific services running within Kubernetes pods, enabling external communication with applications.
 
 1. Click the **ADD NETWORKING RULE** button, and a popover will open.
-2. Select **Port Forwarding**  from the list of networking options and then specify the following options.
+2. Select **Port Forwarding**  from the list of networking options and then specify the following options:
     1. Select the particular node from the list.
     2. Choose a Protocol from the available options, i.e., TCP, UDP.
     3. Enter the Public Start and End Port.
@@ -43,8 +43,8 @@ Port forwarding allows external traffic to access specific services running with
 
 Cluster load balancing rules distribute incoming network traffic across multiple Kubernetes pods to ensure high availability, fault tolerance, and optimal resource utilisation.
 
-1. Click the **ADD NETWORKING RULE* button, and a popover will open._
-2. _Select_ **Load Balancing** from the list of networking options and then specify the following options.
+1. Click the **ADD NETWORKING RULE**  button, and a popover will open.
+2. Select **Load Balancing** from the list of networking options and then specify the following options:
     1. Specify the name of the rule.
     2. Choose a Protocol from the available options, i.e., TCP proxy, TCP, and UDP. (The protocol determines how the traffic is transmitted)
     3. Enter the Public Port.

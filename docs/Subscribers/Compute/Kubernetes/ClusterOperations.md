@@ -9,7 +9,7 @@ Kubernetes clusters created on Apiculus Cloud Console allow for a set of managem
 
 ## Powering ON/OFF a Cluster
 
-Kubernetes clusters can be powered ON/OFF using the _power_ button on top of the cluster details. This button will typically show in green colour when a cluster is powered ON, and grey when powered OFF.
+Kubernetes clusters can be powered ON/OFF using the **power** button on top of the cluster details. This button will typically show in <span class="green">**green**</span> when a cluster is powered ON, and grey when powered OFF.
 
 ## Stopping and Restarting a Cluster
 

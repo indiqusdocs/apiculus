@@ -3,8 +3,8 @@ sidebar_position: 3
 ---
 # Creating Autoscale Groups
 
-1. Go to **Compute > Autoscale Groups** in the navigation menu.
-2. Click on the **"NEW AUTOSCALE GROUP"** located at the center of the page.
+1. Navigate to **Compute > Autoscale Groups** in the navigation menu.
+2. Click on the **NEW AUTOSCALE GROUP** located at the center of the page.
 3. Select an **Instance Category**. 
 	![Creating Autoscale Groups](img/CreatingAutoscaleGroups1.png)
 4. Choose an **Availability Zone** that represents the geographic region for the deployment of your Autoscaled Instance.
