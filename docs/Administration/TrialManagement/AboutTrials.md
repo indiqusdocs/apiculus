@@ -4,8 +4,8 @@ sidebar_position: 1
 # About Trails
 
 Apiculus offers two ways of managing trial programmes:
-- Account trials 
-- Subscription trials
+- [Account Trials ](#account-trials)
+- [Subscription Trials](#subscription-trials)
 
 Trial programmes are created with duration (days) and benefit (discount %) definitions. All billing amounts generated in the specified duration are applied with the specified benefit when the next invoice is generated.
 
