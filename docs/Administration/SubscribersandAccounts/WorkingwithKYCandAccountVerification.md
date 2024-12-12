@@ -22,19 +22,16 @@ This setting will apply to all accounts that are created using the self-signup m
 
 For setting up the KYC for admin-assisted accounts, admins need to perform the following steps on the admin portal.
 
-1. Navigate to **Global Settings** > **Account Defaults** > **Require KYC for Admin-assisted Accounts**.
-2. Switch on the **Require KYC for Admin-assisted Accounts**.
-3. Click on the **Save** button to successfully save the updated configuration.
-4. Publish the saved settings by clicking the **Publish Settings** button from the top right corner.
+1. Navigate to **Administration** > **Settings** > **Account Defaults**..
+2. Switch on the **Require KYC for Admin-Assisted Accounts**.![Working with KYC and Account Verification](img/KYC3.png)
+3. Click on the **Update** button to successfully save the updated configuration.
+4. The Save Settings screen appears where you can review your changes. Click on the **Update** button to successfully save the updated configuration.![Working with KYC and Account Verification](img/KYC4.png)
+6. Publish the saved settings by clicking the **Publish Settings** button from the top right corner.
 
 :::note
 This setting will apply to all accounts that are created from the administration console, or manually approved from the administration console. This will also apply to accounts that are created on external/other systems and imported into Apiculus using our MQ-based integration.
 :::
-![Working with KYC and Account Verification](img/KYC3.png)
-
-![Working with KYC and Account Verification](img/KYC4.png)
-
-## Actions Required for Self-signup Accounts/Admin Assisted Accounts
+## Actions Required for Self-Signup Accounts/Admin Assisted Accounts
 
 Whenever these newly created accounts login to the portal, they will see a popover message for KYC and the restriction will be applied so that they won’t be able to purchase or activate any resource.
 
