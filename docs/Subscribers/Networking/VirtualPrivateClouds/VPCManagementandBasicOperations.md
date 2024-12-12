@@ -7,7 +7,7 @@ VPC management offers the following operations. These are basic VPC management a
 
 ## Reconfiguring a VPC
 
-The **Reconfigure** section/tab will list your current subscription details and allow you to reconfigure the networking pack, or switch between _hourly_ and _monthly_ pricing.
+The **Reconfigure** section/tab will list your current subscription details and allow you to reconfigure the networking pack, or switch between **hourly** and **monthly** pricing.
 
 ![VPC Management and Basic Operations](img/VPCManagement1.png)
 

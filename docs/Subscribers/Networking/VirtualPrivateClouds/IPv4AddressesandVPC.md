@@ -43,7 +43,7 @@ Once the load balancer rule has been created, you can now go into the load balan
 To test whether the load balancer has been configured correctly, you can log into the virtual machines that are behind this load balancer individually, create an index.html on each virtual machine (with different content), and access the public IP address directly from your browser. If configured correctly, each browser page refresh should take turns in loading the two index.html pages.
 
 :::note
-A load balancer IP rule can only be configured if the tier/subnet type is set up_ **_Public IP_**_.
+A load balancer IP rule can only be configured if the tier/subnet type is set up **Public IP**.
 :::
 
 ## Configuring Port Forwarding
@@ -54,7 +54,10 @@ Choosing **+ Add Port Forwarding Rule** from the IP address menu will enable t
 
 - **Protocol** for port-forwarding.
 - The **tier** and the **virtual machine** to port-forward to.
-- **Public** and **private port** ranges. _Please note that the_ **_end ports_** _should be equal to or greater than the_ **_start ports_**_._
+- **Public** and **private port** ranges. 
+  :::note
+  The end ports should be equal to or greater than the start ports.
+  :::
 
 ![IPv4 Addresses and VPC](img/IPv4AddressesandVPC4.png)
 
@@ -65,8 +68,9 @@ Once the port-forwarding rule has been created, you can now go into the port-fow
 
 To test whether port-forwarding has been configured correctly, you can use the public IP to SSH into the virtual machine that the IP port-forwards to.
 
-_Please note that a port-forwarding IP address can be used to configure multiple port-forwarding access rules but with one virtual machine. To port-forward into a different virtual machine, you’ll need to purchase an additional public IP address._
-
+:::note
+A port-forwarding IP address can be used to configure multiple port-forwarding access rules but with one virtual machine. To port-forward into a different virtual machine, you’ll need to purchase an additional public IP address.
+:::
 ## Configuring Static NAT
 
 Choosing the **Enable Static NAT** will allow you to use this public IP as a static translation to any of the contained virtual machines. To use this as a static NAT, choose the virtual machine you want to translate this public IP to in the dialog box that opens and click on **enable**.

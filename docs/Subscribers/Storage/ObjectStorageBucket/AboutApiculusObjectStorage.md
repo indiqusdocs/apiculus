@@ -9,5 +9,5 @@ Apiculus Object Storage (AS3) provides scalable and flexible storage for unstruc
 
 :::note
 The following are not yet supported on AS3:
-- _**Glacier support** - Archival storage using Glacier is not yet available._
+- **Glacier support** - Archival storage using Glacier is not yet available.
 :::
