@@ -18,11 +18,11 @@ For setting up the KYC for self- signup accounts, admins need to perform the fol
 This setting will apply to all accounts that are created using the self-signup method.
 :::
 
-## Configuring KYC For Admin-assisted Accounts
+## Configuring KYC For Admin-Assisted Accounts
 
 For setting up the KYC for admin-assisted accounts, admins need to perform the following steps on the admin portal.
 
-1. Navigate to **Administration** > **Settings** > **Account Defaults**..
+1. Navigate to **Administration** > **Settings** > **Account Defaults**.
 2. Switch on the **Require KYC for Admin-Assisted Accounts**.![Working with KYC and Account Verification](img/KYC3.png)
 3. Click on the **Update** button to successfully save the updated configuration.
 4. The Save Settings screen appears where you can review your changes. Click on the **Update** button to successfully save the updated configuration.![Working with KYC and Account Verification](img/KYC4.png)
@@ -34,10 +34,9 @@ This setting will apply to all accounts that are created from the administration
 ## Actions Required for Self-Signup Accounts/Admin Assisted Accounts
 
 Whenever these newly created accounts login to the portal, they will see a popover message for KYC and the restriction will be applied so that they won’t be able to purchase or activate any resource.
-
 ![Working with KYC and Account Verification](img/KYC5.png)
 
-On clicking **OK, TAKE ME THERE**; it will redirect them to the Basic section and navigate to the **Documents** section. Then the appropriate document category needs to be selected, and the document is uploaded for admin approval.
+On clicking **OK, TAKE ME THERE**; it will redirect them to the Basic section and navigate to the **Documents** section. Then, the appropriate document category needs to be selected, and the document is uploaded for admin approval.
 
 ![Working with KYC and Account Verification](img/KYC6.png)
 
@@ -49,7 +48,6 @@ On clicking **OK, TAKE ME THERE**; it will redirect them to the Basic section an
 4. Once the documents are approved and the account is verified, the end user will receive an email stating the identity verification process is complete.
 
 Once the account is in verified status, that is, KYC is now successfully verified, the subscriber/admin-assisted accounts can now proceed with the activation/purchase of resources.
-
 ![Working with KYC and Account Verification](img/KYC7.png)
 
 :::note
