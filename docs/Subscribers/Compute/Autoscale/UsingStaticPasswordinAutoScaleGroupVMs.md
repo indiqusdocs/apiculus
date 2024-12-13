@@ -24,13 +24,9 @@ sidebar_position: 4
 
 6. Stop The VM from the Apiculus portal and create a Root snapshot of that VM.
    ![Using Static Password In AutoScale Group’s VMs](img/autoscalegrpvm3.png)
-
-6. Create Image using the Snapshot. (After creation, it will be visible in the **My Image** section).
-   ![Using Static Password In AutoScale Group’s VMs](img/autoscalegrpvm4.png)
-
+6. Create Image using the Snapshot. (After creation, it will be visible in the **My Image** section).![Using Static Password In AutoScale Group’s VMs](img/autoscalegrpvm4.png)
 7. Navigate to the VPC section, purchase an IPv4 address, and create a load balancing rule using the acquired IPv4 address.
    ![Using Static Password In AutoScale Group’s VMs](img/autoscalegrpvm5.png)
-
 8. Create the Auto Scale Group using the custom template (**My Image**).
    ![Using Static Password In AutoScale Group’s VMs](img/autoscalegrpvm6.png)
 

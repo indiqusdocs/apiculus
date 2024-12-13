@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 # Cloud/Operations Management
-Setting up and managing cloud resources on [Apiculus Cloud Console](Cloud ConsoleOverview) follows a highly intuitive approach that is built on UX principles of modern-day software. The Cloud Console user journeys are simple, visual and information-rich which makes managing cloud resources extremely satisfying.
+Setting up and managing cloud resources on [Apiculus Cloud Console](CloudConsoleOverview) follows a highly intuitive approach that is built on UX principles of modern-day software. The Cloud Console user journeys are simple, visual and information-rich which makes managing cloud resources extremely satisfying.
 
 The general guidelines to follow when using the Apiculus Cloud Console to manage cloud resources:
 
