@@ -1,7 +1,6 @@
 ---
 sidebar_position: 10
 ---
-
 # Frequently Asked Questions
 
 ### What are the recommended sizes for branding assets?
