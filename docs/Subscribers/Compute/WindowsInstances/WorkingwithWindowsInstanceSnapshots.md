@@ -12,17 +12,16 @@ The Snapshots section shows all Windows Instances snapshots, which can be used t
 ![Snapshots](img/Snapshots1.png)
 
 Snapshot will list down the following details:
-
 - Snapshot Name
 - Description
 - Internal Name
 - Type
 - Created On
-
+ 
 Two quick options are available, one is to revert the Instance from the snapshot, and the other is to delete the particular snapshot.
 
 - To create a snapshot, click on the **CREATE SNAPSHOT** button.
 - It will ask you for the name of the snapshot and the description of the snapshot.
-- Click on create the snapshot will be created, and if you click on cancel the action will be canceled.
+- Click on create, the snapshot will be created, and if you click on cancel, the action will be canceled.
 
 ![Snapshots](img/Snapshots2.png)

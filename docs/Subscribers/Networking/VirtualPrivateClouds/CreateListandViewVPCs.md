@@ -14,7 +14,7 @@ To create a VPC, follow the below steps:
 5. Choose a Networking pack from the available network collections. 
 6. Select the default IPV4 address for VPC Networking so that the VPC network will be created with a new Public IP address.
    ![Create, List and View VPCs](img/CreateVPC1.png)
-7. Verify the Estimated Cost of your VPC, based on the options that you have chosen from the Summary and Estimated Costs Section( Here, both the Hourly and Monthly Prices summary will be displayed)_
+7. Verify the Estimated Cost of your VPC, based on the options that you have chosen from the Summary and Estimated Costs Section.
 8. Click on the check box after going through the policies mentioned by your cloud service provider.
 9. Clicking on the BUY HOURLY or BUY MONTHLY button, a confirmation pop-over will open up, and the price summary will be displayed along with the discount codes if you have any in your account. 
     1. You can apply any of the discount codes listed by clicking on the **APPLY** button. 
@@ -50,7 +50,7 @@ Clicking on the VPC name, you can view a list of sections and the various operat
 
 Along with the summary, the following information is readily available under the **Overview** tab:
 
-- Configuration and Availability
+- Configuration and Availability-
     - The instance's status, **RUNNING**, is displayed in Green, whereas **STOPPED** is displayed in greyed out.
     - Information about the Virtual Router Pack.
     - Information about the Network Size.

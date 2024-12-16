@@ -11,7 +11,13 @@ Subscribers can configure alerts for instances running on the Apiculus. Subscrib
 
 # Instance Alerts
 
-The Alerts tab can be accessed from the instances details. It will list all the alerts already configured for that particular VM. In addition, it will show the details, i.e., ID, the name for the alert, Parameter, Trigger When, Value, and Reading Duration.
+The Alerts tab can be accessed from the instances details. It will list all the alerts already configured for that particular VM. In addition, it will show the details:
+- ID
+- Alert Name
+- Parameter
+- Trigger
+- Value
+- Reading Duration
 
 ![Configuring Alerts on Windows Instances](img/ConfiguringAlerts1.png)
 
