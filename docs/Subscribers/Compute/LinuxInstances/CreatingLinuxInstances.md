@@ -10,10 +10,10 @@ To create a Linux instance, follow these steps:
 1. Navigate to **Compute > Linux Instances**.
     ![Create Linux Instance](img/CreatingLinuxInstances1.png)
 2. Click on **NEW LINUX INSTANCE**.
-    ![Create Linux Instance](img/CreatingLinuxInstances2.png)
 3. Choose an **Availability Zone**, which is the geographical region where your Instance will be deployed. 
 4. Select the **Destination** and then the **Network** from the respective drop-down lists.
 5. **Choose an OS Image** to run on your Instance.
+   ![Create Linux Instance](img/CreatingLinuxInstances2.png)
 6. **Choose a Compute Pack** from the available compute collections.
 8. **Choose a Root Disk** from the available options.
 9. Select the option to **Protect this Instance**.
@@ -21,6 +21,7 @@ To create a Linux instance, follow these steps:
 11. **Choose an Authentication Method**:
     - **Use SSH key pair**: Click on the Use SSH key pair option; all the SSH key pairs present in your account will be listed. If your account does not have any SSH key pair, then you can click the **Generate a new key pair** option or upload the key pair by clicking the **Upload a key pair** option. 
     - **Use root user password**: On selecting Use root user password, the **Also email me the password** option is displayed. If you select this option, the password, along with the details, for instance, will be emailed to your registered email ID.
+    ![Compute Pack](img/ComputePack.png)
 12. In the **Name Your Linux Instance** field, enter the desired name for your Linux Instance. The Instance name must only contain alphanumeric characters, underscore, dots and hyphens. 
 13. Under the **Summary and Estimated Costs** section, verify the estimated cost of your Linux Instance based on the chosen specifications.
 14. To confirm, click on the check box after reviewing the policies mentioned by your cloud service provider.
@@ -28,6 +29,7 @@ To create a Linux instance, follow these steps:
     - You can apply any of the discount codes listed by clicking on the **APPLY** button. 
     - You can also remove the applied discount code by clicking the **REMOVE** button. 
     - You can cancel this action by clicking on the **CANCEL** button.
+    ![Summary](img/Summary.png)
 16. Click on the **CONFIRM** to create the Linux Instance.
 
 :::note
