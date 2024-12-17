@@ -10,7 +10,13 @@ You can configure alerts for instances running on the Apiculus. You can define a
 Navigate to a [RHEL Instance](AboutRHELInstances.md) and access the **Alerts** tab to view the configured alerts or configure new ones.
 ## Instance Alerts
 
-The Alerts tab lists all the alerts already configured for that particular RHEL Instance. In addition, it will show the details, i.e., ID, the name for the alert, Parameter, Trigger When, Value, and Reading Duration.
+The Alerts tab lists all the alerts already configured for that particular RHEL Instance. In addition, it will show the details:
+- ID
+- the name for the alert
+- Parameter
+- Trigger When
+- Value
+- Reading Duration
 
 ![Configuring Alerts on RHEL Instances](img/ConfiguringAlerts1.png)
 
