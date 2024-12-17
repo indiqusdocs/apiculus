@@ -14,7 +14,7 @@ To add a child user, click on the **+ADD TEAM MEMBERS** button on the top righ
   :::note
    The child user can reset the password from the Apiculus Cloud Console.
   :::
-- **Group -** the role for the child user. These can be:
+- **Group -** the role of the child user. These can be:
     - **Admin -** gets access to all functionalities.
     - **Billing -** gets permissions to perform billing actions and read-only for other actions.
     - **Technical -** gets permissions to perform technical actions and read-only for other actions.
