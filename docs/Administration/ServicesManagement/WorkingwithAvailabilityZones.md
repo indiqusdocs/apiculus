@@ -28,13 +28,13 @@ For mapping a new availability zone, navigate to **Services > Availability Zone
 
 In the add Availability Zone window, enter the following details:
 
-- **AVAILABILITY ZONE** – The name you want to display or call this availability Zone.
-- **REGION** – Choose any regions listed; these regions’ data will be displayed as configured on the ACS.
-- **STATE**: Choose the state.
-- **LABEL** – Choose any of the available labels. Currently, there are two labels present, i.e., Basic and Premium.
+- **AVAILABILITY ZONE** - The name you want to display or call this availability Zone.
+- **REGION** - Choose any regions listed; these regions’ data will be displayed as configured on the ACS.
+- **STATE** - Choose the state.
+- **LABEL** - Choose any of the available labels. Currently, there are two labels present, i.e., Basic and Premium.
 - **CLOUDSTACK ZONE** - Choose any of the listed zones.
-- **HYPERVISOR**- Choose any of the hypervisors available in the list.
-- **CLUSTER**- Choose any of the available clusters in the list.
+- **HYPERVISOR** - Choose any of the hypervisors available in the list.
+- **CLUSTER** - Choose any of the available clusters in the list.
 
 Once you have filled in and chosen the above options, click on the **CREATE AVAILABILITY ZONE.**
 
