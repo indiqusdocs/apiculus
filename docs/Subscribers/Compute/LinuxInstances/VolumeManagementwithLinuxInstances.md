@@ -9,6 +9,7 @@ Linux Instances on Apiculus work with the [Block Volumes Service](/docs/Subscri
 
 ![Volume Management](img/VolumeManagement.png)
 
+
 The following are the quick actions:
 
 - **Create Template** - Click on it, and enter the image name and description.
