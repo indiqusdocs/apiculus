@@ -43,7 +43,7 @@ Password: **pfsense**
 show system interface
 ```
 
-_port1_ will be the default WAN interface.
+port1 will be the default WAN interface.
 
 4. Use the following commands in sequence to configure the Virtual Firewall Management UI.
 

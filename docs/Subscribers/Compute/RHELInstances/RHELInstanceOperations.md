@@ -3,9 +3,9 @@ sidebar_position: 11
 ---
 # RHEL Instance Operations
 
-From [RHEL Instances](AboutRHELInstances.md) and access the **Operations** tab to see all available Instance operations.
+To view all available Instance operations, navigate to a [RHEL Instances](AboutRHELInstances.md) and access the **Operations** tab 
 ![RHEL Instance Operations](img/Operations1.png)
-
+![RHEL Instance Operations](img/Operations2.png)
 Apiculus Cloud Console provides the options to perform common operations on RHEL Instances.
 
 - **Restart Instance** - Perform a quick reboot on your Instance. This is a simple restart, and no data will be lost.

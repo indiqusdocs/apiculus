@@ -5,7 +5,7 @@ sidebar_position: 11
 
  To view all available Instance operations, navigate to the [Operating Linux Instances](AboutLinuxInstances.md), select a Linux Instance and access the **Operations** tab.
 ![Linux Instance Operations](img/Operations1.png)
-
+![Linux Instance Operations](img/Operations2.png)
 Apiculus Cloud Console provides the options to perform the following operations on Linux Instances:
 
 - **Restart Instance** - Perform a quick reboot on your Instance. This is a simple restart, and no data will be lost.
