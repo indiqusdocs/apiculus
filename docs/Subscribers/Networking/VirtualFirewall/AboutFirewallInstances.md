@@ -14,12 +14,32 @@ Currently, VFI is an experimental Service on Apiculus and there are a few limita
 3. Only Instances with a special Linux OS can be added to VFI-based networks.
 4. VFI needn't inherit Apiculus-level RBAC for users.
 
-Apiculus offers the following features in its current scope:
+As the VFI and the VFI-based network are created, Cloud Console users can view the enabled Virtual Firewall in the Networking > Virtual Firewall section. The following details will be displayed in this section:
+- Name of the Virtual Firewall
+- Public IPv4
+- Number of instances associated with each Virtual Firewall
+- Created
 
-- [Creating a Virtual Firewall Instance](docs/Subscribers/Networking/FirewallandSecurity/CreatingaVirtualFirewall.md)
-- [Creating a VFI-based network](AddingInstancestoaVFI-basedNetwork)
-- [Activating and accessing the VFI control panel](AccessingtheVFIControlPanel)
-- [Viewing VFI network details](ViewingVFINetworkDetails)
-- [Deleting a VFI network](DeletingaVFINetwork)
+![Viewing VFI Network Details](img/ViewingVFINetworkDetails1.png)
 
-All VFI created in an account can be accessed from navigating to the **Networking** >**Virtual Firewalls** tab.
+To view a list of section and the various operations or actions you can perform by going inside the particular section, click on the instance name. Below the Instance name, there is an informational view where you can find the following details:
+
+- Configuration
+- Availability Zone
+- Public IPV4 (L2 WAN)
+- Created 
+
+On the top right corner, two quick options are available, one to **LAUNCH CONSOLE** and the other to **POWER OFF/ON** the Instance.
+
+![Viewing VFI Network Details](img/ViewingVFINetworkDetails2.png)
+
+Details on available Linux Instance operations and actions can be found in their respective sections.
+
+- [Overview](ViewingVFINetworkDetails.md)
+- [Graphs & Utilisation](ViewingGraphsandUtilizationofVirtualFirewall.md)
+- [Alerts](ConfiguringAlertsonVirtualFirewall.md)
+- [Volumes](VolumeManagementwithVirtualFirewall.md)
+- [Networking](NetworkingManagementwithVirtualFirewall.md)
+- [Snapshots](WorkingwithVirtualFirewallSnapshots.md)
+- [Reconfigure](ReconfiguringVirtualFirewall.md)
+- [Operations](ProtectingVirtualFirewall.md)

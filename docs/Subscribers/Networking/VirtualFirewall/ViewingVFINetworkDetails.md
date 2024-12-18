@@ -3,32 +3,29 @@ sidebar_position: 4
 ---
 # Viewing VFI Network Details
 
-As the VFI and the VFI-based network are created, Cloud Console users can view the enabled Virtual Firewall in the Networking > Virtual Firewall section. The following details will be displayed in this section:
-- Name of the Virtual Firewall
-- Public IPv4
-- Number of instances associated with each Virtual Firewall
-- Created
+To view the below details, navigate to the [Firewall Security](AboutFirewallInstances.md), select the Virtual Firewall and access the **Overview** tab.
 
-![Viewing VFI Network Details](img/ViewingVFINetworkDetails1.png)
+-  [Configuration and Availability](#configuration-and-availability)
+- [Internal Information](#internal-information)
+- [Security and Access Control](#security-and-access-control)
 
-To view a list of section and the various operations or actions you can perform by going inside the particular section, click on the instance name. Below the Instance name, there is an informational view where you can find the following details:
+![Overview](img/Overview.png)
+---
 
-- Configuration
-- Availability Zone
-- Public IPV4 (L2 WAN)
-- Created 
+## Configuration and Availability
 
-On the top right corner, two quick options are available, one to **LAUNCH CONSOLE** and the other to **POWER OFF/ON** the Instance.
+This section displays the instance's status, **RUNNING**, is displayed in **green**, whereas STOPPED is displayed in greyed out and the information about the networking zone.
+## Internal Information
 
-![Viewing VFI Network Details](img/ViewingVFINetworkDetails2.png)
+This section displays the information used for internal identification of this instance and communication with other internal services.
 
-Details on available Linux Instance operations and actions can be found in their respective sections.
+- Template Name
+- Internal Name
+- Created On
+## Security and Access Control
 
-- Overview
-- Graphs & Utilisation
-- Alerts
-- Volumes
-- Networking
-- Snapshots
-- Reconfigure
-- Operations
+This section displays the following information:
+
+- Network Name
+- VPC Name
+- Access Control

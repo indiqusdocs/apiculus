@@ -25,7 +25,6 @@ sidebar_position: 2
 7. Review the summary and estimated costs for both **Hourly** and **Monthly** options.
    ![Creating a Virtual Firewall](img/CreatingaVirtualFirewall5.png)
 8.  Choose **Buy Hourly** or **Buy Monthly** based on your requirement, and then click **Confirm** on the confirmation popover.
-	![Creating a Virtual Firewall](img/CreatingaVirtualFirewall6.png)
 
 The Virtual Firewall service can be configured for provisioning in a self-service or an approval-based manner.
 
