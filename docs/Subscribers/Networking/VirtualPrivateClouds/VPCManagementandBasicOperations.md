@@ -17,7 +17,7 @@ You can only reconfigure with the same billing interval. If you wish just to cha
 
 ## Powering ON/OFF the Virtual Router
 
-Switching the VPC power state is possible using the 'power status' button on top. This will usually be green if the VPC is powered ON, and grey if powered OFF.
+Switching the VPC power state is possible using the **power status** button on top. This will usually be green if the VPC is powered ON, and grey if powered OFF.
 
 Additionally, a VPC restart is possible using the **RESTART VIRTUAL ROUTER** option available under the **Operations** tab/section. This will perform a quick reboot od the VPC. This is a simple restart, and no data will be lost.
 
@@ -25,7 +25,7 @@ Additionally, a VPC restart is possible using the **RESTART VIRTUAL ROUTER** o
 
 ## Deleting a VPC
 
-A VPC can be deleted using the **DELETE VPC NETWORK** button under the **Operations** section/tab of VPC details. Deleting a VPC will remove it permanently.
+To delete a VPC, navigate to the Operations Section and click on the **DELETE VPC NETWORK** button. Deleting a VPC will remove it permanently.
 
 :::note
 Before attempting to delete this VPC, ensure that all Tiers, IPv4 Addresses, and Instances are removed from this VPC. This action is irreversible, and you may not be able to recover any data for this VPC.
