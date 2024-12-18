@@ -18,17 +18,17 @@ A Cloud Collection (CC) on Apiculus is a grouping of repeating components (calle
 
 ## Creating a New Collection
 
-To create a new collection, navigate to **Services > Cloud collections** and click on the **+ CREATE NEW COLLECTION** and fill in or choose the options listed below:
+1. To create a new collection, navigate to **Services > Cloud collections**.![Cloud Connection](img/CC1.png)
+2. Click on the **+ CREATE NEW COLLECTION**.![Cloud Connection](img/CC2.png)
+3. Provide the following details:
+	- **COLLECTION NAME** – The name you want to call this collection.
+	- **COLLECTION TYPE** – Choose any one of the collection types. There are three major types of collection available, i.e., Operating Systems, Compute, and Disk.
+	- **AVAILABILITY ZONE** – Choose any one of the availability zones available in the list.
+	- **DISPLAY TITLE** – Describe the title by which you want to show this collection.
+	- **COLLECTION PREFIX** – Specify the prefix here, which is prepended to any item purchased from this collection.
+1. Click on the **CREATE COLLECTION** button to create the particular collection, and if you wish to cancel this action click on the **CANCEL** button.
 
-1. **COLLECTION NAME** – The name you want to call this collection.
-2. **COLLECTION TYPE** – Choose any one of the collection types. There are three major types of collection available, i.e., Operating Systems, Compute, and Disk.
-3. **AVAILABILITY ZONE** – Choose any one of the availability zones available in the list.
-4. **DISPLAY TITLE** – Describe the title by which you want to show this collection.
-5. **COLLECTION PREFIX** – Specify the prefix here, which is prepended to any item purchased from this collection.
-
-Click on the **CREATE COLLECTION** button to create the particular collection, and if you wish to cancel this action click on the **CANCEL** button.
-
-Once the collection is created, the details will be shown, and the admins can update the details by clicking on **SAVE AND UPDATE** or clicking on the **CANCEL** button to cancel this action.
+Once the collection is created, the details will be shown, and you can update the details by clicking on **SAVE AND UPDATE**. Click the **CANCEL** button to cancel this action.
 
 :::note
 Cloud Collections are dependent on Availability Zones, which means that the same collection needs to be created for each AZ in order to make it available across multiple AZ.
@@ -36,11 +36,9 @@ Cloud Collections are dependent on Availability Zones, which means that the same
 
 ## Adding Collection Items
 
-Once a Cloud Collection is created, Collection Items can be added by going into the collection's details and choosing from the upload options. Each collection 'type' has its own specific item types and the Apiculus admin console UI lists the sections accordingly. There are two ways of creating Collection Items:
-
+Once a Cloud Collection is created, you can add Collection Items by going into the collection's details and choosing from the upload options. Each collection 'type' has its own specific item types and the Apiculus admin console UI lists the sections accordingly. There are two ways of creating Collection Items:
 - **Upload Using Template** – This option gives a way to bulk-upload Collection Items; useful for adding multiple items together, but prone to error as data entered manually to the spreadsheet/template is only validated at the time of upload.
 - **Add Using UI** – This option gives a way to create Collection Items individually; useful as chances of misconfigurations are low since the UI shows a list of available options to choose from.
-
 ## Publishing and Managing Collections
 
 Collections may be published after all required details and items have been added. Publishing a collection makes it available for use in catalogues. Below are some considerations while working with published Collections:
