@@ -8,8 +8,9 @@ sidebar_position: 3
 3. Select an **Instance Category**. 
 	![Creating Autoscale Groups](img/CreatingAutoscaleGroups1.png)
 4. Choose an **Availability Zone** that represents the geographic region for the deployment of your Autoscaled Instance.
-5. From the dropdown menus, pick a VPC network under "**Select VPC Network**," choose the appropriate tier in "**Select a Network Tier**," and then select a load balancer from the options in the **"Select Load Balancer"** dropdown
-6. Choose an **OS Image** to be run on your Instance![Creating Autoscale Groups](img/CreatingAutoscaleGroups2.png)
+5. From the dropdown menus, pick a VPC network under **Select VPC Network**, choose the appropriate tier in **Select a Network Tier**, and then select a load balancer from the options in the **Select Load Balancer"**dropdown.
+6. Choose an **OS Image** to be run on your Instance.
+   ![Creating Autoscale Groups](img/CreatingAutoscaleGroups2.png)
 7. Choose a **Compute pack** from the available compute collections.
 8. Choose a **Root disk** from the available Disk packs, or alternatively, use the free size option to define the size of the Root Disk.
 9. Now, Configure the **Autoscale group** as per your requirement; the options below need to be specified.
@@ -41,5 +42,5 @@ sidebar_position: 3
 13. Next is to set up the SSH Key. if your account doesn’t have any SSH key pair, then you can use the **Generate a new key pair** option, and you can also upload the key by selecting **Upload a key pair**.
     ![Creating Autoscale Groups](img/CreatingAutoscaleGroups8.png)
 14. If you want to notify your users or custom email addresses upon the execution of this Autoscale Group, then you can select the appropriate option available under Notify on email. i.e., Notify to account users, Notify to comma-separated email addresses.
-15. Last is to specify the name of your autoscale group. (Use the naming convention mentioned in the helper text below.)
-16. Now, click on the **PUBLISH THIS AUTOSCALE GROUP** button for publishing the autoscale group.![Creating Autoscale Groups](img/CreatingAutoscaleGroups9.png)![Creating Autoscale Groups](img/CreatingAutoscaleGroups10.png)![Creating Autoscale Groups](img/CreatingAutoscaleGroups11.png)
+15. Last is to specify the name of your Autoscale group. (Use the naming convention mentioned in the helper text below.)
+16. Now, click on the **PUBLISH THIS AUTOSCALE GROUP** button for publishing the Autoscale group.![Creating Autoscale Groups](img/CreatingAutoscaleGroups9.png)![Creating Autoscale Groups](img/CreatingAutoscaleGroups10.png)![Creating Autoscale Groups](img/CreatingAutoscaleGroups11.png)

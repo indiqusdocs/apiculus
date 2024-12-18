@@ -3,7 +3,7 @@ sidebar_position: 7
 ---
 # Networking Management with RHEL Instances
 
-Navigate to a [RHEL Instances](AboutRHELInstances.md), and access the **Networking** tab to see the networks that this Instance is attached to.
+ To view the networks of particular Instance is attached to, navigate to a [RHEL Instances](AboutRHELInstances.md), and access the **Networking** tab.
 
 The Networking and NICs section will list all the networks that a RHEL Instance is attached to.
 

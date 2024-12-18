@@ -3,7 +3,7 @@ sidebar_position: 9
 ---
 # Reconfiguring RHEL Instances
 
-Navigate to a [RHEL Instances](AboutRHELInstances.md) and access the **Reconfigure** tab to see available reconfiguration options.
+To view available reconfiguration options, navigate to a [RHEL Instances](AboutRHELInstances.md) and access the **Reconfigure** tab.
 
 A RHEL Instance on Apiculus can be reconfigured in the following ways:
 
