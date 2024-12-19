@@ -3,7 +3,7 @@ sidebar_position: 10
 ---
 # Reconfiguring Windows Instances
 
-From [Operating Windows Instances](AboutWindowsInstances), navigate into a Windows Instance and access the **Reconfigure** tab to see available reconfiguration options.
+To view available reconfiguration options, navigate to the [Operating Windows Instances](AboutWindowsInstances), select a Windows Instance and access the **Reconfigure** tab.
 
 A Windows Instance on Apiculus can be reconfigured in the following ways:
 

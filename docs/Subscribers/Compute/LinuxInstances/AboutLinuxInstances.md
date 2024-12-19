@@ -36,5 +36,5 @@ Details on available Linux Instance operations and actions can be found in their
 - [Volumes](VolumeManagementwithLinuxInstances.md)
 - [Networking](NetworkingManagementwithLinuxInstances.md)
 - [Snapshots](WorkingwithLinuxInstanceSnapshots.md)
-- [Reconfigure](ReconfiguringLinuxInstances.md)
-- [Operations](LinuxInstanceOperations.md)
+- [Reconfigure](docs/Subscribers/Compute/LinuxInstances/ReconfiguringLinuxInstances.md)
+- [Operations](docs/Subscribers/Compute/LinuxInstances/LinuxInstanceOperations.md)

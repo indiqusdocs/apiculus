@@ -3,8 +3,7 @@ sidebar_position: 3
 ---
 # Viewing Details of RHEL Instances
 
-From [RHEL Instance](AboutRHELInstances.md) navigate into a RHEL Instance and access the **Overview** tab to see the following details:
-
+To view the below details, navigate to the [RHEL Instance](AboutRHELInstances.md) and select a RHEL Instance and access the **Overview** tab.
 - [Configuration and Availability](#configuration-and-availability)
 - [Internal Information](#internal-information)
 - [Security and Access Control](#security-and-access-control)
