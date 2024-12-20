@@ -12,14 +12,14 @@ The **Reconfigure** section/tab will list your current subscription details an
 ![VPC Management and Basic Operations](img/VPCManagement1.png)
 
 :::note
-You can only reconfigure with the same billing interval. If you wish just to change the billing interval, please use the Switch Plan button. We recommend switching the plan first before reconfiguring the Instance if you wish to use both the Reconfigure and Switch Plan options. In either case, you will be charged as per the reconfiguration and not the existing.  
+You can only reconfigure with the same billing interval. To change the billing interval, use the Switch Plan button. We recommend switching the plan first before reconfiguring the instance if you wish to use both the Reconfigure and Switch Plan options. In either case, you will be charged based on the reconfiguration, not the existing plan.
 :::
 
 ## Powering ON/OFF the Virtual Router
 
-Switching the VPC power state is possible using the **power status** button on top. This will usually be green if the VPC is powered ON, and grey if powered OFF.
+Switching the VPC power state is possible using the **power status** button on top. This will usually be <span class="green">**green**</span> if the VPC is powered ON, and grey if powered OFF.
 
-Additionally, a VPC restart is possible using the **RESTART VIRTUAL ROUTER** option available under the **Operations** tab/section. This will perform a quick reboot od the VPC. This is a simple restart, and no data will be lost.
+To restart the VPC, navigate to the  **Operations** tab and click on the **RESTART VIRTUAL  ROUTER** option. This will perform a quick reboot and no data will be lost.
 
 ![VPC Management and Basic Operations](img/VPCManagement2.png)
 
