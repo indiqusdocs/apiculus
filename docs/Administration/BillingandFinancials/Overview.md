@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 # Overview
 
-The Billing and Financials section (BnF) is designed to give complete details of the Apiculus billing system. The BnF section gives administrators of Apiculus complete access to customers’ billing records, invoices, transactions, and other financial items supported on Apiculus.
+The Billing and Financials section is designed to give complete details of the Apiculus billing system. This section gives administrators of Apiculus complete access to customers’ billing records, invoices, transactions, and other financial items supported on Apiculus.
 
 :::note
 All sections allow downloading of data as a .csv file.
@@ -15,10 +15,9 @@ This section shows records of all customers’ subscriptions. A subscription is 
 
 Available actions:
 
-- [Deactivating a subscription](DeactivatingaSubscription)
-- _Adding a subscription to an Order (to be deprecated)_
-- [Updating subscription charges](UpdatingSubscriptionCharges)
-- [Adding a one-time charge or discount](AddingOne-timeChargesandDiscounts)
+- [Deactivating a Subscription](DeactivatingaSubscription)
+- [Updating Subscription Charges](UpdatingSubscriptionCharges)
+- [Adding One-time Charges and Discounts](AddingOne-timeChargesandDiscounts.md)
 
 ![Billing and Financials Overview](img/Overview1.png)
 
@@ -28,9 +27,9 @@ Invoices are generated on Apiculus for the previous month’s usage on the 1st o
 
 Available actions:
 
-- [View/download invoice](ViewingInvoices)
-- [Resend invoice](ResendinganInvoice)
-- [Create credit note against an invoice](CreatingaCreditNoteAgainstanInvoice)
+- [Viewing and Downloading Invoices](ViewinganddownloadingInvoices.md)
+- [Resending an Invoice](ResendinganInvoice)
+- [Creating a Credit Note Against an Invoice](CreatingaCreditNoteAgainstanInvoice)
 
 ![Billing and Financials Overview](img/Overview2.png)
 
@@ -44,9 +43,9 @@ Unlike invoices that are generated automatically, a credit note is a supplementa
 
 Available actions:
 
-- [Creating credit notes](/docs/Administration/BillingandFinancials/CreatingCreditNotesinBulk)
-- [Viewing/downloading credit notes](/docs/Administration/BillingandFinancials/ViewingandDownloadingCreditNotes)
-- [Resending a credit note](/docs/Administration/BillingandFinancials/ResendingCreditNotes)
+- [Creating Credit Notes in Bulk](/docs/Administration/BillingandFinancials/CreatingCreditNotesinBulk)
+- [Viewing and Downloading Credit Notes](/docs/Administration/BillingandFinancials/ViewingandDownloadingCreditNotes)
+- [Resending Credit Notes](/docs/Administration/BillingandFinancials/ResendingCreditNotes)
 
 :::note
 A credit note can be created by downloading the .xls or .ods template and uploading it back to the UI.
@@ -60,10 +59,10 @@ All customer transaction records (successful, failed, and pending) are displayed
 
 Available actions:
 
-- [Adding/recording transactions](/docs/Administration/BillingandFinancials/RecordingTransactionsandOfflinePayments)
-- [Viewing transaction details](/docs/Administration/BillingandFinancials/ViewingTransactionDetails)
-- [Reversing a transaction](/docs/Administration/BillingandFinancials/ReversingTransactions)
-- [Viewing acknowledgment receipt](/docs/Administration/BillingandFinancials/ViewingReceiptsandAcknowledgments)
+- [Recording Transactions and Offline Payments](/docs/Administration/BillingandFinancials/RecordingTransactionsandOfflinePayments)
+- [Viewing Transaction Details](/docs/Administration/BillingandFinancials/ViewingTransactionDetails)
+- [Reversing Transactions](/docs/Administration/BillingandFinancials/ReversingTransactions)
+- [Viewing Receipts and Acknowledgments](/docs/Administration/BillingandFinancials/ViewingReceiptsandAcknowledgments)
 
 ![Billing and Financials Overview](img/Overview4.png)
 
@@ -73,8 +72,8 @@ Apiculus supports recording quarterly tax deductions for all customer invoices. 
 
 Available actions:
 
-- [Adding tax deductions](RecordingTaxDeductions)
-- [Viewing recorded deductions](ViewingTaxDeductions)
+- [Recording Tax Deductions](RecordingTaxDeductions)
+- [Viewing Tax Deductions](ViewingTaxDeductions)
 
 ![Billing and Financials Overview](img/Overview5.png)
 
