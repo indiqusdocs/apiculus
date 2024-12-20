@@ -8,5 +8,5 @@ Apiculus Block Volumes are the underlying software-defined volume management lay
 The following sections outline the capabilities of Block Volumes on Apiculus:
 
 - [Instance Block Volumes](WorkingwithInstanceVolumes)
-- [Taking disk Snapshots](WorkingwithVolumeSnapshots)
+- [Taking disk Snapshots](DetailsofBlockVolumes/WorkingwithVolumeSnapshots.md)
 - [Kubernetes Block Volumes](UsingBlockVolumeswithKubernetes)

@@ -7,6 +7,6 @@ Apiculus servers can be used as authoritative name server(s) for managing DNS re
 
 The following sections outline how to use this service:
 
-- [Bringing your domains to Apiculus Cloud Console](LinkingDomainstoApiculusCloud Console)
-- [Managing DNS records using Apiculus Cloud Console](ManagingDNSRecords)
-- [Switching (back) to another DNS provider](SwitchingtoAnotherDNSProvider)
+- [Bringing your domains to Apiculus Cloud Console](LinkingDomainstoApiculusCloudConsole.md)
+- [Managing DNS records using Apiculus Cloud Console](ManagingDNSRecords.md)
+- [Switching (back) to another DNS provider](SwitchingtoAnotherDNSProvider.md)
