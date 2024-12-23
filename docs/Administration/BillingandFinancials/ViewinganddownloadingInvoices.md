@@ -17,7 +17,7 @@ You can download the invoices in the following ways:
 - [Global Level](#global-level)
 - [Account Level](#account-level)
 ## Global Level
-1. Navigate to **Billing and Financials** > **Invoice**.![Invoices](img/Invoices.png)
+1. Navigate to **Billing and Financials** > **Invoices**.![Invoices](img/Invoices.png)
 2. Click on  ![](img/download.png)  (download icon) to download the required invoice. 
 
 ## Account Level
