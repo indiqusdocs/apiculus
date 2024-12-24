@@ -3,7 +3,7 @@ sidebar_position: 15
 ---
 # Recording Tax Deductions
 
-Admins can configure tax deductions via a new section under Settings called Tax Deductions*. This involves taxes deducted by the customers while making a payment and is different from taxation on services which involves taxes charged on the services delivered.* Admins can record quarterly tax deductions for all customer invoices. The Tax Deductions section lists all such tax deductions and also allows for adding new items. The Tax Deductions feature is optional and needs to be enabled from the global settings, where admins also get the ability to define their country’s fiscal period and fiscal quarters.
+Admins can configure tax deductions via a new section under Settings called Tax Deductions. This involves taxes deducted by the customers while making a payment and is different from taxation on services which involves taxes charged on the services delivered. Admins can record quarterly tax deductions for all customer invoices. The Tax Deductions section lists all such tax deductions and also allows for adding new items. The Tax Deductions feature is optional and needs to be enabled from the global settings, where admins also get the ability to define their country’s fiscal period and fiscal quarters.
 
 ## Configuring Tax deductions
 
@@ -46,7 +46,7 @@ For adding the tax deduction from the global section, click on the **+ Add Tax 
 
 ### Account Level Tax Deductions Section
 
-1. Navigate to the **Accounts Management** > **Select Account** > **Edit Account** > **Tax Deductions**.**
+1. Navigate to the **Accounts Management** > **Select Account** > **Edit Account** > **Tax Deductions**.
 2. It will list down all the accounts posting that have been recorded. It will include the following details:
     1. Account ID
     2. Date of Posting
