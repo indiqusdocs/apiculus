@@ -15,10 +15,10 @@ ns3.<cloud-url>
 There are 2 main steps involved in linking your owned domains to Apiculus DNS.
 
 1. Navigate to **Networking > DNS Management** and click the **+ NEW ZONE** button. On Apiculus, each domain name is stored as a Zone file. 
-   :::note
-    Apiculus supports pricing per DNS Zone, which could be monthly or a one-time cost, depending on how the cloud service provider has priced the Service. Once the Zone is created, navigate to the Zone from the list of available DNS Zones, then go to the **Nameservers** section where you will find the nameserver information.
-    :::
-2. In a different tab or browser window, open the control panel of your domain name provider (e.g., Bigrock, GoDaddy, Dreamhost, etc.) and go to the section where DNS records are managed on the control panel. There will typically be a dedicated section for nameservers that can be edited. Find that section and update the nameserver details with the values from **DNS Management** on the Apiculus Cloud Console.
+   :::note
+    Apiculus supports pricing per DNS Zone, which could be monthly or a one-time cost, depending on how the cloud service provider has priced the Service. Once the Zone is created, navigate to it from the list of available DNS Zones, then go to the **Nameservers** section, where you will find the nameserver information.
+    :::
+2. In a different tab or browser window, open the control panel of your domain name provider (e.g., Bigrock, GoDaddy, Dreamhost, etc.) and navigate to the section where DNS records are managed. There will typically be a dedicated area for nameservers that can be edited. Find this section and update the nameserver details with the values from **DNS Management** in the Apiculus Cloud Console.
    
 	![Linking Domains to Apiculus Cloud Console](img/LinkingDomainstoApiculusCloudConsole.png)
 

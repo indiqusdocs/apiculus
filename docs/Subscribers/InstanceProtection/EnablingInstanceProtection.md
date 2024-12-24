@@ -21,8 +21,7 @@ If you already have a Linux or Windows Instance and didn't enable the protection
    2.  Click on Confirm, and if you want to enable the advanced protection features, then enable the switch as shown in the below screenshot:
 
     ![Enabling Instance Protection](img/EnablingInstanceProtection4.png)
-
- 3. After the confirmation, the steps for the activation will be listed, and these steps need to be run through the command line. Once the instructions mentioned have been performed, the particular instance will be protected, and the details will be listed in the  **Instance Protection** menu.
+ 3. After the confirmation, the steps for the activation will be listed, and these steps need to be run through the command line. Once the instructions mentioned have been performed, the particular instance will be protected, and the details will be listed in the  **Instance Protection** menu.
 
 :::note
 The list of supported operating systems and environments can be viewed at the following link:
