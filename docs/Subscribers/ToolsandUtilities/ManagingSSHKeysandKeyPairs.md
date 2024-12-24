@@ -11,8 +11,7 @@ SSH keys can be managed from the **Tools and Utilities > SSH Key Pairs** secti
 1. New SSH key pairs can be generated from the **Generate a new key pair** button on the bottom left. This will create a public-private key pair and download the private key on your system while keeping the public key in your Apiculus Cloud Console account. You can then use the downloaded private key to connect to virtual machines that are associated with the corresponding public key.
 	![SSH Keys and Key Pairs for Linux Instances](img/SSHKeysandKeyPairs1.png)
 2. Existing public keys on your system can be uploaded to your Apiculus Cloud account using the **UPLOAD PUBLIC KEY** button. This assumes that you already have a key pair on your system and just upload the contents of the public key (typically, a .pub file in your system’s SSH directory) to your Apiculus Cloud Console account.
-
-![SSH Keys and Key Pairs for Linux Instances](img/SSHKeysandKeyPairs2.png)
+	![SSH Keys and Key Pairs for Linux Instances](img/SSHKeysandKeyPairs2.png)
 
 ## Using Linux Instances with SSH Keys
 
