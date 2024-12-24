@@ -9,7 +9,7 @@ IPv4 Addresses are an integral part of using VPC networking, and need to be used
 
 Primarily, IPv4 Addresses can be used for configuring access and NAT-ing via:
 
-- Port forwarding
+- Port Forwarding
 - Load balancing
 - Static NAT
 
