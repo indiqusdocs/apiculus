@@ -7,13 +7,14 @@ Admins can configure tax deductions via a new section under Settings called Tax 
 
 ## Configuring Tax deductions
 
-Admins need to perform the following steps for [configuring the Tax deductions](/docs/GettingStarted/BillingandFinancials/ConfiguringTaxDeductions).
+Perform the following steps for [configuring tax deductions](/docs/GettingStarted/BillingandFinancials/ConfiguringTaxDeductions).
 
-1. Navigate to **Global Settings > Tax Deduction > Enable the Tax Deductions Switch**.
-2. Enter the Tax Name as applicable.
-3. Enter the Tax Account ID Name
-4. Select the quarter from the list of Fiscal/Financial years.
-5. Click on Save and proceed with the publish settings.
+1. Navigate to **Administration** >  **Settings > Financials & Business > Tax Deduction**.
+2. Enable the **Tax Deduction** switch and provide the following details:
+	- Enter the **Tax Name** as applicable.
+	- Enter the **Tax Account ID Name**.
+	- Select the quarter from the **Fiscal/Financial Year** drop-down list.
+3. Click on **Save** and then click **Publish Settings**.
 
 ## Accessing and Adding Tax Deductions 
 
