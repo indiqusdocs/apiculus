@@ -29,3 +29,6 @@ Under the PRICING section:
 - Navigate to the **Gateway** section, select the **Availability Zone**, and and define the pricing for the NAT gateway and IPv4 address.![Configuring Virtual Firewall Instances](img/ConfiguringVirtualFirewallInstances7.png)
 Finally, return to Default Services and click on **PUBLISH DEFAULT CATALOGUE**.
 ![Configuring Virtual Firewall Instances](img/rhel.png)
+
+
+

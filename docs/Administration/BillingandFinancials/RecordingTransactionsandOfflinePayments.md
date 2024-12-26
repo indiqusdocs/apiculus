@@ -27,3 +27,6 @@ Bulk upload allows recording transactions for multiple customers against multipl
 :::note
 On transaction recording, all target customers will be notified on email. All recorded [transactions are visible to subscribers/customers](/docs/Subscribers/AccountCentre/WalletandTransactions) in their Account Centre.
 :::
+
+
+

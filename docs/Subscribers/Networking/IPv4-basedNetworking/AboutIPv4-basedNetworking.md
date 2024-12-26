@@ -13,3 +13,6 @@ IPv4 Addresses are used:
 - For accessing the contents of a VPC network.
 
 Other applications of IPv4-based networking include [using VPN gateways](ManagingVPNGatewaysandSite-to-SiteVPN) and [remote access VPN connections](UsingRemoteAccessVPNwithVPC).
+
+
+

@@ -54,3 +54,6 @@ Once the account is in verified status, that is, KYC is now successfully verifie
 This is a global setting that will be applied to all the accounts globally after the settings have been published. For all the accounts, there is a field called KYC Required check available inside account details; if required can be set to YES or NO, and it applies to all individual accounts.
 :::
 ![Working with KYC and Account Verification](img/KYC8.png)
+
+
+

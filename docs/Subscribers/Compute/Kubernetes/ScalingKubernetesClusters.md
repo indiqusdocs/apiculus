@@ -21,3 +21,6 @@ Apiculus Cloud Console allows for manual and automatic cluster scaling. Clusters
 3. Click on **CONFIRM SCALING**.
 
 ![Scaling Kubernetes Clusters](img/ScalingKubernetes3.png)
+
+
+

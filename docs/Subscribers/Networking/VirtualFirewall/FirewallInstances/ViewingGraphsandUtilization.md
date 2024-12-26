@@ -21,3 +21,5 @@ To view historical usage across supported parameters, navigate to the [Networki
 ![Utilisation](img/Utilisation.png)
 
 The Utillisation table shows a historical date-wise details of daily maximum, minimum, and average readings for all parameters. The utilisation report is downloadable as a .csv file.
+
+

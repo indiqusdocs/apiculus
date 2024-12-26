@@ -49,7 +49,7 @@ You can modify the theme customisation kit (.css) to define the following:
 
 - Brand colour palette (primary, secondary and tertiary colours)
 - Standard colour palette (red, green, blue, orange etc.)
-- Greyscale colour pallette (white/0%, 5%, 25%, 50%, 75%, 95% and black/100% greys)
+- <span style={{ color: 'grey' }}>greyed</span>scale colour pallette (white/0%, 5%, 25%, 50%, 75%, 95% and black/100% <span style={{ color: 'grey' }}>greyed</span>s)
 - Navigation panel colour palette
 - Login/signup page colour palette
 
@@ -65,3 +65,6 @@ Click the **Download** button to download the fonts file and make the desired mo
 :::note
 The correct font licenses should be procured by the service provider.
 :::
+
+
+

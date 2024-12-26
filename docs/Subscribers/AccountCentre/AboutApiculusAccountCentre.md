@@ -7,3 +7,6 @@ Account Centre on Apiculus Cloud Console is the non-technical (commercial and su
 
 ![Account Centre](img/AccountCentre.png)
 Apiculus Cloud Console offers a one-click view switcher between Account Centre and the Cloud Dashboard.
+
+
+

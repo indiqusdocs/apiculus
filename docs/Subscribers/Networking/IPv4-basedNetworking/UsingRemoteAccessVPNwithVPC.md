@@ -14,3 +14,6 @@ To use a VPN client to connect to your VPC, follow these steps:
 4. Additionally, you’ll need to add VPN user credentials here.
 
 To test this configuration, you can open the VPN client on your local system and try connecting to the VPC.
+
+
+

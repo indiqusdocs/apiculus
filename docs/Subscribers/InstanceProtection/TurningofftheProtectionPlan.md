@@ -23,3 +23,6 @@ The other way is mentioned as follows:
 - To Turn off the protection for particular instance, Click on **YES, CONFIRM** button.
 
 	![Turning off the Protection Plan](img/TurningofftheProtectionPlan5.png)
+
+
+

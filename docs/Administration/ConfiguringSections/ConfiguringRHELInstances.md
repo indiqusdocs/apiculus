@@ -31,3 +31,6 @@ Follow these steps to configure RHEL Instances:
 ![Configuring Linux Instances](img/rhel7.png)
 12. Return to the Default Services, and click **PUBLISH DEFAULT CATALOGUE**.
 ![Configuring Linux Instances](img/rhel.png) 
+
+
+

@@ -44,3 +44,6 @@ Admin-initiated signups are manual and require the maximum intervention from adm
 :::note
 Only new subscriber accounts can be created using this process. Resellers, child admins and child subscribers can not be created this way and need to be invited from within their respective parent accounts.
 :::
+
+
+

@@ -25,3 +25,6 @@ Two quick options are available, one is to revert the Instance from the snapshot
 - Click on create, the snapshot will be created, and if you click on cancel, the action will be canceled.
 
 ![Snapshots](img/Snapshots2.png)
+
+
+

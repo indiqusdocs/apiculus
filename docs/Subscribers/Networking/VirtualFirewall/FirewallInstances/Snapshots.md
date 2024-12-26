@@ -29,3 +29,5 @@ To create a Snapshot, follow these steps:
 2. Enter the name of the Snapshot and the description of the Snapshot.
 3. Click on the Create button. The Snapshot will be created.
    ![Creating Snapshot](img/Snapshot1.png)
+
+

@@ -32,3 +32,6 @@ Further, the PRICING options include:
 ![Configuring Kubernetes Service](img/Kubernetes8.png)
 Finally, return to **Default Services** and select **PUBLISH DEFAULT CATALOGUE**.
 ![Configuring Kubernetes Instances](img/rhel.png)
+
+
+

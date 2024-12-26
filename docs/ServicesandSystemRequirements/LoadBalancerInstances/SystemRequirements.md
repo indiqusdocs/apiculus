@@ -18,3 +18,6 @@ Apiculus does not include NetScaler VPX licenses.
 ## Networking and VM Requirements
 
 Load Balancer Instances are deployed inside VPC subnets as Linux Instances with a preloaded NetScaler VPX image and recommended configuration of 2 vCPU and 2GB RAM.
+
+
+

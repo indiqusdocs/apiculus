@@ -54,3 +54,5 @@ MFA is available as an [OTP-enhanced login feature](/docs/GettingStarted/LoginC
 :::note
 It is not currently possible to configure MFA/2FA for individual customer accounts.
 :::
+
+

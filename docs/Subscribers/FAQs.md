@@ -99,3 +99,6 @@ No, Apiculus Kubernetes Service (AK8s) only supports equally-sized Control and W
 No, Root Volumes, i.e., root disks that are created at the time of Instance creation, can not be moved between Instances.
 
 Data Volumes, i.e., addon disks that are created separately, can be attached to and detached from Instances. In other words, Data Volumes are portable while Root Volumes are not.
+
+
+

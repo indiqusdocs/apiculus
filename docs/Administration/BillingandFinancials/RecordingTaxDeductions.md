@@ -64,3 +64,6 @@ For adding the tax deduction from the global section, click on the **+ Add Tax 
 For adding the tax deduction, click on the **+ Add Tax Deduction**, and then a pop-over dialogue box will open. Fill in the required details and click on **Submit**.
 
 ![Recording Tax Deductions](img/RecordingTaxDeductions6.png)
+
+
+

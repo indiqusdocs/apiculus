@@ -31,3 +31,5 @@ Follow these steps to configure Linux Instances:
 ![Configuring Linux Instances](img/linux7.png)
 11. Return to the **Default Services**, and click **PUBLISH DEFAULT CATALOGUE**.
     ![Configuring Windows Instances](img/rhel.png)
+
+

@@ -10,3 +10,6 @@ IndiQus Support is set up on Zendesk and all service providers will get customer
 :::note
 The terms of support and service will be as agreed in the Master Services Agreement signed between each service provider and IndiQus Technologies.
 :::
+
+
+

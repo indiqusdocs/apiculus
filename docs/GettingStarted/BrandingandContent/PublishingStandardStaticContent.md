@@ -26,3 +26,6 @@ To update the standard content/policies:
 Once the policy type is updated, all admins and customers will be sent an email informing them about the policy update changes, along with the link to the updated policy.
 
 Whenever a customer logs in after the policy update, the customer needs to accept the updated policy by clicking on the acceptance checkbox; otherwise, they won’t be able to do anything on the portal.
+
+
+

@@ -21,3 +21,6 @@ Additionally, if Google Tag Manager is being used, the connected apps may inject
 :::note
 Login attempts and passwords can be managed via setting up strong [password policies](/docs/GettingStarted/LoginConfigurations/ConfiguringPasswordPolicies) using platform configurations.
 :::
+
+
+

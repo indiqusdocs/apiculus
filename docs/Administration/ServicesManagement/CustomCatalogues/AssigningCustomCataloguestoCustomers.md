@@ -18,3 +18,6 @@ sidebar_position: 4
 :::note
 If the newly-linked customer is already on any resource creation/purchase page on the Apiculus Cloud Console at the time of publishing the edits, their purchase will fail.
 :::
+
+
+

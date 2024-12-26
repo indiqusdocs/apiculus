@@ -20,3 +20,6 @@ Using the **Profile** section, you can manage your organisation account profil
 	:::
 	![Account Profile](img/AccountProfile2.png)
 5. **Relationship Personnel -** This section will show the point of contact details that have been assigned to your account by the service provider.
+
+
+

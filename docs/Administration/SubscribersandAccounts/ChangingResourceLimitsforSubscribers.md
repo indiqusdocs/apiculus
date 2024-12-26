@@ -20,3 +20,6 @@ The following resource limits can be changed:
 :::note
 Limits and QoS policies for non-CloudStack services (such as object storage, bare metal etc.) need to be configured on the connected ISV portal.
 :::
+
+
+

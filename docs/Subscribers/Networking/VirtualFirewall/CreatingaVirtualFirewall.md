@@ -53,3 +53,6 @@ If **approval-based provisioning** is enabled for the VFI Service, the following
 	  ![Creating a Virtual Firewall](img/CreatingaVirtualFirewall10.png)
 
 
+
+
+

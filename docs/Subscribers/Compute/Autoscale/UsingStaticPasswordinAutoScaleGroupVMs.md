@@ -31,3 +31,6 @@ sidebar_position: 4
    ![Using Static Password In AutoScale Group’s VMs](img/autoscalegrpvm6.png)
 
 9. You can now log in to the initial VM using the static password (the same one used for the standard VM). Additionally, you can successfully log in to the secondary VM using the same static password.
+
+
+

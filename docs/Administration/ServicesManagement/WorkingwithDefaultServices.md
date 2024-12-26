@@ -24,3 +24,6 @@ The DS catalogue needs to be published before it can be made visible/available t
 - Any new Collection or Collection Item published on the system will get added to the corresponding Service in the catalogue in a disabled state and needs to be manually enabled in order to make it a part of the catalogue.
 - Any change made to the Availability Zones section (inside a Service in the DS catalogue) requires the catalogue to be updated for the AZ and its collection details to show up in the catalogue.
 - The DS catalogue does not differentiate between self-service, admin-assisted or admin-initiated accounts.
+
+
+

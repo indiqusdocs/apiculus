@@ -11,3 +11,6 @@ To resend an invoice to a customer, click on ![Resent icon](img/resendicon.png) 
 :::note
 This does not regenerate an invoice. The same invoice is sent again to the same recipient.
 :::
+
+
+

@@ -16,3 +16,6 @@ The recommended versions for the underlying software are:
 A VM with minimum 4 vCPU cores and 4GB or RAM running any supported version of Ubuntu is recommended.
 
 The VM should be accessible publicly (via port forwarding or static NAT) using UDP on port 53.
+
+
+

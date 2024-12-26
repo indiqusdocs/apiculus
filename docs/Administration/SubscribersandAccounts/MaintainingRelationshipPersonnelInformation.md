@@ -8,3 +8,6 @@ Apiculus Cloud Console makes it easy for users to view information on designated
 Apiculus allows maintaining primary and secondary personnel details and both can be accessed by navigating into the target account and using the **Relationship Personnel** sub-section.
 
 This information will be visible to subscribers in their Account Centre.
+
+
+

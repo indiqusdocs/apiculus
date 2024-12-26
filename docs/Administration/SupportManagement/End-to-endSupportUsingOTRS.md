@@ -18,3 +18,6 @@ Apiculus supports OTRS Community Edition versions 5 and 6.
 :::
 
 Refer to the [official documentation to learn more about how to use OTRS](https://doc.otrs.com/doc/).
+
+
+

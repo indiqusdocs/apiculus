@@ -63,3 +63,6 @@ This might take up to 5-8 minutes. You may use the Cloud Console during this tim
 :::
 
 Once ready, you’ll be notified of this purchase on your email address on record. The newly created Windows Instances can be accessed from **Compute >** **Windows Instances** on the main navigation panel.
+
+
+

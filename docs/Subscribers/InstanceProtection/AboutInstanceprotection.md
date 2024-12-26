@@ -11,3 +11,6 @@ About **Acronis Cyber Protect**:
 - Simplifies the management and automation of backup, recovery, and cybersecurity.  
 - Offers enhanced security and compliance features for enterprises.  
 - Extendable to deliver advanced features around disaster recovery, EDR, email security, blockchain, document signing, and much more.
+
+
+

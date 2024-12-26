@@ -18,3 +18,6 @@ Load balancer instances are different from VPC-based load balancing. The differe
 :::note
 The specific capabilities and features of NetScaler-based Load Balancer Instances and VPC Load Balancer may vary based on the vendors' versions, configurations and offerings.
 :::
+
+
+

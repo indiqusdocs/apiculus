@@ -12,3 +12,6 @@ This action is available on all subscription lists at the account and global lev
 :::note
 Billing on subscription deactivation will follow the pro-ration (on exit) rules defined for the Service under which the subscription exists.
 :::
+
+
+

@@ -18,3 +18,6 @@ Apiculus supports SMS gateways that can be used for sending SMS notifications, s
 :::note
 SMS charges and the ability to send domestic and/or international messages are dependent on the SMS provider and the SMS plan that the service provider is on. Apiculus does not include any bundled or standalone SMS subscription.
 :::
+
+
+

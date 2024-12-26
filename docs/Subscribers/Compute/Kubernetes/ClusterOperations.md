@@ -9,7 +9,7 @@ Kubernetes clusters created on Apiculus Cloud Console allow for a set of managem
 
 ## Powering ON/OFF a Cluster
 
-Kubernetes clusters can be powered ON/OFF using the **power** button on top of the cluster details. This button will typically show in <span class="green">**green**</span> when a cluster is powered ON, and grey when powered OFF.
+Kubernetes clusters can be powered ON/OFF using the **power** button on top of the cluster details. This button will typically show in <span class="green">**green**</span> when a cluster is powered ON, and <span style={{ color: 'grey' }}>grey</span> when powered OFF.
 
 ## Stopping and Restarting a Cluster
 
@@ -21,3 +21,6 @@ Kubernetes clusters can be stopped or restarted from the **Operations** sectio
 ## Deleting a Cluster
 
 A cluster can be deleted permanently from the **Operations** section under cluster details. This action is irreversible, and no data from a deleted Kubernetes cluster can be recovered.
+
+
+

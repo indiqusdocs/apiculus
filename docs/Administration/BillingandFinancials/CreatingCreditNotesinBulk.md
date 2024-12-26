@@ -27,3 +27,6 @@ This will generate two credit notes:
     - Product model 2-3
 
 On creation, the account owners of the linked invoices will be notified of the credit note(s).
+
+
+

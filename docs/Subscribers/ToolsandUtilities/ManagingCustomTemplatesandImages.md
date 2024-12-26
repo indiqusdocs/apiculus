@@ -20,3 +20,6 @@ You can delete the image by clicking on the delete icon present at the rightmost
 	![Managing Custom Templates and Images](img/ManagingCustomTemplatesandImages3.png)
 
 These Images can be used while creating new Linux or Windows Instances and found under the **MY IMAGES** tab in the OS Collection section.
+
+
+

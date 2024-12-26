@@ -8,3 +8,6 @@ Apiculus admin console offers an easy-to-view activity logs which can be filtere
 This view can be accessed from **Support & Operations > Logs** in the main navigation menu.
 
 ![Viewing Activity Logs](img/Logs.png)
+
+
+

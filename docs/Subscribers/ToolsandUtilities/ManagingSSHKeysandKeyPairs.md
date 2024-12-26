@@ -30,3 +30,6 @@ Once a SSH key pair has been associated with a Linux Instance, the [Instance ca
 If a SSH public key is deleted from the Apiculus Cloud Console account, you'll no longer be able to connect to the Linux Instance(s) associated with the key pair. You'll still be able to use a password to connect to the Instance.
 
 To re-associate a key pair, you might need to open the known_hosts or hosts file on your local machine and delete all rows/entries related to the Instance(s) using the SSH key pair.
+
+
+

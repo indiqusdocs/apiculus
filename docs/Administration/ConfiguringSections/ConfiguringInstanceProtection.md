@@ -16,3 +16,6 @@ To configure Instance Protection via the Default Services section, follow th
 6. Click on **Save and Update** to save the changes you made.
 	Finally, return to Default Services and select **PUBLISH DEFAULT CATALOGUE**.
 ![Configuring Instance Protection](img/ConfiguringInstanceProtection4.png)
+
+
+

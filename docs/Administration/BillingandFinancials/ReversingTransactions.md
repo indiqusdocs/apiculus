@@ -10,3 +10,6 @@ Transactions and payments, once received and recorded, can not be edited. In cas
 :::note 
 Reverse transactions show in red colour in the transactions listing and carry a negative (-) amount. All recorded [transactions are visible to subscribers/customers](/docs/Subscribers/AccountCentre/WalletandTransactions) in their Account Centre.
 :::
+
+
+

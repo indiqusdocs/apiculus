@@ -51,3 +51,6 @@ You can revert to the image from the volume snapshot; this can be done by clicki
 You can simply delete the Volume Snapshot by clicking on the delete icon from the right corner.
 
 ![Managing Instance and Volume Snapshots](img/ManagingInstanceandVolumeSnapshots8.png)
+
+
+

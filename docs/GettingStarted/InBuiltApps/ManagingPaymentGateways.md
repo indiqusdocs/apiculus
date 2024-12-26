@@ -20,3 +20,6 @@ The subscriber users will see a list of all enabled gateways to choose from.
 ![Enabling and Disabling Payment Gateways](img/ManagingPaymentGateways2.png)
 
 
+
+
+

@@ -8,3 +8,6 @@ Apiculus admin console offers a way to offer basic support from the UI, in terms
 - [Viewing activity logs](ViewingActivityLogs)
 - [Handling purchase/provisioning requests](HandlingPurchaseandProvisioningRequests)
 - [End-to-end support using OTRS](End-to-endSupportUsingOTRS)
+
+
+

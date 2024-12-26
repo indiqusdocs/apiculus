@@ -16,3 +16,5 @@ Configure following details as per your requirements:
 - **Admin Only Signups** - If this option is enabled, the self-signup form will be disabled and only admins will be able to create the subscriber accounts.
 - **Send Emails to Admins & Account Managers** - If this option is enabled, an email will be sent to admins and account managers whenever signup for a new account happens.
 - **Send Emails to Other IDs** - If this option is enabled, all the specified email IDs will receive an email whenever a new account signup happens.
+
+

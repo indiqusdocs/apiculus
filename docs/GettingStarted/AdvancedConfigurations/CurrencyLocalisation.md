@@ -28,3 +28,6 @@ The following settings can be controlled for configured currencies:
 1. Click on the edit icon at the end of the currency. The following screen appears:
    ![Currency Localisation](img/CurrencyLocalisation1.png)
 2. Make the desired changes, and click the **Update** button.
+
+
+

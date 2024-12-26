@@ -21,3 +21,6 @@ The following details are needed for linking AWS user accounts:
 - AWS account ID
 - Root user access key ID
 - Root user secret access key
+
+
+

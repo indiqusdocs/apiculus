@@ -17,3 +17,6 @@ Once you’ve created your Quick Plans, you need to add them to all the catalogu
    After adding the Quick Plans, it is crucial to synchronise the catalogues to ensure the plans are visible to end users. Click the **Sync Catalogues** button at the top of the page.
 
 Once the synchronization is complete, the newly added Quick Plans will be available for purchase by end users.
+
+
+

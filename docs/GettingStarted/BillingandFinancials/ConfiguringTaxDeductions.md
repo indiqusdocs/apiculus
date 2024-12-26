@@ -12,3 +12,6 @@ To configure tax deductions, navigate to **Administration** >  **Settings > Fin
 :::note
 Once set up, tax deductions can be recorded via Subscriber Account Management.
 :::
+
+
+

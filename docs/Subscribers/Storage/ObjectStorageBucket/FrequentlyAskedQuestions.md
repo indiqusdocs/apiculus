@@ -74,3 +74,6 @@ AS3 billing is usage-based and takes the following parameters:
 ### Are fixed bucket and slab-based billing models available on AS3?
 
 No, at this moment billing is completely usage-based and unitary.
+
+
+

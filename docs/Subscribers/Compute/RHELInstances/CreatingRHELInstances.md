@@ -36,3 +36,6 @@ It might take up to 5-8 minutes for the instance to create. You may use the Clou
 :::
 
 Once ready, you will be notified of this purchase on your registered email address. To access the newly created RHEL Instances, navigate to **Compute >** **RHEL Instances**.
+
+
+

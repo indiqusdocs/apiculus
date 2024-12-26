@@ -34,3 +34,6 @@ New DNS records can be added by using the **ADD DNS RECORD** button which will
 Once a record has been created, you can ping the record Name from any online or desktop command line and the response should show the IPv4 specified in the Value field.
 
 [More information about DNS record types can be found here.](https://ns1.com/resources/dns-types-records-servers-and-queries)
+
+
+

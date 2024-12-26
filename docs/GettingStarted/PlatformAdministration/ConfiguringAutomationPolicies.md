@@ -99,3 +99,6 @@ For notification actions (email and sms), you can use smart tags to insert dynam
 
 The following is an example of a **Notify Subscriber on Email** action using **smart tags**.
 ![Configuring Automation Policies](img/ConfiguringAutomationPolicies8.png)
+
+
+

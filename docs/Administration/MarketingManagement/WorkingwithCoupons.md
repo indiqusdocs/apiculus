@@ -55,3 +55,6 @@ Now the coupon codes can be emailed quickly to the customer by simply clicking t
 
 ## Redeeming Coupons
 Subscriber customers can redeem Coupons from the [Wallet](/docs/Subscribers/AccountCentre/WalletandTransactions) section of their [Account Centre](/docs/Subscribers/AccountCentre/AboutApiculusAccountCentre). Redeeming a Coupon will instantly add the Coupon value to their service balance/wallet.
+
+
+

@@ -23,3 +23,6 @@ There are 2 main steps involved in linking your owned domains to Apiculus DNS.
 	![Linking Domains to Apiculus Cloud Console](img/LinkingDomainstoApiculusCloudConsole.png)
 
 Once the nameservers have been propagated (which takes around 5-10 minutes), you'll be able to find your updated nameserver information if you whois your domain name. This also implicitly establishes your ownership of the domain.
+
+
+

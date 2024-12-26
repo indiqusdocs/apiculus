@@ -22,3 +22,6 @@ sidebar_position: 3
 6. The backups section will display all the available backups. To restore a backup, click the **LAUNCH CYBER PROTECT CONSOLE** above.
 
 	![Viewing Protected Instances](img/ViewingProtectedInstances4.png)
+
+
+

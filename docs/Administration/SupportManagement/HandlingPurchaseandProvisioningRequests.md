@@ -8,3 +8,6 @@ Apiculus ships with the option to configure an 'approval mechanism' on Services 
 ![Handling Purchase and Provisioning Requests](img/PurchaseRequests.png)
 
 The list of requests can be filtered and downloaded as a _.csv_ file. Request approval and rejection may have subsequent input required as part of the respective Service configuration. End customers are always notified of request approvals and rejections.
+
+
+

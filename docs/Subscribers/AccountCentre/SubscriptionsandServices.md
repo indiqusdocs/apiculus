@@ -26,3 +26,6 @@ Subscriptions can be accessed by clicking on **Billing  > Subscriptions & Serv
 2. **Inactive Subscriptions -** a tabulated list of all subscriptions that were active in the past. This includes all removed subscriptions.
 3. **Scheduled for Deletion -** a tabulated list of all subscriptions that are set not to renew automatically.
 	![Subscriptions and Services](img/SubscriptionsandServices.png)
+
+
+

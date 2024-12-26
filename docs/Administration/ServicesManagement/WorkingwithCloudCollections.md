@@ -52,3 +52,5 @@ Collections may be published after all required details and items have been adde
 :::note
 If any resource in the underlying ISV is recreated, the corresponding Collection Item needs to be updated on Apiculus failing which, any resource purchase action that uses this Collection Item will fail.
 :::
+
+

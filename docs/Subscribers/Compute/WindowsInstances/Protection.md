@@ -15,3 +15,6 @@ To enable instance protection, follow these steps:
 4. To enable the protection, click on the **Confirm**. 
 6. Run the respective script (mentioned under Point No. 1 in above screen) in command-line to install Protection Agent.
    ![PowerShell Script](img/Protection2.png)
+
+
+

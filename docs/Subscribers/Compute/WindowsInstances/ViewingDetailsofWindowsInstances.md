@@ -6,7 +6,7 @@ sidebar_position: 4
 Toe see the details of Windows Instances, navigate to the [Operating Windows Instances](AboutWindowsInstances), select a Windows Instance and access the **Overview** tab.
 
 1. Configuration and Availability
-    1. The instance's status, **RUNNING**, is displayed in Green, whereas **STOPPED** is displayed in greyed out.
+    1. The instance's status, **RUNNING**, is displayed in Green, whereas **STOPPED** is displayed in <span style={{ color: 'grey' }}>greyed</span> out.
     2. Information about the networking zone, whether it is a VPC networking zone or a Basic/Flat networking zone.
 ![Viewing Details of Windows Instances](img/ViewingDetailsofWindowsInstances1.png)
 2. Internal Information- This displays the information that is used for internal identification of this instance and communication with other internal services.
@@ -26,3 +26,6 @@ Toe see the details of Windows Instances, navigate to the [Operating Windows Ins
     3. IP Address
     4. Netmask
     5. Gateway
+
+
+

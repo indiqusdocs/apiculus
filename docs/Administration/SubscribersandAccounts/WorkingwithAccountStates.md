@@ -32,3 +32,6 @@ The Apiculus Accounts API provides the options to manage account states programm
 :::note
 It is recommended that programmatic termination be used with utmost caution as there will be no way to reverse the action.
 :::
+
+
+

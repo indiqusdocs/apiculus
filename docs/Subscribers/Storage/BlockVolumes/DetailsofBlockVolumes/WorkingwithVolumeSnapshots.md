@@ -45,3 +45,6 @@ Volume Snapshots can be used to create OS Images which can be used at the time o
 :::note
 Images occupy account-level storage space which may be billed on usage by the service provider.
 :::
+
+
+

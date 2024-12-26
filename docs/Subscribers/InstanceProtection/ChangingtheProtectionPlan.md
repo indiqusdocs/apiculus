@@ -13,3 +13,6 @@ Suppose you want to switch your current plan to a different one. This can be ach
 	![Changing the Protection Plan](img/ChangingtheProtectionPlan2.png)
 
 The change plan can also be made by navigating to the Protection section of a particular Instance.
+
+
+

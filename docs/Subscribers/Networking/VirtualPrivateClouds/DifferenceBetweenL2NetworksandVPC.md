@@ -20,3 +20,6 @@ VPC is a higher-level abstraction that allows you to create isolated network env
 **The difference in Traffic Flow is simplified in the diagram below.**
 
 ![Difference Between L2 Networks and VPC](img/VPCDiagram.png)
+
+
+

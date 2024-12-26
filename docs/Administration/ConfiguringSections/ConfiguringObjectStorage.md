@@ -27,3 +27,6 @@ Admins can configure the Object storage from the services section. To configure 
     c. HTTP requests DELETE
 	![Configuring Object Storage](img/ConfiguringObjectStorage6.png) Return to the Default Services and click on **PUBLISH DEFAULT CATALOGUE**.
 	![Configuring Object Storage](img/ConfiguringObjectStorage7.png)
+
+
+

@@ -13,3 +13,6 @@ Apiculus uses Zabbix for the following:
 - Parametric monitoring of the entire cloud infrastructure
 
 ![Zabbix Dashboard and NMS](img/ZabbixDashboardandNMS.png)
+
+
+

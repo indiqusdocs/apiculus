@@ -18,3 +18,6 @@ Trial benefits for the billing cycle will be shown on the invoice if the subscri
 
 ## Subscription Trials
 [Subscription trials](WorkingwithSubscriptionTrials) apply to ALL billing amounts generated for individual subscriptions in the duration of the trial enrollment. The Apiculus billing system automatically takes care of billing records generated for a trial enrollment that spans multiple billing cycles, i.e., months.
+
+
+

@@ -11,3 +11,6 @@ To add additional IDs:
 3. Enter the required details, and click **Confirm**.
 
 ![Configuring Additional Fields](img/ConfiguringAdditionalFields.png)
+
+
+

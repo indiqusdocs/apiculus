@@ -30,3 +30,6 @@ The following features are available as part of AS3, with enhancements underway.
 - **Object Access**- There is a Manage service button on the UI; clicking on it will open a new tab with Cloudian Hyperstore URL, and users can log in with their username and password, and simply they can access, manage and configure things related to their storage environment.
 - **S3 API Compatibility** - Apiculus Object Storage Service is fully compatible with S3 API.
 - **Option to Unsubscribe from the Service** - Users can easily unsubscribe from the service at any time from the Apiculus UI only.
+
+
+
