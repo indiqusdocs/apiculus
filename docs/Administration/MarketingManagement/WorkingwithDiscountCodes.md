@@ -5,18 +5,13 @@ sidebar_position: 2
 
 ## Viewing Discount Codes
 
-Discount Codes can be accessed from the **Marketing > Promotions** section on the main admin navigation panel. By default, it shows the Discount Codes. Details are listed below:
+To access Discount Codes, navigate to **Marketing > Promotions** section on the Admin Console. By default, it shows the Discount Codes. Details are listed below:
 
-1. It shows the information of all the discount codes that have been created till now. In addition, the active, expired, and disabled discount code information can be filtered and viewed using the showing filter.
+1. It shows the information of all the discount codes that have been created till now. In addition, the active, expired, and disabled discount code information can be filtered and viewed using the showing filter.![Working with Discount Codes](img/WorkingwithDiscountCodes1.png)
 
-![Working with Discount Codes](img/WorkingwithDiscountCodes1.png)
+2. There is a search option also for searching the discount code.![Working with Discount Codes](img/WorkingwithDiscountCodes2.png)
 
-2. There is a search option also for searching the discount code.
-
-![Working with Discount Codes](img/WorkingwithDiscountCodes2.png)
-
-3. The various information about the discount codes that are listed is as follows.
-
+3. The various information about the discount codes that are listed is as follows:
 	- Discount Code - This is the code displayed to the customer (e.g., DIWALI10OFF).
 	- Description - Specifies the description of the promotion (e.g., 10% off on all purchases).
 	- Applicable To - To which customer this code is applicable. It can be for a particular customer or for all customers.
@@ -28,10 +23,8 @@ Discount Codes can be accessed from the **Marketing > Promotions** section on 
 	- Maximum Value - This is the maximum value of the discount that a customer can avail of.
 	- Times Used - How many times this particular discount code has been used.
 	- Maximum Uses - This is the maximum limit up to which the customer can use the discount code.
-
 4. This information can also be downloaded in the .CSV format.
 5. These discount codes can be edited by clicking on the pencil button and enabled/disabled by using the switch button.
-
 ![Working with Discount Codes](img/WorkingwithDiscountCodes3.png)
 
 ## Adding Discount Codes

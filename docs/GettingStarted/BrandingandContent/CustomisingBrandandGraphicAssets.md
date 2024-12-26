@@ -49,7 +49,7 @@ You can modify the theme customisation kit (.css) to define the following:
 
 - Brand colour palette (primary, secondary and tertiary colours)
 - Standard colour palette (red, green, blue, orange etc.)
-- <span style={{ color: 'grey' }}>greyed</span>scale colour pallette (white/0%, 5%, 25%, 50%, 75%, 95% and black/100% <span style={{ color: 'grey' }}>greyed</span>s)
+- Greyscale colour pallette (white/0%, 5%, 25%, 50%, 75%, 95% and black/100% greys)
 - Navigation panel colour palette
 - Login/signup page colour palette
 
