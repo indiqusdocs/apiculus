@@ -18,3 +18,4 @@ Configure following details as per your requirements:
 - **Send Emails to Other IDs** - If this option is enabled, all the specified email IDs will receive an email whenever a new account signup happens.
 
 
+

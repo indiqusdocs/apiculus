@@ -26,3 +26,4 @@ Follow these steps to configure Windows Instances:
 10. Return to the **Default Services** and click **PUBLISH DEFAULT CATALOGUE**.![Configuring Windows Instances](img/rhel.png)
 
 
+

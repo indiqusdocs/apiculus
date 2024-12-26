@@ -33,3 +33,4 @@ Follow these steps to configure Linux Instances:
     ![Configuring Windows Instances](img/rhel.png)
 
 
+
