@@ -15,7 +15,7 @@ The gateways show the details under the following categories:
 - [Overview](docs/Subscribers/Networking/NATGateways/ManagingNATGateways/Overview.md)
 - [Instances](Instances.md)
 - [IPv4 Addresses](IPv4Addresses.md)
-- [Operations](Operations.md)
+- [Operations](docs/Subscribers/Networking/NATGateways/ManagingNATGateways/Operations.md)
 
 
 
