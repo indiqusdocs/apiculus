@@ -19,3 +19,7 @@ Apiculus Cloud Console provides the options to perform common operations on RHEL
   :::warning
   Deleting a RHEL Instance will remove it entirely along with its subscription and is a non-reversible action.
   :::
+
+
+
+

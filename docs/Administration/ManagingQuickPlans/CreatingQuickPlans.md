@@ -86,3 +86,7 @@ This Customer Communication section allows you to customise the email communicat
 2. **Email Text** - Enter the text you want to send, or you can copy and paste the message from another source.
 3. **Attachment to Emails** - Enable this switch if you want to include attachments in the email. Click **+Upload Files** to select and upload files from your system.
 4. After entering the necessary information, click the **Publish** button to finalise and make the Quick Plan available.
+
+
+
+

@@ -15,8 +15,12 @@ Custom OS templates can be created from a Volume Snapshot. These custom template
 
 ![Managing Custom Templates and Images](img/ManagingCustomTemplatesandImages2.png)
 
-You can delete the image by clicking on the delete icon present and the rightmost corner. You can also check the status by clicking on the image name.
+You can delete the image by clicking on the delete icon present at the rightmost corner. You can also check the status by clicking on the image name.
 
 	![Managing Custom Templates and Images](img/ManagingCustomTemplatesandImages3.png)
 
 These Images can be used while creating new Linux or Windows Instances and found under the **MY IMAGES** tab in the OS Collection section.
+
+
+
+

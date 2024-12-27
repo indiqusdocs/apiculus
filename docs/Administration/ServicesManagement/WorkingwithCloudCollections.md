@@ -38,7 +38,7 @@ A Cloud Collection (CC) on Apiculus is a grouping of repeating components (calle
 Cloud Collections are dependent on Availability Zones, which means that the same collection needs to be created for each AZ in order to make it available across multiple AZ.
 :::
 ## Adding Collection Items
-Once a Cloud Collection is created, you can add Collection Items by going into the collection's details and choosing from the upload options. Each collection 'type' has its own specific item types and the Apiculus admin console UI lists the sections accordingly. There are two ways of creating Collection Items:
+Once a Cloud Collection is created, you can add Collection Items by going into the collection's details and choosing from the upload options. Each collection 'type' has its own specific item types and the Apiculus Admin Console UI lists the sections accordingly. There are two ways of creating Collection Items:
 - **Upload Using Template** – This option gives a way to bulk-upload Collection Items; useful for adding multiple items together, but prone to error as data entered manually to the spreadsheet/template is only validated at the time of upload.
 - **Add Using UI** – This option gives a way to create Collection Items individually; useful as chances of misconfigurations are low since the UI shows a list of available options to choose from.
 ## Publishing and Managing Collections
@@ -52,3 +52,6 @@ Collections may be published after all required details and items have been adde
 :::note
 If any resource in the underlying ISV is recreated, the corresponding Collection Item needs to be updated on Apiculus failing which, any resource purchase action that uses this Collection Item will fail.
 :::
+
+
+

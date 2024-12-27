@@ -44,3 +44,7 @@ Apiculus does not ship with a Cloudian HyperStore license.
 The hardware Bill of Quantity (BoQ) will depend on expected data capacity, performance requirements, and desired redundancy levels. Cloudian provides hardware guidelines and recommendations for deploying HyperStore, including information on server specifications, disk configurations, networking, and power requirements.
 
 To determine the appropriate hardware BoQ for your specific needs, consult the official documentation or contact Cloudian or their authorized partners.
+
+
+
+

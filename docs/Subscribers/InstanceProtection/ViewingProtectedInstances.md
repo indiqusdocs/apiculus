@@ -18,7 +18,11 @@ sidebar_position: 3
 
 	![Viewing Protected Instances](img/ViewingProtectedInstances3.png)
 
-5. Also, you get the option to **Run Now**. Clicking on it will start taking the backup.
+5. Also, you get the option to **Run Now**, click on it to start taking the backup.
 6. The backups section will display all the available backups. To restore a backup, click the **LAUNCH CYBER PROTECT CONSOLE** above.
 
 	![Viewing Protected Instances](img/ViewingProtectedInstances4.png)
+
+
+
+

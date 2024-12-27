@@ -19,3 +19,7 @@ Follow these steps to configure IPv4 Addresses:
 ![Configuring IPv4 Addresses](img/ConfiguringIPv4Addresses4.png)
 Finally, return to Default Services and click **PUBLISH DEFAULT CATALOGUE.**
 ![Configuring IPv4 Addresses](img/ConfiguringIPv4Addresses5.png)
+
+
+
+

@@ -23,3 +23,7 @@ The following graphs are available on a 24-hour time-scale graph with a 30-day t
 To view historical usage across supported parameters, navigate to the [Operating Linux Instances](AboutLinuxInstances.md), select a Linux Instance and access the **Utilisation** tab.
 
 The Utillisation table shows a historical date-wise details of daily maximum, minimum, and average readings for all parameters. The utilisation report is downloadable as a .csv file. 
+
+
+
+

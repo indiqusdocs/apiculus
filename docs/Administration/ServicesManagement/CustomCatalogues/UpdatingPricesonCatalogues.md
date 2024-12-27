@@ -12,3 +12,7 @@ Pricing on [Custom Catalogues](CreatingaCustomCatalogue.md) can be edited at t
 :::note
 All changes need to be published in order to reflect on the Apiculus Cloud Console. If a customer is on a resource creation/purchase page at the time of publishing these edits, their purchase will fail.
 :::
+
+
+
+

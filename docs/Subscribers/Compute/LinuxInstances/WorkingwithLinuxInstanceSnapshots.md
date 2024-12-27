@@ -31,3 +31,7 @@ To create a Snapshot, follow these steps:
 3. Click on the Create button. The Snapshot will be created.
 
 ![Linux Instance Snapshots](img/Snapshots2.png)
+
+
+
+

@@ -21,3 +21,7 @@ The following steps outline this action:
 	- Tax category can be changed multiple times in a billing cycle by following the same standard process.
 	- Any billing generated before the current billing cycle will not be changed and will follow the previously-defined tax category.
 	:::
+
+
+
+

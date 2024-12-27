@@ -35,3 +35,7 @@ Details on available Windows Instance operations and actions can be found in the
 - [Snapshots](WorkingwithWindowsInstanceSnapshots)
 - [Reconfigure](ReconfiguringWindowsInstances)
 - [Operations](WindowsInstanceOperations)
+
+
+
+

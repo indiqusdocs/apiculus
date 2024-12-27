@@ -10,3 +10,7 @@ Transaction receipts can be viewed for any transaction in an account-level or gl
 :::note
 This receipt is a valid financial instrument and can be saved for auditing and reporting by taking a screenshot.
 :::
+
+
+
+

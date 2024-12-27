@@ -14,3 +14,7 @@ AWS Linkage is delivered as an integration with Amazon Web Services. The integra
 - **Create EC2 Instances** - Users can create EC2 Instances in a 'quick create' mode using standard Amazon Machine Images (AMI) available to them in any of AWS' availability zones enabled for them on AWS.
 - **Manage EC2 Instances** - Users can add view details of their EC2 Instances, access their consoles, and manage the Instance's power states (start/stop/restart).
 - **Manage Service on AWS** - AWS account can be used and accessed from the AWS Console as usual. From Apiculus, a redirect is provided to the AWS Console.
+
+
+
+

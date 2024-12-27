@@ -18,3 +18,7 @@ To enable instance protection, follow these steps:
    ![Protecting Linux Instances](img/Protection3.png)
 4. Run the respective script (mentioned under Point No. 1 in above screen) in command-line to install dependencies.
 5. Run the respective script (mentioned under Point No. 1 in above screen) in command-line to install Protection Agent.
+
+
+
+

@@ -16,3 +16,7 @@ The corresponding credentials can be obtained from the Google reCAPTCHA admin (s
 :::note
 Apiculus supports only Invisible reCAPTCHA v2. Using reCAPTCHA is mandatory, but using GTM is optional.
 :::
+
+
+
+

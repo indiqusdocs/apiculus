@@ -8,3 +8,7 @@ Instances can be created and placed in the L2-LAN ( Free Networks) created by t
 :::note
 In its current scope, VFI-based networks only support a single VLAN/subnet and only special Linux Instances can be added.
 :::
+
+
+
+

@@ -33,3 +33,7 @@ The below table describes some common scenarios that can be addressed using tria
 |Automatically enroll all self-service accounts to 'default trial programme'|On self-service account signup|Enroll into trial programme - 'default trial programme'|
 |Ramp up from 'trial30' (duration 30 days; 100% benefit) to 'trial15' (duration 15 days; 50% benefit)|On expiry of selected trial programme - 'trial30'|Enroll into trial programme - 'trial15'|
 |Send automated trial expiry reminder email 2 days before any account trial programme ends|Account trial expiry with value '-3'|Notify on email
+
+
+
+

@@ -32,3 +32,7 @@ The kubectl utility can be downloaded for the correct Kubernetes version from 
 - **Linux:** https://storage.googleapis.com/kubernetes-release/release/v1.23.3/bin/linux/amd64/kubectl  
 - **MacOS:** https://storage.googleapis.com/kubernetes-release/release/v1.23.3/bin/darwin/amd64/kubectl  
 - **Windows:** https://storage.googleapis.com/kubernetes-release/release/v1.23.3/bin/windows/amd64/kubectl.exe
+
+
+
+

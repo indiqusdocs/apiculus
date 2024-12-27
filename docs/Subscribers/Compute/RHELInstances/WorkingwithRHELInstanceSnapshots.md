@@ -26,3 +26,7 @@ To create a snapshot:
 3. Click on **Create**.
 
 ![RHEL Instance Snapshots](img/Snapshots2.png)
+
+
+
+

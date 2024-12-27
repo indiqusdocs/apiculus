@@ -10,7 +10,7 @@ Apiculus allows for customer life cycle management using account states. All acc
 	Credit limits, resource limits and other general availability restrictions apply as usual.
 	:::
 - **Restricted** - these are accounts that can operate existing resources, but are not allowed to purchase any new resources. This is a forced restriction and supersedes any general usage or availability restrictions. Restricted accounts can be reactivated.
-- **Disabled** - these are accounts that can neither operate existing resources, nor can they purchase new ones. This is akin to a 'soft-shutdown' or 'suspension' where the only permitted action is to make a payment to reactivate access to the cloud services. No resource belonging to a disabled account is deleted. Disabled accounts can be reactivated manually from the admin console.
+- **Disabled** - these are accounts that can neither operate existing resources, nor can they purchase new ones. This is akin to a 'soft-shutdown' or 'suspension' where the only permitted action is to make a payment to reactivate access to the cloud services. No resource belonging to a disabled account is deleted. Disabled accounts can be reactivated manually from the Admin Console.
 - **Terminated** - these are accounts that typically signify an end-of-life (EoL) state. In such cases, all the account's resources are deleted and non-recoverable. Terminated or EoL accounts can not be reactivated as termination is an irreversible action.
 
 ## Changing Account States from Admin Console
@@ -32,3 +32,7 @@ The Apiculus Accounts API provides the options to manage account states programm
 :::note
 It is recommended that programmatic termination be used with utmost caution as there will be no way to reverse the action.
 :::
+
+
+
+

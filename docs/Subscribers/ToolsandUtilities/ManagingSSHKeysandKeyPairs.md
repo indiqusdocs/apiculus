@@ -10,19 +10,18 @@ SSH keys can be managed from the **Tools and Utilities > SSH Key Pairs** secti
 
 1. New SSH key pairs can be generated from the **Generate a new key pair** button on the bottom left. This will create a public-private key pair and download the private key on your system while keeping the public key in your Apiculus Cloud Console account. You can then use the downloaded private key to connect to virtual machines that are associated with the corresponding public key.
 	![SSH Keys and Key Pairs for Linux Instances](img/SSHKeysandKeyPairs1.png)
-2. Existing public keys on your system can be uploaded to your Apiculus Cloud account using the **Upload a public key** button. This assumes that you already have a key pair on your system and just upload the contents of the public key (typically, a .pub file in your system’s SSH directory) to your Apiculus Cloud Console account.
-
-![SSH Keys and Key Pairs for Linux Instances](img/SSHKeysandKeyPairs2.png)
+2. Existing public keys on your system can be uploaded to your Apiculus Cloud account using the **UPLOAD PUBLIC KEY** button. This assumes that you already have a key pair on your system and just upload the contents of the public key (typically, a .pub file in your system’s SSH directory) to your Apiculus Cloud Console account.
+	![SSH Keys and Key Pairs for Linux Instances](img/SSHKeysandKeyPairs2.png)
 
 ## Using Linux Instances with SSH Keys
 
 To use an Linux Instance with an SSH key, it needs to be associated with a key first. This can be done in two ways:
 
 1. While [creating a new Linux Instance](/docs/Subscribers/Compute/LinuxInstances/CreatingLinuxInstances), in the provisioning details form, choose any of the SSH options from the **Use SSH key pair** option under **Choose an Authentication method**. This will let you:
-    1. Generate a new key pair on the go.
+    1. Generate a new key pair.
     2. Upload a public key from your system.
     3. Choose an already added SSH key in your apiculus Cloud account.
-2. For existing Instances, you can set or reset SSH key associations by going into the Instances  Operations section and using the **Reset SSH Key** option. To use this option, the instance needs to be stopped first. This option will only let you choose an SSH key already added to your Apiculus Cloud account.
+2. For existing Instances, you can set or reset SSH key associations by navigating to the **Instances  Operations** section and using the **Reset SSH Key** option. To use this option, the instance needs to be stopped first. This option will only let you choose an SSH key already added to your Apiculus Cloud account.
 
 Once a SSH key pair has been associated with a Linux Instance, the [Instance can be accessed via a SSH connection](/docs/Subscribers/Compute/LinuxInstances/ConnectingtoaLinuxInstance), authenticated with the private key on your local machine.
 
@@ -31,3 +30,7 @@ Once a SSH key pair has been associated with a Linux Instance, the [Instance ca
 If a SSH public key is deleted from the Apiculus Cloud Console account, you'll no longer be able to connect to the Linux Instance(s) associated with the key pair. You'll still be able to use a password to connect to the Instance.
 
 To re-associate a key pair, you might need to open the known_hosts or hosts file on your local machine and delete all rows/entries related to the Instance(s) using the SSH key pair.
+
+
+
+

@@ -3,7 +3,7 @@ sidebar_position: 2
 ---
 # Role-based Access on Admin Console
 
-Apiculus admin console offers role-based access control (RBAC) for all admin users. The system ships with default roles, with rights and privileges as outlined in this article.
+Apiculus Admin Console offers role-based access control (RBAC) for all admin users. The system ships with default roles, with rights and privileges as outlined in this article.
 
 ## Admin Roles
 
@@ -18,7 +18,7 @@ The Apiculus system ships with the following default admin roles:
 - User (read-only)
 
 :::note
-To create new roles or modify any of the existing ones, a ticket may be raised to IndiQus Support. The ability to manage roles on the admin console UI is under development.
+To create new roles or modify any of the existing ones, a ticket may be raised to IndiQus Support. The ability to manage roles on the Admin Console UI is under development.
 :::
 
 ## RBAC Details
@@ -105,3 +105,7 @@ Partial = Limited access available
 :::note
 the above blueprint only applies to the **Admin Console** and not to any other **ISV consoles** .
 :::
+
+
+
+

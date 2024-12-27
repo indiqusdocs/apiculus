@@ -2,6 +2,7 @@
 sidebar_position: 3
 ---
 # Managing Instance and Volume Snapshots
+
 Snapshots use the [Apiculus Block Volumes](/docs/Subscribers/Storage/BlockVolumes/AboutBlockVolumes) Service and occupy billable storage space.
 
 You can view and manage all your Instance and Volume Snapshots and perform various associated operations.
@@ -50,3 +51,7 @@ You can revert to the image from the volume snapshot; this can be done by clicki
 You can simply delete the Volume Snapshot by clicking on the delete icon from the right corner.
 
 ![Managing Instance and Volume Snapshots](img/ManagingInstanceandVolumeSnapshots8.png)
+
+
+
+

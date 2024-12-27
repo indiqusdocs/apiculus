@@ -3,7 +3,7 @@ sidebar_position: 6
 ---
 # Changing Subscriber’s Primary Email
 
-Apiculus admin console gives the option of changing the customer’s primary email ID. The customer's primary email ID can be changed anytime in simple and verifiable steps, and the notification will go to both the new and old email IDs.
+Apiculus Admin Console gives the option of changing the customer’s primary email ID. The customer's primary email ID can be changed anytime in simple and verifiable steps, and the notification will go to both the new and old email IDs.
 ## Steps for Changing the Primary Email
 1. Navigate to **Account Management** > **Select Account**> **Edit Account**.
 2. Under the **Details** section, click on the **Change Primary Email** button.
@@ -23,3 +23,7 @@ Once the primary email transfer is completed, an email will be delivered to the 
 ## Subscriber-initiated Primary Email Change
 
 Subscriber admins can initiate this action from their [organisation/account profile section in Account Centre](/docs/Subscribers/AccountCentre/Organisation-AccountProfile).
+
+
+
+

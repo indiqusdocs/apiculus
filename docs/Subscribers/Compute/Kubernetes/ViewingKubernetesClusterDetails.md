@@ -26,7 +26,7 @@ A quick option is available in the top right corner, i.e., to  **POWER OFF/ON*
 At this stage, the following details can be accessed for the cluster:
 
 1. Configuration and Availability
-    1. The cluster’s status, **RUNNING**, is displayed in Green, whereas **STOPPED** is displayed in greyed out.
+    1. The cluster’s status, **RUNNING**, is displayed in Green, whereas **STOPPED** is displayed in <span style={{ color: 'grey' }}>grey</span>.
     2. Information about the VPC networking zone
 
 2. Nodes Information- This displays the basic information about the nodes as listed below.
@@ -45,3 +45,7 @@ Additionally, other sections will be available on the left which can then be use
 - **Dashboard** - to view detailed instructions on how to access the Kubernetes dashboard for the cluster.
 - **Networking** - to manage ingress networking rules.
 - **Operations** - to perform basic management operations on the cluster.
+
+
+
+

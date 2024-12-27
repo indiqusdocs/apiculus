@@ -44,3 +44,6 @@ sidebar_position: 3
 14. If you want to notify your users or custom email addresses upon the execution of this Autoscale Group, then you can select the appropriate option available under Notify on email. i.e., Notify to account users, Notify to comma-separated email addresses.
 15. Last is to specify the name of your Autoscale group. (Use the naming convention mentioned in the helper text below.)
 16. Now, click on the **PUBLISH THIS AUTOSCALE GROUP** button for publishing the Autoscale group.![Creating Autoscale Groups](img/CreatingAutoscaleGroups9.png)![Creating Autoscale Groups](img/CreatingAutoscaleGroups10.png)![Creating Autoscale Groups](img/CreatingAutoscaleGroups11.png)
+
+
+

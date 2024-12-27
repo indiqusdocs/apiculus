@@ -19,3 +19,7 @@ Apiculus Cloud Console provides the options to perform the following operations 
   :::warning
   Deleting a Linux Instance will remove it entirely along with its subscription and is a non-reversible action.
   :::
+
+
+
+

@@ -23,7 +23,7 @@ You can add additional public IPv4 addresses to configure firewall rules, port f
 	3. Select the Protocol from the drop-down list.
 	4. Enter the Start Port. 
 	5. Enter the End Port.
-	6. Click **Add Rule**.
+	6. Click on **Add Rule**.
     ![Manage NAT gateway](img/NAT4aa.png)
 
 ### Managing Port Forwarding Rules
@@ -44,7 +44,7 @@ You can add additional public IPv4 addresses to configure firewall rules, port f
 1. Click in the **Source NAT** icon.
    ![Manage NAT gateway](img/NAT4c.png)
 
-3. Click on the **Okay** button. <br />
+3. Click the **Okay** button. <br />
    ![Manage NAT gateway](img/NAT4ca.png)
    
 ### Deleting IP Address
@@ -55,3 +55,6 @@ You can add additional public IPv4 addresses to configure firewall rules, port f
 	:::warning
 	This is an irreversible action.
 	:::
+
+
+
