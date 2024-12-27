@@ -8,8 +8,9 @@ Any user with a valid username/email and password can log in to Apiculus and wil
 Upon successful login, the navigation is as below:
 
 - Subscriber users (admin and children) - to Apiculus Cloud Console
-- Reseller users - to Apiculus admin console in the reseller view
-- Admin users - to Apiculus admin console
+- Reseller users - to Apiculus Admin Console in the reseller view
+- Admin users - to Apiculus Admin Console
+
 
 
 

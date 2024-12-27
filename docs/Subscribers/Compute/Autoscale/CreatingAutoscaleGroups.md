@@ -46,3 +46,4 @@ sidebar_position: 3
 16. Now, click on the **PUBLISH THIS AUTOSCALE GROUP** button for publishing the Autoscale group.![Creating Autoscale Groups](img/CreatingAutoscaleGroups9.png)![Creating Autoscale Groups](img/CreatingAutoscaleGroups10.png)![Creating Autoscale Groups](img/CreatingAutoscaleGroups11.png)
 
 
+

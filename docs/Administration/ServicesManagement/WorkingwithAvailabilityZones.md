@@ -45,8 +45,9 @@ Disabling or Deleting an AZ will cascade into all the Cloud Collections, Default
 :::
 
 :::note
-Currently, only the option to map CloudStack-based AZ is available on the Apiculus admin console UI. Support for other types of AZ is being developed.
+Currently, only the option to map CloudStack-based AZ is available on the Apiculus Admin Console UI. Support for other types of AZ is being developed.
 :::
+
 
 
 

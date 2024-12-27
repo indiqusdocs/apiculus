@@ -39,7 +39,7 @@ If **approval-based provisioning** is enabled for the VFI Service, the following
 	-  Upon approval or activation, the Virtual Firewall appliance becomes visible in the **Virtual Firewalls list**.
 	  ![Creating a Virtual Firewall](img/CreatingaVirtualFirewall8.png)
 3. **Accessing the Request**
-	- The request is available under the **Requests** section in the **Support & Operations** menu on the Ananta admin console.
+	- The request is available under the **Requests** section in the **Support & Operations** menu on the Ananta Admin Console.
 4. **Admin Actions**
 	- The administrator can:
 	    - Review the request
@@ -51,6 +51,7 @@ If **approval-based provisioning** is enabled for the VFI Service, the following
 5. **End User Notification**
 	- If the request is approved, the end user will receive an additional email with- **Subscription details, Service access information.**
 	  ![Creating a Virtual Firewall](img/CreatingaVirtualFirewall10.png)
+
 
 
 

@@ -15,7 +15,7 @@ The following is the general account creation flow:
 4. Pending Profile Completion
 
 :::note
-Admins can create accounts from the admin console regardless of the [signup mode](/docs/GettingStarted/SignupConfigurations/SignupSettings) specified under platform configurations.
+Admins can create accounts from the Admin Console regardless of the [signup mode](/docs/GettingStarted/SignupConfigurations/SignupSettings) specified under platform configurations.
 :::
 
 ### Managing Self-Signups
@@ -42,7 +42,8 @@ Accounts created using the API are treated as 'enterprise' accounts, are created
 :::
 ## Updating Accounts
 
-Account information can be updated and other available actions performed by going into the target subscriber account on the Apiculus admin console.
+Account information can be updated and other available actions performed by going into the target subscriber account on the Apiculus Admin Console.
+
 
 
 

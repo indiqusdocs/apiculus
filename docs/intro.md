@@ -29,7 +29,7 @@ Apiculus brings a powerful layer of self-service along with a multitude of confi
 | --------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **SELF SERVICE**                              |                                                                                                                                                                 |
 | Onboarding, Provisioning and Cloud Management | Offer a complete self-service experience to your customers for onboarding, provisioning and cloud resource management.                                          |
-| Admin Operations and CMP Administration       | Manage your cloud operations, customer accounts, service requests, and marketplace mechanics - all from a single administration console.                        |
+| Admin Operations and CMP Administration       | Manage your cloud operations, customer accounts, service requests, and marketplace mechanics - all from a single Admin Console.                                 |
 | Marketplace Management                        | Offer a wide range of compute, networking, cloud-native and value-added services with single-click provisioning and seamless ease of management and operations. |
 | **ADMINISTRATION**                            |                                                                                                                                                                 |
 | Complete Customer Profile and Records         | Manage and get a 360-degree view on your customers’ profiles and activities.                                                                                    |
@@ -96,6 +96,7 @@ The Apiculus cloud catalogue is offered for all production [Availability Zones]
 | 22  | Professional Services                      | Core     | Service Provider          |
 | 23  | QuickPlans                                 | Core     | Service Provider          |
 | 24  | Object Storage/S3                          | Extended | Cloudian HyperStore       |
+
 
 
 

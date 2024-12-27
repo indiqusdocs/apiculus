@@ -34,7 +34,7 @@ Available actions:
 ![Billing and Financials Overview](img/Overview2.png)
 
 :::note
-The invoice template is customisable via a support request to the IndiQus Support team. However, certain information, such as the prefix for the invoice numbering, payment period, and dunning rules are customisable from the Apiculus admin console.
+The invoice template is customisable via a support request to the IndiQus Support team. However, certain information, such as the prefix for the invoice numbering, payment period, and dunning rules are customisable from the Apiculus Admin Console.
 :::
 
 ## Credit Notes
@@ -98,6 +98,7 @@ Available actions:
 - None; list view-only
 
 ![Billing and Financials Overview](img/Overview7.png)
+
 
 
 
