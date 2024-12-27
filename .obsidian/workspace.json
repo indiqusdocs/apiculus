@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "93e1ff3ce57f6cde",
+        "id": "50d78b5540e06844",
         "type": "tabs",
         "children": [
           {
-            "id": "84d0bba12d17b32b",
+            "id": "35032449a7e1d649",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Administration/SupportManagement/ViewingActivityLogs.md",
+                "file": "docs/FAQs.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "ViewingActivityLogs"
+              "title": "FAQs"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"admin console\"",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -164,8 +163,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "84d0bba12d17b32b",
+  "active": "35032449a7e1d649",
   "lastOpenFiles": [
+    "build/docs/category/virtual-firewalls/index.html",
+    "build/docs/category/trial-management/index.html",
+    "build/docs/category/tools-and-utilities-1/index.html",
+    "build/docs/category/tools-and-utilities/index.html",
+    "build/docs/category/support-management/index.html",
+    "build/docs/category/subscribers-and-accounts/index.html",
+    "build/docs/category/virtual-firewalls",
+    "build/docs/category/trial-management",
+    "build/docs/category/tools-and-utilities-1",
+    "build/docs/category/tools-and-utilities",
+    "build/docs/category/support-management",
+    "docs/Introduction/BuildingBlocks.md",
+    "docs/Introduction/BillingConcepts.md",
+    "docs/Introduction/AccessCentral.md",
+    "docs/GettingStarted/SignupConfigurations/SignupSettings.md",
+    "docs/GettingStarted/LoginConfigurations/ConfiguringPasswordPolicies.md",
+    "docs/GettingStarted/LoginConfigurations/LoginSecurityand2FA.md",
+    "docs/GettingStarted/SignupConfigurations/ConfiguringAccountDefaults.md",
+    "docs/FAQs.md",
+    "docs/Administration/SupportManagement/ViewingActivityLogs.md",
     "docs/Administration/SubscribersandAccounts/WorkingwithKYCandAccountVerification.md",
     "docs/Administration/ServicesManagement/WorkingwithDefaultServices.md",
     "docs/Administration/ServicesManagement/WorkingwithCloudCollections.md",
@@ -182,28 +201,8 @@
     "docs/Administration/BillingandFinancials/UpdatingSubscriptionCharges.md",
     "docs/Administration/SubscribersandAccounts/UpdatingCreditLimitandOtherBillingInformation.md",
     "docs/Subscribers/SigningUp.md",
-    "docs/AboutServiceProviderAdministration/Role-basedAccessonAdminConsole.md",
-    "docs/Administration/SupportManagement/Overview.md",
-    "docs/LoggingIn.md",
-    "Sample.md",
-    "docs/Administration/BillingandFinancials/Overview.md",
-    "docs/AboutServiceProviderAdministration/OTRSTicketingandServiceInterface.md",
-    "docs/AboutServiceProviderAdministration/MetabaseBusinessIntelligenceDashboards.md",
-    "docs/GettingStarted/PlatformAdministration/ManagingSPAdminUsers.md",
-    "docs/GettingStarted/InBuiltApps/ManagingPaymentGateways.md",
-    "docs/Administration/ResellerManagement/ManagingBillingforResellers.md",
     "docs/Administration/MarketingManagement/img/NotifyIcon.png",
     "docs/Administration/MarketingManagement/img/PencilIcon.png",
-    "build/search-index.json",
-    "build/sitemap.xml",
-    "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/VolumeManagement/index.html",
-    "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/Snapshots/index.html",
-    "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ReconfiguringVirtualFirewall/index.html",
-    "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/Operations/index.html",
-    "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ViewingGraphsandUtilization/index.html",
-    "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/Overview/index.html",
-    "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/NetworkingManagement/index.html",
-    "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ConfiguringAlerts/index.html",
     "build/icons/home.svg",
     "build/assets/images/CreatingaVirtualFirewall7-5bc4f64ff607c8ed197fb57454deb2a2.png",
     "build/assets/images/TurningofftheProtectionPlan3-2c1c15a4b30cb3c687d7c0a813fe6661.png",
