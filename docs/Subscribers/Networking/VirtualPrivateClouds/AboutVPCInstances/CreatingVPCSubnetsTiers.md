@@ -1,7 +1,7 @@
 ---
 sidebar_position: 4
 ---
-# Creating VPC Subnets/Tiers
+# Creating VPC Subnets and Tiers
 
 VPCs follow the convention of 3-tiered architectures, with web, app, and DB tiers forming the norm. You can, however, configure these tiers to suit your application architecture or just follow the common convention.
 
