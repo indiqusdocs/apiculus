@@ -29,7 +29,7 @@ New DNS records can be added by using the **ADD DNS RECORD** button which will
 - **Value:** the IPv4 Address that you want the record to point to.
 - **TTL:** set to 86400 as default, you can specify the TTL as per your requirement.
 
-![Managing DNS Records](img/ManagingDNSRecords2.png)
+	![Managing DNS Records](img/ManagingDNSRecords2.png)
 
 Once a record has been created, you can ping the record Name from any online or desktop command line and the response should show the IPv4 specified in the Value field.
 

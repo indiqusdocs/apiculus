@@ -13,7 +13,7 @@ The Instance Snapshots tab will list the details as below:
 - Snapshot Name
 - Description
 - Internal Name
-- Instance Name
+- Instance
 - Type
 - Created On
 
