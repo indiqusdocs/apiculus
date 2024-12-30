@@ -17,11 +17,8 @@ The other way is mentioned as follows:
 
 - Navigate to the **Backups** and select the **Instance Protection** and click on the particular instance.
 - Navigate to the **Operations** section and click on **Turn off** **Protection.**
-
 	![Turning off the Protection Plan](img/TurningofftheProtectionPlan4.png)
-
 - To Turn off the protection for particular instance, Click on **YES, CONFIRM** button.
-
 	![Turning off the Protection Plan](img/TurningofftheProtectionPlan5.png)
 
 
