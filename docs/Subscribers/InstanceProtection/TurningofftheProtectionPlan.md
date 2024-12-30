@@ -5,7 +5,7 @@ sidebar_position: 5
 
 Protection can be turned off in two ways. The first one is as follows:
 
--  To Turn off the protection plan, navigate to the protection section and click on the **TURN OFF PROTECTION** for a particular instance and click confirm.
+-  To Turn off the protection plan, navigate to the **protection** section and click on the **TURN OFF PROTECTION** for a particular instance and click confirm.
 	![Turning off the Protection Plan](img/TurningofftheProtectionPlan1.png)
 
 - Click on **YES, CONFIRM** button, and the protection will be turned off for this particular instance.
