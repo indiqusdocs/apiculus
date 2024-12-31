@@ -14,10 +14,5 @@ The following actions are available:
 - If the Instance is in a Basic/Flat Networking Availability Zone, you will see the NIC details. Presently, only one NIC is supported on Basic/Flat Networking Instances.
 
 :::note
-Advanced networking configurations can be done using the [Virtual Private Clouds](\docs\Subscribers\Networking\VirtualPrivateClouds\About VPC Instances) service.
+Advanced networking configurations can be done using the [Virtual Private Clouds](/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/AboutVirtualPrivateClouds) service.
 :::
-
-
-
-
-
