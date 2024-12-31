@@ -1,7 +1,7 @@
 ---
 sidebar_position: 5
 ---
-# Configuring Alerts on Linux Instances
+# Configuring Alerts
 
 To view the configured alerts or configure new ones, navigate to the [Operating Linux Instances](AboutLinuxInstances.md), and select Linux Instance and access the **Alerts** tab.
 

@@ -1,7 +1,7 @@
 ---
 sidebar_position: 11
 ---
-# Linux Instance Operations
+# Operations
 
  To view all available Instance operations, navigate to the [Operating Linux Instances](AboutLinuxInstances.md), select a Linux Instance and access the **Operations** tab.
 ![Linux Instance Operations](img/Operations1.png)

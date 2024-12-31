@@ -1,7 +1,7 @@
 ---
 sidebar_position: 6
 ---
-# Volume Management with Linux Instances
+# Volume Management 
 
 To view the disks attached to this Instance, navigate to the [Operating Linux Instances](AboutLinuxInstances.md), select a Linux Instance and access the **Volumes** tab.
 

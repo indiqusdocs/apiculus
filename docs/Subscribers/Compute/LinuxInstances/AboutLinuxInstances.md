@@ -28,14 +28,14 @@ On the top right corner, two quick options are available, one to **LAUNCH CONSOL
 
 Details on available Linux Instance operations and actions can be found in their respective sections.
 
-- [Overview](ViewingDetailsofLinuxInstances.md)
+- [Overview](Overview.md)
 - [Graphs & Utilisation](ViewingGraphsandUtilizationofLinuxInstances.md)
-- [Alerts](ConfiguringAlertsonLinuxInstances.md)
-- [Volumes](VolumeManagementwithLinuxInstances.md)
-- [Networking](NetworkingManagementwithLinuxInstances.md)
+- [Alerts](docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ConfiguringAlerts.md)
+- [Volumes](docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/VolumeManagement.md)
+- [Networking](docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/NetworkingManagement.md)
 - [Snapshots](WorkingwithLinuxInstanceSnapshots.md)
 - [Reconfigure](docs/Subscribers/Compute/LinuxInstances/ReconfiguringLinuxInstances.md)
-- [Operations](docs/Subscribers/Compute/LinuxInstances/LinuxInstanceOperations.md)
+- [Operations](docs/Subscribers/Compute/LinuxInstances/Operations.md)
 
 
 
