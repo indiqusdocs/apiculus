@@ -3,8 +3,6 @@ sidebar_position: 0
 ---
 # About Linux Instances
 
-Instances are computing units that provide you with resources to run your applications/workloads. Linux Instances are virtual machines that run the images of Linux Operating Systems, for example, Ubuntu, CentOS, Rocky, Oracle, Debian, etc.
-
 Before creating a Linux instance, it is important to plan the architecture, networking and access to the Linux Instances. 
 
 Apiculus offers a highly usable and visual way of working with and operating Linux Instances using the Cloud Console. You can access all the Linux Instances available in your account in the following way:
