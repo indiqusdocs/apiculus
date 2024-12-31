@@ -4,6 +4,7 @@ sidebar_position: 8
 # Configuring Alerts
 
 To view the configured alerts or configure new ones, navigate to the navigate to the Virtual Firewall and access the **Alerts** tab.
+![Creating Alert](img/Alert.png)
 
 Alerts get triggered whenever a configured condition is met. You can create multiple alerts on an instance. Alerts are sent to recipients that you can define and manage.
 

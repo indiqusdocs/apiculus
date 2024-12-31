@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 5
 ---
 # Overview
 
@@ -27,8 +27,10 @@ This section displays the information used for internal identification of this i
 This section displays the following information:
 
 - Network Name
-- VPC Name
-- Access Control
+- MAC Address
+- IP Address
+- Netmask
+- Gateway
 
 
 

@@ -1,19 +1,19 @@
 ---
-sidebar_position: 11
+sidebar_position: 12
 ---
 # Snapshots
 
 To view all the Snapshots taken for Instance, navigate to the Networking, select a Virtual Firewall and access the **Snapshots** tab.
+![Snapshots](img/Snapshot.png)
 
 Instance Snapshots allow you to create point-in-time images of instances that preserve all their data volume as well as (optionally) their CPU/memory states. You can use Snapshots to quickly restore Instances.
 
 The Snapshots section shows all the Virtual Firewall Snapshots, which can be used to revert the Virtual Firewall to an earlier state.
-![Snapshots](img/Snapshot.png)
 
 A Snapshot lists the following details:
 - Snapshot Name
-- Description
 - Internal Name
+- Description
 - Type
 - Created On
 ![Details of Snapshot](img/Snapshot2.png)
