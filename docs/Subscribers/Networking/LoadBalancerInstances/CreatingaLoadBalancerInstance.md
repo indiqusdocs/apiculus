@@ -16,7 +16,7 @@ Load Balancer Instances can be created inside a VPC by following these simple st
    ![Load Balancer Instances](img/LoadBalancerInstances2.png)
 8. Choose a Compute Pack from the list.
    ![Load Balancer Instances](img/LoadBalancerInstances3.png)
-9. Choose the Standard Root Disks from the options and provide a name to your instance.The Instance name must only contain alphanumeric characters, underscore, dots and hyphens.
+9. Choose the Standard Root Disks from the options and provide a name to your instance. The Instance name must only contain alphanumeric characters, underscore, dots and hyphens.
 10. Under the **Summary and Estimated Costs** section, verify the estimated cost of your Instance based on the chosen specifications.
 11. To confirm, click on the check box after reviewing the policies mentioned by your cloud service provider.
 12. Click on the **BUY HOURLY** or **BUY MONTHLY** button. The Confirm Instance Purchase window appears, and the price summary is displayed along with the discount codes if you have any in your account. 
