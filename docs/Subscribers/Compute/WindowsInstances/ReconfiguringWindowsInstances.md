@@ -3,7 +3,7 @@ sidebar_position: 10
 ---
 # Reconfiguring Windows Instances
 
-To view available reconfiguration options, navigate to the [Operating Windows Instances](AboutWindowsInstances), select a Windows Instance and access the **Reconfigure** tab.
+To view available reconfiguration options, navigate to [Operating Windows Instances](AboutWindowsInstances), select a Windows Instance and access the **Reconfigure** tab.
 
 A Windows Instance on Apiculus can be reconfigured in the following ways:
 
@@ -14,7 +14,7 @@ A Windows Instance on Apiculus can be reconfigured in the following ways:
 ![Reconfiguring Windows Instances](img/Reconfiguring.png)
 
 :::note
-You can only reconfigure with the same billing interval. If you wish just to change the billing interval, please use the Switch Plan button. We recommend switching the plan first before reconfiguring the Instance if you wish to use both the Reconfigure and Switch Plan options. You will be charged as per the pack you have reconfigured, not based on the older pack.
+You can only reconfigure with the same billing interval. To change the billing interval, use the **Switch Plan** button. It is recommended to switch the plan before reconfiguring the Instance if you wish to use both the Reconfigure and Switch Plan options. You will be charged as per the pack you have reconfigured, not based on the older pack.
 :::
 
 

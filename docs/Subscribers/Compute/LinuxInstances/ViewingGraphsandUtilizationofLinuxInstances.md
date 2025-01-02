@@ -5,7 +5,7 @@ sidebar_position: 4
 
 ## Graphs (Real-time)
 
-To view the available graphs and monitor the instance in real-time, navigate to the [Operating Linux Instances](AboutLinuxInstances.md), select a Linux Instance and access the **Graphs** tab 
+To view the available graphs and monitor the instance in real-time, navigate to the [Operating Linux Instances](AboutLinuxInstances.md), select a Linux Instance and access the **Graphs** tab.
 
 You can use these graphs to understand Instance utilisation patterns and create custom alerts.
 

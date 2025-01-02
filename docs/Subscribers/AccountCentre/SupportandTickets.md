@@ -8,7 +8,7 @@ Apiculus Cloud provides SLA-driven support to all subscriber customers in accord
 
 The Apiculus Cloud Console has a ticketing section that can be accessed by clicking on **Support & Tickets** in the main navigation panel of the Account Centre. The tickets section shows a list of all the tickets in your account and lets you filter the view based on ticket priority and ticket status.
 
-To open the ticket creation dialog box, click the **CREATE TICKET** button in the left corner. Ticket creation follows the single-form interaction paradigm where all the relevant information is captured intelligently in one place to create the ticket. The ticket creation dialog will show the following options:
+To open the ticket creation dialog box, click the **CREATE A TICKET** button in the left corner. Ticket creation follows the single-form interaction paradigm where all the relevant information is captured intelligently in one place to create the ticket. The ticket creation dialog will show the following options:
 
 - **Type:** This is a high-level classification in terms of Account, Billing, Technical, or another issue.
 - **Priority:** You can choose a priority level for your ticket: Very Low, Low, Normal, High, or Critical.
