@@ -14,11 +14,10 @@ Apiculus offers a highly usable and visual way of working with and operating RHE
 	- Default IP Address
 	- IPv6 Address
 	- Created
-
-![RHEL Instances](img/RHEL3.png)
-
-To view a list of sections and the various operations or actions, click **instance name**.
-![RHEL Instances](img/RHEL4.png)
+	  
+	![RHEL Instances](img/RHEL3.png)
+1. To view a list of sections and the various operations or actions, click **instance name**.
+	![RHEL Instances](img/RHEL4.png)
 
 Below the Instance name, there is an informational view where you can find the following details:
 - Configuration
@@ -36,7 +35,7 @@ Details on available RHEL Instance operations and actions can be found in their 
 - [Utilisation](docs/Subscribers/Compute/RHELInstances/ViewingGraphsandUtilization.md)
 - [Volumes](docs/Subscribers/Compute/RHELInstances/VolumeManagement.md)
 - [Networking](docs/Subscribers/Compute/RHELInstances/NetworkingManagement.md)
-- [Snapshots](WorkingwithRHELInstanceSnapshots.md)
+- [Snapshots](WorkingwithSnapshots.md)
 - [Reconfigure](ReconfiguringRHELInstances.md)
 - [Operations](RHELInstanceOperations.md)
 

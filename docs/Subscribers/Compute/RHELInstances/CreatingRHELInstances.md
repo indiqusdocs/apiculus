@@ -18,7 +18,7 @@ To create a RHEL instance, follow these steps:
 9. Select the **Disk Configuration** from the available **SSD**/**HDD** disk packs. You can use the free size option to specify the Root Disk size.
 10. Select the option to **Protect this Instance**.
 11. **Choose an Authentication Method**: 
-    - **Use SSH key pair**: Clicking on the Use SSH key pair option, all the SSH key pairs present in your account will be listed; if your account doesn’t have any SSH key pair, then you can click the **Generate a new key pair** option or upload the key pair by clicking the **Upload a key pair** option. 
+    - **Use SSH key pair**: To view all the SSH key pairs present in your account, click the **Use SSH key pair** option. If your account doesn’t have any SSH key pair, then you can click the **Generate a new key pair** or upload the key pair by clicking the **Upload a key pair** option. 
     - **Use root user password**: On selecting Use root user password, **Also email me the password** option is displayed. If you select this option, the password, along with the details, for instance, will be emailed to your registered email ID.
       ![RHEL Instance Creation](img/RHEL7.png)
 12. In the **Name Your RHEL Instance** field, enter the desired name for your RHEL instance.

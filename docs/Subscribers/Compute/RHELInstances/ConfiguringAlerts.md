@@ -7,12 +7,12 @@ Alerts get triggered whenever a configured condition is met. You can create mult
 
 You can configure alerts for instances running on the Apiculus. You can define alerts for Instances and configure the email recipients for these alerts using a straightforward and easy-to-use interface.
 
-Navigate to a [RHEL Instance](AboutRHELInstances.md) and access the **Alerts** tab to view the configured alerts or configure new ones.
+To view the configured alerts or configure new ones, navigate to [RHEL Instance](AboutRHELInstances.md) and access the **Alerts** tab.
 ## Instance Alerts
 
 The Alerts tab lists all the alerts already configured for that particular RHEL Instance. In addition, it will show the details:
 - ID
-- the name for the alert
+- The name for the alert
 - Parameter
 - Trigger When
 - Value
@@ -22,7 +22,7 @@ The Alerts tab lists all the alerts already configured for that particular RHEL 
 
 ## Adding an Alert
 
-You can create or add alerts simply by clicking on the **Add Alert** button. The following screen will open up, and you can configure the alert using the on-screen input form.
+You can create or add alerts simply by clicking the **Add Alert** button. The following screen appears, and you can configure the alert using the on-screen input form.
 
 ![Configuring Alerts on Linux Instances](img/ConfiguringAlerts2.png)
 
@@ -39,12 +39,11 @@ The various fields of the add alert page are described below:
 
 This will list and display all the email IDs already configured for the alerts. You can delete the existing ids and add other email ids by following the steps below.
 
-1. Click on the **Manage Recipients** button.
-2. Click on **+ Add more recipients**.
+1. Click the **Manage Recipients** button.
+2. Click **+ Add more recipients**.
 3. Add the email ids; multiple IDs can be added (separated by comma).
-4. Click on the **+** icon.
-5. Click on the **Update** button, and update the recipient's list.
-
+4. Click the **+** icon.
+5. Click **Update**.
 ![Configuring Alerts on Linux Instances](img/ConfiguringAlerts3.png)
 
 :::note

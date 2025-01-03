@@ -22,7 +22,7 @@ You are now connected to your Instance.
 ## Connecting from a macOS or Linux Machine
 
 1. Open any terminal program.
-2. Enter the following command into the terminal. Make sure you replace **'your_private_key'** with the filename of your private key; **'your_instance_ip'** with the IP address of your Instance; and _username_ with the default root user name (_**root**_).
+2. Enter the following command into the terminal. Make sure you replace `your_private_key` with the filename of your private key; `your_instance_ip` with the IP address of your Instance; and `username` with the default root user name (**root**).
 	```
 	ssh -i ~/.ssh/<your_private_key> <username>@<your_instance_ip>
 	```

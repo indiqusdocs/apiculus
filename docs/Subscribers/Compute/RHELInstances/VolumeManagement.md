@@ -3,7 +3,8 @@ sidebar_position: 6
 ---
 # Volume Management
 
-To view the disks attached to particular Instance, Navigate to [RHEL Instances](AboutRHELInstances.md) and access the **Volumes** tab.
+To view the disks attached to particular Instance, navigate to [RHEL Instances](AboutRHELInstances.md) and access the **Volumes** tab.
+
 RHEL Instances on Apiculus work with the [Block Volumes Service](/docs/Subscribers/Storage/BlockVolumes/AboutBlockVolumes) and let you carry out basic disk operations.
 
 ![Volume Management](img/VolumeManagement.png)
