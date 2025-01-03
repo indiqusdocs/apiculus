@@ -14,7 +14,10 @@ To open the ticket creation dialog box, click the **CREATE A TICKET** button in
 - **Priority:** You can choose a priority level for your ticket: Very Low, Low, Normal, High, or Critical.
 - **Subject:** Based on the type provide a relevant subject to your ticket that pinpoint exactly which item you’re having an issue with.
 - **Details:** You should provide as much information as possible for Apiculus’s support agents to be able to diagnose your issue better.
-- **Attachments:** Optionally, you can also attach a .png, .jpg, or .pdf file as an attachment. Please note that the size limit on ticket attachments is 3 MB.
+- **Attachments:** Optionally, you can also attach a .png, .jpg, or .pdf file as an attachment.
+  :::note
+	 The size limit on ticket attachments is 3 MB.
+  ::: 
 
 ![Support and Tickets](img/SupportandTickets2.png)
 

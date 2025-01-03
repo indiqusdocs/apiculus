@@ -16,7 +16,7 @@ Apiculus offers a highly usable and visual way of working with and operating Lin
 
 ![Create Linux Instance](img/CreatingLinuxInstances1.png)
 
-To view a list of section and the various operations or actions you can perform by going inside the particular section, click on the instance name. Below the Instance name, there is an informational view where you can find the following details:
+To view a list of section where you can perform various operations or actions, click the **instance name**. Below the Instance name, there is an informational view where you can find the following details:
 
 - Configuration
 - Availability Zone
@@ -28,7 +28,7 @@ On the top right corner, two quick options are available, one to **LAUNCH CONSOL
 
 Details on available Linux Instance operations and actions can be found in their respective sections.
 
-- [Overview](Overview.md)
+- [Overview](docs/Subscribers/Compute/LinuxInstances/Overview.md)
 - [Graphs & Utilisation](ViewingGraphsandUtilizationofLinuxInstances.md)
 - [Alerts](docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ConfiguringAlerts.md)
 - [Volumes](docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/VolumeManagement.md)

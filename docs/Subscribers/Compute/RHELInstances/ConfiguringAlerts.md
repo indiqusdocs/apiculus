@@ -1,7 +1,7 @@
 ---
 sidebar_position: 5
 ---
-# Configuring Alerts on RHEL Instances
+# Configuring Alerts 
 
 Alerts get triggered whenever a configured condition is met. You can create multiple alerts on an instance. Alerts are sent to recipients that you can define and manage.
 

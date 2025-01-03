@@ -10,7 +10,7 @@ To enable instance protection, follow these steps:
 1. From [Operating RHEL Instances](AboutRHELInstances.md), navigate to the RHEL Instance and access the **Protection** tab.
    ![Protecting RHEL Instances](img/Protection1.png)
 
-3. Click on the **Enable Protection** button. The following screen appears where the standard protection service is selected and charged at USD 0.01 per month for each GB of backup storage used.
+3. Click the **Enable Protection** button. The following screen appears where the standard protection service is selected and charged at USD 0.01 per month for each GB of backup storage used.
    ![Protecting RHEL Instances](img/Protection2.png)
 
 4. To enable advanced protection features (charged at USD 0.50 per month for each protected instance) such as antivirus, anti-malware and backup/restore service for the SQL databases, turn on the toggle button. 

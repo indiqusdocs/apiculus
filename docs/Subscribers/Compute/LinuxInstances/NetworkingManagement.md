@@ -3,9 +3,7 @@ sidebar_position: 7
 ---
 # Networking Management
 
-To view the networks that of particular Instance, navigate to the [Operating Linux Instances](AboutLinuxInstances.md), select a Linux Instance and access the **Networking** tab.
-
-The Networking and NICs section list all the networks that a Linux Instance is attached to.
+To view the networks of particular Instance, navigate to [Operating Linux Instances](AboutLinuxInstances.md), select a Linux Instance and access the **Networking** tab.
 
 ![Networking Management](img/NetworkingManagement.png)
 
@@ -13,7 +11,6 @@ The following actions are available:
 
 - If the Instance is inside a VPC, you can associate the Instance to multiple tiers within the VPC or share the Instance with other VPC networks in the same Availability Zone by using the **ADD NETWORK** option.
 - Network/tier associations can be removed from this section by using the **unlink** action.
-- If the Instance is in a Basic/Flat Networking Availability Zone, you will see the NIC details. Presently, only one NIC is supported on Basic/Flat Networking Instances.
 
 :::note
 Advanced networking configurations can be done using the Virtual Private Clouds service.

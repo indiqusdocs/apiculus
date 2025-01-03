@@ -21,9 +21,9 @@ Snapshot will list down the following details:
 Two quick options are available, one is to revert the Instance from the snapshot, and the other is to delete the particular snapshot.
 
 To create a snapshot: 
-1. Click on the **CREATE SNAPSHOT** button. 
-2. Enter the name of the snapshot and the description of the snapshot.
-3. Click on **Create**.
+1. Click the **CREATE SNAPSHOT** button. 
+2. Enter the name and the description of the snapshot.
+3. Click **Create**.
 
 ![RHEL Instance Snapshots](img/Snapshots2.png)
 

@@ -32,7 +32,7 @@ Apiculus offers a highly usable and visual way of working with and operating RHE
 
 ![RHEL Instances](img/RHEL3.png)
 
-Click on the instance name to view a list of sections and the various operations or actions you can perform by going inside the particular section. 
+To view a list of sections and the various operations or actions, click **instance name**.
 ![RHEL Instances](img/RHEL4.png)
 
 Below the Instance name, there is an informational view where you can find the following details:
@@ -43,14 +43,14 @@ Below the Instance name, there is an informational view where you can find the f
 
 On the top right corner, two quick options are available, one to **Launch Console** and the other to **POWER OFF/ON** the Instance.
  
-Details on available RHEL Instance operations and actions can be found in their respective sections on the left.
+Details on available RHEL Instance operations and actions can be found in their respective sections:
 
-- [Overview](ViewingDetailsofRHELInstances.md)
-- [Graphs](ViewingGraphsandUtilizationofRHELInstances.md)
-- [Alerts](ConfiguringAlertsonRHELInstances.md)
-- [Utilisation](ViewingGraphsandUtilizationofRHELInstances.md)
-- [Volumes](VolumeManagementwithRHELInstances.md)
-- [Networking](NetworkingManagementwithRHELInstances.md)
+- [Overview](docs/Subscribers/Compute/RHELInstances/Overview.md)
+- [Graphs](docs/Subscribers/Compute/RHELInstances/ViewingGraphsandUtilization.md)
+- [Alerts](docs/Subscribers/Compute/RHELInstances/ConfiguringAlerts.md)
+- [Utilisation](docs/Subscribers/Compute/RHELInstances/ViewingGraphsandUtilization.md)
+- [Volumes](docs/Subscribers/Compute/RHELInstances/VolumeManagement.md)
+- [Networking](docs/Subscribers/Compute/RHELInstances/NetworkingManagement.md)
 - [Snapshots](WorkingwithRHELInstanceSnapshots.md)
 - [Reconfigure](ReconfiguringRHELInstances.md)
 - [Operations](RHELInstanceOperations.md)
