@@ -3,8 +3,6 @@ sidebar_position: 0
 ---
 # About Linux Instances
 
-Instances are computing units that provide you with resources to run your applications/workloads. Linux Instances are virtual machines that run the images of Linux Operating Systems, for example, Ubuntu, CentOS, Rocky, Oracle, Debian, etc.
-
 Before creating a Linux instance, it is important to plan the architecture, networking and access to the Linux Instances. 
 
 Apiculus offers a highly usable and visual way of working with and operating Linux Instances using the Cloud Console. You can access all the Linux Instances available in your account in the following way:
@@ -18,7 +16,7 @@ Apiculus offers a highly usable and visual way of working with and operating Lin
 
 ![Create Linux Instance](img/CreatingLinuxInstances1.png)
 
-To view a list of section and the various operations or actions you can perform by going inside the particular section, click on the instance name. Below the Instance name, there is an informational view where you can find the following details:
+To view a list of section where you can perform various operations or actions, click the **instance name**. Below the Instance name, there is an informational view where you can find the following details:
 
 - Configuration
 - Availability Zone
@@ -30,14 +28,14 @@ On the top right corner, two quick options are available, one to **LAUNCH CONSOL
 
 Details on available Linux Instance operations and actions can be found in their respective sections.
 
-- [Overview](ViewingDetailsofLinuxInstances.md)
+- [Overview](docs/Subscribers/Compute/LinuxInstances/Overview.md)
 - [Graphs & Utilisation](ViewingGraphsandUtilizationofLinuxInstances.md)
-- [Alerts](ConfiguringAlertsonLinuxInstances.md)
-- [Volumes](VolumeManagementwithLinuxInstances.md)
-- [Networking](NetworkingManagementwithLinuxInstances.md)
+- [Alerts](docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ConfiguringAlerts.md)
+- [Volumes](docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/VolumeManagement.md)
+- [Networking](docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/NetworkingManagement.md)
 - [Snapshots](WorkingwithLinuxInstanceSnapshots.md)
 - [Reconfigure](docs/Subscribers/Compute/LinuxInstances/ReconfiguringLinuxInstances.md)
-- [Operations](docs/Subscribers/Compute/LinuxInstances/LinuxInstanceOperations.md)
+- [Operations](docs/Subscribers/Compute/LinuxInstances/Operations.md)
 
 
 

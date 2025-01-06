@@ -8,9 +8,9 @@ Apiculus Cloud Console allows you to create secure shell connections to Instance
 
 SSH keys can be managed from the **Tools and Utilities > SSH Key Pairs** section on the main navigation panel. You can create SSH keys in any of the following ways:
 
-1. New SSH key pairs can be generated from the **Generate a new key pair** button on the bottom left. This will create a public-private key pair and download the private key on your system while keeping the public key in your Apiculus Cloud Console account. You can then use the downloaded private key to connect to virtual machines that are associated with the corresponding public key.
+1. You can generate new SSH key pairs by clicking the "Generate a new key pair" button located at the bottom left. This will create a public-private key pair, downloading the private key to your system while storing the public key in your Apiculus Cloud Console account. You can then use the downloaded private key to connect to virtual machines associated with the corresponding public key.
 	![SSH Keys and Key Pairs for Linux Instances](img/SSHKeysandKeyPairs1.png)
-2. Existing public keys on your system can be uploaded to your Apiculus Cloud account using the **UPLOAD PUBLIC KEY** button. This assumes that you already have a key pair on your system and just upload the contents of the public key (typically, a .pub file in your system’s SSH directory) to your Apiculus Cloud Console account.
+2. You can upload existing public keys from your system to your Apiculus Cloud account by using the **UPLOAD PUBLIC KEY** button. This requires you to already have a key pair on your system, and you simply need to upload the contents of the public key (usually a .pub file from your system’s SSH directory) to your Apiculus Cloud Console account.
 	![SSH Keys and Key Pairs for Linux Instances](img/SSHKeysandKeyPairs2.png)
 
 ## Using Linux Instances with SSH Keys
@@ -29,7 +29,7 @@ Once a SSH key pair has been associated with a Linux Instance, the [Instance ca
 
 If a SSH public key is deleted from the Apiculus Cloud Console account, you'll no longer be able to connect to the Linux Instance(s) associated with the key pair. You'll still be able to use a password to connect to the Instance.
 
-To re-associate a key pair, you might need to open the known_hosts or hosts file on your local machine and delete all rows/entries related to the Instance(s) using the SSH key pair.
+To re-associate a key pair, you might need to open the **known_hosts** or **hosts** file on your local machine and delete all rows/entries related to the Instance(s) using the SSH key pair.
 
 
 
