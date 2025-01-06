@@ -1,7 +1,7 @@
 ---
 sidebar_position: 4
 ---
-# Frequently Asked Questions
+# Frequently Asked Questions (FAQs)
 
 <details><summary>**What is object storage in the context of Apiculus?**</summary>Object storage is a scalable and durable storage solution for managing unstructured data such as files, images, videos, and backups.</details>
 
@@ -38,7 +38,3 @@ sidebar_position: 4
 -HTTP Requests DELETE (/request) <br /></details>
 
 <details><summary>**Are fixed bucket and slab-based billing models available on AS3?**</summary>No, at this moment billing is completely usage-based and unitary.</details>
-
-
-
-

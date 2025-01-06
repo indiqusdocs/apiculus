@@ -1,7 +1,7 @@
 ---
 sidebar_position: 10
 ---
-# Frequently Asked Questions
+# Frequently Asked Questions (FAQs)
 
 <details> <summary>**How are data durability and redundancy achieved with block volumes?**</summary>Data redundancy is achieved at the storage level by design as the storage layer replicates Block Volume data across multiple storage devices and Availability Zones.</details>
 
