@@ -7,3 +7,7 @@ sidebar_position: 2
 - On Apiculus, there should be a minimum of one VPC created.
 - One network tier should be created with a load-balancing public tier in the VPC.
 - There should be one IPv4 address being used as a load balancer.
+
+
+
+

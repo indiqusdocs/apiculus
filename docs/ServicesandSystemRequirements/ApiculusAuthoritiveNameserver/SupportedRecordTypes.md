@@ -14,3 +14,7 @@ A53 is configured to supports the following record types:
 | SRV         | The SRV records can be used to encode the location and port of services on a domain name. When encoding, the priority field is used to encode the priority. For example, `_ldap._tcp.dc._msdcs.conaxis.ch SRV 0 100 389 mars.conaxis.ch` would be encoded with `0` in the priority field and `100 389 mars.conaxis.ch` in the content field. |
 | PTR         | Reverse pointer, used to specify the host name belonging to an IPv4 or IPv6 address.                                                                                                                                                                                                                                                         |
 | ALIAS       | The ALIAS pseudo-record type is supported to provide CNAME-like mechanisms on a zone’s apex.                                                                                                                                                                                                                                                 |
+
+
+
+

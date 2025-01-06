@@ -7,8 +7,8 @@ Any user with a valid username/email and password can log in to Apiculus and wil
 Upon successful login, the navigation is as below:
 
 - Subscriber users (admin and children) - to Apiculus Cloud Console
-- Reseller users - to Apiculus admin console in the reseller view
-- Admin users - to Apiculus admin console
+- Reseller users - to Apiculus Admin Console in the reseller view
+- Admin users - to Apiculus Admin Console
 
 Apiculus stores certain essential and non-third party cookies that are needed for account identification. These are:
 
@@ -21,3 +21,7 @@ Additionally, if Google Tag Manager is being used, the connected apps may inject
 :::note
 Login attempts and passwords can be managed via setting up strong [password policies](/docs/GettingStarted/LoginConfigurations/ConfiguringPasswordPolicies) using platform configurations.
 :::
+
+
+
+

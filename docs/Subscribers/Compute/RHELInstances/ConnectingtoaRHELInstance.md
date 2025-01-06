@@ -22,14 +22,11 @@ You are now connected to your Instance.
 ## Connecting from a macOS or Linux Machine
 
 1. Open any terminal program.
-2. Enter the following command into the terminal. Make sure you replace _your_private_key_ with the filename of your private key; _your_instance_ip_ with the IP address of your Instance; and _username_ with the default root user name (_**root**_).
-
+2. Enter the following command into the terminal. Make sure you replace `your_private_key` with the filename of your private key; `your_instance_ip` with the IP address of your Instance; and `username` with the default root user name (**root**).
 	```
 	ssh -i ~/.ssh/<your_private_key> <username>@<your_instance_ip>
 	```
-
 3. When prompted, allow connection to the host by typing **yes**, then press **Enter**.
-
 	```
 	The authenticity of host 'myhost.ext (212.47.206.34)' can't be established.  
 	RSA key fingerprint is 4f:ba:65:cf:14:64:a7:1e:b6:07:7c:00:71:95:21:fa.
@@ -37,3 +34,7 @@ You are now connected to your Instance.
 	
 	You are now connected to your Instance.
 	```
+
+
+
+

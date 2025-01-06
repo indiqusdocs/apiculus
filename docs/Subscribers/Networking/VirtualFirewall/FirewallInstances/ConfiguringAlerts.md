@@ -4,12 +4,13 @@ sidebar_position: 8
 # Configuring Alerts
 
 To view the configured alerts or configure new ones, navigate to the navigate to the Virtual Firewall and access the **Alerts** tab.
+![Creating Alert](img/Alert.png)
 
 Alerts get triggered whenever a configured condition is met. You can create multiple alerts on an instance. Alerts are sent to recipients that you can define and manage.
 
 You can configure alerts for instances running on the Apiculus. You can define alerts for Instances and configure the email recipients for these alerts using a straightforward and easy-to-use interface.
 
-## Instance Alerts[​](http://localhost:3000/docs/Subscribers/Compute/LinuxInstances/ConfiguringAlertsonLinuxInstances#instance-alerts "Direct link to Instance Alerts")
+## Instance Alerts
 
 The Alerts tab lists all the alerts already configured for that particular Virtual Firewall. In addition, it will show the following details:
 
@@ -49,3 +50,6 @@ This section list and display all the email IDs already configured for the alert
 :::note
 All the recipients configured will receive all the setup alerts. If no email ID is configured or added, then no email will be sent for the already configured alerts.
 :::
+
+
+

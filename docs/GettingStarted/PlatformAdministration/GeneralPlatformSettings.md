@@ -15,3 +15,7 @@ Navigate to **Administration** > **Settings** > **General** to configure the ge
 ![General Platform Settings](img/GeneralPlatformSettings.png)
 
 
+
+
+
+

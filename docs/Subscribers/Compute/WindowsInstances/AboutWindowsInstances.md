@@ -10,23 +10,22 @@ Apiculus offers a highly usable and visual way of working with and operating Win
 1. Navigate to **Compute > Windows Instances**.
 2. All the Windows Instances for your account will be listed here with the following details:
     - Instance Name (Along with the configuration details)
-    - OS- Icon will be displayed.
+    - OS- Icon 
     - Default IP Address
     - Created
 
 ![Overview](img/Windows1.png)
 
- You can view a list of sections and the various operations or actions, click on the Instance name. Below the Instance name, there is an informational view where you can find the below details
-
+ To view a list of sections and the various operations or actions, click **Instance name**. Below the Instance name, there is an informational view where you can find the below details:
 - Configuration
 - Availability Zone
 - Default IP
 - Created 
 
-On the top right corner, two quick options are available, one for accessing the Instance console Instance and the other to POWER OFF/ON the instance.
+On the top right corner, two quick options are available, one for accessing the Instance console Instance and the other to **POWER OFF/ON** the instance.
 ![Windows Instance Overview](img/Windows2.png)
-Details on available Windows Instance operations and actions can be found in their respective sections.
 
+Details on available Windows Instance operations and actions can be found in their respective sections:
 - [Overview](ViewingDetailsofWindowsInstances)
 - [Graphs & Utilisation](ViewingGraphsandUtilisationofWindowsInstances)
 - [Alerts](ConfiguringAlertsonWindowsInstances)
@@ -35,3 +34,7 @@ Details on available Windows Instance operations and actions can be found in the
 - [Snapshots](WorkingwithWindowsInstanceSnapshots)
 - [Reconfigure](ReconfiguringWindowsInstances)
 - [Operations](WindowsInstanceOperations)
+
+
+
+

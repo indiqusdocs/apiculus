@@ -9,7 +9,11 @@ The Marketing section provides admins this ability to boost their marketing str
 
 Marketing features for service providers on Apiculus extend across:
 
-1. [One-time cash coupons using a voucher code](WorkingwithCoupons)
-2. [Time-based promotions using discount codes](WorkingwithDiscountCodes)
-3. [Account and subscription trials](/docs/Administration/TrialManagement/AboutTrials)
-4. [Marketing stack extensions using Google Tag Manager](/docs/GettingStarted/InBuiltApps/ManagingGooglereCAPTCHAandTagManager)
+- [One-time cash coupons using a voucher code](WorkingwithCoupons)
+- [Time-based promotions using discount codes](WorkingwithDiscountCodes)
+- [Account and subscription trials](/docs/Administration/TrialManagement/AboutTrials)
+- [Marketing stack extensions using Google Tag Manager](/docs/GettingStarted/InBuiltApps/ManagingGooglereCAPTCHAandTagManager)
+
+
+
+

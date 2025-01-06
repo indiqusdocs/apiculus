@@ -17,3 +17,7 @@ Follow these steps to create a category:
 	![Managing Quick Plans](img/QuickPlans2.png)
 5. Repeat as needed. You can create multiple categories to organise different types of Quick Plans. Each category will help users find the Quick Plans relevant to their needs more easily.      
   ![Managing Quick Plans](img/QuickPlans3.png)
+
+
+
+

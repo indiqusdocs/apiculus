@@ -20,3 +20,6 @@ Credit notes can be created for (in increasing order of levels of control offer
 :::note
 The above options are only available when creating credit notes from the Apiculus Cloud Console against a single invoice.
 :::
+
+
+

@@ -16,7 +16,7 @@ Once an invoice is generated, payments can be received from the customers in the
 
 1. Making a payment against an invoice from **Account Centre > Invoices and Credit Notes** on Apiculus Cloud Console; _self-service, initiated by customer, executed via payment gateway_
 2. Making a 'bulk' payment from **Account Centre > Wallet and Transactions** on Apiculus Cloud Console; _self-service, initiated by customer, executed via payment gateway_
-3. Recording an offline transaction from the account-level or global **Transactions** section on Apiculus admin console; _admin-assisted, initiated by admin, recorded manually_
+3. Recording an offline transaction from the account-level or global **Transactions** section on Apiculus Admin Console; _admin-assisted, initiated by admin, recorded manually_
 
 ## Settling Bills with Resellers
 
@@ -30,3 +30,7 @@ Billing between service provider and reseller needs to be handled offline and Ap
 The above information can be used to generate the relevant invoices to resellers and payments can be sent offline.
 
 For any other report requirements, a ticket may be created with IndiQus Support.
+
+
+
+

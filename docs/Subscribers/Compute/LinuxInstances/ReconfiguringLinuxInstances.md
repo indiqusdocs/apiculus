@@ -3,7 +3,7 @@ sidebar_position: 9
 ---
 # Reconfiguring Linux Instances
 
-To view a available reconfiguration options, navigate to the  [Operating Linux Instances](AboutLinuxInstances.md), select a Linux Instance and access the **Reconfigure** tab.
+To view a available reconfiguration options, navigate to  [Operating Linux Instances](AboutLinuxInstances.md), select a Linux Instance and access the **Reconfigure** tab.
 
 A Linux Instance on Apiculus can be reconfigured in the following ways:
 
@@ -16,5 +16,9 @@ A Linux Instance on Apiculus can be reconfigured in the following ways:
 ![Reconfiguring Linux Instances](img/Reconfiguring2.png)
 
 :::note
-You can only reconfigure with the same billing interval. If you wish just to change the billing interval, please use the Switch Plan button. We suggest switching the plan first before reconfiguring the Instance if you intend to use both the Reconfigure and Switch Plan options. You will be charged as per the pack you have reconfigured, not based on the older pack.
+You can only reconfigure with the same billing interval. To change the billing interval, use the **Switch Plan** button. It is recommended to switch the plan before reconfiguring the Instance if you wish to use both the Reconfigure and Switch Plan options. You will be charged as per the pack you have reconfigured, not based on the older pack.
 :::
+
+
+
+

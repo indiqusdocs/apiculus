@@ -3,7 +3,7 @@ sidebar_position: 9
 ---
 # Sample123
 
-Apiculus CloudConsole is the topmost layer on a technology stack that is fine-tuned and optimised for performance, features and experience. The Apiculus solution uses Enterprise-grade components to handle various facets of infrastructure management and service delivery.
+Apiculus Cloud Console is the topmost layer on a technology stack that is fine-tuned and optimised for performance, features and experience. The Apiculus solution uses Enterprise-grade components to handle various facets of infrastructure management and service delivery.
 
 :::note
 
@@ -37,7 +37,7 @@ Some **content** with _Markdown_ `syntax`. Check [this `api`](#).
 
 In short, the building blocks of Apiculus are:
 
-- [Apiculus CloudConsole and Admin Console](https://apiculus.com/) - service provider administration, subscriber CMP, billing, service catalogues, platform administration
+- [Apiculus Cloud Console and Admin Console](https://apiculus.com/) - service provider administration, subscriber CMP, billing, service catalogues, platform administration
 - [Apache CloudStack](https://cloudstack.apache.org/) - orchestrator to facilitate virtual infrastructure and asset provisioning
 - [Zabbix](https://zabbix.com/) - monitoring of guest and management clusters, physical asset monitoring
 - [OTRS](https://otrs.com/) - support and ticket operations with ITIL v5 compliance

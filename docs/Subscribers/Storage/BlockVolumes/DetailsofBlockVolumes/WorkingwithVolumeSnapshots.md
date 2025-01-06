@@ -11,28 +11,9 @@ Volume snapshots can be created manually with the current timestamp by using the
 
 ![Working with Volume Snapshots](img/WorkingwithVolumeSnapshots.png)
 
-## Creating Automated Snapshot Schedules
-
-Apiculus Cloud Console users can create snapshot policies for their root and data disks. These schedules allow for strategic management of data retention policies and can be used as an alternative to using a backup solution. Snapshot schedules can be managed from the **Schedules** section of disk details.
-
-The following schedules are supported:
-
-|Schedule|Description|
-|---|---|
-|Hourly|Snapshot will be taken every specified _minutes past the hour_|
-|Daily|Snapshot will be taken every day at the specified _time of day_|
-|Weekly|Snapshot will be taken every week on the specified _day of week_ and at the specified _time of day_|
-|Monthly|Snapshot will be taken every month on the specified _day of month_ and at the specified _time of day_|
-
-While configuring snapshot schedules, the following points should be considered:
-
-- There can only be one policy per schedule, and creating a second policy of an existing schedule will override the previous one.
-- All schedule options support time specifications in custom time zones.
-- All schedule options allow for a **snapshots to keep** option, which is a limit on how many snapshots to keep (or rotate after) as the retention policy.
-
 ## Creating a Volume from a Snapshot
 
-Volume Snapshots created manually or using a schedule will be listed under the **Snapshots** section of disk details. To create a new data disk using a snapshot, the option to **create volume** can be used, which will initiate a purchase flow similar to [creating a data disk](/docs/Subscribers/Storage/BlockVolumes/WorkingwithInstanceVolumes).
+Volume Snapshots created manually or using a schedule will be listed under the **Snapshots** section of disk details. To create a new data disk using a snapshot, the option to **create volume** can be used, which will initiate a purchase flow similar to [creating a data disk](/docs/Subscribers/Storage/BlockVolumes/CreatingDataDisk).
 
 :::note
 This operation may have associated billing impacts.
@@ -45,3 +26,7 @@ Volume Snapshots can be used to create OS Images which can be used at the time o
 :::note
 Images occupy account-level storage space which may be billed on usage by the service provider.
 :::
+
+
+
+

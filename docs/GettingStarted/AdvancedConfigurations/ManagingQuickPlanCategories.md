@@ -10,3 +10,7 @@ To set up and manage Apiculus Quick Plan categories, navigate to **Settings > Q
 :::note
 Once created, a Quick Plan category can not be deleted.
 :::
+
+
+
+

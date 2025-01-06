@@ -24,3 +24,7 @@ The following payment gateways are supported on Apiculus to receive payments:
 :::note
 Apiculus supports the listed payment gateways in a **redirect** mode. Currently, auto-debits and recurring payments are not supported.
 :::
+
+
+
+

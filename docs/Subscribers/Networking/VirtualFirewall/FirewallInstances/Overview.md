@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 5
 ---
 # Overview
 
@@ -14,7 +14,7 @@ To view the below details, navigate to the [Firewall Security](AboutFirewallIns
 
 ## Configuration and Availability
 
-This section displays the instance's status, **RUNNING**, is displayed in **green**, whereas STOPPED is displayed in greyed out and the information about the networking zone.
+This section displays the instance's status, **RUNNING**, is displayed in  <span class="green">**green**</span>, whereas STOPPED is displayed in <span style={{ color: 'grey' }}>greyed</span> out and the information about the networking zone.
 ## Internal Information
 
 This section displays the information used for internal identification of this instance and communication with other internal services.
@@ -27,5 +27,10 @@ This section displays the information used for internal identification of this i
 This section displays the following information:
 
 - Network Name
-- VPC Name
-- Access Control
+- MAC Address
+- IP Address
+- Netmask
+- Gateway
+
+
+
