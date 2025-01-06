@@ -23,7 +23,7 @@ Additionally, the following dashboards are available directly on Metabase and no
 - Downloadable data dumps
 
 :::note
-Metabase is highly configurable and can be used to configure alerts on reports, daily notifications on data, and visually engaging views and reports. For any assistance, a support ticket may be created with IndiQus Support.
+Metabase is highly configurable and can be used to configure alerts on reports, daily notifications on data, and visually engaging views and reports. For any assistance, a support ticket may be created with Apiculus (By Yotta) Support.
 :::
 
 

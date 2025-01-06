@@ -29,7 +29,7 @@ Billing between service provider and reseller needs to be handled offline and Ap
 
 The above information can be used to generate the relevant invoices to resellers and payments can be sent offline.
 
-For any other report requirements, a ticket may be created with IndiQus Support.
+For any other report requirements, a ticket may be created with Apiculus (By Yotta) Support.
 
 
 
