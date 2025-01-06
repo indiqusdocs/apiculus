@@ -1,7 +1,6 @@
 ---
 sidebar_position: 13
 ---
-
 # Frequently Asked Questions (FAQs)
 
 <details><summary>**What happens if I miss a payment due date?**</summary>Depending on how your service provider has set up the payment collections policies, one of the following might happen: <br />
