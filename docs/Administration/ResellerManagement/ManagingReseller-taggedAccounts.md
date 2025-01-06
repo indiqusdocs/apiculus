@@ -31,7 +31,7 @@ Reseller-tagged accounts can be viewed by navigating to the details of a reselle
 Reseller-tagged [accounts can be managed and updated](/docs/Administration/SubscribersandAccounts/CreatingandUpdatingSubscriberAccounts) in the same way as regular subscriber accounts.
 
 :::note
-Reseller tags can not be updated via the UI. In order to do so, please raise a request to Apiculus Support.
+Reseller tags can not be updated via the UI. In order to do so, please raise a request to Apiculus (By Yotta) Support.
 :::
 
 
