@@ -8,7 +8,7 @@ All currencies can be localised for display and financial logic. This can help d
 Navigate to **Administration** > **Settings** > **Financials & Business** > **Currencies**. 
 
 :::note
-This section does not support adding new currencies. These settings are only for localisation of the currencies that are already set up. If you wish to add more currencies to your cloud setup, get in touch with IndiQus Support.
+This section does not support adding new currencies. These settings are only for localisation of the currencies that are already set up. If you wish to add more currencies to your cloud setup, get in touch with Apiculus (By Yotta) Support.
 :::
 
 The following settings can be controlled for configured currencies:
