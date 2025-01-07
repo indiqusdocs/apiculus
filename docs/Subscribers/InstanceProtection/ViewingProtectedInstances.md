@@ -3,19 +3,19 @@ sidebar_position: 3
 ---
 # Viewing Protected Instances
 
-1. In the main navigation menu, navigate to Backups menu and select the **Instance Protection** option.
-2. Click on **Protected Instances** to display a list of all protected instances.
+1. In the main navigation menu, navigate to the Backups menu and select the **Instance Protection** option.
+2. Click the **Protected Instances** to display a list of all protected instances.
 	![Viewing Protected Instances](img/ViewingProtectedInstances1.png)
 3. Select a specific instance name to view the following options:
     - **Protection**
     - **Backups**
+    - **Alerts**
     - **Operations**
 4. Protection will list when the last backup was taken and when the upcoming backup is scheduled.
 	![Viewing Protected Instances](img/ViewingProtectedInstances2.png)
-
 	![Viewing Protected Instances](img/ViewingProtectedInstances3.png)
 5. Also, you get the option to **Run Now**, click on it to start taking the backup.
-6. The backups section will display all the available backups. To restore a backup, click the **LAUNCH CYBER PROTECT CONSOLE** above.
+6. The backups section will display all the available backups. To restore a backup, click the **LAUNCH CYBER PROTECT CONSOLE**.
 	![Viewing Protected Instances](img/ViewingProtectedInstances4.png)
 
 

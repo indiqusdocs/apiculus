@@ -9,13 +9,12 @@ To create Autoscale Groups, follow these steps:
 3. Select an **Instance Category**. 
 	![Creating Autoscale Groups](img/CreatingAutoscaleGroups1.png)
 4. Select the **Availability Zone** that represents the geographic region for the deployment of your Autoscaled Instance.
-5.  **Select VPC Network**, choose the appropriate tier in **Select a Network Tier**, and then select a load balancer from the options in the **Select Load Balancer"**dropdown.
+5. **Select VPC Network**, choose the appropriate tier in **Select a Network Tier**, and then select a load balancer from the options in the **Select Load Balancer"**dropdown.
 6. Select the **OS Image**.
    ![Creating Autoscale Groups](img/CreatingAutoscaleGroups2.png)
 7. Select the **Compute pack** from the available compute collections.
 8. Select the **Root disk** from the available Disk packs. You can use the free size option to define the size of the Root Disk.
 9. Configure the **Autoscale group** as per your requirement; these options need to be specified.
-
 	- **Min. Group Limit:** This is the minimum number of members in the Autoscale Group. The number of instances in the group will be equal to or more than this number.
     - **Max. Group Limit:** This is the maximum number of members in the Autoscale Group. The number of instances in the group will be equal to or more than this number.
     - **Expunge VM grace period:** This defines how long before a scale-down is executed should the app/user connections to an Instance be removed.
