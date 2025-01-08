@@ -19,7 +19,7 @@ The Instance Snapshots tab lists the following details:
 
 ![Managing Instance and Volume Snapshots](img/ManagingInstanceandVolumeSnapshots1.png)
 
-To revert the Instance to the snapshot point, click the icon present at the right corner before the delete icon, or also you can click on the snapshot name and then click on the **REVERT INSTANCE** button.
+To revert the Instance to the snapshot point, click the icon present at the right corner before the delete icon, or also you can click on the snapshot name and then click the **REVERT INSTANCE** button.
 
 ![Managing Instance and Volume Snapshots](img/ManagingInstanceandVolumeSnapshots2.png)
 
@@ -31,7 +31,7 @@ To delete the Instance Snapshot, click the **delete** icon from the right corner
 
 ## Volume Snapshots
 
-The Volume Snapshots section shows the details as below:
+The Volume Snapshots section shows the following details:
 
 - Snapshot Name
 - Volume Name

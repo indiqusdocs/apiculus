@@ -5,7 +5,7 @@ sidebar_position: 2
 
 Instance Protection service can be enabled in two ways:
 
-## **During Instance Creation**
+## During Instance Creation
 
 First, create a [Linux](/docs/Subscribers/Compute/LinuxInstances/CreatingLinuxInstances) or a [Windows](/docs/Subscribers/Compute/WindowsInstances/CreatingWindowsInstances) instance then, follow these steps:
 
@@ -14,7 +14,7 @@ First, create a [Linux](/docs/Subscribers/Compute/LinuxInstances/CreatingLinuxI
 2. The pricing summary will be reflected as per the selection.
 	![Enabling Instance Protection](img/EnablingInstanceProtection2.png)
 
-## **After Instance Creation**
+## After Instance Creation
 
 If you already have a Linux or Windows Instance and didn't enable the protection service while creating the instance, you can do it later. Navigate to the Listing of the **Linux/Windows** Instances. Click the **particular instance**. 
 
