@@ -15,8 +15,8 @@ Follow these steps to configure Linux Instances:
 3. Under the **Availability** section, choose the availability zone from which you want to offer the service, then click **Save and Update**.
 ![Configuring Linux Instances](img/linux1.png) 
 5. Under the **Billing** section, select the **Billing Options**.
-	- **Prorate on Entry**: Purchases will be pro-rated at the time of purchase of services.
-	- **Prorate on Exit**: Removals will be pro-rated at the time of removal of services.
+	- **Prorate on Entry** - Purchases will be pro-rated at the time of purchase of services.
+	- **Prorate on Exit** - Removals will be pro-rated at the time of removal of services.
 6. Select the **Billing Cycle** to be displayed to the subscribers: **Hourly**, **Monthly**, or **Both**.
 ![Configuring Linux Instances](img/linux2.png) 
 7. You can provision the Linux Instances to an approval-based system within the **Provisioning** section. To do so, activate the **Approval Required** switch, which offers additional functionalities such as sending custom instructions to end-users upon approval and attaching up to five files, each up to three MB.

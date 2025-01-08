@@ -17,8 +17,8 @@ Follow these steps to configure Virtual Firewall Instances:
 4. Turn on the toggle switch at the top to make this service available as part of the default services. This action will enable all associated sections.
 5. Under the **Availability** section, select the availability zone from which you want to offer the service, then click **Save and Update**.![Configuring Virtual Firewall Instances](img/ConfiguringVirtualFirewallInstances1.png)
 5. Under the **Billing** section, select the **Billing Options**.
-	- **Prorate on Entry**: Purchases will be pro-rated at the time of purchase of services.
-	- **Prorate on Exit**: Removals will be pro-rated at the time of removal of services.
+	- **Prorate on Entry** - Purchases will be pro-rated at the time of purchase of services.
+	- **Prorate on Exit** - Removals will be pro-rated at the time of removal of services.
 6. Select the **Billing Cycle** to be displayed to the subscribers: **Hourly**, **Monthly**, or **Both**.![Configuring Virtual Firewall Instances](img/ConfiguringVirtualFirewallInstances2.png)
 6. To provision Virtual Firewall Instances to an approval-based system, navigate to **Provisioning** and turn on the **Approval Required** toggle button. Additionally, you can send custom instructions to end-users upon approval and attach up to five files, each up to three MB.![Configuring Virtual Firewall Instances](img/ConfiguringVirtualFirewallInstances3.png)
 

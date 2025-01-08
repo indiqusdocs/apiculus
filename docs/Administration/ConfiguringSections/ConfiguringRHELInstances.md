@@ -8,7 +8,7 @@ Red Hat Enterprise Linux (RHEL) pricing model is based on virtual CPU (vCPU) cor
 - 9-128 vCPUs
 - 129+ vCPUs
 
-Follow these steps to configure RHEL Instances:
+To configure RHEL Instances, follow these steps :
 
 1. Click **Default Services**.
 2. Under the **Compute** section, click **RHEL Instances**.

@@ -10,8 +10,8 @@ Follow these steps to configure IPv4 Addresses:
 3. Activate the switch at the top, indicating the availability of this service as part of the default services. All associated sections will become enabled.
 4. Proceed to the **Availability section**. Select the desired availability zones from which you want to deliver the service to the end user, then click **Save and Update.**   ![Configuring IPv4 Addresses](img/ConfiguringIPv4Addresses1.png)
 5. Under the **Billing** section, select the **Billing Options**.   ![Configuring IPv4 Addresses](img/ConfiguringIPv4Addresses2.png)
-	- **Prorate on Entry**: Purchases will be pro-rated at the time of purchase of services.
-	- **Prorate on Exit**: Removals will be pro-rated at the time of removal of services.
+	- **Prorate on Entry** - Purchases will be pro-rated at the time of purchase of services.
+	- **Prorate on Exit** - Removals will be pro-rated at the time of removal of services.
 6. Select the **Billing Cycle** to be displayed to the subscribers: **Hourly**, **Monthly**, or **Both**.
 7. You can provision IPv4 Addresses to an approval-based system within the **Provisioning** section. You can do this by activating the **Approval Required** switch for offering additional functionalities such as sending custom instructions to end-users upon approval and attaching up to five files, each up to three MB.
    ![Configuring IPv4 Addresses](img/ConfiguringIPv4Addresses3.png)
