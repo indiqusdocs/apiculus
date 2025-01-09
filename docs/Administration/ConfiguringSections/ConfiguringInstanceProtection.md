@@ -1,7 +1,9 @@
 ---
-sidebar_position: 9
+sidebar_position: 5
 ---
 # Configuring Instance Protection
+
+Instance protection safeguards virtual machine instances and workloads by creating backups using Acronis backup solutions.
 
 To configure Instance Protection via the Default Services section, follow these steps:
 
