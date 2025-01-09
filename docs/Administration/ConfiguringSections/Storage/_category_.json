@@ -1,0 +1,8 @@
+{
+  "label": "Storage Services",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+"description": "Apiculus offers scalable, secure, and flexible cloud storage solutions, supporting block and object storage types. Ensure efficient data management with high availability, redundancy, and data protection features."
+  }
+}

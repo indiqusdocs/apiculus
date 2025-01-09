@@ -8,7 +8,7 @@ To manage the protected instances, you can perform the following operations:
 - [Viewing Protected Instances](#viewing-protected-instances)
 - [Viewing Protection details](#viewing-protection-details)
 - [Viewing Backup and Alerts](#viewing-backups-and-alerts)
-- [Managing Operations](#viewing-operations)
+- [Managing Operations](#managing-operations)
 ## Viewing Protected Instances
 
 1. In the main navigation menu, navigate to the Backups menu and select the **Instance Protection** option.
