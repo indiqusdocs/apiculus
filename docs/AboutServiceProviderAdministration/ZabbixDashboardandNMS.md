@@ -3,7 +3,7 @@ sidebar_position: 4
 ---
 # Zabbix Dashboard and NMS
 
-Service provider NOC teams get restricted access to the Zabbix monitoring system as part of the service provider administration suite. Restricted access is provided because any modifications done on the Zabbix system can severely impact the quality of service and experience delivered via Apiculus.
+Service provider Network Operations Center (NOC) teams get restricted access to the Zabbix monitoring system as part of the service provider administration suite. Restricted access is provided because any modifications done on the Zabbix system can severely impact the quality of service and experience delivered via Apiculus.
 
 Apiculus uses Zabbix for the following:
 

@@ -1,0 +1,8 @@
+{
+  "label": "Networking Services",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Apiculus enable seamless connectivity between cloud infrastructure and resources, providing efficient data flow and communication. It provides default services like virtual Firewalls,Virtual Private clouds,DNS Management,and Load Balancer Instances."
+  }
+}

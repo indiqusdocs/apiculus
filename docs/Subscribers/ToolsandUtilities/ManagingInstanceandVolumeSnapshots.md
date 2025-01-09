@@ -8,7 +8,7 @@ Snapshots use the [Apiculus Block Volumes](/docs/Subscribers/Storage/BlockVolume
 You can view and manage all your Instance and Volume Snapshots and perform various associated operations.
 ## Instance Snapshots
 
-The Instance Snapshots tab will list the details as below:
+The Instance Snapshots tab lists the following details:
 
 - Snapshot Name
 - Description
@@ -19,19 +19,19 @@ The Instance Snapshots tab will list the details as below:
 
 ![Managing Instance and Volume Snapshots](img/ManagingInstanceandVolumeSnapshots1.png)
 
-You can revert the Instance to the snapshot point, which can be done by clicking on the icon present at the right corner before the delete icon, or also you can click on the snapshot name and then click on the **REVERT INSTANCE** button.
+To revert the Instance to the snapshot point, click the icon present at the right corner before the delete icon, or also you can click on the snapshot name and then click the **REVERT INSTANCE** button.
 
 ![Managing Instance and Volume Snapshots](img/ManagingInstanceandVolumeSnapshots2.png)
 
 ![Managing Instance and Volume Snapshots](img/ManagingInstanceandVolumeSnapshots3.png)
 
-You can simply delete the Instance Snapshot by clicking on the delete icon from the right corner.
+To delete the Instance Snapshot, click the **delete** icon from the right corner.
 
 ![Managing Instance and Volume Snapshots](img/ManagingInstanceandVolumeSnapshots4.png)
 
 ## Volume Snapshots
 
-The Volume Snapshots section shows the details as below:
+The Volume Snapshots section shows the following details:
 
 - Snapshot Name
 - Volume Name
@@ -42,13 +42,13 @@ The Volume Snapshots section shows the details as below:
 
 ![Managing Instance and Volume Snapshots](img/ManagingInstanceandVolumeSnapshots5.png)
 
-You can revert to the image from the volume snapshot; this can be done by clicking on the icon present at the right corner before the delete icon, or also you can click on the snapshot name and then click on the **SAVE AS IMAGE** button.
+To revert the image from the volume snapshot, click on the icon present at the right corner before the delete icon, or click the snapshot name and then click **SAVE AS IMAGE**.
 
 ![Managing Instance and Volume Snapshots](img/ManagingInstanceandVolumeSnapshots6.png)
 
 ![Managing Instance and Volume Snapshots](img/ManagingInstanceandVolumeSnapshots7.png)
 
-You can simply delete the Volume Snapshot by clicking on the **delete** icon from the right corner.
+To delete the Volume Snapshot, click the **delete** icon from the right corner.
 
 ![Managing Instance and Volume Snapshots](img/ManagingInstanceandVolumeSnapshots8.png)
 

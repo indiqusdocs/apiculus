@@ -4,24 +4,33 @@ sidebar_position: 2
 # Enabling Instance Protection
 
 Instance Protection service can be enabled in two ways:
-**During Instance Creation**, follow the steps to create a [Linux](/docs/Subscribers/Compute/LinuxInstances/CreatingLinuxInstances) or a [Windows](/docs/Subscribers/Compute/WindowsInstances/CreatingWindowsInstances) instance.
-1. You have to enable the Protect this Instance switch. There, you will get a Standard Protection Service, and you can also opt for Advance Protection Features. 
+
+## During Instance Creation
+
+First, create a [Linux](/docs/Subscribers/Compute/LinuxInstances/CreatingLinuxInstances) or a [Windows](/docs/Subscribers/Compute/WindowsInstances/CreatingWindowsInstances) instance then, follow these steps:
+
+1. Enable the Protect this Instance switch. There, you will get a Standard Protection Service, and you can also opt for Advance Protection Features. 
 	![Enabling Instance Protection](img/EnablingInstanceProtection1.png)
 2. The pricing summary will be reflected as per the selection.
 	![Enabling Instance Protection](img/EnablingInstanceProtection2.png)
 
-## **After Instance Creation**
+## After Instance Creation
 
-If you already have a Linux or Windows Instance and didn't enable the protection service while creating the instance, you can do it later. Navigate to the Listing of the Linux/Windows Instances. Click on the particular instance. Follow the below steps to activate the protection plan service.
+If you already have a Linux or Windows Instance and didn't enable the protection service while creating the instance, you can do it later. Navigate to the Listing of the **Linux/Windows** Instances. Click the **particular instance**. 
 
-1. Navigate to the instance listing, select the **Protection** section and click on the **ENABLE PROTECTION** button.
+To activate the protection plan service, follow these steps:
+
+1. Navigate to the instance listing, select the **Protection** section and click the **ENABLE PROTECTION** button.
     ![Enabling Instance Protection](img/EnablingInstanceProtection3.png)
-2. Click on Confirm, and if you want to enable the advanced protection features, then enable the switch as shown in the below screenshot:
+2. Click **Confirm**, and if you want to enable the advanced protection features, then enable the switch as shown in the below screenshot:
     ![Enabling Instance Protection](img/EnablingInstanceProtection4.png)
- 3. After the confirmation, the steps for the activation will be listed, and these steps need to be run through the command line. Once the instructions mentioned have been performed, the particular instance will be protected, and the details will be listed in the  **Instance Protection** menu.
+ 3. After the confirmation, the steps for the activation will be listed, and these steps need to be run through the command line.
+	 ![Protecting Linux Instances](img/Protection3.png)
+4. Run the respective script (mentioned under Point No. 1 in above screen) in command-line to install dependencies.
+5. Run the respective script (mentioned under Point No. 2 in above screen) in command-line to install Protection Agent.
 
 :::note
-The list of [Supported Operating systems](https://www.acronis.com/en-us/support/documentation/AcronisCyberProtect_15/index.html#cshid=36983) and environments can be viewed at the following link.
+The list of [Supported Operating systems](https://www.acronis.com/en-us/support/documentation/AcronisCyberProtect_15/index.html#cshid=36983) and environments.
 :::
 
 
