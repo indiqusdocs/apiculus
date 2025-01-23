@@ -8,7 +8,8 @@ A Virtual Private Cloud (VPC) is an isolated network inside a public cloud that 
 To configure Virtual Private Clouds, follow these steps:
 
 1. Navigate to **Services** > **Default Services**.
-2. Under **Networking**, click **Virtual Private Cloud**s.
+    ![Configuring Linux Instances](img/DefaultServices.png)
+2. Under **Networking**, click **Virtual Private Clouds**.
 	![Availability](img/VPC1.png)
 3. Turn on the toggle switch at the top to make this service available as part of the default services. This action will enable all associated sections.
 4. Under the **Availability** section, select the availability zone from which you want to offer the service, then click **Save and Update**.
