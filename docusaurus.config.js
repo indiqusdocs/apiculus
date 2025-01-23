@@ -151,7 +151,7 @@ require.resolve("@easyops-cn/docusaurus-search-local"),
             },
             {
               label: 'Global APIs',
-              href: 'https://swagger.apiculus.io',
+			  href: 'https://swagger.apiculus.io',
             },
           ],
         },

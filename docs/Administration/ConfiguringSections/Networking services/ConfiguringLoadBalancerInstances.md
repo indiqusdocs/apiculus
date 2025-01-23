@@ -3,7 +3,7 @@ sidebar_position: 9
 ---
 # Configuring Load Balancer Instances
 
-To configure DNS, follow these steps:
+To configure Load Balancer Instances, follow these steps:
 
 1. Navigate to the **Default Services**.   
    ![Configuring Linux Instances](img/DefaultServices.png)

@@ -103,7 +103,7 @@ RW = Read & Write/Option visible and can take action
 Partial = Limited access available  
 
 :::note
-the above blueprint only applies to the **Admin Console** and not to any other **ISV consoles** .
+The above blueprint only applies to the **Admin Console** and not to any other **ISV consoles**.
 :::
 
 
