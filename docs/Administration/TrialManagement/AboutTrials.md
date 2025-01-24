@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 ---
-# About Trails
+# About Trials
 
 Apiculus offers two ways of managing trial programmes:
 - [Account Trials ](#account-trials)
