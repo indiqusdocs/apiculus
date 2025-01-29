@@ -28,7 +28,7 @@ Invoices are generated on Apiculus for the previous month’s usage on the 1st o
 Available actions:
 
 - [Viewing and Downloading Invoices](ViewinganddownloadingInvoices.md)
-- [Resending an Invoice](ResendinganInvoice)
+- [Resending an Invoice](AboutInvoice.md)
 - [Creating a Credit Note Against an Invoice](CreatingaCreditNoteAgainstanInvoice)
 
 ![Billing and Financials Overview](img/Overview2.png)

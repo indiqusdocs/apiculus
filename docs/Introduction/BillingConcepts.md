@@ -20,7 +20,7 @@ To understand the various billing and financial aspects of Apiculus Cloud, it is
 - **Billing Model:** Apiculus Cloud follows a billing model determined by a credit limit that your account has been offered. This credit limit is a value that you can purchase services and resources up to without running the risk of account restriction, disablement, or termination. Credit limits can be enhanced by Apiculus based on your usage and payment track records.
 - **Service Balance:** In simple terms, the service balance is your current purchase capacity on Apiculus Cloud. The service balance includes your credit limit, payments that you have made and all charges that you have incurred on your subscriptions and is denoted using a ‘wallet’ metaphor.
 
-All billing records related to your account on Apiculus Cloud can be accessed from the respective sections under **Financials** in the main navigation panel.
+All billing records related to your account on Apiculus Cloud can be accessed from the respective sections under **Billing and Financial** in the main navigation panel.
 
 
 
