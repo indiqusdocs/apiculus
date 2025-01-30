@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Administration/SubscribersandAccounts/UpdatingCreditLimitandOtherBillingInformation.md",
+                "file": "docs/Subscribers/Compute/LinuxInstances/AppOverlays.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UpdatingCreditLimitandOtherBillingInformation"
+              "title": "AppOverlays"
             }
           }
         ]
@@ -165,6 +165,13 @@
   },
   "active": "35032449a7e1d649",
   "lastOpenFiles": [
+    "docs/Subscribers/Compute/LinuxInstances/CreatingLinuxInstances.md",
+    "docs/Subscribers/Compute/LinuxInstances/AppOverlays.md",
+    "docs/Subscribers/Compute/LinuxInstances/ConfiguringAlerts.md",
+    "docs/Subscribers/Compute/LinuxInstances/ConnectingtoaLinuxInstance.md",
+    "docs/Subscribers/Compute/LinuxInstances/Operations.md",
+    "docs/Subscribers/Compute/LinuxInstances/img/InstantApps.png",
+    "docs/Administration/SubscribersandAccounts/UpdatingCreditLimitandOtherBillingInformation.md",
     "build/blog/atom.xml",
     "build/blog/rss.xml",
     "build/blog/rss.css",
@@ -175,7 +182,6 @@
     "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/WorkingwithVolumeSnapshots",
     "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Schedules/index.html",
     "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Schedules",
-    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Overview/index.html",
     "build/assets/images/Billerentity-ead4f28a57a0cdd609f5b83975eafa6e.png",
     "build/assets/images/Billing-a2051b6916c481c374661200b298f7ba.png",
     "docs/Administration/SubscribersandAccounts/img/Billerentity.png",
@@ -186,14 +192,12 @@
     "docs/ReleaseNotes/Ver2051.md",
     "docs/ReleaseNotes/Ver2050.md",
     "docs/LoggingIn.md",
-    "docs/Administration/SubscribersandAccounts/UpdatingCreditLimitandOtherBillingInformation.md",
     "build/img/rn.svg",
     "build/img/sps.svg",
     "build/img/sps.png",
     "build/img/sbs.svg",
     "build/img/sbs.png",
     "build/assets/images/WorkingwithDiscountCodes4-c5fd249e779e9f3dededa9a32e3694b3.png",
-    "build/assets/images/VPC1-c3d0ec34df1f2d31d141101c128f9a7b.png",
     "docs/Administration/SubscribersandAccounts/CreatingandUpdatingSubscriberAccounts.md",
     "docs/Administration/SubscribersandAccounts/UpdatingaSubscribersTaxationCategory.md",
     "docs/Administration/SubscribersandAccounts/WorkingwithAccountStates.md",
@@ -207,10 +211,6 @@
     "docs/Administration/BillingandFinancials/CreatingaCreditNoteAgainstanInvoice.md",
     "docs/Administration/BillingandFinancials/DeactivatingaSubscription.md",
     "docs/Administration/BillingandFinancials/CreatingCreditNotesinBulk.md",
-    "docs/Administration/BillingandFinancials/AddingOne-timeChargesandDiscounts.md",
-    "docs/Administration/BillingandFinancials/AboutEstimates.md",
-    "docs/Administration/BillingandFinancials/AboutInvoices.md",
-    "docs/ReleaseNotes/Ver2300.md",
     "Untitled.canvas"
   ]
 }
