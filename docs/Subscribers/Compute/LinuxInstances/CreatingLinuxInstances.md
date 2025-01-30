@@ -17,11 +17,12 @@ To create a Linux instance, follow these steps:
 6. Select the **Compute Pack** from the available compute collections.
 8. Select the  **Root Disk** from the available options.
 9. Select the option to **Protect this Instance**.
-10. In **Choose Instant Apps**, select the available applications.
+   ![Compute Pack](img/ComputePack.png)
+10. In **Choose Instant Apps**, select the available applications. To Verify/Login into your selected database, refer to [App Overlays](AppOverlays.md).
+    ![Instant Apps](img/InstantApps.png)
 11. **Choose an Authentication Method**:
     - **Use SSH key pair**: To view all the SSH key pairs present in your account, click the **Use SSH key pair** option. If your account doesn’t have any SSH key pair, then you can click the **Generate a new key pair** or upload the key pair by clicking the **Upload a key pair** option.
     - **Use root user password**: On selecting Use root user password, the **Also email me the password** option is displayed. If you select this option, the password, along with the details, for instance, will be emailed to your registered email ID.
-    ![Compute Pack](img/ComputePack.png)
 12. In the **Name Your Linux Instance** field, enter the desired name for your Linux Instance. The Instance name contain alphanumeric characters, underscore, dots and hyphens only. 
 13. Verify the Estimated Cost of your Windows Instance based on the chosen specifications from the Summary and Estimated Costs Section (Here, both Hourly and Monthly Prices summary are displayed).
 14. Click on the check box after going through the policies mentioned by your cloud service provider.
