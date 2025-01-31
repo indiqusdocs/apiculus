@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/Compute/LinuxInstances/AppOverlays.md",
+                "file": "docs/Subscribers/Networking/IPv4-basedNetworking/UsingRemoteAccessVPNwithVPC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AppOverlays"
+              "title": "UsingRemoteAccessVPNwithVPC"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -165,26 +166,43 @@
   },
   "active": "35032449a7e1d649",
   "lastOpenFiles": [
+    "docs/Subscribers/Networking/IPv4-basedNetworking/img/ManageVPNaccess.png",
+    "docs/Subscribers/Networking/IPv4-basedNetworking/img/Remote2.png",
+    "docs/Subscribers/Networking/IPv4-basedNetworking/img/Remote1.png",
+    "build/assets/images/ZabbixDashboardandNMS-c2527f0b200a02597ac742e94af5a959.png",
+    "build/assets/images/WalletandTransactions-d88e30faeabd15ed73673605e9c57014.png",
+    "build/assets/images/WorkingwithVolumeSnapshots-bacaba26967ba54567afe3db68ca3b55.png",
+    "build/assets/images/WorkingwithDiscountCodes9-20fc6541fdd4044d0bd5b2d91359a32f.png",
+    "build/assets/images/WorkingwithInstanceVolumes2-e9ad4771096096b56b2e00a5e368ec18.png",
+    "build/assets/images/WorkingwithInstanceVolumes1-12ec44de4d94a6468f181be2360df1cd.png",
+    "build/assets/images/WorkingwithDiscountCodes8-3c029b00e303846b5dbaece44344bb0c.png",
+    "build/assets/images/WorkingwithDiscountCodes7-33c4dd24fc7d924f4aaf8712f1989d54.png",
+    "build/assets/js/dce8c50e.8c6a6077.js",
+    "build/assets/js/main.02456d93.js",
+    "build/assets/js/runtime~main.f7027c7a.js",
+    "build/assets/js/main.02456d93.js.LICENSE.txt",
+    "build/assets/js/ffa4fd2c.bcb44e78.js",
+    "build/assets/js/fe2f8331.75e5a1b0.js",
+    "build/assets/js/fc396ee1.b0ddcb9b.js",
+    "build/assets/js/fdfbf231.d3a35229.js",
+    "build/assets/js/fdc2d66b.9547d4ba.js",
+    "build/assets/js/fc216549.cc3199de.js",
+    "docs/Subscribers/Networking/IPv4-basedNetworking/ManagingVPNGatewaysandSite-to-SiteVPN.md",
+    "docs/Subscribers/Networking/IPv4-basedNetworking/UsingRemoteAccessVPNwithVPC.md",
+    "docs/Subscribers/Networking/VirtualPrivateClouds/About.md",
+    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/CreateListandViewVPCs.md",
+    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingVPCInstances.md",
+    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets.md",
+    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/VPCManagementandBasicOperations.md",
+    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC.md",
+    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/CreatingVPCSubnetsTiers.md",
+    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/AboutVirtualPrivateClouds.md",
     "docs/Subscribers/Compute/LinuxInstances/CreatingLinuxInstances.md",
     "docs/Subscribers/Compute/LinuxInstances/AppOverlays.md",
     "docs/Subscribers/Compute/LinuxInstances/ConfiguringAlerts.md",
     "docs/Subscribers/Compute/LinuxInstances/ConnectingtoaLinuxInstance.md",
     "docs/Subscribers/Compute/LinuxInstances/Operations.md",
-    "docs/Subscribers/Compute/LinuxInstances/img/InstantApps.png",
     "docs/Administration/SubscribersandAccounts/UpdatingCreditLimitandOtherBillingInformation.md",
-    "build/blog/atom.xml",
-    "build/blog/rss.xml",
-    "build/blog/rss.css",
-    "build/blog/atom.css",
-    "build/blog/atom.xsl",
-    "build/blog/rss.xsl",
-    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/WorkingwithVolumeSnapshots/index.html",
-    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/WorkingwithVolumeSnapshots",
-    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Schedules/index.html",
-    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Schedules",
-    "build/assets/images/Billerentity-ead4f28a57a0cdd609f5b83975eafa6e.png",
-    "build/assets/images/Billing-a2051b6916c481c374661200b298f7ba.png",
-    "docs/Administration/SubscribersandAccounts/img/Billerentity.png",
     "docs/ReleaseNotes/Ver2500.md",
     "docs/ReleaseNotes/Ver2210.md",
     "docs/ReleaseNotes/Ver2100.md",
@@ -192,25 +210,8 @@
     "docs/ReleaseNotes/Ver2051.md",
     "docs/ReleaseNotes/Ver2050.md",
     "docs/LoggingIn.md",
-    "build/img/rn.svg",
-    "build/img/sps.svg",
-    "build/img/sps.png",
-    "build/img/sbs.svg",
-    "build/img/sbs.png",
-    "build/assets/images/WorkingwithDiscountCodes4-c5fd249e779e9f3dededa9a32e3694b3.png",
     "docs/Administration/SubscribersandAccounts/CreatingandUpdatingSubscriberAccounts.md",
     "docs/Administration/SubscribersandAccounts/UpdatingaSubscribersTaxationCategory.md",
-    "docs/Administration/SubscribersandAccounts/WorkingwithAccountStates.md",
-    "docs/Administration/SubscribersandAccounts/WorkingwithKYCandAccountVerification.md",
-    "docs/Administration/SubscribersandAccounts/MaintainingRelationshipPersonnelInformation.md",
-    "docs/Administration/SubscribersandAccounts/ImpersonatinganAccount.md",
-    "docs/Administration/SubscribersandAccounts/ChangingSubscribersPrimaryEmail.md",
-    "docs/Administration/SubscribersandAccounts/ChangingResourceLimitsforSubscribers.md",
-    "docs/Administration/SubscribersandAccounts/AccountManagementOverview.md",
-    "docs/Administration/BillingandFinancials/AboutInvoice.md",
-    "docs/Administration/BillingandFinancials/CreatingaCreditNoteAgainstanInvoice.md",
-    "docs/Administration/BillingandFinancials/DeactivatingaSubscription.md",
-    "docs/Administration/BillingandFinancials/CreatingCreditNotesinBulk.md",
     "Untitled.canvas"
   ]
 }
