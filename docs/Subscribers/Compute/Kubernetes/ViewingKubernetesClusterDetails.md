@@ -28,7 +28,7 @@ A quick option is available in the top right corner, i.e., to  **POWER OFF/ON*
 
 Details on available Kubernetes Cluster operations and actions can be found in their respective sections:
 
-- [Overview](Overview.md)
+- [Overview](docs/Subscribers/Compute/Kubernetes/Overview.md)
 - [Access](AccessingaClusterusingtheCommandLine.md)
 - [Nodes](ScalingKubernetesClusters.md)
 - [Dashboard](ClusterDashboard.md)
