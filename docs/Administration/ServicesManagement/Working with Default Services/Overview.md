@@ -1,7 +1,7 @@
 ---
-sidebar_position: 3
+sidebar_position: 1
 ---
-# Working with Default Services
+# Overview
 
 Default Services (DS) is the catalogue that's available to all subscribers, unless specified otherwise. In other words, the DS catalogue controls the default rules for availability of any supported Service via configurations of:
 
