@@ -1,0 +1,8 @@
+{
+  "label": "Configuring Default Services",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+"description": "Default Services (DS) is the catalogue that's available to all subscribers, unless specified otherwise. In other words, the DS catalogue controls the default rules for availability of any supported Services."
+  }
+}
