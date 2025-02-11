@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 # Creating a Custom Catalogue
 
-Custom Catalogues behave in the same way as [Default Services](/docs/category/configuring-default-services), except that these are designated for specified customers. Custom Catalogues carry the following considerations and characteristics:
+Custom Catalogues behave in the same way as [Default Services](/docs/category/working-with-default-services), except that these are designated for specified customers. Custom Catalogues carry the following considerations and characteristics:
 
 - They can have availability and pricing rules that are completely different from Default Services.
 - They need to be specified for individual (single or multiple) customers.
@@ -17,8 +17,7 @@ To create a custom catalogue, follow these steps:
 5. You can create a New Custom Catalogue from one of the following options:
 	- Select an existing catalogue (from the drop-down list) as a template with prepopulated details. Then, click **Proceed** to customize the existing catalogue.
 	- Create a new catalogue from scratch by clicking on **Create New from Scratch**.
-6. Continue configuring services the same way as described in [Configuring Services](/docs/category/configuring-services)
-
+6. Continue configuring services the same way as described in [Configuring Services](/docs/category/configuring-default-services)
 
 
 
