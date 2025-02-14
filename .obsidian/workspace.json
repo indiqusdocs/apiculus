@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Administration/ServicesManagement/CustomCatalogues/CreatingaCustomCatalogue.md",
+                "file": "docs/Subscribers/Compute/WindowsInstances/CreatingWindowsInstances.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CreatingaCustomCatalogue"
+              "title": "CreatingWindowsInstances"
             }
           }
         ],
@@ -181,6 +181,10 @@
   },
   "active": "3c01c13043799e4d",
   "lastOpenFiles": [
+    "docs/Subscribers/Compute/WindowsInstances/ConnectingtoaWindowsInstance.md",
+    "docs/Subscribers/Compute/WindowsInstances/CreatingWindowsInstances.md",
+    "docs/Subscribers/Compute/LinuxInstances/CreatingLinuxInstances.md",
+    "docs/Administration/ServicesManagement/CustomCatalogues/CreatingaCustomCatalogue.md",
     "build/docs/Subscribers/Networking/NATGateways/ManagingNATGateways/ViewingandManagingNATGateways/index.html",
     "build/docs/Subscribers/Networking/NATGateways/ManagingNATGateways/IPv4Addresses/index.html",
     "build/docs/Subscribers/Networking/NATGateways/ManagingNATGateways/Overview/index.html",
@@ -191,7 +195,6 @@
     "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets/index.html",
     "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingVPCInstances/index.html",
     "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/Overview/index.html",
-    "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC/index.html",
     "build/img/sps.svg",
     "build/img/sps.png",
     "build/img/sbs.svg",
@@ -203,7 +206,6 @@
     "build/img/apiculus-social-card.png",
     "build/icons/home.svg",
     "docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Compute/ConfiguringKubernetesService.md",
-    "docs/Administration/ServicesManagement/CustomCatalogues/CreatingaCustomCatalogue.md",
     "docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/ConfiguringInstanceProtection.md",
     "docs/Administration/ServicesManagement/Working with Default Services/Overview.md",
     "docs/Administration/ServicesManagement/WorkingwithCloudCollections.md",
@@ -225,8 +227,6 @@
     "docs/Administration/ServicesManagement/ConfiguringSections/Configuring Services/Networking services/ConfiguringVirtualPrivateClouds.md",
     "docs/Administration/ServicesManagement/ConfiguringSections/Configuring Services/Networking services/ConfiguringLoadBalancerInstances.md",
     "docs/Administration/ServicesManagement/ConfiguringSections/Configuring Services/Networking services/ConfiguringIPv4Addresses.md",
-    "docs/Administration/ServicesManagement/ConfiguringSections/Configuring Services/Networking services/ConfiguringDNSManagement.md",
-    "docs/Administration/ServicesManagement/ConfiguringSections/Configuring Services/Compute/ConfiguringRHELInstances.md",
     "Untitled.canvas"
   ]
 }
