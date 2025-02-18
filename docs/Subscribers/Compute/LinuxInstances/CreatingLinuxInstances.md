@@ -11,7 +11,10 @@ To create a Linux instance, follow these steps:
 2. Click on **+ NEW LINUX INSTANCE** button.
    ![Create Linux Instance](img/CreatingLinuxInstances1.png)
 3. Choose an **Availability Zone**, which is the geographical region where your Instance will be deployed. ![Create Linux Instance](img/CreatingLinuxInstances2.png)
-4. Select the **Destination** and then the **Network** from the respective drop-down lists.
+4. Select a VPC or VNF network from the **Select Network** Dropdown and, select the appropriate tier listed in **Select Network**.
+	:::note
+	To add a Linux Instance to a VPC or VNF, you need to have a VPC or VNF configured with at least one tier.
+	:::
 5. Select the **OS Image** to run on your Instance.
 6. Select the **Compute Pack** from the available compute collections.
 7. Select the  **Root Disk** from the available options.
