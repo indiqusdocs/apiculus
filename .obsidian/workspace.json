@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Administration/ServicesManagement/CustomCatalogues/CreatingaCustomCatalogue.md",
+                "file": "docs/ServicesandSystemRequirements/AWSLinkage/Prerequisites.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CreatingaCustomCatalogue"
+              "title": "Prerequisites"
             }
           }
         ],
@@ -181,17 +181,19 @@
   },
   "active": "3c01c13043799e4d",
   "lastOpenFiles": [
-    "build/docs/Subscribers/Networking/NATGateways/ManagingNATGateways/ViewingandManagingNATGateways/index.html",
-    "build/docs/Subscribers/Networking/NATGateways/ManagingNATGateways/IPv4Addresses/index.html",
-    "build/docs/Subscribers/Networking/NATGateways/ManagingNATGateways/Overview/index.html",
-    "build/docs/Subscribers/Networking/NATGateways/ManagingNATGateways/Instances/index.html",
-    "build/docs/Subscribers/Networking/NATGateways/ManagingNATGateways/Operations/index.html",
-    "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/VPCManagementandBasicOperations/index.html",
-    "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/Reconfiguring/index.html",
-    "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets/index.html",
-    "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingVPCInstances/index.html",
-    "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/Overview/index.html",
-    "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC/index.html",
+    "build/search-index.json",
+    "build/sitemap.xml",
+    "build/docs/Subscribers/SigningUp/index.html",
+    "build/docs/Subscribers/SigningUp",
+    "build/docs/Subscribers/ResettingPassword/index.html",
+    "build/docs/Subscribers/ResettingPassword",
+    "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ViewingVirtualFirewallDetails/index.html",
+    "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/CreateListandViewVPCs/index.html",
+    "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ViewingGraphsandUtilization/index.html",
+    "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/VolumeManagement/index.html",
+    "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/Snapshots/index.html",
+    "build/icons/home.svg",
+    "docs/Subscribers/Compute/LinuxInstances/CreatingLinuxInstances.md",
     "build/img/sps.svg",
     "build/img/sps.png",
     "build/img/sbs.svg",
@@ -201,9 +203,11 @@
     "build/img/logo.svg",
     "build/img/logo.png",
     "build/img/apiculus-social-card.png",
-    "build/icons/home.svg",
-    "docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Compute/ConfiguringKubernetesService.md",
+    "docs/Subscribers/Compute/LinuxInstances/AboutLinuxInstances.md",
+    "docs/Subscribers/Compute/WindowsInstances/CreatingWindowsInstances.md",
+    "docs/Subscribers/Compute/WindowsInstances/ConnectingtoaWindowsInstance.md",
     "docs/Administration/ServicesManagement/CustomCatalogues/CreatingaCustomCatalogue.md",
+    "docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Compute/ConfiguringKubernetesService.md",
     "docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/ConfiguringInstanceProtection.md",
     "docs/Administration/ServicesManagement/Working with Default Services/Overview.md",
     "docs/Administration/ServicesManagement/WorkingwithCloudCollections.md",
@@ -223,10 +227,6 @@
     "docs/Administration/ServicesManagement/ConfiguringSections/Configuring Services/Storage/ConfiguringBlockVolumes.md",
     "docs/Administration/ServicesManagement/ConfiguringSections/Configuring Services/Networking services/ConfiguringVirtualFirewallInstances.md",
     "docs/Administration/ServicesManagement/ConfiguringSections/Configuring Services/Networking services/ConfiguringVirtualPrivateClouds.md",
-    "docs/Administration/ServicesManagement/ConfiguringSections/Configuring Services/Networking services/ConfiguringLoadBalancerInstances.md",
-    "docs/Administration/ServicesManagement/ConfiguringSections/Configuring Services/Networking services/ConfiguringIPv4Addresses.md",
-    "docs/Administration/ServicesManagement/ConfiguringSections/Configuring Services/Networking services/ConfiguringDNSManagement.md",
-    "docs/Administration/ServicesManagement/ConfiguringSections/Configuring Services/Compute/ConfiguringRHELInstances.md",
     "Untitled.canvas"
   ]
 }
