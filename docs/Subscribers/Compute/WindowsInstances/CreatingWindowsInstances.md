@@ -16,7 +16,6 @@ To create a Windows instance, follow these steps:
 	:::note
 	To add a Windows Instance to a VPC or VNF, you need to have a VPC or VNF configured with at least one tier.
 	:::
-	![Creating Windows Instances](img/CreatingWindowsInstances3.png)
 5. Choose an Image to run on your Instance. This can be an operating system or a custom image that is available under **MY IMAGES.**
 6. Select a compute pack from the available compute collections.
 7. Select the Root Disk from the available Disk Packs. You can use the free size option to specify the Root Disk size.
