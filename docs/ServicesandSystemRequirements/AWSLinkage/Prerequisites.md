@@ -4,7 +4,7 @@ sidebar_position: 2
 # Prerequisites
 
 ## For Service Providers
-An AWS Organisation account created with AISPL (India) or AWS (elsewhere) is required and mandatory. This integration will not work with accounts created with AWS resellers, distributors or partners.
+An AWS Organisation account created with AISPL (India) or AWS (elsewhere) is required and mandatory. 
 
 The following details are needed for AWS Organisation accounts:
 
