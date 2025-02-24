@@ -10,7 +10,7 @@ Apiculus offers an easy way of signing up for a subscriber cloud account. Clicki
 Self-service signups are completely automated and require no intervention from admins. These are only governed by configurations and rules defined under platform configurations, and take up default values from there. The flow of information is as below:
 
 1. Subscriber clicks on **Sign Up** on Access Central and fills up the signup form.
-   ![](Signup.png)
+   ![Signup](Signup.png)
 2. A signup request is registered on the system and a verification email is sent to the subscriber; at this stage, the Admin Console will show this account as **awaiting confirmation.**
    ![Signup](Signup1.png)
 3. Subscriber follows the instructions in the email and verifies their email.
@@ -23,7 +23,9 @@ Self-service signups are completely automated and require no intervention from a
 Admin-assisted signups are semi-automated and require basic intervention from admins. These are governed by configurations and rules defined under platform configurations, and take up default values from there. Additionally, admins can manually add or edit information before publishing the account. The flow of information is as below:
 
 1. Subscriber clicks on **Sign Up** on Access Central and fills up the signup form.
+      ![Signup](Signup.png)
 2. A signup request is registered on the system and a notification email is sent to the admin; at this stage, the Admin Console will show this account as **draft**.
+   ![Admin User Account Verification](AdminVerification.png)
 3. Admin users can log in to the Admin Console and verify the information (and add/edit, if needed) and proceed to publishing the account.
 4. A verification email is sent to the subscriber; at this stage, the Admin Console will show this account as **awaiting confirmation**.
 5. Subscriber follows the instructions in the email and verifies their email.
