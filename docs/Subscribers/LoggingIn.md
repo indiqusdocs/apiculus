@@ -11,6 +11,8 @@ Upon successful login, the navigation is as below:
 - Reseller users - to Apiculus Admin Console in the reseller view
 - Admin users - to Apiculus Admin Console
 
+![LoggingIn](LoggingIn.png)
+
 
 
 
