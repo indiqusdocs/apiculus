@@ -14,6 +14,9 @@ To configure Instance Protection via the Default Services section, follow th
 4. Click on the **Standard Protection** section and specify the price in GB/Mo as per your requirement in the standard protection section. This price will be displayed to the end-user and will be charged to them as per the usage.
 	![Configuring Instance Protection](img/ConfiguringInstanceProtection2.png)
 5. Click on the **Advance Protection** section and specify the price per Instance as per your requirement in the advance protection section.
+   :::note
+   When a user enables the Advance Plan, it works in addition to the Standard Plan. The pricing is calculated based on per GB/usage basis for Standard Plan features and per instance/per workload for Advance plan features.
+   :::
 	![Configuring Instance Protection](img/ConfiguringInstanceProtection3.png)
 6. Click on **Save and Update** to save the changes you made.
 	Finally, return to Default Services and select **PUBLISH DEFAULT CATALOGUE**.
