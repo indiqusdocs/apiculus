@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/Compute/LinuxInstances/Overview.md",
+                "file": "docs/Subscribers/AccountCentre/Organisation-AccountProfile.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Overview"
+              "title": "Organisation-AccountProfile"
             }
           }
         ],
@@ -195,8 +195,12 @@
   },
   "active": "e1d46c457745da04",
   "lastOpenFiles": [
-    "docs/Administration/BillingandFinancials/AddingOne-timeChargesandDiscounts 1.md",
+    "docs/Subscribers/AccountCentre/WalletandTransactions.md",
+    "docs/Subscribers/AccountCentre/SubscriptionsandServices.md",
+    "docs/Subscribers/AccountCentre/AboutApiculusAccountCentre.md",
+    "docs/Subscribers/AccountCentre/InvoicesandCreditNotes.md",
     "docs/Subscribers/Compute/LinuxInstances/Overview.md",
+    "docs/Administration/BillingandFinancials/AddingOne-timeChargesandDiscounts 1.md",
     "docs/Subscribers/Compute/LinuxInstances/AboutLinuxInstances.md",
     "docs/Administration/BillingandFinancials/AboutInvoice.md",
     "docs/Administration/BillingandFinancials/CreatingCreditNotesinBulk.md",
@@ -218,12 +222,10 @@
     "build/docs/APIs/Helpers/CountryList/index.html",
     "build/docs/APIs/Helpers/CountryList",
     "build/icons/home.svg",
-    "docs/Subscribers/AccountCentre/SubscriptionsandServices.md",
     "docs/Subscribers/AccountCentre/TeamandChildUserManagement.md",
     "docs/Subscribers/AccountCentre/Organisation-AccountProfile.md",
     "Pasted image 20250224143911.png",
     "docs/Subscribers/AccountCentre/img/RelationshipPersonnel.png",
-    "docs/Subscribers/AccountCentre/AboutApiculusAccountCentre.md",
     "docs/Subscribers/CloudExperienceManagement/CloudConsoleOverview.md",
     "docs/Subscribers/CloudExperienceManagement/CloudOperationsManagement.md",
     "build/assets/images/AdminVerification-7f7d650d4744f5e26b864141eafd74c3.png",
@@ -238,9 +240,7 @@
     "docs/Subscribers/FAQs.md",
     "docs/Subscribers/LoggingIn.md",
     "docs/Subscribers/LoggingIn.png",
-    "ResettingPassword.md",
     "StackComponents.png",
-    "Untitled.canvas",
-    "docs/intro.md"
+    "Untitled.canvas"
   ]
 }
