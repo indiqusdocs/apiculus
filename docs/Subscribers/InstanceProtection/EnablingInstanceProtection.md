@@ -24,10 +24,13 @@ To activate the protection plan service, follow these steps:
     ![Enabling Instance Protection](img/EnablingInstanceProtection3.png)
 2. Click **Confirm**, and if you want to enable the advanced protection features, then enable the switch as shown in the below screenshot:
     ![Enabling Instance Protection](img/EnablingInstanceProtection4.png)
- 3. After the confirmation, the steps for the activation will be listed, and these steps need to be run through the command line.
-	 ![Protecting Linux Instances](img/Protection3.png)
-4. Run the respective script (mentioned under Point No. 1 in above screen) in command-line to install dependencies.
-5. Run the respective script (mentioned under Point No. 2 in above screen) in command-line to install Protection Agent.
+	    :::note
+	   When a user enables the Advance Plan, it works in addition to the Standard Plan. The pricing is calculated based on per GB/usage basis for Standard Plan features and per instance/per workload for Advance plan features.
+	   :::
+	 3. After the confirmation, the steps for the activation will be listed, and these steps need to be run through the command line.
+		 ![Protecting Linux Instances](img/Protection3.png)
+    4. Run the respective script (mentioned under Point No. 1 in above screen) in command-line to install dependencies.<br/>
+    5. Run the respective script (mentioned under Point No. 2 in above screen) in command-line to install Protection Agent.
 
 :::note
 The list of [Supported Operating systems](https://www.acronis.com/en-us/support/documentation/AcronisCyberProtect_15/index.html#cshid=36983) and environments.
