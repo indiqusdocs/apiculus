@@ -3,13 +3,13 @@ sidebar_position: 11
 ---
 # Windows Instance Operations
 
-To view all available Instance operations, navigate to the [Operating Windows Instances](AboutWindowsInstances), select a Windows Instance and access the **Operations** tab.
+To view all available Instance operations, navigate to the [Windows Instances Screen](AboutWindowsInstances), select a Windows Instance, and access the **Operations** tab.
 ![Operations](img/Operations.png)
 ![Operations](img/Operations1.png)
 Apiculus Cloud Console provides the options to perform common operations on Windows Instances.
 
-- **Restart Instance** - Use this option to perform a quick reboot on your Instance. This is a simple restart, and no data will be lost.
-- **Force Stop Instance**- to forcefully stop a running or a hung Windows Instance.
+- **Restart Instance** - use this option to perform a quick reboot on your Instance. This is a simple restart, and no data will be lost.
+- **Force Stop Instance**- to force stop a running or a hung Windows Instance.
 - **Reset Password**- to reset the Windows Instances root user password. This requires the Linux Instance to be powered off.
 - **Rename Instance** - to rename the Windows Instance.
 - **Migrate Instance** - to migrate Windows Instance between VPC networks within the same Availability Zone.

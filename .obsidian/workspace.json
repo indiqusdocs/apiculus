@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/Compute/Kubernetes/AboutKubernetesDashboard.md",
+                "file": "docs/Subscribers/Compute/Kubernetes/Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AboutKubernetesDashboard"
+              "title": "Overview"
             }
           }
         ],
@@ -195,6 +195,23 @@
   },
   "active": "e1d46c457745da04",
   "lastOpenFiles": [
+    "docs/Subscribers/Compute/Kubernetes/CreatingaKubernetesCluster.md",
+    "docs/Subscribers/Compute/Kubernetes/AboutKubernetes.md",
+    "docs/Subscribers/Compute/WindowsInstances/WindowsInstanceOperations.md",
+    "docs/Subscribers/Compute/WindowsInstances/ReconfiguringWindowsInstances.md",
+    "docs/Subscribers/Compute/LinuxInstances/ReconfiguringLinuxInstances.md",
+    "docs/Subscribers/Compute/WindowsInstances/ViewingGraphsandUtilisationofWindowsInstances.md",
+    "docs/Subscribers/Compute/WindowsInstances/img/Utilisation.png",
+    "docs/Subscribers/Compute/WindowsInstances/img/Graphs.png",
+    "docs/Subscribers/Compute/WindowsInstances/VolumeManagementwithWindowsInstances.md",
+    "docs/Subscribers/Compute/WindowsInstances/NetworkingManagementonWindowsInstances.md",
+    "docs/Subscribers/Compute/WindowsInstances/WorkingwithWindowsInstanceSnapshots.md",
+    "docs/Subscribers/Compute/Kubernetes/ClusterOperations.md",
+    "docs/Subscribers/Compute/Kubernetes/Accessingthekubernetesdashboard.md",
+    "docs/Subscribers/Compute/Kubernetes/AccessingaClusterusingtheCommandLine.md",
+    "docs/Subscribers/Compute/Kubernetes/AboutKubernetesDashboard.md",
+    "docs/Subscribers/Compute/Kubernetes/img/Snapshots2.png",
+    "docs/Subscribers/Compute/WindowsInstances/Protection.md",
     "build/blog/atom.css",
     "build/blog/atom.xml",
     "build/blog/atom.xsl",
@@ -205,12 +222,6 @@
     "build/docs/category/trial-management/index.html",
     "build/docs/category/virtual-firewalls-1/index.html",
     "build/docs/category/virtual-firewalls-1",
-    "build/docs/category/virtual-firewalls/index.html",
-    "docs/Subscribers/Compute/Kubernetes/CreatingaKubernetesCluster.md",
-    "docs/Subscribers/Compute/Kubernetes/AboutKubernetesDashboard.md",
-    "docs/Subscribers/Compute/Kubernetes/Accessingthekubernetesdashboard.md",
-    "docs/Subscribers/Compute/Kubernetes/AccessingaClusterusingtheCommandLine.md",
-    "docs/Subscribers/Compute/Kubernetes/AboutKubernetes.md",
     "docs/Subscribers/Compute/Kubernetes/ScalingKubernetesClusters.md",
     "docs/Subscribers/Compute/Kubernetes/Overview.md",
     "build/assets/images/Dashboard2-575079c977743ef4d6b62dc9c0f8659f.png",
@@ -220,9 +231,6 @@
     "docs/Subscribers/Compute/Kubernetes/img/Code4.png",
     "build/assets/images/Code3-7ed4a512e05244c9e6012a25e601608a.png",
     "build/assets/images/Code1-f0edc12a2572c2158b686b36b5e74e28.png",
-    "build/assets/images/CreatingLinuxInstances2-9f512c9e3ee91313a0ce4f42101a00bc.png",
-    "build/assets/images/Code2-603ed97fda19c2d3485580a36cc2029f.png",
-    "build/assets/images/DiscountCodes-7bf229e902752e2c4eb43ef74bc3e5e3.png",
     "docs/Subscribers/Compute/LinuxInstances/ConnectingtoaLinuxInstance.md",
     "docs/Subscribers/Compute/LinuxInstances/CreatingLinuxInstances.md",
     "docs/Subscribers/Compute/LinuxInstances/AboutLinuxInstances.md",
@@ -231,16 +239,8 @@
     "docs/Subscribers/Compute/LinuxInstances/ProtectingLinuxInstances.md",
     "docs/Subscribers/Compute/LinuxInstances/WorkingwithLinuxInstanceSnapshots.md",
     "docs/Subscribers/Compute/LinuxInstances/ViewingGraphsandUtilizationofLinuxInstances.md",
-    "docs/Subscribers/Compute/LinuxInstances/ReconfiguringLinuxInstances.md",
     "docs/Subscribers/Compute/LinuxInstances/VolumeManagement.md",
     "docs/Subscribers/Compute/LinuxInstances/NetworkingManagement.md",
-    "docs/Subscribers/Compute/LinuxInstances/Overview.md",
-    "docs/Subscribers/Compute/LinuxInstances/Operations.md",
-    "docs/Subscribers/Compute/LinuxInstances/ConfiguringAlerts.md",
-    "docs/Subscribers/Compute/LinuxInstances/AppOverlays.md",
-    "docs/Subscribers/InstanceProtection/EnablingInstanceProtection.md",
-    "docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/ConfiguringInstanceProtection.md",
-    "docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Storage/ConfiguringObjectStorage.md",
     "Untitled.canvas"
   ]
 }
