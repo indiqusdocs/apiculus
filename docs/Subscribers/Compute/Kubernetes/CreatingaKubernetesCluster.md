@@ -19,8 +19,8 @@ To create a Kubernetes cluster, follow these steps:
 7. You need to define the various cluster options listed below:
     1. You can enable the high availability HA for the cluster.
     2. Specify the cluster size, i.e., the no. of worker nodes (Maximum Cluster Size doesn't exceed 20 nodes).
-    3. Specify the node root disk size; a minimum of 8GB is required 
-    4. Select the Kubernetes version
+    3. Specify the node root disk size; a minimum of 8GB is required. 
+    4. Select the Kubernetes version (To learn how to access the dashboard from version 1.24 onwards, refer to [Accessing the Dashboard](Accessingthekubernetesdashboard.md)).
    ![Creating Instance](img/InstanceCreation3.png)
 8. Verify the Estimated Cost of your Kubernetes Cluster based on the chosen specifications(Here, both the Hourly and Monthly Prices summary are displayed)
    ![Creating Instance](img/InstanceCreation5.png)

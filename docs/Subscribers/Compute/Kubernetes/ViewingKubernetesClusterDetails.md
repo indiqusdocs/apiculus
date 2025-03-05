@@ -31,6 +31,6 @@ Details on available Kubernetes Cluster operations and actions can be found in t
 - [Overview](docs/Subscribers/Compute/Kubernetes/Overview.md)
 - [Access](AccessingaClusterusingtheCommandLine.md)
 - [Nodes](ScalingKubernetesClusters.md)
-- [Dashboard](ClusterDashboard.md)
+- [Dashboard](AboutKubernetesDashboard.md)
 - [Networking](IngressNetworkingonKubernetesClusters.md)
 - [Operations](ClusterOperations)
