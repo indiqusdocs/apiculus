@@ -3,11 +3,11 @@ sidebar_position: 10
 ---
 # Reconfiguring Windows Instances
 
-To view available reconfiguration options, navigate to [Operating Windows Instances](AboutWindowsInstances), select a Windows Instance and access the **Reconfigure** tab.
+To view available reconfiguration options, navigate to [Operating Windows Instances](AboutWindowsInstances), select a Windows Instance, and access the **Reconfigure** tab.
 
 A Windows Instance on Apiculus can be reconfigured in the following ways:
 
-- Billing interval changed between monthly and hourly.
+- The Billing interval changed between monthly and hourly.
 - Choosing and applying a new Compute pack.
 - Choosing and applying a new Root Disk pack.
 

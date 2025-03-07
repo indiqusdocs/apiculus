@@ -2,7 +2,7 @@
 sidebar_position: 9
 ---
 # Support and Tickets
-Apiculus Cloud provides SLA-driven support to all subscriber customers in accordance with the terms and conditions outlined in the Service Level Agreement. The SLA can be accessed from the top helper bar by clicking on the user icon.
+Apiculus Cloud provides SLA-driven support to all subscriber customers in accordance with the terms and conditions outlined in the Service Level Agreement. To access the SLA, navigate to the User icon in the top helper bar and select Account under Account Centre.
 ![Support and Tickets](img/SupportandTickets1.png)
 ## Creating a Support Ticket
 
