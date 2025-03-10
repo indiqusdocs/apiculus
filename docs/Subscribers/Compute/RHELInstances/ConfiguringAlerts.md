@@ -22,7 +22,7 @@ The Alerts tab lists all the alerts already configured for that particular RHEL 
 
 ## Adding an Alert
 
-You can create or add alerts simply by clicking the **Add Alert** button. The following screen appears, and you can configure the alert using the on-screen input form.
+You can create or add alerts simply by clicking the **CREATE ALERT** button. The following screen appears, and you can configure the alert using the on-screen input form.
 
 ![Configuring Alerts on Linux Instances](img/ConfiguringAlerts2.png)
 
@@ -41,7 +41,7 @@ This will list and display all the email IDs already configured for the alerts. 
 
 1. Click the **Manage Recipients** button.
 2. Click **+ Add more recipients**.
-3. Add the email ids; multiple IDs can be added (separated by comma).
+3. Add the email ids; multiple IDs can be added (separated by a comma).
 4. Click the **+** icon.
 5. Click **Update**.
 ![Configuring Alerts on Linux Instances](img/ConfiguringAlerts3.png)

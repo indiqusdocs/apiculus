@@ -12,7 +12,7 @@ To connect to your RHEL Instance from a Windows machine, you will need to use an
 1. [Download and install PuTTy.](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 2. Launch PuTTy on your computer.
 3. Enter your Instance’s IP address in the Hostname field. Navigate to **Connection** > **SSH** > **Auth**.
-4. Click the **Browse** button and select the private key file you that you had already generated.
+4. Click the **Browse** button and select the private key file you previously generated.
 5. Click **Open** at the bottom of the screen to open a connection to the Instance. PuttY prompts you to allow the connection to the host.
 6. Click **OK** to confirm and the terminal window will be displayed.
 7. Then enter the default root user name (**root**) and press **Enter** to authenticate against the server with your SSH key.
