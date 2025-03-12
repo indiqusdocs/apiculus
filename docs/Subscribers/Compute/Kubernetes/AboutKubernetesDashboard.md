@@ -21,7 +21,7 @@ kubectl --kubeconfig /custom/path/kube.conf proxy
 ```
 
 
-If everything is set up correctly, opening this [URL](http://localhost:8001/api/v1/namespaces/kubernetes-dashboard/services/https:kubernetes-dashboard:/proxy/) ) in your browser or use the **OPEN DASHBOARD** button in the **Dashboard** section of cluster details.
+If everything is set up correctly, open this [URL](http://localhost:8001/api/v1/namespaces/kubernetes-dashboard/services/https:kubernetes-dashboard:/proxy/)  in your browser or use the **OPEN DASHBOARD** button in the **Dashboard** section of cluster details.
 
 :::note
 Each Kubernetes cluster has its own dashboard.
@@ -37,7 +37,7 @@ kubectl --kubeconfig /custom/path/kube.conf describe secret $(kubectl --kubeconf
 
 To learn how to access the dashboard from version 1.24 onwards, refer to [Accessing the Dashboard](Accessingthekubernetesdashboard.md).
 :::note
-More information about accessing the Kubernetes Dashboard UI can be found [here](https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/#accessing-the-dashboard-ui)
+More information about accessing the Kubernetes Dashboard UI can be found [here](https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/#accessing-the-dashboard-ui).
 :::
 
 
