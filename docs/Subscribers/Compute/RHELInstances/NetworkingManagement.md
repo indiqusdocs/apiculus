@@ -3,7 +3,7 @@ sidebar_position: 7
 ---
 # Networking Management
 
- To view the networks of particular Instance is attached to, navigate to  [RHEL Instances](AboutRHELInstances.md), and access the **Networking** tab.
+ To view the networks of a particular Instance is attached to, navigate to  [RHEL Instances](AboutRHELInstances.md), and access the **Networking** tab.
 
 ![Networking Management](img/NetworkingManagement.png)
 

@@ -23,8 +23,8 @@ To create a RHEL instance, follow these steps:
       ![RHEL Instance Creation](img/RHEL7.png)
 12. In the **Name Your RHEL Instance** field, enter the desired name for your RHEL instance.
 13. Verify the Estimated Cost of your Windows Instance based on the chosen specifications from the Summary and Estimated Costs Section (Here, both Hourly and Monthly Prices summary are displayed).
-14. Click on the check box after going through the policies mentioned by your cloud service provider.
-15. Choose the BUY HOURLY or BUY MONTHLY option. A confirmation window appears and the price summary will be displayed along with the discount codes if you have any in your account. 
+14.  Select the **I have read and agreed to the End User License Agreement and Privacy Policy** option.
+15. Choose the **BUY HOURLY** or **BUY MONTHLY** option. A confirmation window appears and the price summary will be displayed along with the discount codes if you have any in your account. 
     - You can apply any of the discount codes listed by clicking on the **APPLY** button. 
     - You can also remove the applied discount code by clicking on the **REMOVE** button. 
     - You can cancel this action by clicking on the **CANCEL** button.

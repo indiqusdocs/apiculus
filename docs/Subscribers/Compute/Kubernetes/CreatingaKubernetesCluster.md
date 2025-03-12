@@ -6,7 +6,7 @@ sidebar_position: 2
 To create a Kubernetes cluster, follow these steps:
 
 1. Navigate to **Compute > Kubernetes** 
-2. Click the **+ NEW KUBERNETES CLUSTER** button.
+2. Click the **NEW KUBERNETES CLUSTER** button.
    ![Creating Instance](img/InstanceCreation1.png)
 3. Choose an Availability Zone, which is the geographical region where your Kubernetes cluster will be deployed. 
    :::note
