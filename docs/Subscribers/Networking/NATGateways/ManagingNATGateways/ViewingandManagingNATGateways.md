@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 ---
-# View and Manage NAT Gateways
+# Viewing and Managing NAT Gateways
 
 To manage a NAT gateway, follow these steps:
 
@@ -10,7 +10,7 @@ To manage a NAT gateway, follow these steps:
 2. Click on a gateway from the list. The following screen appears:
    ![Manage NAT gateway](img/NAT2.png)
 
-The gateways show the details under the following categories:
+The gateway details are displayed under the following categories:
 
 - [Overview](docs/Subscribers/Networking/NATGateways/ManagingNATGateways/Overview.md)
 - [Instances](Instances.md)

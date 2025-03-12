@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 # About Virtual Private Clouds
 
-Details about Virtual Firewall operations and actions can be found in their respective sections.
+Details about Virtual Private Cloud operations and actions can be found in their respective sections.
 ![Create, List and View VPCs](img/CreateVPC3.png)
 - [Create, List and View VPCs](CreateListandViewVPCs)
 - [Overview](docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/Overview.md)

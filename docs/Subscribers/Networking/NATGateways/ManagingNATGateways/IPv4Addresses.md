@@ -8,14 +8,14 @@ Each virtual gateway comes with a default IPv4 address that belongs to the Virtu
 ### Adding Public IPv4 Addresses
 You can add additional public IPv4 addresses to configure firewall rules, port forwarding rules and source NATs.
 
-1. Click on the **Add Public IPv4 Address** button. The following screen appears:
+1. Click the **Add Public IPv4 Address** button. The following screen appears:
    ![Manage NAT gateway](img/NAT5.png)
-2. Select **Monthly** or **Hourly** option and then click the **Confirm Purchase** button. The following screen appears.
+2. Select the **Monthly** or **Hourly** option and then click the **Confirm Purchase** button. The following screen appears.
    
 	  ![Manage NAT gateway](img/NAT6.png)
 3. Verify the details and click the **Confirm** button to create complete adding a public IPv4 address.
 ### Managing Firewall Rules
-1. Click on the **Firewall Rules** icon.
+1. Click the **Firewall Rules** icon.
    ![Manage NAT gateway](img/NAT4a.png)
 2. Enter the details as shown to create a new firewall rule.
 	1. Select Traffic Rule from the drop-down list.
@@ -27,7 +27,7 @@ You can add additional public IPv4 addresses to configure firewall rules, port f
     ![Manage NAT gateway](img/NAT4aa.png)
 
 ### Managing Port Forwarding Rules
-1. Click on the **Port Forwarding Rule** icon.
+1. Click the **Port Forwarding Rule** icon.
    ![Manage NAT gateway](img/NAT4b.png)
 	The following screen appears where you can view the already created port forwarding rules.
 	
@@ -41,16 +41,16 @@ You can add additional public IPv4 addresses to configure firewall rules, port f
    
 
 ### Changing Source NAT IPv4 Address
-1. Click in the **Source NAT** icon.
+1. Click the **Source NAT** icon.
    ![Manage NAT gateway](img/NAT4c.png)
 
 3. Click the **Okay** button. <br />
    ![Manage NAT gateway](img/NAT4ca.png)
    
 ### Deleting IP Address
-1. Click on the **Delete IP** icon.
+1. Click the **Delete IP** icon.
    ![Manage NAT gateway](img/NAT4d.png)
-2. Select the checkbox and click the **Delete Now** button.
+2. Select the **I confirm that I have remove everything from this IPv4 Address** option and click the **Delete Now** button.
    ![Manage NAT gateway](img/NAT4da.png)
 	:::warning
 	This is an irreversible action.
