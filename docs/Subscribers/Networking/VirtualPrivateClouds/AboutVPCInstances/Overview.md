@@ -13,7 +13,7 @@ To view a list of sections and the various operations or actions you can perform
 Along with the summary, the following information is readily available under the **Overview** tab:
 
 - **Configuration and Availability**-
-    - The instance's status, **RUNNING**, is displayed in <span class="green">**green**</span>, whereas **STOPPED** is displayed in <span style={{ color: 'grey' }}>greyed</span> out.
+    - The instance's status, **RUNNING**, is displayed in <span class="green">**green**</span>, whereas **STOPPED** is displayed in <span style={{ color: 'grey' }}>grey</span>.
     - Information about the Virtual Router Pack.
     - Information about the Network Size.
 - **Internal Information**- <br/>
