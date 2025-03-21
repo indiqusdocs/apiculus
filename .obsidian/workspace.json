@@ -4,67 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "50d78b5540e06844",
+        "id": "7e805dcca8f85044",
         "type": "tabs",
         "children": [
           {
-            "id": "35032449a7e1d649",
+            "id": "caca6895f5cd4cdd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/AccountCentre/InvoicesandCreditNotes.md",
+                "file": "docs/Administration/BillingandFinancials/CreatingCreditNotesinBulk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "InvoicesandCreditNotes"
-            }
-          },
-          {
-            "id": "3c01c13043799e4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/ServicesandSystemRequirements/AWSLinkage/Prerequisites.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Prerequisites"
-            }
-          },
-          {
-            "id": "e1d46c457745da04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Subscribers/Compute/Autoscale/CreatingAutoscaleGroups.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CreatingAutoscaleGroups"
-            }
-          },
-          {
-            "id": "7030d6bfced4cd8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Subscribers/Compute/RHELInstances/Overview.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Overview"
+              "title": "CreatingCreditNotesinBulk"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "About Service Providers Administration tag:",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -207,53 +164,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7030d6bfced4cd8b",
+  "active": "caca6895f5cd4cdd",
   "lastOpenFiles": [
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingVPCInstances.md",
-    "build/blog/rss.xml",
+    "docs/Administration/BillingandFinancials/CreatingaCreditNoteAgainstanInvoice.md",
+    "docs/Administration/BillingandFinancials/AddingOne-timeChargesandDiscounts.md",
+    "docs/Administration/BillingandFinancials/AboutInvoice.md",
+    "docs/Administration/BillingandFinancials/AboutEstimates.md",
+    "docs/AboutServiceProviderAdministration/OTRSTicketingandServiceInterface.md",
+    "docs/AboutServiceProviderAdministration/ISVConsoles.md",
+    "docs/AboutServiceProviderAdministration/AdminConsole.md",
+    "docs/AboutServiceProviderAdministration/ManagingSupportTickets.md",
+    "docs/AboutServiceProviderAdministration/MetabaseBusinessIntelligenceDashboards.md",
+    "docs/AboutServiceProviderAdministration/Role-basedAccessonAdminConsole.md",
+    "docs/AboutServiceProviderAdministration/ZabbixDashboardandNMS.md",
     "build/blog/atom.xml",
-    "build/blog/rss.css",
+    "build/blog/rss.xml",
     "build/blog/atom.css",
-    "build/blog/atom.xsl",
+    "build/blog/rss.css",
     "build/blog/rss.xsl",
-    "build/search-index.json",
-    "build/sitemap.xml",
-    "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets/index.html",
-    "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/Overview/index.html",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/CreatingVPCSubnetsTiers.md",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/CreateListandViewVPCs.md",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/Overview.md",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/AboutVirtualPrivateClouds.md",
-    "docs/Subscribers/Networking/NATGateways/ManagingNATGateways/Operations.md",
-    "docs/Subscribers/Networking/NATGateways/ManagingNATGateways/IPv4Addresses.md",
-    "docs/Subscribers/Networking/NATGateways/ManagingNATGateways/Overview.md",
-    "docs/Subscribers/Networking/NATGateways/ManagingNATGateways/ViewingandManagingNATGateways.md",
-    "docs/Subscribers/Networking/NATGateways/AboutNATGateways.md",
-    "docs/Subscribers/Compute/Autoscale/AboutAutoscale.md",
-    "docs/Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupVMs.md",
-    "docs/Subscribers/Compute/Autoscale/CreatingAutoscaleGroups.md",
-    "docs/Subscribers/Compute/Autoscale/RequirementsforAutoscale.md",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC.md",
-    "build/assets/images/AddPort1-77395b1dcff4dde9c81d4c194f107169.png",
-    "build/assets/images/PortForwardingWindow-a451699d48e4503ec86baaeb2d7f4132.png",
+    "build/blog/atom.xsl",
+    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Schedules/index.html",
+    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/WorkingwithVolumeSnapshots/index.html",
+    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Overview/index.html",
+    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Operations/index.html",
     "build/assets/images/AddRule1-548d67438be48a7cfe1db9f822c3c353.png",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets.md",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/StaticNATIcon.png",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/PortForwardingWindow.png",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/AddPort1.png",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/PortForwardingIcon.png",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/AddRule1.png",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/LoadBalancingIcon.png",
-    "build/assets/images/Utilisation-2531fa25fc87499b976ddde022e39729.png",
-    "docs/Subscribers/Compute/RHELInstances/RHELInstanceOperations.md",
-    "docs/Subscribers/Compute/RHELInstances/ReconfiguringRHELInstances.md",
-    "docs/Subscribers/Compute/RHELInstances/NetworkingManagement.md",
-    "docs/Subscribers/Compute/RHELInstances/ConnectingtoaRHELInstance.md",
-    "docs/Subscribers/Compute/RHELInstances/ConfiguringAlerts.md",
-    "docs/Subscribers/Compute/RHELInstances/ViewingGraphsandUtilization.md",
-    "docs/Subscribers/Compute/RHELInstances/ViewingRHELInstances.md",
-    "docs/Subscribers/Compute/RHELInstances/AboutRHELInstances.md",
-    "docs/Subscribers/Compute/RHELInstances/CreatingRHELInstances.md",
+    "docs/AboutServiceProviderAdministration/img/adminConsole.png",
+    "build/assets/images/ConfigureVPN13-30629844ffac51cc9deab5a03902d927.png",
+    "build/img/sps.svg",
+    "build/img/sps.png",
+    "build/img/sbs.svg",
+    "build/img/sbs.png",
+    "build/img/rn.png",
+    "build/img/rn.svg",
+    "build/img/logo.svg",
+    "docs/Administration/BillingandFinancials/ViewingTransactionDetails.md",
+    "docs/Administration/BillingandFinancials/ViewingTaxDeductions.md",
+    "docs/Administration/BillingandFinancials/ViewingReceiptsandAcknowledgments.md",
+    "docs/Administration/BillingandFinancials/ViewinganddownloadingInvoices.md",
+    "docs/Administration/BillingandFinancials/ViewingandDownloadingCreditNotes.md",
+    "docs/Administration/BillingandFinancials/UpdatingSubscriptionCharges.md",
+    "docs/Administration/BillingandFinancials/ReversingTransactions.md",
+    "docs/Administration/BillingandFinancials/ResendingCreditNotes.md",
+    "docs/Administration/BillingandFinancials/RecordingTransactionsandOfflinePayments.md",
+    "docs/Administration/BillingandFinancials/RecordingTaxDeductions.md",
+    "docs/Administration/BillingandFinancials/Overview.md",
+    "docs/Administration/BillingandFinancials/DeactivatingaSubscription.md",
+    "docs/Administration/BillingandFinancials/CreatingCreditNotesinBulk.md",
+    "2025-03-21.md",
     "Untitled.canvas"
   ]
 }

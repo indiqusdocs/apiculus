@@ -23,7 +23,7 @@ Available actions:
 
 ## Invoices
 
-Invoices are generated on Apiculus for the previous month’s usage on the 1st of each new month. These invoices are automatically generated and emailed to the customers.
+Invoices are generated on Apiculus for the previous month’s usage on the 1st of each new month. These invoices are automatically generated and emailed to customers.
 
 Available actions:
 
@@ -55,7 +55,7 @@ A credit note can be created by downloading the .xls or .ods template and upload
 
 ## Transactions
 
-All customer transaction records (successful, failed, and pending) are displayed in the Transactions section. For transactions done using an online payment gateway via Apiculus, the records are automatically fetched.
+All customer transaction records (successful, failed, and pending) are displayed in the Transactions section. For transactions made using an online payment gateway via Apiculus, records are automatically fetched.
 
 Available actions:
 
@@ -68,7 +68,7 @@ Available actions:
 
 ## Tax Deductions
 
-Apiculus supports recording quarterly tax deductions for all customer invoices. The Tax Deductions section lists all such tax deductions and also allows for adding new items. The Tax Deductions feature is optional and needs to be enabled from the global settings, where admins also get the ability to define their country’s fiscal period and fiscal quarters.
+Apiculus supports recording quarterly tax deductions for all customer invoices. The Tax Deductions section lists all such tax deductions and allows for adding new items. The Tax Deductions feature is optional and must be enabled from the global settings, where admins also get the ability to define their country’s fiscal period and quarters.
 
 Available actions:
 

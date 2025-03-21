@@ -5,7 +5,7 @@ sidebar_position: 8
 
 Apiculus offers the means to upload credit notes in bulk (generate unique credit notes based on multiple linked invoices). 
 
-Navigate to **Billing and Financials > Credit Notes**. Then, click the **+ Add Credit Notes** button. ![Creating Credit Notes in Bulk](img/CreatingCreditNotesinBulk2.png)
+Navigate to **Billing and Financials > Credit Notes**. Then, click the **Add Credit Notes** button. ![Creating Credit Notes in Bulk](img/CreatingCreditNotesinBulk2.png)
 
 You can create credit notes in bulk in two steps:
 1. Download the credit notes spreadsheet template available as .ods and .xlsx files. 
@@ -26,7 +26,7 @@ This will generate two credit notes:
     - Product model 2-2
     - Product model 2-3
 
-On creation, the account owners of the linked invoices will be notified of the credit note(s).
+Upon creation, the account owners of the linked invoices will be notified of the credit note(s).
 
 
 

@@ -3,7 +3,7 @@ sidebar_position: 7
 ---
 # Creating a Credit Note Against an Invoice
 
-You can create credit notes against paid or unpaid invoices. A credit note only requires an invoice to be generated and present in the system. Credit notes can be used in cases such as disputed invoices, disputed charges, refunds etc., where editing an invoice is not financially possible.
+You can create credit notes against paid or unpaid invoices. A credit note requires an invoice to be generated and present in the system. Credit notes can be used in cases such as disputed invoices, disputed charges, refunds etc., where editing an invoice is not financially possible.
 
 You can create credit notes against any invoice that is present in the account-level or global list of invoices.
 

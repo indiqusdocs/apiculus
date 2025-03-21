@@ -3,7 +3,7 @@ sidebar_position: 15
 ---
 # Recording Tax Deductions
 
-You can configure tax deductions via a new section under Settings called Tax Deductions. This involves taxes deducted by the customers while making a payment and is different from taxation on services which involves taxes charged on the services delivered. Admins can record quarterly tax deductions for all customer invoices. The Tax Deductions section lists all such tax deductions and also allows for adding new items. The Tax Deductions feature is optional and needs to be enabled from the global settings, where admins also get the ability to define their country’s fiscal period and fiscal quarters.
+You can configure tax deductions via a new section under Settings called Tax Deductions. This involves taxes deducted by customers while making a payment and is different from taxation on services which involves taxes charged on the services delivered. Admins can record quarterly tax deductions for all customer invoices. The Tax Deductions section lists all such tax deductions and allows for adding new items. The Tax Deductions feature is optional and needs to be enabled from the global settings, where admins also get the ability to define their country’s fiscal period and fiscal quarters.
 
 ## Configuring Tax Deductions
 
@@ -35,7 +35,7 @@ Tax Deductions can be accessed and added in the following ways:
 1. You can view the details by clicking on ![Eye icon](img/Eye.png) (Eye icon).
 2. You can also reverse the transaction by clicking on ![Reverse icon](img/Reverse.png)  (Reverse icon).
 3. You can also filter using the options available above the table.
-4. For adding the tax deduction from the global section, click on the **+ Add Tax Deduction**. The following screen appears:![Recording Tax Deductions](img/RecordingTaxDeductions2.png)
+4. For adding the tax deduction from the global section, click on the **Add Tax Deduction**. The following screen appears:![Recording Tax Deductions](img/RecordingTaxDeductions2.png)
 	1. Download the template (.Xlsx or .Ods).
 	2. Upload the template after filling in the required details.
 	![Recording Tax Deductions](img/RecordingTaxDeductions3.png)
@@ -57,7 +57,7 @@ Tax Deductions can be accessed and added in the following ways:
 3. You can view the details by clicking on ![Eye icon](img/Eye.png) (Eye icon).
 4. You can also reverse the transaction by clicking on ![Reverse icon](img/Reverse.png)  (Reverse icon).
 5. You can also filter using the options available above the table.
-6. For adding the tax deduction, click on the **+ Add Tax Deduction**. The Add Tax Deduction window opens.![Recording Tax Deductions](img/RecordingTaxDeductions6.png)
+6. For adding the tax deduction, click on the **Add Tax Deduction**. The Add Tax Deduction window opens.![Recording Tax Deductions](img/RecordingTaxDeductions6.png)
 7. Enter the required details, and click the **Submit** button.
 
 
