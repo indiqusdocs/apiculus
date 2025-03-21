@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingVPCInstances.md",
+                "file": "docs/Subscribers/Compute/RHELInstances/Overview.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "ManagingVPCInstances"
+              "title": "Overview"
             }
           }
         ],
@@ -209,6 +209,7 @@
   },
   "active": "7030d6bfced4cd8b",
   "lastOpenFiles": [
+    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingVPCInstances.md",
     "build/blog/rss.xml",
     "build/blog/atom.xml",
     "build/blog/rss.css",
@@ -219,7 +220,6 @@
     "build/sitemap.xml",
     "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets/index.html",
     "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/Overview/index.html",
-    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/WorkingwithVolumeSnapshots/index.html",
     "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/CreatingVPCSubnetsTiers.md",
     "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/CreateListandViewVPCs.md",
     "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/Overview.md",
@@ -238,7 +238,6 @@
     "build/assets/images/PortForwardingWindow-a451699d48e4503ec86baaeb2d7f4132.png",
     "build/assets/images/AddRule1-548d67438be48a7cfe1db9f822c3c353.png",
     "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets.md",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingVPCInstances.md",
     "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/StaticNATIcon.png",
     "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/PortForwardingWindow.png",
     "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/AddPort1.png",
