@@ -9,7 +9,7 @@ Once you’ve created your Quick Plans, you need to add them to all the catalogu
    To do so, in the Admin portal, locate the catalogue you want to update. Click on the pencil icon next to the catalogue name to open it for editing.
       ![Managing Quick Plans](img/QuickPlans13.png)
 2. Add **Quick Plans to the Catalogue**.
-    1. Navigate to the Plan section within the catalogue editor. Click the **+Add More Quick Plans** button to open a list of available Quick Plans.
+    1. Navigate to the **Plan section** within the catalogue editor. Click the **Add More Quick Plans** button to open a list of available Quick Plans.
     2. Select the Quick Plans you want to add to this catalogue. You can select multiple plans if necessary.
       ![Managing Quick Plans](img/QuickPlans14.png)
 	1. Click the **Add** button to include these plans in the catalogue.

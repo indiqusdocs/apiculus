@@ -11,7 +11,7 @@ Resellers can be created by navigating to the **Resellers** section on the mai
 
 ![Creating and Updating Resellers](img/reseller1.png)
 
-Admins can define a 'commission percentage' while creating a reseller. This information can be used at the time of managing billing between the service provider and the reseller.
+Admins can define a **Commission Percentage** while creating a reseller. This information can be used at the time of managing billing between the service provider and the reseller.
 
 :::note
 Reseller billing is not handled on the Apiculus platform as all invoices are generated on the system and sent directly to the end customers.
@@ -19,7 +19,7 @@ Reseller billing is not handled on the Apiculus platform as all invoices are gen
 
 ## Updating a Reseller
 
-Reseller details can be updated by navigating into a reseller from the list of resellers. 
+Reseller details can be updated by navigating to a reseller from the list of resellers. 
 
 :::note
 Reseller code, once published, can not be edited.

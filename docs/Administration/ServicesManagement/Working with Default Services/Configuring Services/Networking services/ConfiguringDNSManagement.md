@@ -5,7 +5,7 @@ sidebar_position: 8
 
 To configure DNS, follow these steps:
 
-1. Navigate to the **Default Services**.   
+1. Navigate to **Default Services**.   
    ![Configuring Linux Instances](img/DefaultServices.png)
 2. Under **Networking**, select **DNS Management**.
 3. Activate the switch at the top, indicating the availability of this service as part of the default services. All associated sections will become enabled.
@@ -15,7 +15,7 @@ To configure DNS, follow these steps:
 	![Billing Options](img/DNS1.png)
 5. You can provision IPv4 Addresses to an approval-based system within the **Provisioning** section. You can do this by activating the **Approval Required** switch for offering additional functionalities such as sending custom instructions to end-users upon approval and attaching up to five files, each up to three MB.
    ![Provisioning](img/DNS2.png)
-6. Under PRICING section, navigate to the **DNS Zone**, Edit the price/**monthly** and price/**onetime** and click **SAVE AND UPDATE.**
+6. Under **PRICING** section, navigate to the **DNS Zone**, Edit the price/**monthly** and price/**onetime** and click **SAVE AND UPDATE.**
    ![Configuring IPv4 Addresses](img/DNS3.png)
 7. Finally, return to Default Services and click **PUBLISH DEFAULT CATALOGUE.**
 	![Configuring IPv4 Addresses](img/ConfiguringIPv4Addresses5.png)
