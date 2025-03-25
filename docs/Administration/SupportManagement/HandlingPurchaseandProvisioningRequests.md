@@ -3,7 +3,7 @@ sidebar_position: 3
 ---
 # Handling Purchase and Provisioning Requests
 
-Apiculus ships with the option to configure an 'approval mechanism' on Services in the Catalogue(s). For all Services that require an approval from the admin, a 'request' is generated upon initiating purchase. Admins are notified of these requests via email, and can be accessed from **Support & Operations > Requests** from the main navigation menu.
+Apiculus ships with the option to configure an **Approval Mechanism** for Services in the Catalogue(s). For all Services that require an approval from the admin, a **Request** is generated upon initiating purchase. Admins are notified of these requests via email, and can be accessed from **Support & Operations > Requests** from the main navigation menu.
 
 ![Handling Purchase and Provisioning Requests](img/PurchaseRequests.png)
 

@@ -2,7 +2,8 @@
   "label": "Support Management",
   "position": 8,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+	"description": "Apiculus offers basic support through the Admin Console for tasks like diagnostics and Level 1 support. For full SLA-based support, it integrates with OTRS, an ITIL-compliant ticketing system. Admins can view and filter activity logs, manage purchase requests with approval mechanisms, and easily track requests. OTRS enhances support with flexible workflows, customer management, and process automation."
 	
   }
 }
