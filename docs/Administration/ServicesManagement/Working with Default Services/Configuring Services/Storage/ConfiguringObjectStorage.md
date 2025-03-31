@@ -3,9 +3,7 @@ sidebar_position: 11
 ---
 # Configuring Object Storage
 
- In object storage, data is stored as discrete objects containing data, metadata, and a unique identifier. Apiculus delivers the service as an integration with **Cloudian HyperStore**.
- 
- Admins can configure the Object storage from the **Services** section. To configure the **Object Storage** service, follow these steps:
+In object storage, data is stored as discrete objects containing data, metadata, and a unique identifier. Apiculus delivers the service as an integration with **Cloudian HyperStore**. Admins can configure the Object storage from the **Services** section. To configure the **Object Storage** service, follow these steps:
 1. Go to **Default Services** in the primary navigation menu.
 2. Select **Object Storage** under the **Storage** section.
 3. Enable the switch at the top, to make this service available as part of the default services. This will enable all associated sections.
