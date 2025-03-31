@@ -3,11 +3,11 @@ sidebar_position: 5
 ---
 # Configuring Instance Protection
 
-Instance protection safeguards virtual machine instances and workloads by creating backups using Acronis backup solutions.
+Instance protection safeguards virtual machine instances and workloads by creating backups using **Acronis** backup solutions.
 
 To configure Instance Protection via the Default Services section, follow these steps:
 
-1. Navigate to the Default Services in the primary menu.
+1. Navigate to Default Services in the primary menu.
 2. Under Backups, select **Instance Protection**.
 	![Configuring Instance Protection](img/ConfiguringInstanceProtection1.png)
 3. Activate the switch at the top, indicating the availability of this service as part of the default services. All associated sections will become enabled.
@@ -15,7 +15,7 @@ To configure Instance Protection via the Default Services section, follow th
 	![Configuring Instance Protection](img/ConfiguringInstanceProtection2.png)
 5. Click on the **Advance Protection** section and specify the price per Instance as per your requirement in the advance protection section.
    :::note
-   When a user enables the Advance Plan, it works in addition to the Standard Plan. The pricing is calculated based on per GB/usage basis for Standard Plan features and per instance/per workload for Advance plan features.
+   When a user enables the **Advance Plan**, it works in addition to the **Standard Plan**. The pricing is calculated based on per GB/usage basis for Standard Plan features and per instance/per workload for **Advance plan** features.
    :::
 	![Configuring Instance Protection](img/ConfiguringInstanceProtection3.png)
 6. Click on **Save and Update** to save the changes you made.

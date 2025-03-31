@@ -3,7 +3,7 @@ sidebar_position: 14
 ---
 # Viewing Receipts and Acknowledgments
 
-Transaction receipts can be viewed for any transaction in an account-level or global listing by clicking on ![Receipt](img/Receipt.png) (receipt icon). This will show the current status of any transaction along with transaction reference, associated information, details received from payment gateway etc.
+Transaction receipts can be viewed for any transaction in an account-level or global listing by clicking on the ![Receipt](img/Receipt.png) (receipt icon). This will show the current status of any transaction along with transaction reference, associated information, details received from payment gateway etc.
 
 ![Viewing Receipts and Acknowledgments](img/ViewingReceiptsandAcknowledgments.png)
 

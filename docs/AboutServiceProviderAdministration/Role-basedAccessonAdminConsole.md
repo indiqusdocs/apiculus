@@ -18,7 +18,7 @@ The Apiculus system ships with the following default admin roles:
 - User (read-only)
 
 :::note
-To create new roles or modify any of the existing ones, a ticket may be raised to Apiculus (By Yotta) Support. The ability to manage roles on the Admin Console UI is under development.
+To create new roles or modify any existing ones, a ticket may be raised to Apiculus (By Yotta) Support. The ability to manage roles on the Admin Console UI is currently under development.
 :::
 
 ## RBAC Details

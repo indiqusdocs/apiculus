@@ -16,9 +16,9 @@ To configure Virtual Private Clouds, follow these steps:
 5. Under the **Billing** section, select the **Billing Options**.
 	- **Prorate on Entry** - Purchases will be pro-rated at the time of purchase of services.
 	- **Prorate on Exit** - Removals will be pro-rated at the time of removal of services.
-6. Select the **Billing Cycle** to be displayed to the subscribers: **Hourly**, **Monthly**, or **Both** and click **SAVE AND UPDATE**.
+6. Select the **Billing Cycle** to displayed to the subscribers: **Hourly**, **Monthly**, or **Both** and click **SAVE AND UPDATE**.
 	![Billing](img/VPC2.png)
-7. To provision Virtual Private cloud to an approval-based system, navigate to **Provisioning** and turn on the **Approval Required** toggle button. Additionally, you can send custom instructions to end-users upon approval and attach up to five files, each up to three MB.
+7. To provision **Virtual Private Cloud** to an approval-based system, navigate to **Provisioning** and turn on the **Approval Required** toggle button. Additionally, you can send custom instructions to end-users upon approval and attach up to five files, each up to three MB.
 	![[VPC3.png]]
  8. Navigate to the **Virtual Routers**, and select all Virtual Router Packs and collections that you want to available as part of default service. To update the details of virtual Router Collection, edit the changes as per your requirement and click **SAVE AND UPDATE**.
 	![Virtual Router Pricing](img/VPC4.png)

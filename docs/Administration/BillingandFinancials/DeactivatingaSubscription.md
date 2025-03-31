@@ -3,7 +3,7 @@ sidebar_position: 2
 ---
 # Deactivating a Subscription
 
-Admins on Apiculus can deactivate subscriptions from the Admin Console which will, in turn, remove the resource(s) from the corresponding system(s).
+Admins on Apiculus can deactivate subscriptions from the Admin Cloud Console which will, in turn, remove the resource(s) from the corresponding system(s).
 
 This action is available on all subscription lists at the account and global levels.
 

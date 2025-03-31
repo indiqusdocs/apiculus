@@ -12,14 +12,14 @@ Upon successful login, the navigation is as below:
 
 Apiculus stores certain essential and non-third party cookies that are needed for account identification. These are:
 
-- Access token to authenticate session
-- User information like ID, email, type, state and first/last name
-- Other metadata like user's billing currency and payment currency
+- Access token to authenticate session 
+- User information like ID, email, type, state, and first/last name
+- Other metadata such as the user's billing currency and payment currency
 
 Additionally, if Google Tag Manager is being used, the connected apps may inject their own cookies into the session. These will be treated as third party cookies and may be blocked by privacy-focused browsers, ad blockers etc.
 
 :::note
-Login attempts and passwords can be managed via setting up strong [password policies](/docs/GettingStarted/LoginConfigurations/ConfiguringPasswordPolicies) using platform configurations.
+Login attempts and passwords can be managed by setting up strong [password policies](/docs/GettingStarted/LoginConfigurations/ConfiguringPasswordPolicies) through platform configurations.
 :::
 
 

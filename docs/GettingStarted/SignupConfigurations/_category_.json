@@ -2,6 +2,7 @@
   "label": "Signup Configuration",
   "position": 3,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+	"description": "With Signup Configuration, you can easily customize how accounts are created and managed. This includes setting up notifications, defining account ID sequences, and configuring both self-signup and admin-assisted accounts."
   }
 }

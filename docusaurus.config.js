@@ -40,6 +40,7 @@ stylesheets: [
       rel: 'stylesheet',
     },
   ],
+  
   presets: [
     [
       '@docusaurus/preset-classic',
@@ -87,6 +88,7 @@ stylesheets: [
       }),
     ],
   ],
+  
 plugins: [
 [
 require.resolve("@easyops-cn/docusaurus-search-local"),
@@ -97,7 +99,6 @@ require.resolve("@easyops-cn/docusaurus-search-local"),
 ],
 
   themeConfig:
-  
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
 		docs: {

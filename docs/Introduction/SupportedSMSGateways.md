@@ -16,7 +16,7 @@ Apiculus supports SMS gateways that can be used for sending SMS notifications, s
 - [JorMall (Jordan)](https://telone.co.zw/)
 
 :::note
-SMS charges and the ability to send domestic and/or international messages are dependent on the SMS provider and the SMS plan that the service provider is on. Apiculus does not include any bundled or standalone SMS subscription.
+SMS charges and the ability to send domestic and international messages depend on the SMS provider and the service plan.
 :::
 
 

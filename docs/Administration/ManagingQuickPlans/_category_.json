@@ -2,6 +2,7 @@
   "label": "Managing Quick Plans",
   "position": 10,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+	"description": "Managing Quick Plans allows you to efficiently organize and offer pre-configured service packages to users. It involves setting up categories, creating tailored plans, and ensuring they are easily accessible for users to purchase. This process simplifies the management of services and helps deliver a smooth user experience."
   }
 }

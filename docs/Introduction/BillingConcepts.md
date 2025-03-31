@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 # Billing Concepts
-Billing on Apiculus Cloud works in a subscription model. In line with modern-day apps and services, subscription billing models are an efficient way to deliver service value as a pay-as-you-go license. This not only eliminates heavy upfront costs for any service purchase, but also gives you the flexibility to cancel at any time and pay for only the amount or duration of use.
+Billing on Apiculus Cloud works on a subscription model. In line with modern-day apps and services, subscription billing models are an efficient way to deliver service value as a pay-as-you-go license. This not only eliminates heavy upfront costs for any service purchase, but also gives you the flexibility to cancel at any time and pay for only the amount or duration of use.
 
 ## Billing on Apiculus Cloud
 

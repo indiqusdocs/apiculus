@@ -3,7 +3,7 @@ sidebar_position: 5
 ---
 # Viewing and Downloading Invoices
 
-You can view all invoices that are generated on the Apiculus system. Apiculus stores invoices as downloadable and printable .pdf files that are stored on the Apiculus management server(s) on the  service provider premises.
+You can view all invoices that are generated on the Apiculus system. Apiculus stores invoices as downloadable and printable .pdf files that are stored on the Apiculus management server(s) on the service provider premises.
 
 Invoices contain the following (blocks of) information:
 - Invoice details (invoice ID, bill/due dates, payable amount)
