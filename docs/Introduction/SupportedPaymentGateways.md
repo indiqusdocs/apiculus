@@ -22,7 +22,7 @@ The following payment gateways are supported on Apiculus to receive payments:
 - DataWorld (Nepal) - In-house Gateway for DataWorld. Not available globally.
 
 :::note
-Apiculus supports the listed payment gateways in a **redirect** mode. Currently, auto-debits and recurring payments are not supported.
+Apiculus supports the listed payment gateways in a **redirect** mode. Auto-debits and recurring payments are not currently supported.
 :::
 
 

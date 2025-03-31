@@ -2,7 +2,7 @@
   "label": "Platform Administration",
   "position": 1,
   "link": {
-    "type": "generated-index"
-	
+    "type": "generated-index",
+	"description": "This section covers managing service provider profiles, admin users, platform settings, and automation policies."
   }
 }

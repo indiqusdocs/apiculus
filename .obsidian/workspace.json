@@ -4,67 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "50d78b5540e06844",
+        "id": "a8858c367375354d",
         "type": "tabs",
         "children": [
           {
-            "id": "35032449a7e1d649",
+            "id": "60a18892e01b476d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/AccountCentre/InvoicesandCreditNotes.md",
+                "file": "docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Storage/ConfiguringObjectStorage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "InvoicesandCreditNotes"
-            }
-          },
-          {
-            "id": "3c01c13043799e4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/ServicesandSystemRequirements/AWSLinkage/Prerequisites.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Prerequisites"
-            }
-          },
-          {
-            "id": "e1d46c457745da04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Subscribers/Compute/Autoscale/CreatingAutoscaleGroups.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CreatingAutoscaleGroups"
-            }
-          },
-          {
-            "id": "7030d6bfced4cd8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "IPv4AddressesandVPC"
+              "title": "ConfiguringObjectStorage"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "welcome",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -207,54 +164,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7030d6bfced4cd8b",
+  "active": "60a18892e01b476d",
   "lastOpenFiles": [
-    "build/assets/js/runtime~main.fa61cd5a.js",
-    "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ViewingGraphsandUtilization/index.html",
-    "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ReconfiguringVirtualFirewall/index.html",
-    "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/VolumeManagement/index.html",
-    "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/Snapshots/index.html",
-    "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/Operations/index.html",
-    "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ViewingVirtualFirewallDetails/index.html",
-    "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/NetworkingManagement/index.html",
-    "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/Overview/index.html",
-    "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ConfiguringAlerts/index.html",
-    "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/AboutFirewallInstances/index.html",
-    "build/assets/images/AddPort1-77395b1dcff4dde9c81d4c194f107169.png",
-    "build/assets/images/PortForwardingWindow-a451699d48e4503ec86baaeb2d7f4132.png",
-    "build/assets/images/AddRule1-548d67438be48a7cfe1db9f822c3c353.png",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets.md",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingVPCInstances.md",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC.md",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/StaticNATIcon.png",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/PortForwardingWindow.png",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/AddPort1.png",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/PortForwardingIcon.png",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/AddRule1.png",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/LoadBalancingIcon.png",
-    "docs/Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupVMs.md",
-    "build/assets/images/Utilisation-2531fa25fc87499b976ddde022e39729.png",
-    "docs/Subscribers/Compute/Autoscale/CreatingAutoscaleGroups.md",
-    "docs/Subscribers/Compute/Autoscale/RequirementsforAutoscale.md",
-    "docs/Subscribers/Compute/RHELInstances/RHELInstanceOperations.md",
-    "docs/Subscribers/Compute/RHELInstances/ReconfiguringRHELInstances.md",
-    "docs/Subscribers/Compute/RHELInstances/NetworkingManagement.md",
-    "docs/Subscribers/Compute/RHELInstances/ConnectingtoaRHELInstance.md",
-    "docs/Subscribers/Compute/RHELInstances/ConfiguringAlerts.md",
-    "docs/Subscribers/Compute/RHELInstances/ViewingGraphsandUtilization.md",
-    "docs/Subscribers/Compute/RHELInstances/ViewingRHELInstances.md",
-    "docs/Subscribers/Compute/RHELInstances/AboutRHELInstances.md",
-    "docs/Subscribers/Compute/RHELInstances/CreatingRHELInstances.md",
-    "docs/Subscribers/Compute/WindowsInstances/WindowsInstanceOperations.md",
-    "docs/Subscribers/Compute/Kubernetes/AboutKubernetes.md",
-    "docs/Subscribers/Compute/Kubernetes/CreatingaKubernetesCluster.md",
-    "docs/Subscribers/Compute/Kubernetes/ViewingKubernetesClusterDetails.md",
-    "docs/Subscribers/Compute/Kubernetes/ScalingKubernetesClusters.md",
-    "docs/Subscribers/Compute/Kubernetes/AboutKubernetesDashboard.md",
-    "docs/Subscribers/Compute/Kubernetes/Accessingthekubernetesdashboard.md",
-    "docs/Subscribers/Compute/Kubernetes/IngressNetworkingonKubernetesClusters.md",
-    "docs/Subscribers/Compute/RHELInstances/Overview.md",
-    "docs/Subscribers/Compute/Kubernetes/Overview.md",
+    "build/blog/tags/hello/index.html",
+    "build/blog/tags/docusaurus/index.html",
+    "build/blog/tags/hola/index.html",
+    "build/blog/tags/facebook/index.html",
+    "build/blog/authors/yangshun/index.html",
+    "build/blog/authors/all-sebastien-lorber-articles/index.html",
+    "build/blog/welcome/index.html",
+    "build/blog/tags/docusaurus",
+    "build/blog/tags/index.html",
+    "build/blog/tags/hello",
+    "build/blog/tags/hola",
+    "docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Storage/img/ConfiguringObjectStorage2.png",
+    "docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Storage/img/ConfiguringObjectStorage1.png",
+    "docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Storage/img/ConfiguringBlockVolumes1.png",
+    "docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Storage/img/ConfiguringAppOverlays.png",
+    "docs/Subscribers/Storage/BlockVolumes/WorkingwithInstanceVolumes.md",
+    "docs/Subscribers/Storage/BlockVolumes/UsingBlockVolumeswithKubernetes.md",
+    "docs/Subscribers/Storage/BlockVolumes/CreatingDataDisk.md",
+    "docs/Subscribers/Storage/BlockVolumes/AboutBlockVolumes.md",
+    "docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/WorkingwithVolumeSnapshots.md",
+    "docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/ResizetheBlockVolume.md",
+    "docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Overview.md",
+    "docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Operations.md",
+    "docs/Subscribers/Storage/ObjectStorageBucket/AboutApiculusObjectStorage.md",
+    "docs/Subscribers/Storage/ObjectStorageBucket/FeatureListandIntegrationDetails.md",
+    "docs/Subscribers/Storage/ObjectStorageBucket/FrequentlyAskedQuestions.md",
+    "docs/Subscribers/Storage/ObjectStorageBucket/SystemRequirements.md",
+    "docs/Introduction/AccessCentral.md",
+    "build/img/sps.png",
+    "build/img/sps.svg",
+    "build/img/rn.svg",
+    "build/img/sbs.svg",
+    "build/img/sbs.png",
+    "build/img/logo.svg",
+    "docs/AboutServiceProviderAdministration/AdminConsole.md",
+    "2025-03-31.md",
+    "Untitled 1.canvas",
+    "docs/ServicesandSystemRequirements/LoadBalancerInstances/SystemRequirements.md",
+    "blog/2021-08-26-welcome/index.md",
+    "docs/ServicesandSystemRequirements/LoadBalancerInstances/FeatureList.md",
+    "docs/ServicesandSystemRequirements/LoadBalancerInstances/About.md",
+    "docs/ServicesandSystemRequirements/AWSLinkage/Prerequisites.md",
+    "docs/ServicesandSystemRequirements/AWSLinkage/IntegrationDetails.md",
+    "docs/ServicesandSystemRequirements/AWSLinkage/AboutAWSLinkage.md",
+    "docs/ServicesandSystemRequirements/ApiculusObjectStorage/SystemRequirements.md",
+    "docs/ServicesandSystemRequirements/ApiculusObjectStorage/FrequentlyAskedQuestions.md",
+    "docs/ServicesandSystemRequirements/ApiculusObjectStorage/FeatureListandIntegrationDetails.md",
     "Untitled.canvas"
   ]
 }

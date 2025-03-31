@@ -3,9 +3,9 @@ sidebar_position: 1
 ---
 # About Load Balancer Instances
 
-Apiculus Load Balancer Instance Service enables you to create the instances using [NetScaler VPX](https://www.netscaler.com/platform/vpx-virtual-machine) as a base image. Using Apiculus Load Balancer Instances, organisations can distribute incoming network traffic across multiple servers or resources to ensure optimal performance, high availability, and scalability of applications and services.
+The Apiculus Load Balancer Instance Service enables you to create the instances using [NetScaler VPX](https://www.netscaler.com/platform/vpx-virtual-machine) as a base image. By using Apiculus Load Balancer Instances, organisations can distribute incoming network traffic across multiple servers or resources to ensure optimal performance, high availability, and scalability of applications and services.
 
-Load balancer instances are different from VPC-based load balancing. The differences are as specified:
+Load Balancer Instances differ from VPC-based load balancing in the following ways:
 
 |                             | NetScaler-based Load Balancer                                                                                                                                                                                                                               | VPC-based Load Balancer                                                                                                                                                                                                                                                                                                |
 | --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

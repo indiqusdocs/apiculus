@@ -2,6 +2,7 @@
   "label": "Marketing Management",
   "position": 7,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+	"description": "Marketing Management helps service providers create and manage promotional strategies. Admins can generate discount codes and coupons, which can be shared with customers, new users, or demo accounts. It allows admins to boost marketing efforts, track promotions, and attract or retain customers effectively."
   }
 }

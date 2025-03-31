@@ -10,7 +10,7 @@ Pricing on [Custom Catalogues](CreatingaCustomCatalogue.md) can be edited at t
 - **Service level** - All services in a catalogue have an option to bulk-update prices for that Service by specifying a multiplier (< 1 for deflation and > 1 for inflation).
 
 :::note
-All changes need to be published in order to reflect on the Apiculus Cloud Console. If a customer is on a resource creation/purchase page at the time of publishing these edits, their purchase will fail.
+All changes need to be published to reflect on the Apiculus Cloud Console. If a customer is on a resource creation/purchase page at the time of publishing these changes, their purchase will fail.
 :::
 
 

@@ -2,6 +2,7 @@
   "label": "Branding and Content",
   "position": 2,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+	"description": "Customize your cloud’s branding, including logos and fonts, and manage static content, policies, and custom links for a personalized user experience."
   }
 }

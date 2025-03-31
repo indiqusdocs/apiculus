@@ -3,9 +3,9 @@ sidebar_position: 8
 ---
 # Changing Resource Limits for Subscribers
 
-Subscriber accounts are created with global default resource limits that are defined on the Apache CloudStack orchestrator. Resource limits can be applied for subscriber accounts by navigating into the target account and going into the **Limits** sub-section. These limits are different for every cloud region that's configured to deliver services from.
+Subscriber accounts are created with default global resource limits that are defined in the Apache CloudStack orchestrator. These limits can be adjusted for subscriber accounts by navigating into the target account and selecting the **Limits** sub-section. These limits are vary for each cloud region that's configured to deliver services.
 
-The following resource limits can be changed:
+The following resource limits can be modified:
 
 - Virtual machines (count)
 - Volumes (count)
@@ -18,7 +18,7 @@ The following resource limits can be changed:
 - Secondary storage (MB/GB)
 
 :::note
-Limits and QoS policies for non-CloudStack services (such as object storage, bare metal etc.) need to be configured on the connected ISV portal.
+Limits and QoS policies for non-CloudStack services (such as object storage, bare metal etc.) must be configured on the connected ISV portal.
 :::
 
 

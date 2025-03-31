@@ -13,7 +13,7 @@ The following details are needed for AWS Organisation accounts:
 - AWS client secret key
 
 ## For Subscribers
-A valid AWS account (root user or IAM user with root/admin creds) is required for subscribers to enable this Service on Apiculus.
+A valid AWS account (root user or IAM user with root/admin creds) is required for subscribers to enable this service on Apiculus.
 
 The following details are needed for linking AWS user accounts:
 

@@ -11,7 +11,7 @@ Apiculus Cloud Console offers a quick means to view Instances that are part of a
 
 ## Adding (or Removing) Instances to VPC
 
-To view all Instances that are available to added to this VPC, click on the **ADD INSTANCE** button. Since VPC allows adding multiple NICs to instances, instances can be shared between VPC networks (and across tiers within the same VPC), as long as the VPC networks are within the same Availability Zone.
+To view all Instances that are available to be added to this VPC, click the **ADD INSTANCE** button. Since VPC allows adding multiple NICs to instances, instances can be shared between VPC networks (and across tiers within the same VPC), as long as the VPC networks are within the same Availability Zone.
 ![Managing VPC Instances](img/ManagingVPCInstances2.png)
 
 :::note

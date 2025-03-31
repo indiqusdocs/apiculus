@@ -4,7 +4,7 @@ sidebar_position: 6.1
 
 # About Invoice
 
-To view the estimates, navigate to the **Billing and Financial** section and select **Invoices**.
+To view the invoice, navigate to the **Billing and Financial** section and select **Invoices**.
 
 ![Invoices Operations](img/Invoices.png)
 
