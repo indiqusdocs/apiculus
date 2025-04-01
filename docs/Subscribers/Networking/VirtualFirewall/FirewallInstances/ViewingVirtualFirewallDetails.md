@@ -6,13 +6,13 @@ sidebar_position: 2
 As the virtual firewalls are created, Cloud Console users can view the enabled Virtual Firewalls in the **Networking > Virtual Firewalls** section. The following details are shown:
 
 1. Names of the Virtual Firewalls
-2. Public IPV4
+2. Public IPv4
 3. Number of Instances associated with each Virtual Firewall
 4. Creation Date
 
 ![Viewing VFI Network Details](img/ViewingVFINetworkDetails1.png)
 
-To view a list of section and the various operations or actions you can perform by going inside the particular section, click on the instance name. Below the Instance name, there is an informational view where you can find the following details:
+To view a list of sections and the various operations or actions you can perform by going inside the particular section, click on the instance name. Below the Instance name, there is an informational view where you can find the following details:
 
 - Configuration
 - Availability Zone
@@ -23,7 +23,7 @@ On the top right corner, two quick options are available, one to **LAUNCH CONSO
 
 ![Viewing VFI Network Details](img/ViewingVFINetworkDetails2.png)
 
-Details about Virtual Firewall operations and actions can be found in their respective sections.
+Details about Virtual Firewall operations and actions can be found in their respective sections:
 
 - [Overview](docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/Overview.md)
 - [Viewing Graphs and Utilisation](docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ViewingGraphsandUtilization.md)

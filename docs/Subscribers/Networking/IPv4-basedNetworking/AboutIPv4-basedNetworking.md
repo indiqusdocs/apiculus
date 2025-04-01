@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 # About IPv4-based Networking
 
-IPv4 Addresses form the backbone of networking operations on Apiculus. Internally, IPv4 Addresses is treated as a monetisable Service on Apiculus. However, the use of IPv4 Addresses is implicit as part of other essential Services.
+IPv4 Addresses form the backbone of networking operations on Apiculus. Internally, IPv4 Addresses are treated as a monetisable Service on Apiculus. However, the use of IPv4 Addresses is implicit as part of other essential Services.
 
 IPv4 Addresses are used:
 

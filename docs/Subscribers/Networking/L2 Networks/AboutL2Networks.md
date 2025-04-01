@@ -10,7 +10,7 @@ To manage an L2 network, navigate to **Networking > L2 Networks**.
 The following screen appears where all the L2 networks are listed.
    ![Manage NAT gateway](img/L21.png)
 
-Click on the icons at the end of each network for the following operations:
+Click the icons at the end of each network for the following operations:
 - **Restart** the L2 network
 - **Delete** the L2 Network
 
