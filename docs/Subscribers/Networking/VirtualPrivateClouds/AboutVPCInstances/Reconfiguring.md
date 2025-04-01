@@ -4,7 +4,7 @@ sidebar_position: 8
 
 # Reconfiguring a VPC
 
-The **Reconfigure** section/tab will list your current subscription details and allow you to reconfigure the networking pack, or switch between **hourly** and **monthly** pricing.
+The Reconfigure section/tab lists your current subscription details and allows you to reconfigure the networking pack or switch between **hourly** and **monthly** pricing.
 
 ![VPC Management and Basic Operations](img/VPCManagement1.png)
 

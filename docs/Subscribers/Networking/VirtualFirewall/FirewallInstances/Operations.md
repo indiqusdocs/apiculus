@@ -12,7 +12,7 @@ Apiculus Cloud Console provides the options to perform the following operations 
 - **Rename Instance** - Rename the Virtual Firewall.
 - **Delete Instance** - Delete the Virtual Firewall.
   :::warning
-  Deleting a Virtual Firewall will remove it entirely along with its subscription and is a non-reversible action.
+  Deleting a Virtual Firewall removes it entirely along with its subscription and is a non-reversible action.
   :::
 
 
