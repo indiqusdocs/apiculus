@@ -3,7 +3,7 @@ sidebar_position: 2
 ---
 # Creating Automated Snapshot Schedules
 
-Apiculus Cloud Console users can create snapshot policies for their root and data disks. These schedules allow for strategic management of data retention policies and can be used as an alternative backup solution. To create or manage the Snapshot schedules navigate to the  the **Schedules** section of disk details.
+Apiculus Cloud Console users can create snapshot policies for their root and data disks. These schedules allow for strategic management of data retention policies and can be used as an alternative backup solution. To create or manage the Snapshot schedules navigate to the **Schedules** section of disk details.
 
 The following schedules are supported:
 
@@ -27,13 +27,12 @@ While configuring snapshot schedules, the following points should be considered:
 - All schedule options allow for a **snapshots to keep** option, which is a limit on how many snapshots to keep (or rotate after) as the retention policy.
   
 To create the Snapshot Schedule, click on create Schedule and the following dilog box appears.
+
+![Set Snapshot Schedule](img/Schedules1.png)
 Select the below details in the form to set the Snapshot Schedule.
 - Frequency
 - TimeZone
 - Snapshots to Keep
-
-![Set Snapshot Schedule](img/Schedules1.png)
-
 :::note
-	There can only be one policy per schedule, the new snapshot policy will override the existing policy of same frequency.
+	There can only be one policy per schedule; the new snapshot policy overrides the existing policy of the same frequency.
 :::
