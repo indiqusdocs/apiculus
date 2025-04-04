@@ -3,11 +3,11 @@ sidebar_position: 3
 ---
 # Working with Volume Snapshots
 
-The Apiculus Block Volumes Service allows for extensively working with volume snapshots. Snapshots are point-in-time 'images' of the contents of a volume and can be used as a restoration point for the parent volume. The following sections outline all available snapshot functions and capabilities on Apiculus Cloud Console.
+**Apiculus Block Volumes** service provides extensive functionality for managing volume snapshots. Snapshots are point-in-time 'images' of a volume’s contents and can be used as a restoration point for the parent volume. The following sections outline all available snapshot functions and capabilities in the Apiculus Cloud Console.
 
 ## Creating Instant Snapshots
 
-Volume snapshots can be created manually with the current timestamp by using the **CREATE SNAPSHOT** button under the **Snapshots** tab/section of any disk. It helps in creating the snapshot which can be used to further create an Image (template) or restore an existing volume.
+Volume snapshots can be created manually with the current timestamp by clicking the **CREATE SNAPSHOT** button under the **Snapshots** tab/section of any disk. This will generate a snapshot that can be used to create an **Image (template)** or restore an existing volume.
 
 ![Working with Volume Snapshots](img/WorkingwithVolumeSnapshots.png)
 

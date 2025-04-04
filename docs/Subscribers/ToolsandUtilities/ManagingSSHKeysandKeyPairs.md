@@ -3,10 +3,10 @@ sidebar_position: 2
 ---
 # Managing SSH Keys and Key Pairs for Linux Instances
 
-Apiculus Cloud Console allows you to create secure shell connections to Instances in your account by using SSH keys, in addition to using Instance passwords. Passwords, due to their very nature, can easily be compromised. On the other hand, SSH keys are encrypted signatures that function only when there’s a match between their public and private components.
+The Apiculus Cloud Console allows you to create secure shell connections to Instances in your account by using SSH keys, in addition to using Instance passwords. Since passwords can be easily compromised, SSH keys provide a more secure alternative. These keys function as encrypted signatures and work only when their public and private components match.
 ## Managing SSH Keys
 
-SSH keys can be managed from the **Tools and Utilities > SSH Key Pairs** section on the main navigation panel. 
+SSH keys can be managed from the **Tools and Utilities > SSH Key Pairs** section in the main navigation panel. 
 You can create SSH keys by two methods:
 - New Cloud SSH KEY
 - UPLOAD A PUBLIC KEY
@@ -33,7 +33,7 @@ To use an Linux Instance with an SSH key, it needs to be associated with a key f
 1. While [creating a new Linux Instance](/docs/Subscribers/Compute/LinuxInstances/CreatingLinuxInstances), in the provisioning details form, choose any of the SSH options from the **Use SSH key pair** option under **Choose an Authentication method**. This will let you:
     1. Generate a new key pair.
     2. Upload a public key from your system.
-    3. Choose an already added SSH key in your apiculus Cloud account.
+    3. Select an existing SSH key from your Apiculus Cloud Console account.
     ![Linux SSH Key pair generation](img/SSHLinux.png)
 2. For existing Instances, you can set or reset SSH key associations by navigating to the **Instances  Operations** section and using the **Reset SSH Key** option. To use this option, the instance needs to be stopped first. This option lets you choose an SSH key already added to your Apiculus Cloud account.
 

@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # Resize the Block Volume
 
-To resize the available Block Volumes, navigate to the **Storage**, select the **Block Volumes** and access the **Resize** tab.
+To resize an available **Block Volumes**, navigate to **Storage**, select the **Block Volumes** and access the **Resize** tab.
 
 Follow the steps to choose Disk Configuration on Apiculus Cloud Console:
 
