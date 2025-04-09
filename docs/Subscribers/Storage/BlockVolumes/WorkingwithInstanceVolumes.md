@@ -3,11 +3,11 @@ sidebar_position: 2
 ---
 # Working with Instance Volumes
 
-Each Instance on Apiculus (Linux or Windows) includes a 'root' disk or volume. This is the primary disk partition on the Instance, and by default, all operating systems, data, components and files reside on the root disk.
+Each Instance on Apiculus (Linux or Windows) includes a 'root' disk or volume. This is the primary disk partition on the Instance, where the operating system, data, components and files reside on the root disk.
 
-Further, Instances can have addon or 'data' disks attached to them which act as additional disk partitions. These data disks are modular and can be moved between multiple Instances.
+Further, Instances can have add-on or data disks attached to them which act as additional disk partitions. These data disks are modular and can be moved between multiple Instances.
 
-Apart from this, there is no difference between a root disk and a data disk. Both types of Volumes are managed using the Block Volumes Service. However, based on the volume type, certain operations may not be available.
+Apart from this, there is no difference between a root disk and a data disk. Both types of Volumes are managed using the **Block Volumes** service. However, based on the volume type, certain operations may not be available.
 
 | Operations                    | Root Disks                      | Data Disks |
 | ----------------------------- | ------------------------------- | ---------- |

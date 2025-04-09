@@ -44,7 +44,7 @@ You can add additional public IPv4 addresses to configure firewall rules, port f
 1. Click the **Source NAT** icon.
    ![Manage NAT gateway](img/NAT4c.png)
 
-3. Click the **Okay** button. <br />
+2. Click **OKAY**. <br />
    ![Manage NAT gateway](img/NAT4ca.png)
    
 ### Deleting IP Address
