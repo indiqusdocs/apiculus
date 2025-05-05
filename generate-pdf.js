@@ -56,7 +56,7 @@ const PDFMerger = require("pdf-merger-js");
   await merger.save("final-help-docs.pdf");
   await browser.close();
 
-  // Clean up temporary PDFs
+  // Clean up temporary PDFsss
   fs.readdirSync(__dirname).forEach(file => {
     if (file.startsWith("temp-") && file.endsWith(".pdf")) {
       fs.unlinkSync(path.join(__dirname, file));
