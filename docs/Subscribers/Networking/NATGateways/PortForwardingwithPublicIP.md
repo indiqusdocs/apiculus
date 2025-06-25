@@ -11,15 +11,14 @@ To enable external connectivity for your services through a NAT Gateway, you nee
 The following steps walk you through the process of navigating to your NAT Gateway, generating a new public IPv4 address, and verifying its successful addition and availability within the Apiculus Cloud environment:
 
 1. Go to the **NAT Gateways** section from the left-hand menu.
-2. Select the desired gateway (e.g., `ACP-E244-1-Gaurav-Test_ISOLATED_NETWORK`).
+2. Select the desired gateway (e.g., `ADC-R522-40-Test_ISOLATED_NETWORK`).
 3. Click on the **IPv4 Addresses** tab from the left options.
 4. Click the **ADD PUBLIC IPv4 ADDRESS** button.
 5. A new public IP is generated and listed under the IPv4 ADDRESS section.
 6. A confirmation message **IPv4 Address purchase successful** appears at the top.
-7. The newly added IP (e.g., `164.164.197.8`) shows the status as **Unused**.
-pic-
-pic-
-
+7. The newly added IP (e.g., `103.145.166.60`) shows the status as **Unused**.
+![addapiculus1](img/addapiculus1.png)
+![addapiculus2](img/addapiculus2.png)
 ## Adding a Port Forwarding Rule
 
 Once a public IPv4 address has been successfully added to your NAT Gateway, the next step is to configure port forwarding. This enables external access to internal services by mapping incoming traffic on specific ports to designated internal IP addresses within your network.
@@ -29,10 +28,10 @@ The following steps guide you through locating the unused public IP, accessing t
 1. Navigate to IPv4 Addresses: In the left-hand menu under **Networking**, click on **IPv4 Addresses**.
 2. Identify the Newly Acquired Public IP: Look for the public IP address that is marked as **Unused** under the **USAGE** column.
 3. Click on the Port Forwarding Icon: 
-    - In the row corresponding to the **Unused** public IP (e.g., `164.164.197.8`), locate and click on the **port forwarding icon**.
+    - In the row corresponding to the **Unused** public IP (e.g., `103.145.166.4`), locate and click on the **port forwarding icon**.
     - The icon is next to other icons like the delete (trash bin) and details (eye) icon, as shown in  the red box in the screenshot.
 4. Proceed to Configure the Rule: After clicking the icon, follow the prompted interface to define your port forwarding rule (not shown in the screenshot but typically involves specifying internal and external ports, protocol, and target IP).
-pic-
+![apiculusaddress](img/apiculusaddress.png)
 ## Requiring Values in the Rule
 
 After accessing the port forwarding configuration interface, the next step is to specify the necessary rule parameters. These values determine how external traffic is routed through the public IP to the intended internal instance. Properly selecting these values ensures accurate traffic delivery and secure access.
@@ -40,8 +39,8 @@ After accessing the port forwarding configuration interface, the next step is to
 The following steps outline how to define protocol type, select the appropriate network tier and instance, and configure both public and private port mappings to complete the rule setup:
 
 1. Now select the required values in the rule as shown: Choose the appropriate protocol from the dropdown (for example `TCP`).    
-2. Select the network tier (associated network) where the instance resides (for example `ACP-E244-1-Gaurav-Test_ISOLATED_NETWORK`).
-3. Choose the specific instance to which you want to forward traffic (for example `ACP-E244-1-Gaurav-Test`).
+2. Select the network tier (associated network) where the instance resides (for example `ADC-R522-40-Test_ISOLATED_NETWORK`).
+3. Choose the specific instance to which you want to forward traffic (for example `ADC-R522-40-Test`).
 4. **Public Start Port and End Port**:
     - Enter the port number(s) for incoming traffic on the public IP.
     - For example `80` for both start and end if using a single port.  
@@ -49,7 +48,7 @@ The following steps outline how to define protocol type, select the appropriate 
     - Enter the corresponding internal port(s) on the instance to forward traffic to.
     - For example `80` for both start and end.
 6. Click the **ADD PORT FORWARDING RULE** button to save and apply the rule.  
-pic-
+![portapiculus](img/portapiculus.png)
 ## Configuring Port Forwarding in pfsense
 
 To enable external access to internal services through specific ports, you need to configure port forwarding rules within the pfsense firewall. This setup maps incoming traffic on a designated public port to a private IP address and port within your internal network, ensuring controlled and secure connectivity.
@@ -76,8 +75,8 @@ The following steps guide you through logging in to the pfsense interface, navig
       - **NAT Reflection**: `Use system default`
       - **Filter Rule Association**: `Add associated filter rule`
 8. Click the **Save** button.
-pic-
-pic-
+![senseapiculus1](img/senseapiculus1.png)
+![senseapiculus2](img/senseapiculus2.png)
 ## Verifying the Functionality
 
 After configuring port forwarding, it is essential to confirm that external traffic is correctly reaching your internal server. This validation ensures the rule is functioning as intended and that services hosted on the internal machine are accessible via the public IP.
@@ -89,8 +88,7 @@ The following steps demonstrate how to verify the port forwarding setup by acces
 3. Check for **Apache2 Default Page**.
     - If the port forwarding is correctly set up, see the **Apache2 Default Page** with a message saying **“It works!”**
     - This confirms that the request to the public IP is successfully reaching the internal web server hosted on the target machine.
-pic-
-   
+![functionapiculus](img/functionapiculus.png)  
 ## Web and SSH Port Forwarding in pfsense
 
 To expose both the web and SSH services running on the internal server, we configured two separate port forwarding rules in pfsense. The following section summarizes the key parameters of each rule and how they map external traffic on ports 80 and 22 to the private IP 192.168.1.100. 
@@ -120,8 +118,7 @@ The following steps guide you through configuring both HTTP and SSH port forward
 5. Port Forwarding Rules:
      A. Port **80** traffic to the internal server for web (HTTP) access.
      B. Port **22** traffic to the internal server for SSH access.
-pic-
-
+![webssh](img/webssh.png)
 ## WAN Rule at pfsense
 
 When port forwarding rules are added in pfsense, corresponding firewall rules on the WAN interface are automatically created to allow external traffic through the specified ports. These rules are essential for enabling access from the internet to internal services like SSH and HTTP.
@@ -147,4 +144,4 @@ The following steps help you verify and manage these auto-generated WAN rules to
 4. Confirm Rule Status:
      A. Ensure both rules are **enabled** (indicated by the green check icon).
      B. You can also edit or delete them from the **Actions** column if needed.  
-pic-
+![wanapiculus](img/wanapiculus.png)
