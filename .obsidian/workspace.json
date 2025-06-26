@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/Networking/VirtualFirewall/DeployingVNFandVMWithinVNF.md",
+                "file": "docs/intro.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "DeployingVNFandVMWithinVNF"
+              "title": "intro"
             }
           }
         ]
@@ -40,8 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -166,6 +165,7 @@
   },
   "active": "6611cde81b30435f",
   "lastOpenFiles": [
+    "docs/Subscribers/Networking/VirtualFirewall/DeployingVNFandVMWithinVNF.md",
     "build/blog/atom.xml",
     "build/blog/rss.xml",
     "build/blog/rss.css",
@@ -176,7 +176,6 @@
     "build/sitemap.xml",
     "build/index.html",
     "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/WorkingwithVolumeSnapshots/index.html",
-    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/ResizetheBlockVolume/index.html",
     "build/icons/home.svg",
     "build/img/sps.svg",
     "build/img/sbs.svg",
@@ -189,7 +188,6 @@
     "build/img/apiculus-social-card.png",
     "docs/Subscribers/Networking/NATGateways/PortForwardingwithPublicIP.md",
     "docs/Subscribers/Networking/NATGateways/PortForwardingforVMviaVNF.md",
-    "docs/Subscribers/Networking/VirtualFirewall/DeployingVNFandVMWithinVNF.md",
     "docs/Subscribers/Networking/VirtualFirewall/CreatingaVirtualFirewall.md",
     "docs/Subscribers/Networking/IPv4-basedNetworking/EstablishingSite-to-SiteVPNBetweenTwoVPCs.md",
     "docs/Subscribers/Networking/IPv4-basedNetworking/ManagingVPNGatewaysandSite-to-SiteVPN.md",
