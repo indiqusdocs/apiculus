@@ -30,7 +30,7 @@ Refer to the [Creating Linux Instances](/docs/Subscribers/Compute/LinuxInstances
 ![overviewb](img/overviewb.png)
 ![instancelinux](img/instancelinux.png)
 
-These instances will be used to validate VPN connectivity after the tunnel is established. Make sure the instances have proper security group and firewall rules to allow ICMP (ping) or SSH for testing purposes.
+These instances are used to validate VPN connectivity after the tunnel is established. Make sure the instances have proper security group and firewall rules to allow ICMP (ping) or SSH for testing purposes.
 ## Configuring VPN Gateways
 
 Set up VPN gateways in each VPC to serve as endpoints for the IPsec tunnel:
@@ -40,7 +40,6 @@ Set up VPN gateways in each VPC to serve as endpoints for the IPsec tunnel:
    - Tunnel IP settings
    - IPsec Pre Shared secrets
    - Routing methods
-
 Repeat this step for both VPCs—each will have its own dedicated VPN Gateway.
 ## Creating Customer Gateways
 
@@ -49,7 +48,6 @@ Define the customer gateway configurations for each side of the VPN, Create two 
 ![gatewaya](img/gatewaya.png)
 2. For Gateway **VPN B**, specify the public IP address of of Virtual Private Cloud **ADC-R522-VPC B**.
 ![gatewayb](img/gatewayb.png)
-
 This setup allows each VPN Gateway to identify and establish a connection with its remote peer. These customer gateways act as references for establishing IPsec sessions.
 ## Enabling VPN Connection
 
@@ -59,7 +57,6 @@ Establish the Site-to-Site VPN tunnel between the two VPCs:
 2. Click **Site-to-Site (IPSEC)**. From the list of available VPN connections, select the appropriate **VPN Connections** that corresponds to the remote VPC.
 3. Click on **Create Connection** to initiate the tunnel setup.
 ![ipseca](img/ipseca.png)
-
 Repeat this for the second VPC to complete the bi-directional VPN configuration.
 ## Verifying VPN Status
 
