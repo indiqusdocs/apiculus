@@ -7,11 +7,25 @@ Apiculus is an end-to-end cloud-as-a-service solution that addresses the technol
 
 ![Welcome](welcome1.png)
 
-Apiculus enables:
+## Apiculus enables:
 
-- New service providers to launch and operate independent, greenfield with 100% data localisation.
-- Established IaaS providers to transform and scale their VPS services into a full-fledged multi-service public cloud offering.
-- Service providers to offer a standardised service delivery and user experience.
+<div class="card-grid-3">
+
+  <div class="custom-card">
+    <h3>New service providers</h3>
+    <p>To launch and operate independent, greenfield with 100% data localisation.</p>
+  </div>
+
+  <div class="custom-card">
+    <h3>🚀 Established IaaS providers</h3>
+    <p>To transform and scale their VPS services into a full-fledged multi-service public cloud offering.</p>
+  </div>
+
+  <div class="custom-card">
+    <h3>🛠️Service providers</h3>
+    <p>To offer a standardised service delivery and user experience.</p>
+  </div>
+</div>
 
 ## Stack Components
 Items in <span class="blue">**blue**</span> are Apiculus software capabilities; items in **black** are services and extensions that can be monetised; items in <span class="green">**green**</span> are service provider’s assets.
