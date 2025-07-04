@@ -19,7 +19,7 @@ The following are the high level steps required for deploying VNF and VM within 
 5. [Viewing LAN and WAN Tiers](#viewing-lan-and-wan-tiers)
 6. [Accessing Pfsense Firewall GUI](#accessing-pfsense-firewall-gui)
 7. [Deploying A Linux VM Under Pfsense Firewall](#deploying-a-linux-vm-under-pfsense-firewall)
-8. [Creating The New Linux Instance](#creating-the-new-linux-instance)
+8. [Creating a New Linux Instance](#creating-a-new-linux-instance)
 9. [Choosing A Root Disk](#choosing-a-root-disk)
 10. [Authentication Method](#authentication-method)
 11. [Confirming Instance Purchase](#confirming-instance-purchase)
