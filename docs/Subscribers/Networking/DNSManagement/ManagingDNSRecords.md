@@ -35,3 +35,4 @@ Once a record has been created, you can ping the record Name from any online o
 
 [More information about DNS record types can be found here.](https://ns1.com/resources/dns-types-records-servers-and-queries)
 
+

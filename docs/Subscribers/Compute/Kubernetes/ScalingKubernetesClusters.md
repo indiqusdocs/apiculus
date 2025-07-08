@@ -3,7 +3,7 @@ sidebar_position: 5
 ---
 # Scaling Kubernetes Clusters
 
-Yntraa cloud console allows for manual and automatic cluster scaling. Clusters scaling can be configured from the **Nodes** section of cluster details or from the **Operations** section of cluster details.
+Apiculus cloud console allows for manual and automatic cluster scaling. Clusters scaling can be configured from the **Nodes** section of cluster details or from the **Operations** section of cluster details.
 ## Manually Scaling a Cluster
 
 1. Navigate to **Operations** > **Nodes**, click the **SCALE CLUSTER** button. A window appears, keep **autoscaling** disabled.

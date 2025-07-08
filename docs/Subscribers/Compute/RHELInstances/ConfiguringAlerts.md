@@ -5,7 +5,7 @@ sidebar_position: 5
 
 Alerts get triggered whenever a configured condition is met. You can create multiple alerts on an instance. Alerts are sent to recipients that you can define and manage.
 
-You can configure alerts for instances running on the Yntraa cloud console. You can define alerts for Instances and configure the email recipients for these alerts using a straightforward and easy-to-use interface.
+You can configure alerts for instances running on the Apiculus cloud console. You can define alerts for Instances and configure the email recipients for these alerts using a straightforward and easy-to-use interface.
 
 To view the configured alerts or configure new ones, navigate to [RHEL Instance](AboutRHELInstances.md) and access the **Alerts** tab.
 ## Instance Alerts
@@ -26,7 +26,7 @@ You can create or add alerts simply by clicking the **CREATE ALERT** button. T
 The various fields of the add alert page are described below:
 
 1. **Name** - You can define the name for your alert.
-2. **Choose Parameter** - This option will allow you to define what parameter needs to be monitored to trigger the alert email. Yntraa cloud supports CPU, RAM, Disk, 1-min Load Average, 5- min Load Average, 15- min Load Average parameters.
+2. **Choose Parameter** - This option will allow you to define what parameter needs to be monitored to trigger the alert email. Apiculus cloud supports CPU, RAM, Disk, 1-min Load Average, 5- min Load Average, 15- min Load Average parameters.
 3. **Trigger when** - This set of options lets you define whether to trigger above or below a custom value.
 4. **Value** - You can define the trigger value/threshold.
 5. **Reading duration** - This option lets you define the breach window, i.e., the duration for which the breach has to be consistent to trigger the alert email.
@@ -46,6 +46,7 @@ This will list and display all the email IDs already configured for the alerts. 
 :::note
 All the recipients configured will receive all the setup alerts. If no email ID is configured or added, then no email will be sent for the already configured alerts.
 :::
+
 
 
 

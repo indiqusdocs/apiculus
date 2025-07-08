@@ -45,3 +45,4 @@ A confirmation message appears. Click **Send Email** to send the email to the c
 ## Redeeming Coupons
 Subscriber/customers can redeem Coupons from the [Wallet](/docs/Subscribers/AccountCentre/WalletandTransactions) section of their [Account Centre](/docs/Subscribers/AccountCentre/AboutApiculusAccountCentre). Redeeming a Coupon will instantly add the Coupon value to their service balance/wallet.
 
+

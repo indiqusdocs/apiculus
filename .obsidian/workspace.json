@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1d6311de41e541eb",
+        "id": "55a7804770c0e381",
         "type": "tabs",
         "children": [
           {
-            "id": "6611cde81b30435f",
+            "id": "1e2e1032ecfc1534",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Subscribers/Compute/WindowsInstances/WorkingwithWindowsInstanceSnapshots.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "WorkingwithWindowsInstanceSnapshots"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "release  notes",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,8 +160,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6611cde81b30435f",
+  "active": "ef7415b37c790712",
   "lastOpenFiles": [
+    "build/search-index.json",
+    "build/sitemap.xml",
+    "build/docs/Subscribers/Storage/BlockVolumes/CreatingDataDisk/index.html",
+    "build/docs/Subscribers/Storage/BlockVolumes/CreatingDataDisk",
+    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Overview/index.html",
+    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Overview",
+    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Operations/index.html",
+    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Operations",
+    "build/docs/Subscribers/Storage/BlockVolumes/UsingBlockVolumeswithKubernetes/index.html",
+    "build/docs/Subscribers/Storage/BlockVolumes/UsingBlockVolumeswithKubernetes",
+    "build/index.html",
+    "build/icons/home.svg",
+    "build/img/sps.svg",
+    "build/img/sps.png",
+    "build/img/sbs.svg",
+    "build/img/sbs.png",
+    "build/img/rn.svg",
+    "build/img/logo.svg",
+    "build/img/rn.png",
+    "build/img/logo.png",
+    "build/img/apiculus-social-card.png",
+    "docs/Subscribers/Compute/Kubernetes/AboutKubernetes.md",
     "docs/Subscribers/Compute/WindowsInstances/WindowsInstanceOperations.md",
     "docs/Subscribers/Compute/WindowsInstances/VolumeManagementwithWindowsInstances.md",
     "docs/Subscribers/Compute/WindowsInstances/ReconfiguringWindowsInstances.md",
@@ -190,28 +208,6 @@
     "docs/Subscribers/Compute/RHELInstances/ConnectingtoaRHELInstance.md",
     "docs/Subscribers/Compute/RHELInstances/ConfiguringAlerts.md",
     "docs/Subscribers/Compute/RHELInstances/AboutRHELInstances.md",
-    "docs/Subscribers/Compute/LinuxInstances/WorkingwithLinuxInstanceSnapshots.md",
-    "docs/Subscribers/Compute/LinuxInstances/VolumeManagement.md",
-    "docs/StackComponents.png",
-    "docs/StackComponents.svg",
-    "build/blog/rss.xml",
-    "build/blog/atom.xml",
-    "build/blog/atom.css",
-    "build/blog/rss.css",
-    "build/blog/rss.xsl",
-    "build/blog/atom.xsl",
-    "build/search-index.json",
-    "build/sitemap.xml",
-    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Operations/index.html",
-    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Schedules/index.html",
-    "build/img/sps.svg",
-    "build/img/sbs.svg",
-    "build/img/sps.png",
-    "build/img/sbs.png",
-    "build/img/rn.svg",
-    "build/img/rn.png",
-    "build/img/logo.svg",
-    "build/img/logo.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"

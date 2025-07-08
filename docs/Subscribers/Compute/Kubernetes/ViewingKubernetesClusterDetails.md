@@ -3,7 +3,7 @@ sidebar_position: 2
 ---
 # Viewing Kubernetes Cluster Details
 
-Yntraa cloud console offers a detailed view of Kubernetes clusters on the UI. Yntraa also brings the full power and accessibility of cluster management via the kubectl interface.
+Apiculus cloud console offers a detailed view of Kubernetes clusters on the UI. Apiculus also brings the full power and accessibility of cluster management via the kubectl interface.
 
 To view cluster details on the UI, follow these steps:
 

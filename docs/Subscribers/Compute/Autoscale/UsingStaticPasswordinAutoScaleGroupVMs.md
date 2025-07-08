@@ -17,11 +17,12 @@ sidebar_position: 4
 	9. Remove cloud-init data and configuration.  <br />`sudo rm -rf /var/lib/cloud` <br /> `sudo sed -i '/cloud-init/d' /etc/default/grub`
 	11. Remove any cloud-init entry from the grub. <br />`sudo update-grub`
 	12. Reboot the system. <br />`sudo reboot`
-5. Stop the VM from the Yntraa cloud console and create a Root snapshot of that VM. 
+5. Stop the VM from the Apiculus cloud console and create a Root snapshot of that VM. 
 6. Create Image using the Snapshot. (After creation, it will be visible in the **My Image** section).
 7. Navigate to the **VPC section**, purchase an IPv4 address, and create a load balancing rule using the acquired IPv4 address.
 8. Create the Auto Scale Group using the custom template (**My Image**).
 9. You can now log in to the initial VM using the static password (the same one used for the standard VM). Additionally, you can successfully log in to the secondary VM using the same static password.
+
 
 
 

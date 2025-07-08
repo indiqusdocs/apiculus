@@ -6,7 +6,7 @@ sidebar_position: 7
 To view networking, navigate to [Kubernetes](AboutKubernetes.md) and select a **cluster details**. This section manage a cluster's firewalls and ingress networking. Here, Port forwarding and load balancing rules can also be managed using `kubectl`.
 
 :::note
-Yntraa Kubernetes Service supports traefik and nginx ingress controllers.
+Apiculus Kubernetes Service supports traefik and nginx ingress controllers.
 :::
 ## Adding a Firewall Rule to Cluster
 
@@ -42,6 +42,7 @@ Cluster load balancing rules distribute incoming network traffic across multiple
     4. Enter the Private Port.
     5. Select the algorithm.
     6. Click the **ADD LOAD BALANCING RULE** button.
+
 
 
 

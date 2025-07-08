@@ -5,7 +5,7 @@ sidebar_position: 11
 
 To view all available Instance operations, navigate to the [Windows Instances Screen](AboutWindowsInstances), select a Windows Instance, and access the **Operations** tab.
 
-Yntraa cloud console provides the options to perform common operations on Windows Instances.
+Apiculus cloud console provides the options to perform common operations on Windows Instances.
 
 - **Restart Instance** - use this option to perform a quick reboot on your Instance. This is a simple restart, and no data will be lost.
 - **Force Stop Instance**- to force stop a running or a hung Windows Instance.
@@ -17,6 +17,7 @@ Yntraa cloud console provides the options to perform common operations on Window
 	:::note 
 	Deleting a Windows instance will remove it entirely along with its subscription and is a non-reversible action.
 	:::
+
 
 
 
