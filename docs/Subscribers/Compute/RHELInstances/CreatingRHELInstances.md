@@ -32,7 +32,7 @@ To create a RHEL instance, follow these steps:
 14. Click **CONFIRM** to create the RHEL Instance.
 
 :::note
-It might take up to 5-8 minutes for the instance to create. You may use the Cloud Console during this time, but it is advised that you do not refresh the browser window.
+It might take up to 5-8 minutes for the instance to create. You may use the cloud console during this time, but it is advised that you do not refresh the browser window.
 :::
 
 Once ready, you get notified of this purchase on your registered email address. To access the newly created RHEL Instances, navigate to **Compute >** **RHEL Instances**.

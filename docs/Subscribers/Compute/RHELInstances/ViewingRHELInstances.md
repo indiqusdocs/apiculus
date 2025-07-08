@@ -3,7 +3,7 @@ sidebar_position: 2.1
 ---
 # Viewing RHEL Instances
 
-Yntraa cloud console offers a highly usable and visual way of working with and operating RHEL Instances using the Cloud Console. All RHEL Instances available in your account can be accessed in the following way:
+Yntraa cloud console offers a highly usable and visual way of working with and operating RHEL Instances using the cloud console. All RHEL Instances available in your account can be accessed in the following way:
 
 1. Navigate to **Compute > RHEL Instances**.
 2. All the RHEL instances for your account are listed here with the following details:

@@ -5,7 +5,7 @@ sidebar_position: 1
 
 Instances are computing units that provide you with resources to run your applications/workloads. Windows Instances are virtual machines that run the images of Windows Operating Systems.
 
-Yntraa cloud console offers a highly usable and visual way of working with and operating Windows Instances using the Cloud Console. All Linux Instances available in your account can be accessed in the following way:
+Yntraa cloud console offers a highly usable and visual way of working with and operating Windows Instances using the cloud console. All Linux Instances available in your account can be accessed in the following way:
 
 1. Navigate to **Compute > Windows Instances**.
 2. All the Windows Instances for your account will be listed here with the following details:

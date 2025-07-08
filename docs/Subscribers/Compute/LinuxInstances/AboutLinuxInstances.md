@@ -3,7 +3,7 @@ sidebar_position: 0
 ---
 # About Linux Instances
 
-Yntraa cloud console offers a highly usable and visual way of working with and operating Linux Instances using the Cloud Console. You can access all the Linux Instances available in your account in the following way:
+Yntraa cloud console offers a highly usable and visual way of working with and operating Linux Instances using the cloud console. You can access all the Linux Instances available in your account in the following way:
 
 1. Navigate to **Compute > Linux Instances**.
 2. All the Linux instances for your account are listed here with the following details:

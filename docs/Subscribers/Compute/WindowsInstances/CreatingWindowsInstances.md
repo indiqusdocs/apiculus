@@ -26,7 +26,7 @@ To create a Windows instance, follow these steps:
 11. Click **CONFIRM** to create the Windows Instance.
 
 :::note 
-This might take up to 5-8 minutes. You may use the Cloud Console during this time, but it is advised that you do not refresh the browser window.
+This might take up to 5-8 minutes. You may use the cloud console during this time, but it is advised that you do not refresh the browser window.
 :::
 
 Once ready, you are notified of this purchase on your email address on record. To access the  newly created Windows Instances, navigate to **Compute >** **Windows Instances** on the main navigation panel.

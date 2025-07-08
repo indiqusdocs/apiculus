@@ -38,7 +38,7 @@ To create a Linux instance, follow these steps:
 15. Click **CONFIRM** to create the Linux Instance.
 
 :::note
-It might take up to 5-8 minutes for the Linux instance to get created. You may use the Cloud Console during this time, but it is advised that you do not refresh the browser window.
+It might take up to 5-8 minutes for the Linux instance to get created. You may use the cloud console during this time, but it is advised that you do not refresh the browser window.
 :::
 
 Once ready, you get notified of this purchase on your registered email ID. To access the newly created Linux Instances, navigate to **Compute >** **Linux Instances** on the main navigation panel.
