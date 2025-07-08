@@ -5,7 +5,7 @@ sidebar_position: 1
 
 Instances are computing units that provide you with resources to run your applications/workloads. Windows Instances are virtual machines that run the images of Windows Operating Systems.
 
-Apiculus cloud console offers a highly usable and visual way of working with and operating Windows Instances using the cloud console. All Linux Instances available in your account can be accessed in the following way:
+Apiculus offers a highly usable and visual way of working with and operating Windows Instances using the Cloud Console. All Linux Instances available in your account can be accessed in the following way:
 
 1. Navigate to **Compute > Windows Instances**.
 2. All the Windows Instances for your account will be listed here with the following details:
@@ -14,6 +14,8 @@ Apiculus cloud console offers a highly usable and visual way of working with and
     - Default IP Address
     - Created
 
+![Overview](img/Windows1.png)
+
  To view a list of sections and the various operations or actions, click **Instance name**. Below the Instance name, there is an informational view where you can find the below details:
 - Configuration
 - Availability Zone
@@ -21,6 +23,7 @@ Apiculus cloud console offers a highly usable and visual way of working with and
 - Created 
 
 On the top right corner, two quick options are available, one for accessing the Instance console Instance and the other to **POWER OFF/ON** the instance.
+![Windows Instance Overview](img/Windows2.png)
 
 Details on available Windows Instance operations and actions can be found in their respective sections:
 - [Overview](ViewingDetailsofWindowsInstances)
@@ -31,7 +34,6 @@ Details on available Windows Instance operations and actions can be found in the
 - [Snapshots](WorkingwithWindowsInstanceSnapshots)
 - [Reconfigure](ReconfiguringWindowsInstances)
 - [Operations](WindowsInstanceOperations)
-
 
 
 

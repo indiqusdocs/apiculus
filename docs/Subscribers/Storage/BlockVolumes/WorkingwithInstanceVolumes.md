@@ -17,4 +17,3 @@ Apart from this, there is no difference between a root disk and a data disk. Bot
 | Resizing Volumes              | Available (via parent Instance) | Available  |
 | Volume Operations             | Not Available                   | Available  |
 
-

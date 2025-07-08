@@ -9,6 +9,8 @@ Instance Snapshots allow you to create point-in-time images of Instances that pr
 
 The Snapshots section shows all Windows Instances snapshots, which can be used to revert the Windows Instances to an earlier state.
 
+![Snapshots](img/Snapshots1.png)
+
 Snapshot shows the following details:
 - Snapshot Name
 - Description
@@ -22,7 +24,7 @@ Two quick options are available, one is to revert the Instance from the snapshot
 - Specify the name and the description of the snapshot.
 - To create a Snapshot, click **Create**. To cancel this action, click **Cancel**.
 
-
+![Snapshots](img/Snapshots2.png)
 
 
 

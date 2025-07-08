@@ -22,4 +22,3 @@ If the newly-linked customer is already on any resource creation/purchase page o
 
 
 
-

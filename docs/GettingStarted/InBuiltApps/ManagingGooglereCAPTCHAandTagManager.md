@@ -20,4 +20,3 @@ Apiculus supports only Invisible reCAPTCHA v2. Using reCAPTCHA is mandatory, b
 
 
 
-

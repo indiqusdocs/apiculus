@@ -30,4 +30,3 @@ Whenever a customer logs in after the policy update, the customer needs to accep
 
 
 
-

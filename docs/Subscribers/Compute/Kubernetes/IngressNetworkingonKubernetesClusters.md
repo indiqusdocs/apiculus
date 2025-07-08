@@ -5,9 +5,12 @@ sidebar_position: 7
 
 To view networking, navigate to [Kubernetes](AboutKubernetes.md) and select a **cluster details**. This section manage a cluster's firewalls and ingress networking. Here, Port forwarding and load balancing rules can also be managed using `kubectl`.
 
+![Ingress Networking on Kubernetes Clusters](img/Ingress1.png)
+
 :::note
 Apiculus Kubernetes Service supports traefik and nginx ingress controllers.
 :::
+
 ## Adding a Firewall Rule to Cluster
 
 A firewall restricts incoming and outgoing network traffic to enhance the security of Kubernetes clusters. It prevents unauthorised access to the cluster's components and resources.
@@ -19,17 +22,21 @@ A firewall restricts incoming and outgoing network traffic to enhance the securi
     3. Enter the Start Port.
     4. Enter the End Port.
     5. Click the **ADD FIREWALL RULE** button.
+![Ingress Networking on Kubernetes Clusters](img/Ingress2.png)
+
 ## Adding a Port Forwarding Rule to Cluster
 
 Port forwarding allows external traffic to access specific services running within Kubernetes pods, enabling external communication with applications.
 
 1. Click the **ADD NETWORKING RULE** button, and the following window appears.
+   ![Ingress Networking on Kubernetes Clusters](img/Ingress3.png)
 2. Select **Port Forwarding**  from the list of networking options and then specify the following options:
     1. Select the particular node from the list.
     2. Choose a Protocol from the available options, i.e., TCP, UDP.
     3. Enter the Public Start and End Port.
     4. Enter the Private Start and End Port.
     5. Click the **ADD PORT FORWARDING RULE** button.
+
 ## Adding a Load Balancing Rule to Cluster
 
 Cluster load balancing rules distribute incoming network traffic across multiple Kubernetes pods to ensure high availability, fault tolerance, and optimal resource utilisation.
@@ -43,7 +50,7 @@ Cluster load balancing rules distribute incoming network traffic across multiple
     5. Select the algorithm.
     6. Click the **ADD LOAD BALANCING RULE** button.
 
-
+![Ingress Networking on Kubernetes Clusters](img/Ingress4.png)
 
 
 

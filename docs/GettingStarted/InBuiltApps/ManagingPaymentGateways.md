@@ -24,4 +24,3 @@ The subscriber users will see a list of all enabled gateways to choose from.
 
 
 
-

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 10
+sidebar_position: 6.1
 ---
 # Accessing the Kubernetes Dashboard
 
@@ -7,7 +7,7 @@ To access the dashboard in Kubernetes version 1.24 and onwards, follow these ste
 
 1. Create a Kubernetes cluster.
 2. Navigate to the **Kubernetes Clusters** screen, select your Kubernetes cluster, and go to the **Access** section. Download the `kubeconfig` file from there.
-	
+	 ![Access Section](img/Access.png)
 	 :::note
 	Ensure that `kubectl` is installed on your system or any system from which you are trying to access the Kubernetes API.
 	 :::
@@ -15,8 +15,8 @@ To access the dashboard in Kubernetes version 1.24 and onwards, follow these ste
 	`# kubectl get node --kubeconfig kube-file.yaml`<br/>
 	`# kubectl get pods --kubeconfig kube-file.yaml`<br/>
 	`# kubectl get services --kubeconfig kube-file.yaml`<br/><br/>
-	You should be able to see the following output:
-	![outputkube1](img/outputkube1.png)
+	You should be able to see the following output:<br/><br/>
+	![Code](img/Code1.png)
 4.  Create a service account and a secret token to access the dashboard.
 	- **For Windows**: Create a YAML file using the following code. 
 	```
@@ -84,8 +84,8 @@ To access the dashboard in Kubernetes version 1.24 and onwards, follow these ste
 	EOF
 	```
 
-	You should be able to see the following output:
-	![outputkube2](img/outputkube2.png)
+	You should be able to see the following output:<br/><br/>
+	![Code](img/Code2.png)
 
  5. Fetch the secret token for dashboard login using the following command:
 	:::note
@@ -96,15 +96,15 @@ To access the dashboard in Kubernetes version 1.24 and onwards, follow these ste
 	# kubectl --kubeconfig /custom/path/kube.conf describe secret $(kubectl -- kubeconfig /custom/path/kube.conf get secrets -n kubernetes-dashboard | grep kubernetes-dashboard-token | awk '{print $1}') -n kubernetes-dashboard
 	```
 	You can see the token in the output that follows.
-![outputkube3](img/outputkube3.png)
-6. Run the following command to start the proxy for the Kubernetes cluster: <br/>
+			![Code](img/Code3.png)
+	    
+5. Run the following command to start the proxy for the Kubernetes cluster: <br/>
 	`# kubectl --kubeconfig /custom/path/kube.conf proxy`
-	You should be able to see the following output:
-![outputkube4](img/outputkube4.png)
-
+	You should be able to see the following output:<br/><br/>
+	![Code](img/Code4.png)
 7. Open the following URL on your browser:
 	[http://localhost:8001/api/v1/namespaces/kubernetes-dashboard/services/https:kubernetes-dashboard:/proxy/](http://localhost:8001/api/v1/namespaces/kubernetes-dashboard/services/https:kubernetes-dashboard:/proxy/)
 
-To view the dashboard interface, click **Token**, paste the token fetched from **Step 5**, and click **Sign in**
-![tokenkube](img/tokenkube.png)
-![podkube](img/podkube.png)
+To view the dashboard interface, click **Token**, paste the token fetched from **Step 5**, and click **Sign in**.
+![Dashboard Sign in](img/Dashboard2.png)
+![Dashboard](img/KubernetesDashboard.png)

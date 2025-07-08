@@ -34,6 +34,7 @@ The following sections list the instructions to verify/login into DB application
 	     `mongosh -u admin -p your_password_here --authenticationDatabase admin`
 
 For more information about creating database and collection, refer [MongoDB documentation](https://www.mongodb.com/docs/).
+
 ## MySQL
 
  To set up and log into MySQL, follow these steps:
@@ -49,6 +50,7 @@ For more information about creating database and collection, refer [MongoDB docu
 6. Enter the password when prompted. 
 
 For more information, refer [MySQL documentation](https://dev.mysql.com/doc/).
+
 ## PostgreSQL
  
  To set up and log into PostgreSQL, follow these steps:
@@ -73,6 +75,7 @@ For more information, refer [MySQL documentation](https://dev.mysql.com/doc/).
 12. Enter the password when prompted.
 
 For more information, refer [PostgreSQL documentation ](https://www.postgresql.org/docs/).
+
 ## Redis
 
 To set up and log into Redis, follow these steps:
@@ -89,6 +92,7 @@ To set up and log into Redis, follow these steps:
 	`redis-cli -a your_password_here`.
 
 For more information, refer [Redis documentation](https://redis.io/docs/latest/).
+
 ## Cassandra
 
 To set up and log into Cassandra, follow these steps:
@@ -106,6 +110,7 @@ To set up and log into Cassandra, follow these steps:
     `cqlsh -u cassandra -p your_password_here`.
 
 For more information, refer [Cassandra documentation](https://cassandra.apache.org/doc/latest/).
+
 ## Elasticsearch
 
 To set up passwords for the built-in users, you can use the `elasticsearch-setup-passwords` tool. You can run this tool in either auto mode or interactive mode.
@@ -116,6 +121,7 @@ To set up passwords for the built-in users, you can use the `elasticsearch-setup
 
  Follow the prompts to set passwords for the built-in users, including the elastic users. To verify password setup, make an authenticated request to Elasticsearch by using the following command:<br/>
 	`curl -u elastic:your_password_here -X GET "localhost:9200/"`
+
 ### Using Kibana (Optional)
 
 Kibana is optional but highly recommended for managing and visualizing Elasticsearch data.

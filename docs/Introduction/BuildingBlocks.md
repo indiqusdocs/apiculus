@@ -18,4 +18,3 @@ In short, the building blocks of Apiculus are:
 - Networking - firewalls, switches and routers from industry-leading providers
 - High-performance Servers - [HPE preference hardware](https://www.hpe.com/greenlake), with support for other leading (Dell, Huawei etc.) or commodity providers
 
-
