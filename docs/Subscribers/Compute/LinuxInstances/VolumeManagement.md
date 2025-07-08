@@ -5,10 +5,8 @@ sidebar_position: 6
 
 To view the disks attached to this Instance, navigate to [Operating Linux Instances](AboutLinuxInstances.md), select a Linux Instance and access the **Volumes** tab.
 
-Linux Instances on Apiculus work with the [Block Volumes Service](/docs/Subscribers/Storage/BlockVolumes/AboutBlockVolumes) and let you carry out basic disk operations.
-
-![Volume Management](img/VolumeManagement.png)
-
+Linux Instances on Apiculus cloud console work with the [Block Volumes Service](/docs/Subscribers/Storage/BlockVolumes/AboutBlockVolumes) and let you carry out basic disk operations.
+![voulume](img/voulume.png)
 
 The following are the quick actions:
 
@@ -19,6 +17,7 @@ The following are the quick actions:
 :::note
 Volume-level operations are available as part of the Block Volumes service.
 :::
+
 
 
 

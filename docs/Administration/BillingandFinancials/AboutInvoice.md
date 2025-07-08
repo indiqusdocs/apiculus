@@ -24,3 +24,4 @@ To cancel an Invoice, click on ![Cancel Icon](img/CancelIcon.png)(cancel icon) i
 ![Cancel Invoice](img/Invoices1.png)
 
 
+

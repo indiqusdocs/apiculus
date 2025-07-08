@@ -4,7 +4,6 @@ sidebar_position: 2
 # Connecting to a Linux Instance
 
 You can connect to Linux Instances via SSH sessions using passwords (less secure) or [SSH key pairs](/docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairs) (most secure)
-
 ## Connect from a Windows Machine
 
 To connect to your Linux Instance from a Windows machine, you will need to use a small application called PuTTy, an SSH client.
@@ -12,16 +11,15 @@ To connect to your Linux Instance from a Windows machine, you will need to use a
 1. [Download and install PuTTy.](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 2. Launch PuTTy on your computer.
 3. Enter your Instance’s IP address in the **Host Name (or IP Address)** field.
-   ![Putty](img/putty1.png)
+   ![putty1](img/putty1.png)
 4. Navigate to **Connection** > **SSH** > **Auth**.
-	  ![Putty](img/putty2.png)
+   ![putty2](img/putty2.png)
 5. Click the **Browse** button and select the previously generated private key file.
 6. To open a connection to the Instance, click **Open** at the bottom of the screen. PuttY prompts you to allow the connection to the host.
 7. Click **OK** to confirm and the terminal window will be displayed.
 8. Enter the default root user name (typically **ubuntu** for Ubuntu images and **root** for all other Linux OS images) and press **Enter** to authenticate against the server with your SSH key.
 
 You are now connected to your Instance.
-
 ## Connect from a macOS or Linux Machine
 
 1. Open any terminal program.
@@ -44,6 +42,7 @@ You are now connected to your Instance.
 	
 	You are now connected to your Instance.
 	```
+
 
 
 
