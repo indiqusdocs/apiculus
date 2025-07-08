@@ -59,4 +59,3 @@ To  configure a VPN Connection on Windows using Native VPN client, follow these 
 
  The configuration is successful.
 ![Connected](img/ConfigureVPN14.png)
-
