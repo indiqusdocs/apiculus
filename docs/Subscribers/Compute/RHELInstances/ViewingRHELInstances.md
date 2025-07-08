@@ -3,7 +3,7 @@ sidebar_position: 2.1
 ---
 # Viewing RHEL Instances
 
-Apiculus offers a highly usable and visual way of working with and operating RHEL Instances using the Cloud Console. All RHEL Instances available in your account can be accessed in the following way:
+Yntraa cloud console offers a highly usable and visual way of working with and operating RHEL Instances using the Cloud Console. All RHEL Instances available in your account can be accessed in the following way:
 
 1. Navigate to **Compute > RHEL Instances**.
 2. All the RHEL instances for your account are listed here with the following details:
@@ -12,10 +12,9 @@ Apiculus offers a highly usable and visual way of working with and operating RHE
 	- Default IP Address
 	- IPv6 Address
 	- Created
-	  
-	![RHEL Instances](img/RHEL3.png)
-1. To view a list of sections and the various operations or actions, click **instance name**.
-	![RHEL Instances](img/RHEL4.png)
+![rhelcreation](img/rhelcreation.png)
+3. To view a list of sections and the various operations or actions, click **instance name**.
+![rheloverview](img/rheloverview.png)
 
 Below the Instance name, there is an informational view where you can find the following details:
 - Configuration

@@ -15,9 +15,7 @@ The following graphs are available on a 24-hour time-scale graph with a 30-day t
 - RAM Utilisation
 - Network Input
 - Network Output
-
-![Viewing Graphs and Utilization of Linux Instances](img/ViewingGraphs.png)
-
+![utilisation](img/utilisation.png)
 ## Utilisation (Historical)
 
 To view historical usage across supported parameters, navigate to [Operating Linux Instances](AboutLinuxInstances.md), select a Linux Instance and access the **Utilisation** tab.

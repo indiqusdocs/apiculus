@@ -4,9 +4,7 @@ sidebar_position: 7
 # Volume Management with Windows Instances
 
 To view the disks attached to this instance, navigate to [Windows Instances Screen](AboutWindowsInstances), select a Windows Instance, and access the **Volumes** tab.
-Windows Instances on Apiculus work with the [Block Volumes Service](/docs/Subscribers/Storage/BlockVolumes/AboutBlockVolumes) and let you carry out basic disk operations.
-
-![Volume Management](img/VolumeManagement.png)
+Windows Instances on Yntraa cloud console work with the [Block Volumes Service](/docs/Subscribers/Storage/BlockVolumes/AboutBlockVolumes) and let you carry out basic disk operations.
 
 The following quick actions are available:
 

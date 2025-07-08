@@ -6,12 +6,12 @@ sidebar_position: 3
 To create Autoscale Groups, follow these steps:
 1. Navigate to **Compute > Autoscale Groups** in the navigation menu.
 2. Click the **NEW AUTOSCALE GROUP** button.
-3. Select an **Instance Category**. 
-	![Creating Autoscale Groups](img/CreatingAutoscaleGroups1.png)
+3. Select an **Instance Category**.
+![instanceauto](img/instanceauto.png) 
 4. Select the **Availability Zone** that represents the geographic region for the deployment of your Autoscaled Instance.
 5. **Select VPC Network**, choose the appropriate tier in **Select a Network Tier**, and then select a load balancer from the options in the **Select Load Balancer** dropdown.
 6. Select the **OS Image**.
-   ![Creating Autoscale Groups](img/CreatingAutoscaleGroups2.png)
+![osauto](img/osauto.png)
 7. Select the **Compute pack** from the available compute collections.
 8. Select the **Root disk** from the available Disk packs. You can use the free size option to define the size of the Root Disk.
 9. Configure the **Autoscale group** as per your requirement; these options need to be specified.
@@ -19,7 +19,7 @@ To create Autoscale Groups, follow these steps:
     - **Max. Group Limit:** This is the maximum number of members in the Autoscale Group. The number of instances in the group will be equal to or more than this number.
     - **Expunge VM grace period:** This defines how long before a scale-down is executed should the app/user connections to an Instance be removed.
     - **Polling Interval:** This defines at what interval should the Autoscale Group check your policy conditions and execute the relevant Scale or Scale-down configurations.
-      ![Creating Autoscale Groups](img/CreatingAutoscaleGroups3.png)
+![configauto](img/configauto.png)
 10. Define the **Scale Up policy** (Multiple policies can be configured; if multiple conditions are specified, all of them need to be met for the Autoscale Group to execute). You need to specify the following:
 	- **Policy Name**: Specify the name for your policy.
 	- **Duration (in mins):** This is the duration in which the conditions have to be true before action is taken.
@@ -33,15 +33,15 @@ To create Autoscale Groups, follow these steps:
 		- **Load Balancer** - average connections per VM
 	- **Breach:** Relational Operator to be used with threshold. This will be Greater Than by default.
 	- **Threshold:** This is the value for which the Counter will be evaluated with the Operator selected.
-	![Creating Autoscale Groups](img/CreatingAutoscaleGroups4.png)![Creating Autoscale Groups](img/CreatingAutoscaleGroups5.png)
+![defineauto](img/defineauto.png)
 11. Click **ADD CONDITION** to add the policy. If you want to add more policies, click the **ADD NEW** button present beside the Policy name.
 12.  Define the **Scale Down Policy**; the parameters are similar to the Scale UP policy. Only the breach parameter will be greater than by default.
-	![Creating Autoscale Groups](img/CreatingAutoscaleGroups6.png)![Creating Autoscale Groups](img/CreatingAutoscaleGroups7.png)
+![scaledownauto](img/scaledownauto.png)
 13. Next is to set up the SSH Key. if your account doesn’t have any SSH key pair, then you can use the **Generate a new key pair** option, and you can also upload the key by selecting **Upload a key pair**.
-    ![Creating Autoscale Groups](img/CreatingAutoscaleGroups8.png)
+![sshauto](img/sshauto.png)
 14. If you want to notify your users or custom email addresses upon the execution of this Autoscale Group, then you can select the appropriate option available under Notify on email. i.e., Notify to account users, Notify to comma-separated email addresses.<br/>
 15. Specify the name of your Autoscale group. <br/>
-16. Click the **PUBLISH THIS AUTOSCALE GROUP** button for publishing the Autoscale group.![Creating Autoscale Groups](img/CreatingAutoscaleGroups9.png)![Creating Autoscale Groups](img/CreatingAutoscaleGroups10.png)![Creating Autoscale Groups](img/CreatingAutoscaleGroups11.png)
+16. Click the **PUBLISH THIS AUTOSCALE GROUP** button for publishing the Autoscale group.!!
 
 
 
