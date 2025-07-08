@@ -23,7 +23,7 @@ Begin by provisioning two separate VPCs (for example, **ADC-R522-VPC A** and **A
 This setup establishes the foundational network segmentation necessary to enable a Site-to-Site VPN connection between the two VPCs.
 ## Launching Virtual Machines
 
-Deploy one Virtual Machine (VM) inside each VPC. Create Virtual Machine (for example, **ADC-R522-74-instance-A**) in Virtual Private Cloud **ADC-R522-VPC A** and (for example, **ADC-R522-73-instance-B**) in Virtual Private Cloud  **ADC-R522-VPC B**.
+Deploy one Virtual Machine (VM) inside each VPC. Create Virtual Machine (for example, **ADC-R522-97-instance-A**) in Virtual Private Cloud **ADC-R522-VPC A** and (for example, **ADC-R522-98-instance-B**) in Virtual Private Cloud  **ADC-R522-VPC B**.
 
 Refer to the [Creating Linux Instances](/docs/Subscribers/Compute/LinuxInstances/CreatingLinuxInstances) note for detailed steps on creating Linux instances. 
 ![overviewa](img/overviewa.png)
@@ -68,7 +68,7 @@ Confirm that the VPN connection has been successfully established:
 ## Testing Connectivity
 
 Ensure that the communication between VPCs is operational:
-1. From Virtual Machine **ADC-R522-74-instance-A** in VPC **ADC-R522-VPC A**, try pinging into Virtual Machine **ADC-R522-73-instance-B** in VPC **ADC-R522-VPC B**, and vice versa.
+1. From Virtual Machine **ADC-R522-97-instance-A** in VPC **ADC-R522-VPC A**, try pinging into Virtual Machine **ADC-R522-98-instance-B** in VPC **ADC-R522-VPC B**, and vice versa.
 ![ping](img/ping.png)
 2. Successful connectivity confirms that the Site-to-Site VPN is functioning correctly. Also, validate routing tables to ensure that traffic is correctly forwarded through the VPN tunnel.
 ![pingb](img/pingb.png)
