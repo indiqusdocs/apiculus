@@ -1,56 +1,97 @@
-import React from 'react';
+import clsx from 'clsx';
+import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Service Providers',
-    Svg: require('@site/static/img/sps.svg').default,
-    link: '/docs/intro',
-    description:
-      'Click here to read the documents that offer guidance on platform setup, user management, billing, customer support, etc.',
+    title: (
+	<a href="/docs/intro" target="_self" rel="noopener noreferrer">
+<div className="title">Service Providers</div>
+	</a>
+	),
+    Svg: require('@site/static/img/sps.svg').default,	
+    description: (
+    <div className="description">  <>
+        <a href="/docs/intro" target="_self" rel="noopener noreferrer">
+          Click here
+        </a> to read the documents that offer guidance on platform setup, user management, billing, customer support, etc.</>
+	</div>
+	   
+    ),
   },
   {
-    title: 'Subscribers',
+    title: (
+	<a href="/docs/Subscribers/intro" target="_self" rel="noopener noreferrer">
+	<div className="title">Subscribers</div>
+	</a>
+	),
     Svg: require('@site/static/img/sbs.svg').default,
-    link: '/docs/Subscribers/intro',
-    description:
-      'Click here to access detailed documentation on all services supported and deliverable via the Apiculus CloudConsole.',
+    description: (
+      <div className="description"> <>
+       <a href="/docs/Subscribers/intro" target="_self" rel="noopener noreferrer">
+          Click here
+        </a> to access detailed documentation on all services supported and deliverable via the Apiculus CloudConsole.
+      </>
+		</div>
+
+    ),
   },
   {
-    title: 'Release Notes',
+    title: (
+	<a href="/docs/category/release-notes" target="_self" rel="noopener noreferrer">
+	<div className="title">Release Notes</div>
+	</a>
+	),
     Svg: require('@site/static/img/rn.svg').default,
-    link: '/docs/category/release-notes',
-    description:
-      'Click here to learn about the new features, enhancements, known issues, and bugs in all the releases till date.',
+	
+    
+	description: (
+      <div className="description"> <>
+        <a href="/docs/category/release-notes" target="_self" rel="noopener noreferrer">
+          Click here 
+        </a> to learn about the new features, enhancements, known issues, and bugs in all the releases till date.
+      </>
+	  </div>
+    ),
   },
+  
+  /* {
+    title: 'API Documentation',
+    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    description: (
+      <>
+        Extend or customize your website layout by reusing React. Docusaurus can
+        be extended while reusing the same header and footer.
+      </>
+    ),
+  }, 
+  */
 ];
 
-function Feature({ Svg, title, description, link }) {
+function Feature({Svg, title, description}) {
   return (
-    <div className="col col--4">
-      <div className={styles.featureBox}>
-        <a href={link} style={{ textDecoration: 'none', color: 'inherit' }}>
-          <div className="text--center">
-            <Svg className={styles.featureSvg} role="img" />
-            <h3>{title}</h3>
-          </div>
-          <p style={{ padding: '0 10px', textAlign: 'center' }}>{description}</p>
-        </a>
+    <div className={clsx('col col--4')}>
+      <div className="text--center">
+        <Svg className={styles.featureSvg} role="img" />
+      </div>
+      <div className="text--center padding-horiz--md">
+        <Heading as="h3">{title}</Heading>
+        <p>{description}</p>
       </div>
     </div>
   );
 }
 
-export default function Home() {
+export default function HomepageFeatures() {
   return (
-    <main>
-      <section className="container">
+    <section className={styles.features}>
+      <div className="container">
         <div className="row">
           {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />
           ))}
         </div>
-      </section>
-    </main>
+      </div>
+    </section>
   );
 }

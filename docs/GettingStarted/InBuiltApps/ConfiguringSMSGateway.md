@@ -18,4 +18,3 @@ The SMS gateway is a in-built Apiculus application that enables messages and not
 
 
 
-

@@ -14,4 +14,3 @@ Once created, a Quick Plan category can not be deleted.
 
 
 
-

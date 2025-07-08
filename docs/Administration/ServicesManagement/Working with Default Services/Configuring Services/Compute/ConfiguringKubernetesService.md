@@ -31,4 +31,3 @@ Follow the below steps to configure the Kubernetes Service:
 
 
 
-

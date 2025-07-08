@@ -22,4 +22,3 @@ SMS charges and the ability to send domestic and international messages depend o
 
 
 
-

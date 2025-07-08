@@ -12,4 +12,3 @@ This view can be accessed from **Support & Operations > Logs** in the main nav
 
 
 
-

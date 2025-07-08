@@ -10,4 +10,3 @@ To connect to a Windows Instance, any RDP client may be used. While [Microsoft 
 
 
 
-

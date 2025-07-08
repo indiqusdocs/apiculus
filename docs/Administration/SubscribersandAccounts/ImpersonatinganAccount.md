@@ -24,4 +24,3 @@ To impersonate an account, follow these steps:
 
 
 
-

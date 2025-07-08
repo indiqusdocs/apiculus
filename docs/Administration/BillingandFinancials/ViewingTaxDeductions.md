@@ -11,4 +11,3 @@ Click on the ![Eye icon](img/Eye.png) (Eye icon) on any account-level or global 
 
 
 
-

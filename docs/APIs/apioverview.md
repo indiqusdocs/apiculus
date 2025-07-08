@@ -29,4 +29,3 @@ The fully qualified domain name (FQDN) for the API endpoint will be shared separ
 |Terminate account|-|
 |Enable account|-|
 |Close session|-|
-

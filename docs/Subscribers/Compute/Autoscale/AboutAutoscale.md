@@ -8,4 +8,3 @@ The Autoscale feature allows a system to adjust its computing resources based on
 
 
 
-
