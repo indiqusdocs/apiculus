@@ -106,7 +106,9 @@ The following steps help you access the pfsense firewall GUI from your browser u
 3. Paste the IP address in the address bar and press **Enter**.
 4. **Ignore the Security Warning**: If a warning appears, it is because of a self-signed certificate. Just click **Advanced** and then **Proceed** to continue.
 5. **Accept the License**: A blue screen with license information appears. Click the **Accept** button.
-![pfseneapi](img/pfseneapi.png)
+![pfsenseapi](img/pfsenseapi.png)
+![pfsenseapi1](img/pfsenseapi1.png)
+
 ### Deploying a Linux VM under pfsense Firewall
 
 To deploy a Linux virtual machine (VM) behind the pfsense firewall in Apiculus Cloud, begin by navigating through the dashboard and accessing the compute section. This allows you to view existing Linux instances or initiate the creation of the new under the desired network configuration.
