@@ -149,7 +149,7 @@ The following steps guide you through choosing a root disk option that best fits
     - **RD 100**: 100 GB (Selected)
 2. Click on **Select Pack** for your desired option. For Example:
      - **RD 100** (100 GB) is selected.
-![rootapiculus](img/rootapiculus.jpg)
+![rootapiculus](img/rootapiculus.png)
 ### Authentication Method
 
 To ensure secure access to your Linux instance, selecting the right authentication method is crucial. The following options are available: 
