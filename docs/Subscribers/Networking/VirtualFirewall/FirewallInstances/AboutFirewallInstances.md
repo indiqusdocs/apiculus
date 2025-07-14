@@ -18,3 +18,4 @@ All virtual firewalls created in an account can be accessed from navigating to t
 
 ![Viewing VFI Network Details](img/ViewingVFINetworkDetails1.png)
 
+
