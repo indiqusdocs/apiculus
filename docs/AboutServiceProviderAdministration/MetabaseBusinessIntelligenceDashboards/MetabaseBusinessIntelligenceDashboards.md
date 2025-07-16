@@ -7,13 +7,13 @@ The Apiculus solution stack includes the open-source BI tool [Metabase](https://
 
 By default, the following dashboards are set up and integrated with the Apiculus Admin Console:
 
-1. Accounts dashboard
-2. [Apiculus Billing Dashboard](/docs/AboutServiceProviderAdministration/MetabaseBusinessIntelligenceDashboards/ApiculusBillingDashboard)
-3. Marketing dashboard
-4. [Apiculus Marketplace Dashboard](/docs/AboutServiceProviderAdministration/MetabaseBusinessIntelligenceDashboards/ApiculusMarketplaceDashboard)
-5. Cloud usage dashboard
-6. Cloud resources dashboard
-7. Support dashboard
+- Accounts dashboard
+- [Apiculus Billing Dashboard](/docs/AboutServiceProviderAdministration/MetabaseBusinessIntelligenceDashboards/ApiculusBillingDashboard)
+- Marketing dashboard
+- [Apiculus Marketplace Dashboard](/docs/AboutServiceProviderAdministration/MetabaseBusinessIntelligenceDashboards/ApiculusMarketplaceDashboard)
+- Cloud usage dashboard
+- Cloud resources dashboard
+- Support dashboard
 
 ![Metabase Business Intelligence Dashboards](img/MetabaseBusinessIntelligenceDashboards.png)
 
