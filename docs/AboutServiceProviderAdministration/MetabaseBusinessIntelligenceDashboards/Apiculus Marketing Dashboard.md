@@ -5,7 +5,7 @@ sidebar_position: 3
 
 The Apiculus Marketing Dashboard provides a comprehensive overview of marketing activities and customer engagement. It brings together essential data on issued coupons, discount codes, and their application across transactions, helping teams monitor promotional effectiveness and usage trends. 
 
-Additionally, the dashboard highlights account-level insights, such as customer activity and engagement status, enabling better targeting and nurturing strategies. Designed to support informed decision-making, the dashboard serves as a central tool for managing campaigns, tracking performance, and identifying opportunities for growth.
+Additionally, the dashboard highlights the following account-level insights, such as customer activity and engagement status, enabling better targeting and nurturing strategies. Designed to support informed decision-making, the dashboard serves as a central tool for managing campaigns, tracking performance, and identifying opportunities for growth. The following insights help track promotions, understand customer response, and improve marketing efforts: 
 ## All Coupons
 
 The All Coupons table provides a concise overview of issued coupons, capturing key details such as their unique codes, monetary value, currency type, and relevant timestamps. It also includes usage information to support tracking, accountability, and timely management of coupon lifecycles.
@@ -19,6 +19,7 @@ The All Coupons table provides a concise overview of issued coupons, capturing k
 | **Used On**     | The date and time when the coupon was redeemed.                                  | Important for tracking coupon usage and ensuring accurate accounting.                                            |
 | **Expiring On** | The date and time when the listed item or service will expire.                   | Indicates the deadline for the validity of the item or service, which is crucial for timely renewals or actions. |
 | **Used By**     | The identifier and name of the person or organization using the item or service. | Helps in tracking and managing who is utilizing the item or service, ensuring accountability and proper usage.   |
+
 ![allcoupon1.png](img/allcoupon1.png)
 
 ## All Discount Codes
@@ -37,6 +38,7 @@ The All Discount Codes table lists various promotional codes issued for products
 | **Discount Type**  | Specifies the nature of the discount, such as a fixed amount or percentage. | Determines how the discount is calculated and applied.            |
 | **Applicable To**  | Identifies the specific product or service the discount applies to          | Ensures the discount is used only for eligible items.             |
 | **Applicable On**  | Indicates the category or scope where the discount can be applied.          | Defines the range of items or services eligible for the discount. |
+
 ![alldiscountcodes1](img/alldiscountcodes1.png)
 ## Applied Discount Codes
 
@@ -73,8 +75,7 @@ The Accounts Needing Nurture table provides a focused view of customer accounts 
 | **Age**                  | The number of days since the account was created.                           | Useful for assessing account maturity and identifying long-term customers who may need re-engagement. |
 
 ![accountsneedingnurture](img/accountsneedingnurture.png)
-## Coupon Expiring
-![couponexpiring](img/couponexpiring.png)
+
 
 
 
