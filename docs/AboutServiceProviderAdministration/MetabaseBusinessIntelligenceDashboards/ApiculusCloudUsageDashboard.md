@@ -4,7 +4,6 @@ sidebar_position: 2
 # Apiculus Cloud Usage Dashboard
 
 The Apiculus Cloud Usage Dashboard provides a centralized view of resource consumption across disk, IP, VM, storage, and network components. It helps teams track usage, link resources to accounts and users, and support billing and audits. With the following insights into allocation times, usage duration, and infrastructure grouping, the dashboard enables better cost control, operational efficiency, and informed decision-making:
-
 ## Usage- Disk Hours
 
 The Usage – Disk Hours table provides a comprehensive view of disk resource allocation and utilization across customer accounts. By linking each disk to specific users, organizations, and account IDs, this table supports accurate tracking, billing, and audit logging. The creation time helps track when disks were set up, and grouping them by resource pool makes it easier to manage infrastructure. Together, the insights help optimize storage usage, improve operational efficiency, and support informed decision-making across cloud environments.
@@ -25,11 +24,10 @@ The Usage – Disk Hours table provides a comprehensive view of disk resource al
 
 ![usagedisk1](img/usagedisk1.png)
 
-
 ![usagedisk2](img/usagedisk2.png)
 ## Usage - IP Hours
 
-The Usage – IP Hours table provides a detailed breakdown of public IP address allocation and consumption across customer accounts. It captures critical metadata such as account identifiers, user email addresses, and assigned IPs, allowing teams to monitor network resource distribution with precision. Each IP address is marked with the date and time it was given, making it easy to see when it was set up and how long it’s been used. The inclusion of allocated hours helps quantify resource consumption, which is essential for billing, performance tracking, and optimization. By linking IP usage to specific users and accounts, this section supports audit readiness, improves operational transparency, and enables better cost control in cloud environments.
+The Usage – IP Hours table provides a detailed breakdown of public IP address allocation and consumption across customer accounts. It captures the critical metadata, allowing teams to monitor network resource distribution with precision. Each IP address is marked with the date and time it was given, making it easy to see when it was set up and how long it’s been used. The inclusion of allocated hours helps quantify resource consumption, which is essential for billing, performance tracking, and optimization. By linking IP usage to specific users and accounts, this section supports audit readiness, improves operational transparency, and enables better cost control in cloud environments.
 
 | **Field**           | **Description**                                                          | **Importance**                                                                        |
 | ------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- |

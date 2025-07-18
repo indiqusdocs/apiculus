@@ -12,7 +12,7 @@ By default, the following dashboards are set up and integrated with the Apiculus
 - [Apiculus Marketing Dashboard](/docs/AboutServiceProviderAdministration/MetabaseBusinessIntelligenceDashboards/Apiculus%20Marketing%20Dashboard)
 - [Apiculus Marketplace Dashboard](/docs/AboutServiceProviderAdministration/MetabaseBusinessIntelligenceDashboards/ApiculusMarketplaceDashboard)
 - [Apiculus Cloud Usage Dashboard](/docs/AboutServiceProviderAdministration/MetabaseBusinessIntelligenceDashboards/ApiculusCloudUsageDashboard)
-- Cloud Resources Dashboard
+- [Apiculus Cloud Resources Dashboard](/docs/AboutServiceProviderAdministration/MetabaseBusinessIntelligenceDashboards/ApiculusCloudResourceDashboard)
 - Support Dashboard
 
 ![Metabase Business Intelligence Dashboards](img/MetabaseBusinessIntelligenceDashboards.png)

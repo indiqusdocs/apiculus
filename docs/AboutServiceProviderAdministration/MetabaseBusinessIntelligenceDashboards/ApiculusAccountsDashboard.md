@@ -45,11 +45,11 @@ The Accounts Health table provides a detailed information of the operational sta
 
 By presenting the total number of accounts and visually breaking down their status distribution through a color-coded chart, this section enables teams to quickly identify trends, monitor service continuity, and prioritize follow-up actions. It serves as a valuable tool for maintaining operational oversight and supporting strategic decisions related to customer lifecycle management.
 
-| **Field**           | **Description**                                                                                          | **Importance**                                                                                   |
-|---------------------|----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
-| **Account Status**  | Categorization of customer accounts based on their current operational state (e.g., ACTIVE, TERMINATED). | Helps assess the overall health of the account base and identify areas requiring follow-up.     |
-| **Total Accounts**  | The total number of accounts represented in the chart (78 accounts).                                     | Provides context for evaluating the distribution and proportion of each account status.         |
-| **Status Distribution** | A visual breakdown of account statuses using a pie chart segmented by color.                         | Offers a quick and intuitive view of account health across categories for operational planning. |
+| **Field**               | **Description**                                                               | **Importance**                                                                                  |
+| ----------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| **Account Status**      | Categorization of customer accounts based on their current operational state. | Helps assess the overall health of the account base and identify areas requiring follow-up.     |
+| **Total Accounts**      | The total number of accounts represented in the chart.                        | Provides context for evaluating the distribution and proportion of each account status.         |
+| **Status Distribution** | A visual breakdown of account statuses using a pie chart segmented by color.  | Offers a quick and intuitive view of account health across categories for operational planning. |
 
 ![accountshealth](img/accountshealth.png)
 
@@ -105,13 +105,13 @@ The Accounts – Monthly Growth table provides a detailed view of new account cr
 
 The Accounts – Lifecycle Summary table provides a comprehensive view of customer account activity across various operational stages. This structured overview enables teams to monitor account engagement, identify dormant or inactive profiles, and assess onboarding timelines. By highlighting accounts that may require re-engagement or review, this section supports lifecycle management, operational efficiency, and strategic decision-making across the customer base.
 
-| **Field**              | **Description**                                                                                          | **Importance**                                                                                              |
-|------------------------|----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
-| **Account ID**         | A unique identifier assigned to each customer account (e.g., TRY-E327, ADC-R329).                        | Used for tracking and referencing accounts across various lifecycle states.                                 |
-| **Organisation**       | The name of the organization or individual linked to the account (e.g., Test111, Indiqus tech pvt ltd).  | Helps identify the account owner for status review and operational follow-up.                               |
-| **Created On**         | The date and time when the account was initially created.                                                 | Useful for understanding account age and onboarding timelines.                                               |
-| **Updated On**         | The last recorded date and time of any update made to the account.                                        | Indicates recent activity and helps assess account engagement or dormancy.                                  |
-| **Days Since Update**  | The number of days elapsed since the account was last updated (e.g., 586, 762).                          | Highlights inactive or potentially neglected accounts for re-engagement or termination review.              |
+| **Field**             | **Description**                                                    | **Importance**                                                                                 |
+| --------------------- | ------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- |
+| **Account ID**        | A unique identifier assigned to each customer account.             | Used for tracking and referencing accounts across various lifecycle states.                    |
+| **Organisation**      | The name of the organization or individual linked to the account.  | Helps identify the account owner for status review and operational follow-up.                  |
+| **Created On**        | The date and time when the account was initially created.          | Useful for understanding account age and onboarding timelines.                                 |
+| **Updated On**        | The last recorded date and time of any update made to the account. | Indicates recent activity and helps assess account engagement or dormancy.                     |
+| **Days Since Update** | The number of days elapsed since the account was last updated.     | Highlights inactive or potentially neglected accounts for re-engagement or termination review. |
 
 ![accountslifecycle](img/accountslifecycle.png)
 ## Accounts- Recent Logins

@@ -8,7 +8,7 @@ The Apiculus Marketing Dashboard provides a comprehensive overview of marketing 
 Additionally, the dashboard highlights the following account-level insights, such as customer activity and engagement status, enabling better targeting and nurturing strategies. Designed to support informed decision-making, the dashboard serves as a central tool for managing campaigns, tracking performance, and identifying opportunities for growth. The following insights help track promotions, understand customer response, and improve marketing efforts: 
 ## All Coupons
 
-The All Coupons table provides a concise overview of issued coupons, capturing key details such as their unique codes, monetary value, currency type, and relevant timestamps. It also includes usage information to support tracking, accountability, and timely management of coupon lifecycles.
+The All Coupons table provides a concise overview of the issued coupons, capturing key details such as their unique codes, monetary value, currency type, and corresponding time records. It also includes usage information to support tracking, accountability, and timely management of coupon lifecycles.
 
 | Field           | Description                                                                      | Importance                                                                                                       |
 | --------------- | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
