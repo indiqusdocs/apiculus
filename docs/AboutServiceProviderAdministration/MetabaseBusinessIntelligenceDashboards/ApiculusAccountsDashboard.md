@@ -19,12 +19,12 @@ The Active Accounts table provides a detailed view of customer accounts that are
 
 The All Accounts table provides a comprehensive overview of every customer account within the system, regardless of its current status. This table supports effective account tracking, service management, and lifecycle monitoring. By maintaining visibility into both active and terminated accounts, this section helps ensure accurate record-keeping, operational clarity, and informed decision-making across customer engagements.
 
-| **Field**         | **Description**                                                                                                           | **Importance**                                                                                                                             |
-| ----------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Account ID**    | A unique identifier assigned to each customer account.                                                                    | Used for tracking and managing individual accounts within the system.                                                                      |
-| **Organisation**  | he name of the organization or individual associated with the account.                                                    | Helps identify the account owner for service management and engagement.                                                                    |
-| **Created On**    | The number of cuThe date and time when the account was createdrrently active service subscriptions linked to the account. | Provides information on the account's creation date for record-keeping and tracking purposes.                                              |
-| **Account State** | The current status of the account.                                                                                        | Indicates whether the account is currently active or has been terminated, which is essential for account management and service provision. |
+| **Field**         | **Description**                                                                                           | **Importance**                                                                                                                             |
+| ----------------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Account ID**    | A unique identifier assigned to each customer account.                                                    | Used for tracking and managing individual accounts within the system.                                                                      |
+| **Organisation**  | The name of the organization or individual associated with the account.                                   | Helps identify the account owner for service management and engagement.                                                                    |
+| **Created On**    | The date and time when the account was createdrrently active service subscriptions linked to the account. | Provides information on the account's creation date for record-keeping and tracking purposes.                                              |
+| **Account State** | The current status of the account.                                                                        | Indicates whether the account is currently active or has been terminated, which is essential for account management and service provision. |
 
 ![allaccounts](img/allaccounts.png)
 ## Accounts Growth
@@ -94,11 +94,11 @@ By highlighting low-performing revenue sources, this section supports strategic 
 
 The Accounts – Monthly Growth table provides a detailed view of new account creation trends over time, helping teams monitor user acquisition and evaluate business momentum. By analyzing monthly account counts and identifying seasonal fluctuations or growth spikes, this section supports strategic planning, performance forecasting, and resource allocation. The visual representation enables quick recognition of patterns, making it a valuable tool for assessing engagement efforts and optimizing onboarding strategies.
 
-| **Field**              | **Description**                                                                                          | **Importance**                                                                                          |
-|------------------------|----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
-| **Month**              | The calendar month during which new accounts were created, ranging from June 2023 to January 2024.       | Helps track account creation trends and seasonal patterns in user acquisition.                          |
-| **Account Count**      | The number of new accounts created in each month (e.g., June: 12, July: 6).                              | Provides insight into monthly growth performance and supports forecasting and planning.                 |
-| **Growth Visualization** | A vertical bar chart showing account growth per month, with the y-axis ranging from 0 to 15.           | Offers a quick visual reference to identify peaks, drops, and overall momentum in account creation.     |
+| **Field**                | **Description**                                                                                           | **Importance**                                                                                      |
+| ------------------------ | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| **Month**                | The calendar month during which new accounts were created, ranging from June 2023 to January 2024.        | Helps track account creation trends and seasonal patterns in user acquisition.                      |
+| **Account Count**        | The number of new accounts created in each month.                                                         | Provides insight into monthly growth performance and supports forecasting and planning.             |
+| **Growth Visualization** | A vertical bar chart showing account growth per month, with the y-axis ranging for example, from 0 to 15. | Offers a quick visual reference to identify peaks, drops, and overall momentum in account creation. |
 
 ![accountsmonthlygrowth](img/accountsmonthlygrowth.png)
 ## Accounts-Lifecycle Summary

@@ -118,10 +118,9 @@ The Cloud – All VM table offers a comprehensive view of all virtual machines d
 ![allvm2](img/allvm2.png)
 
 ![allvm3](img/allvm3.png)
-
 ## Cloud- Primary Storage Used Total
 
-The Cloud – Primary Storage Used Total field represents the total amount of primary storage currently utilized within the cloud infrastructure. It is essential for monitoring overall storage consumption across cloud resources. In this case, for example, the value is recorded as “null,” which may indicate that no data is currently stored, or that usage information is unavailable or not being reported.
+The Cloud – Primary Storage Used Total field represents the total amount of primary storage currently utilized within the cloud infrastructure. It is essential for monitoring overall storage consumption across cloud resources. In this case, for example, the value is recorded as **null**, which may indicate that no data is currently stored, or that usage information is unavailable or not being reported.
 
 ![primarystoragetotal](img/primarystoragetotal.png)
 ## Cloud- Used IP
