@@ -17,6 +17,7 @@
   white-space: normal !important;
 }
 
+//Tool Tip in Yellow color background and yellow popup.
 .tooltip-wrapper {
   position: relative;
   display: inline-block;
@@ -64,7 +65,7 @@
   border-radius: 12px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
   background-color: #fff;
-  transition: box-shadow 0.3s;
+  transition: box-shadow 0.1s;
   
 }
 
