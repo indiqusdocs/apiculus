@@ -29,7 +29,7 @@ The Cloud – All Disk Volumes table gives a clear view of all disk resources us
 
 The Cloud – All IP provides a centralized overview of IP address usage within the cloud infrastructure. It highlights key metrics such as the number of used IPs, offering insight into how network resources are being consumed. Monitoring all IP allocations, for example, enables administrators to efficiently manage address space, prevent conflicts, and support scalable cloud deployments.
 
-![allip](img/allip.png)
+![cloudresourcedashboard](img/cloudresourcedashboard.png)
 ## Cloud- All Snapshot
 
 The Cloud – All Snapshot table serves as a comprehensive repository of all snapshot-related metadata within the cloud infrastructure. Snapshots are critical components in cloud environments, enabling data protection, disaster recovery, and system rollback capabilities. This dataset provides granular visibility into each snapshot's lifecycle, ownership, and resource footprint, ensuring administrators can effectively manage storage, monitor usage, and maintain operational continuity.
@@ -122,27 +122,27 @@ The Cloud – All VM table offers a comprehensive view of all virtual machines d
 
 The Cloud – Primary Storage Used Total field represents the total amount of primary storage currently utilized within the cloud infrastructure. It is essential for monitoring overall storage consumption across cloud resources. In this case, for example, the value is recorded as **null**, which may indicate that no data is currently stored, or that usage information is unavailable or not being reported.
 
-![primarystoragetotal](img/primarystoragetotal.png)
+![resourcedashboard](img/resourcedashboard.png)
 ## Cloud- Used IP
 
 This figure is crucial for network administrators and IT teams to monitor IP consumption, manage resource allocation, and prevent address exhaustion or conflicts. Tracking used IPs helps ensure efficient network planning and supports scalability across cloud infrastructure.
 
-![cloudusedip](img/cloudusedip.png)
+![resourcedashboard](img/resourcedashboard.png)
 ## Cloud- VM Count
 
 This figure is vital for understanding the scale of infrastructure usage, planning resource allocation, and maintaining operational efficiency. For example, tracking VM count helps administrators monitor growth trends, optimize workloads, and ensure that provisioning aligns with organizational needs.
 
-![cloudvmcount](img/cloudvmcount.png)
+![resourcedashboard](img/resourcedashboard.png)
 ## Cloud- VPC Count
 
 This number reflects the scale of network segmentation and isolation across the environment. For example, tracking VPC count helps administrators assess resource distribution, manage multi-tenant architectures, and ensure efficient network planning and governance.
 
-![cloudvpccount](img/cloudvpccount.png)
+![resourcedashboard](img/resourcedashboard.png)
 ## Cloud- Disk Used Total 
 
 The Cloud – Disk Used Total metric reflects the overall consumption of disk space within the cloud storage system. This figure is essential for tracking overall storage consumption and ensuring that resources are allocated efficiently. It plays a critical role in helping administrators monitor usage trends, optimize resource allocation, and maintain performance across the infrastructure.
 
-![clouddiskusedtotal](img/clouddiskusedtotal.png)
+![resourcedashboard](img/resourcedashboard.png)
 ## Cloud- OS Split
 
 The Cloud – OS Split table provides a detailed breakdown of operating systems deployed across virtual machines in the cloud environment. This segmentation helps administrators assess compatibility, plan for updates, and manage support across a varied cloud infrastructure.

@@ -21,7 +21,6 @@ The All Coupons table provides a concise overview of the issued coupons, capturi
 | **Used By**     | The identifier and name of the person or organization using the item or service. | Helps in tracking and managing who is utilizing the item or service, ensuring accountability and proper usage.   |
 
 ![allcoupon1.png](img/allcoupon1.png)
-
 ## All Discount Codes
 
 The All Discount Codes table lists various promotional codes issued for products or services. Each entry includes key details such as the discount amount, type, usage limits, and validity period. This section helps in organizing and managing discount offerings for efficient application and tracking.
