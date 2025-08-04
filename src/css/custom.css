@@ -6,6 +6,110 @@
 
 /* You can override the default Infima variables here. */
 
+/* The following two code blocks define how the cards appear for the json file. */
+
+/* Truncate text to 3 lines */
+.text--truncate {
+  display: -webkit-box !important;
+  -webkit-box-orient: vertical !important;
+  -webkit-line-clamp: 3 !important;
+  overflow: hidden !important;
+  white-space: normal !important;
+}
+
+//Tool Tip in Yellow color background and yellow popup.
+.tooltip-wrapper {
+  position: relative;
+  display: inline-block;
+  background-color: #fff176; /* Yellow background */
+  padding: 2px 4px;
+  border-radius: 4px;
+  border-bottom: 1px dotted #555;
+  cursor: help;
+}
+
+.tooltip-wrapper .tooltip-box {
+  visibility: hidden;
+  opacity: 0;
+  width: max-content;
+  max-width: 250px;
+  background-color: #fff176; /* Yellow background */
+  color: #000;
+  text-align: left;
+  border-radius: 4px;
+  padding: 6px 8px;
+  position: absolute;
+  z-index: 1000;
+  top: 130%;
+  left: 50%;
+  transform: translateX(-50%);
+  transition: opacity 0.3s;
+  box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.2);
+  font-size: 0.85em;
+}
+
+.tooltip-wrapper:hover .tooltip-box {
+  visibility: visible;
+  opacity: 1;
+}
+
+
+/* Ensure consistent layout and height across all cards */
+.cardContainer_node_modules-@docusaurus-theme-classic-lib-theme-DocCard-styles-module {
+  display: flex !important;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 300px; /* or whatever fixed height fits your layout */
+  padding: 1rem;
+  border: 1px solid #eee;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  background-color: #fff;
+  transition: box-shadow 0.1s;
+  
+}
+
+
+.card-grid-3 {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: space-between;
+  margin-bottom: 2rem;
+}
+
+/* 3-column layout with fallback for smaller screens */
+.custom-card {
+  flex: 1 1 calc(33.333% - 1rem);
+  min-width: 280px;
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 1rem;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s ease;
+}
+
+.custom-card:hover {
+  border-color: #004080; /* blue border */
+  box-shadow: 0 4px 12px rgba(0, 123, 255, 0.3); /* blue glow */
+}
+
+/* Responsive: stack on smaller screens */
+@media (max-width: 1024px) {
+  .custom-card {
+    flex: 1 1 calc(50% - 1rem); /* 2 columns */
+  }
+}
+
+@media (max-width: 640px) {
+  .custom-card {
+    flex: 1 1 100%; /* 1 column on phones */
+  }
+}
+
+
+
 :root {
   --ifm-color-primary: #004080;
   --ifm-color-primary-dark: #003a73;

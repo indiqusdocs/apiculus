@@ -32,10 +32,7 @@ The Apiculus Marketplace Dashboard offers a comprehensive view of sales and subs
 
 - Key Data Points: This chart represents subscription churn — for example, it shows the number of users unsubscribing from services over time, with noticeable spikes between values **30–40** on the X-axis.
 
-
-
 ![subscriptionchurn](img/subscriptionchurn.png)
-
 
 **Marketplace - Subscription Growth**: This shows positive growth in user adoption. It helps assess daily performance of marketing or product efforts.
 

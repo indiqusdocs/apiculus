@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b7fb875f4ed2f74b",
+        "id": "089eb9950fa7fbb1",
         "type": "tabs",
         "children": [
           {
-            "id": "18a15cb751cbbdd3",
+            "id": "fe0ab96d7b0e9b5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/AboutServiceProviderAdministration/MetabaseBusinessIntelligenceDashboards/MetabaseBusinessIntelligenceDashboards.md",
+                "file": "docs/AboutServiceProviderAdministration/MetabaseBusinessIntelligenceDashboards/Apiculus Marketing Dashboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MetabaseBusinessIntelligenceDashboards"
+              "title": "Apiculus Marketing Dashboard"
             }
           }
         ]
@@ -164,10 +164,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "18a15cb751cbbdd3",
+  "active": "fe0ab96d7b0e9b5e",
   "lastOpenFiles": [
-    "docs/AboutServiceProviderAdministration/MetabaseBusinessIntelligenceDashboards/ApiculusMarketplaceDashboard.md",
+    "docs/AboutServiceProviderAdministration/MetabaseBusinessIntelligenceDashboards/ApiculusSupportDashboard.md",
+    "build/assets/images/TechnicalContact-9033168845fbed957718fe31145ef1b1.png",
+    "build/assets/images/Summary-ea1d609d09969a9d30272a7f8e3a36b5.png",
+    "build/assets/images/zoneapiculus-d036c931af60c834a983f2e798a3dc1d.png",
+    "build/assets/images/ZabbixDashboardandNMS-c2527f0b200a02597ac742e94af5a959.png",
+    "build/assets/images/WorkingwithVolumeSnapshots-bacaba26967ba54567afe3db68ca3b55.png",
+    "build/assets/images/WorkingwithInstanceVolumes2-e9ad4771096096b56b2e00a5e368ec18.png",
+    "build/assets/images/WorkingwithInstanceVolumes1-12ec44de4d94a6468f181be2360df1cd.png",
+    "build/assets/images/WorkingwithDiscountCodes9-20fc6541fdd4044d0bd5b2d91359a32f.png",
+    "build/assets/images/WorkingwithDiscountCodes8-3c029b00e303846b5dbaece44344bb0c.png",
+    "build/assets/images/WorkingwithDiscountCodes7-33c4dd24fc7d924f4aaf8712f1989d54.png",
+    "build/assets/images",
+    "docs/AboutServiceProviderAdministration/MetabaseBusinessIntelligenceDashboards/Apiculus Marketing Dashboard.md",
+    "docs/AboutServiceProviderAdministration/MetabaseBusinessIntelligenceDashboards/ApiculusAccountsDashboard.md",
     "docs/AboutServiceProviderAdministration/MetabaseBusinessIntelligenceDashboards/ApiculusBillingDashboard.md",
+    "docs/AboutServiceProviderAdministration/MetabaseBusinessIntelligenceDashboards/ApiculusCloudResourceDashboard.md",
+    "docs/AboutServiceProviderAdministration/MetabaseBusinessIntelligenceDashboards/ApiculusCloudUsageDashboard.md",
+    "docs/AboutServiceProviderAdministration/MetabaseBusinessIntelligenceDashboards/ApiculusMarketplaceDashboard.md",
+    "docs/AboutServiceProviderAdministration/MetabaseBusinessIntelligenceDashboards/MetabaseBusinessIntelligenceDashboards.md",
+    "build/server.bundle.js",
+    "build/assets",
+    "docs/AboutServiceProviderAdministration/MetabaseBusinessIntelligenceDashboards/ApiculusCloudResourceDashboard - Copy.md",
+    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/CreateListandViewVPCs.md",
+    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/AboutVirtualPrivateClouds.md",
+    "img/allvpn1.md",
+    "img/allvpn.md",
+    "docs/AboutServiceProviderAdministration/MetabaseBusinessIntelligenceDashboards/ApiculusBillingDashboard - Copy.md",
     "build/blog/rss.xml",
     "build/blog/atom.xml",
     "build/blog/rss.css",
@@ -175,21 +200,6 @@
     "build/blog/rss.xsl",
     "build/blog/atom.xsl",
     "build/search-index.json",
-    "build/sitemap.xml",
-    "build/docs/Subscribers/SigningUp/index.html",
-    "build/docs/Subscribers/SigningUp",
-    "docs/AboutServiceProviderAdministration/MetabaseBusinessIntelligenceDashboards/MetabaseBusinessIntelligenceDashboards.md",
-    "build/img/sps.svg",
-    "build/img/sps.png",
-    "build/img/sbs.svg",
-    "build/img/sbs.png",
-    "build/img/rn.svg",
-    "build/img/logo.svg",
-    "build/img/rn.png",
-    "build/img/logo.png",
-    "build/img/apiculus-social-card.png",
-    "build/icons/home.svg",
-    "docs/AboutServiceProviderAdministration/MetabaseBusinessIntelligenceDashboards/ApiculusBillingDashboard - Copy.md",
     "docs/Subscribers/Networking/VirtualFirewall/DeployingVNFandVMWithinVNF.md",
     "docs/Subscribers/Networking/IPv4-basedNetworking/EstablishingSite-to-SiteVPNBetweenTwoVPCs.md",
     "docs/Subscribers/Compute/Kubernetes/AboutKubernetes.md",
@@ -201,16 +211,6 @@
     "docs/AboutServiceProviderAdministration/ZabbixDashboardandNMS.md",
     "docs/AboutServiceProviderAdministration/Role-basedAccessonAdminConsole.md",
     "docs/AboutServiceProviderAdministration/OTRSTicketingandServiceInterface.md",
-    "docs/Subscribers/Compute/LinuxInstances/NetworkingManagement.md",
-    "docs/Subscribers/Compute/LinuxInstances/AboutLinuxInstances.md",
-    "docs/Subscribers/AccountCentre/Organisation-AccountProfile.md",
-    "docs/Administration/SupportManagement/End-to-endSupportUsingOTRS.md",
-    "apiculus-billing-dashboard.md",
-    "docs/AboutServiceProviderAdministration/MetabaseBusinessIntelligenceDashboards/MetabaseBusinessIntelligenceDashboards - Copy.md",
-    "docs/AboutServiceProviderAdministration/AdminConsole.md",
-    "docs/AboutServiceProviderAdministration/ManagingSupportTickets.md",
-    "img/billingdashboard2.md",
-    "docs/Subscribers/AccountCentre/TeamandChildUserManagement.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
