@@ -66,7 +66,7 @@ The Support – Tickets by Customer Account section provides a structured overvi
 | **Organisation** | Name of the organization linked to the support request.        | Helps contextualize the ticket’s business environment and client relationship. |
 | **Tickets**      | Total number of support tickets raised by the account.         | Indicates the volume of issues reported and helps track client activity.       |
 
-![ticketbycustomeraccount](IMG/ticketbycustomeraccount.png)
+![ticketbycustomeraccount](img/ticketbycustomeraccount.png)
 ## Support- Tickets by Day
 
 The Support – Tickets by Day section presents a temporal overview of incoming support requests segmented by weekday. By analyzing the number of tickets received on each day, this metric reveals key trends in issue frequency and helps anticipate workload peaks. It enables support teams to better plan staffing schedules, prioritize response efforts, and improve operational readiness based on daily demand patterns.
