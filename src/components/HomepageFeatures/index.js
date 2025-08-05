@@ -1,97 +1,53 @@
-import clsx from 'clsx';
-import Heading from '@theme/Heading';
-import styles from './styles.module.css';
+import React from 'react';
 
 const FeatureList = [
   {
-    title: (
-	<a href="/docs/intro" target="_self" rel="noopener noreferrer">
-<div className="title">Service Providers</div>
-	</a>
-	),
-    Svg: require('@site/static/img/sps.svg').default,	
-    description: (
-    <div className="description">  <>
-        <a href="/docs/intro" target="_self" rel="noopener noreferrer">
-          Click here
-        </a> to read the documents that offer guidance on platform setup, user management, billing, customer support, etc.</>
-	</div>
-	   
-    ),
+    title: 'Service Providers',
+    link: '/docs/intro',
+    description: 'Click here to read the documents that offer guidance on platform setup, user management, billing, customer support, etc.',
   },
   {
-    title: (
-	<a href="/docs/Subscribers/intro" target="_self" rel="noopener noreferrer">
-	<div className="title">Subscribers</div>
-	</a>
-	),
-    Svg: require('@site/static/img/sbs.svg').default,
-    description: (
-      <div className="description"> <>
-       <a href="/docs/Subscribers/intro" target="_self" rel="noopener noreferrer">
-          Click here
-        </a> to access detailed documentation on all services supported and deliverable via the Apiculus CloudConsole.
-      </>
-		</div>
-
-    ),
+    title: 'Subscribers',
+    link: '/docs/Subscribers/intro',
+    description: 'Click here to access detailed documentation on all services supported and deliverable via the Apiculus CloudConsole.',
   },
   {
-    title: (
-	<a href="/docs/category/release-notes" target="_self" rel="noopener noreferrer">
-	<div className="title">Release Notes</div>
-	</a>
-	),
-    Svg: require('@site/static/img/rn.svg').default,
-	
-    
-	description: (
-      <div className="description"> <>
-        <a href="/docs/category/release-notes" target="_self" rel="noopener noreferrer">
-          Click here 
-        </a> to learn about the new features, enhancements, known issues, and bugs in all the releases till date.
-      </>
-	  </div>
-    ),
+    title: 'Release Notes',
+    link: '/docs/category/release-notes',
+    description: 'Click here to learn about the new features, enhancements, known issues, and bugs in all the releases till date.',
   },
-  
-  /* {
-    title: 'API Documentation',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
-    description: (
-      <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
-      </>
-    ),
-  }, 
-  */
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({ title, description, link }) {
   return (
-    <div className={clsx('col col--4')}>
-      <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
-      </div>
-      <div className="text--center padding-horiz--md">
-        <Heading as="h3">{title}</Heading>
+    <div style={{
+      border: '1px solid #000080',
+      borderRadius: 12,
+      padding: 20,
+      margin: 16,
+      width: 300,
+      boxShadow: '0 4px 8px rgba(0, 120, 212, 0.1)',
+    }}>
+      <a href={link} style={{ color: 'inherit', textDecoration: 'none' }}>
+        <h3>{title}</h3>
         <p>{description}</p>
-      </div>
+      </a>
     </div>
   );
 }
 
 export default function HomepageFeatures() {
   return (
-    <section className={styles.features}>
-      <div className="container">
-        <div className="row">
-          {FeatureList.map((props, idx) => (
-            <Feature key={idx} {...props} />
-          ))}
-        </div>
-      </div>
+    <section style={{
+      display: 'flex',
+      justifyContent: 'center',
+      flexWrap: 'wrap',
+      padding: '3rem 0',
+      width: '100%',
+    }}>
+      {FeatureList.map((props, idx) => (
+        <Feature key={idx} {...props} />
+      ))}
     </section>
   );
 }

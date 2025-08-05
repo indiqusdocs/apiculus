@@ -21,11 +21,9 @@ The Key Performance Indicators (KPIs) section of the Apiculus Billing Dashboard 
 | **Total Uninvoiced Amount**                 | Charges accrued but not yet invoiced, such as usage or subscriptions.                                         | Indicates expected upcoming revenue in the next billing cycle.                                      |
 | **Wallet Holdings**                         | Total funds held in customer wallets (prepaid balances).                                                      | Shows available prepaid revenue that customers can use for future services.                         |
 | **Total Amount Receivable**                 | Reflects the grand total of all pending bills across all customers.                                           | Gives a cumulative view of outstanding revenue yet to be collected.                                 |
-
 ## Charts and Graphs
 
 The Charts and Graphs section provides a visual representation of revenue trends and financial growth over time. The widgets help users quickly interpret patterns in billing activity, monitor performance fluctuations, and identify significant milestones or anomalies. By translating raw data into intuitive visuals like bar and area charts, this section enhances decision-making through trend analysis and historical comparisons.
-
 
 | Field               | Description                         | Importance                                                                                             |
 | ------------------- | ----------------------------------- | ------------------------------------------------------------------------------------------------------ |
@@ -35,7 +33,6 @@ The Charts and Graphs section provides a visual representation of revenue trends
 
 The Data Tables section provides structured and detailed financial data for in-depth visibility into customer accounts, invoices, and transactions. These widgets offer sortable and searchable records that help users monitor credit limits, track unpaid invoices, and review recent financial activities. The tabular format supports efficient data analysis and operational follow-up.
 
-
 | Field                                        | Description                                                                                                                                                                 |
 | -------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Accounts Credit Limit and Wallet Balance** | Lists all customer accounts along with their credit limits and current wallet balances.                                                                                     |
@@ -43,4 +40,5 @@ The Data Tables section provides structured and detailed financial data for in-d
 | **Recent Transactions**                      | Displays a log of the latest financial transactions on the platform. The log shows the mode of payment (For example, VOUC - Voucher, CHEQ - Cheque, ONLP - Online Payment). |
  
 ![billingdashboard1](img/billingdashboard1.png)
+
 ![billingdashboard2](img/billingdashboard2.png)
