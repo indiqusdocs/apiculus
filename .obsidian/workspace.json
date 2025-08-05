@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/AboutServiceProviderAdministration/MetabaseBusinessIntelligenceDashboards/Apiculus Marketing Dashboard.md",
+                "file": "docs/AboutServiceProviderAdministration/MetabaseBusinessIntelligenceDashboards/ApiculusSupportDashboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Apiculus Marketing Dashboard"
+              "title": "ApiculusSupportDashboard"
             }
           }
         ]
@@ -166,6 +166,7 @@
   },
   "active": "fe0ab96d7b0e9b5e",
   "lastOpenFiles": [
+    "docs/AboutServiceProviderAdministration/MetabaseBusinessIntelligenceDashboards/Apiculus Marketing Dashboard.md",
     "docs/AboutServiceProviderAdministration/MetabaseBusinessIntelligenceDashboards/ApiculusSupportDashboard.md",
     "build/assets/images/TechnicalContact-9033168845fbed957718fe31145ef1b1.png",
     "build/assets/images/Summary-ea1d609d09969a9d30272a7f8e3a36b5.png",
@@ -178,7 +179,6 @@
     "build/assets/images/WorkingwithDiscountCodes8-3c029b00e303846b5dbaece44344bb0c.png",
     "build/assets/images/WorkingwithDiscountCodes7-33c4dd24fc7d924f4aaf8712f1989d54.png",
     "build/assets/images",
-    "docs/AboutServiceProviderAdministration/MetabaseBusinessIntelligenceDashboards/Apiculus Marketing Dashboard.md",
     "docs/AboutServiceProviderAdministration/MetabaseBusinessIntelligenceDashboards/ApiculusAccountsDashboard.md",
     "docs/AboutServiceProviderAdministration/MetabaseBusinessIntelligenceDashboards/ApiculusBillingDashboard.md",
     "docs/AboutServiceProviderAdministration/MetabaseBusinessIntelligenceDashboards/ApiculusCloudResourceDashboard.md",
