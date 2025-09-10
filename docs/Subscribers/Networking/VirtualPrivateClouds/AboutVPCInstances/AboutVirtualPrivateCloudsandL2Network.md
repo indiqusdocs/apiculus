@@ -7,7 +7,7 @@ A VPC is a higher-level abstraction that allows you to create isolated network e
 ## 3-Tiered Network Architecture
 
 VPCs follow the convention of 3-tiered network architecture, with web, app, and DB tiers forming the norm.
-
+![3-Tiered Network Architecture](img/3TieredNetwork.png)
 
 **Web Tier (Public Subnet)**
 - This layer contains web servers and is placed in a public subnet.
