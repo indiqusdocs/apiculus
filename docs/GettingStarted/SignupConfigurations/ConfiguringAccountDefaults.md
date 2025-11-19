@@ -6,18 +6,19 @@ sidebar_position: 2
 Account defaults include the various configurations that are applied once an account is created successfully. For example, it can be KYC needed for self-signup accounts, or it can be the minimum or maximum number associated with the account as required or any other check like profile check enabled. 
 
 To configure account defaults, navigate to **Administration** > **Settings** > **Account Defaults**. The following screen appears:
+1. Organisation
 ![config account details](img/configaccountdetails.png)
 
 Configure following details as per your requirements:
-- **Require KYC for Self Sign Up Accounts** - If this option is enabled, self-signed up accounts can purchase or activate any resource from the marketplace only when their KYC is approved.
-- **Require KYC for Admin Assisted Accounts** - If this option is enabled, all admin-assisted accounts will purchase or activate any resource from the marketplace only when their KYC is approved.
-- **Profile Check** - If this option is enabled, then the subscriber first needs to complete their profile, Only then will they be able to purchase resources from the marketplace.
-- **Minimum Phone Digits** - The minimum digits can be specified for a phone number associated with the account.
-- **Maximum Phone Digits** - The maximum digits can be specified for a phone number associated with the account.
-- **Custom Heading for Postal Code** - If your country of operations uses a different nomenclature for postal codes, you can specify that here.
+- **Require KYC for Organisation Accounts** - If this option is enabled, self-signed up accounts can purchase or activate any resource from the marketplace only when their KYC is approved.
+- **Organisation Profile Check** - If this option is enabled, then the subscriber first needs to complete their profile, Only then will they be able to purchase resources from the marketplace.
+2. Individual
+- Require KYC for Individual Accounts - If this option is enabled, then Subscriber can purchase from the marketplace, only when their KYC is approved.
+- Individual Profile Check - if this option is enabled, then Subscriber can purchase from the marketplace, only if their 
 
 
 
 
 
+![Other Defaults](img/Otherdefaults.png)
 
