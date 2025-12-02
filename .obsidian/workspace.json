@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "1713c74988b41b7f",
+        "id": "089eb9950fa7fbb1",
         "type": "tabs",
         "children": [
           {
-            "id": "477b1967fe9c5a61",
+            "id": "fe0ab96d7b0e9b5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Administration/ManagingQuickPlans/CreatingQuickPlans.md",
+                "file": "docs/GettingStarted/SignupConfigurations/ConfiguringAccountDefaults.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CreatingQuickPlans"
+              "title": "ConfiguringAccountDefaults"
+            }
+          },
+          {
+            "id": "64c4973b22b2ba32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/GettingStarted/SignupConfigurations/ConfiguringAccountDefaults.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ConfiguringAccountDefaults"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 417.5
   },
   "right": {
     "id": "d1303f5c52f5e51b",
@@ -165,54 +180,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "477b1967fe9c5a61",
+  "active": "64c4973b22b2ba32",
   "lastOpenFiles": [
-    "docs/Administration/ManagingQuickPlans/img/prorate.png",
-    "docs/Administration/ManagingQuickPlans/SettingUpaQuickPlanCategory.md",
-    "docs/Administration/ManagingQuickPlans/CreatingQuickPlans.md",
-    "img 7.md",
-    "img 6.md",
-    "img 5.md",
-    "img 4.md",
-    "img 3.md",
-    "img 2.md",
-    "img 1.md",
-    "docs/Administration/ManagingQuickPlans/AddingQuickPlanstoaCatalogue.md",
-    "docs/Administration/ManagingQuickPlans/img/dropdown.png",
-    "docs/Administration/ManagingQuickPlans/img/AddField.png",
-    "img/dropdown.md",
-    "Quantity.md",
-    "docs/Administration/ManagingQuickPlans/img/MinimumQuanity.png",
-    "docs/Administration/ManagingQuickPlans/img/Quantity.png",
-    "img.md",
-    "img/Quantity.md",
-    "docs/Administration/ManagingQuickPlans/img/minimum.png",
-    "Pasted image 20251120101110.png",
-    "docs/Administration/img/Add Field.png",
+    "docs/Subscribers/AccountCentre/Organisation-AccountProfile.md",
+    "docs/Subscribers/AccountCentre/img/verified.png",
+    "docs/Subscribers/AccountCentre/img/verfiydetails2.png",
+    "docs/Subscribers/AccountCentre/img/verfiydetails.png",
+    "docs/Subscribers/AccountCentre/img/Token.png",
+    "docs/Subscribers/AccountCentre/img/Integerations.png",
+    "docs/Subscribers/AccountCentre/img/Adhar.png",
+    "docs/GettingStarted/InBuiltApps/img/verified.png",
+    "docs/GettingStarted/InBuiltApps/img/billingconflict2.png",
+    "docs/Subscribers/AccountCentre/InvoicesandCreditNotes.md",
+    "docs/GettingStarted/InBuiltApps/img/verfiydetails2.png",
+    "docs/GettingStarted/InBuiltApps/img/GSTIN.png",
+    "docs/Subscribers/AccountCentre/AboutApiculusAccountCentre.md",
+    "docs/GettingStarted/InBuiltApps/ekyc.md",
+    "docs/GettingStarted/InBuiltApps/ConfiguringSystemEmailsusingSMTP.md",
+    "docs/GettingStarted/InBuiltApps/ConfiguringSMSGateway.md",
+    "docs/GettingStarted/InBuiltApps/ManagingPaymentGateways.md",
+    "docs/Administration/SubscribersandAccounts/WorkingwithKYCandAccountVerification.md",
+    "docs/Subscribers/AccountCentre/ekyc.md",
+    "docs/GettingStarted/Integerations/_category_.json",
+    "docs/GettingStarted/Integerations/img",
+    "docs/GettingStarted/Integerations",
+    "docs/GettingStarted/New folder",
     "docs/GettingStarted/SignupConfigurations/ConfiguringAccountDefaults.md",
-    "docs/GettingStarted/SignupConfigurations/img/Otherdefaults.png",
+    "docs/GettingStarted/PlatformAdministration/ManagingServiceProviderProfile.md",
+    "docs/GettingStarted/PlatformAdministration/ConfiguringAutomationPolicies.md",
+    "docs/Subscribers/AccountCentre/WalletandTransactions.md",
     "docs/GettingStarted/SignupConfigurations/RestrictingFreeEmailDomains.md",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingVPCInstances.md",
+    "docs/GettingStarted/SignupConfigurations/SignupSettings.md",
+    "Quantity.md",
+    "docs/Administration/ServicesManagement/WorkingwithCloudCollections.md",
+    "docs/Administration/ServicesManagement/WorkingwithAvailabilityZones.md",
+    "docs/Administration/TrialManagement/WorkingwithSubscriptionTrials.md",
+    "docs/Administration/TrialManagement/WorkingwithAccountTrials.md",
+    "docs/Administration/SubscribersandAccounts/CreatingandUpdatingSubscriberAccounts.md",
+    "docs/GettingStarted/PlatformAdministration/ManagingSPAdminUsers.md",
+    "docs/ServicesandSystemRequirements/LoadBalancerInstances/SystemRequirements.md",
+    "docs/ServicesandSystemRequirements/LoadBalancerInstances/FeatureList.md",
+    "docs/ServicesandSystemRequirements/LoadBalancerInstances/About.md",
     "build/blog/rss.xml",
     "build/blog/atom.xml",
     "build/blog/atom.css",
     "build/blog/rss.css",
     "build/blog/atom.xsl",
     "build/blog/rss.xsl",
-    "build/search-index.json",
-    "build/sitemap.xml",
-    "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/VPCManagementandBasicOperations/index.html",
-    "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ViewingGraphsandUtilization/index.html",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets.md",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/AboutVirtualPrivateCloudsandL2Network.md",
-    "Pasted image 20250910122516.png",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/RuleAddition.png",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC.md",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/CreatingVPCSubnetsTiers.md",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/CreateListandViewVPCs.md",
-    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/NetworkingManagement.md",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/WorkingwithVPNConnectionsinaVPC.md",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/DifferenceBetweenL2NetworksandVPC.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
