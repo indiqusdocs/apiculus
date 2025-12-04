@@ -1,7 +1,7 @@
 ---
 sidebar_position: 13
 ---
-# View Activity logs
+# View Activity Logs
 The Activity Logs section provides subscribers with a detailed record of actions performed within their cloud environment. To improve usability, enhanced filtering options have been implemented.
 
 1. Click the **Account** tab from the external ID dropdown. The following screen appears:
