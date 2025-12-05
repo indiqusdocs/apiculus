@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/AccountCentre/ViewActivityLogs.md",
+                "file": "docs/Administration/SubscribersandAccounts/WorkingwithKYCandAccountVerification.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ViewActivityLogs"
+              "title": "WorkingwithKYCandAccountVerification"
             }
           }
         ],
@@ -182,6 +182,8 @@
   },
   "active": "64c4973b22b2ba32",
   "lastOpenFiles": [
+    "docs/GettingStarted/SignupConfigurations/ConfiguringAccountDefaults.md",
+    "docs/Administration/SubscribersandAccounts/WorkingwithKYCandAccountVerification.md",
     "build/blog/rss.xml",
     "build/blog/atom.xml",
     "build/blog/atom.css",
@@ -192,7 +194,6 @@
     "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/AboutVirtualPrivateCloudsandL2Network",
     "build/docs/Subscribers/Networking/VirtualPrivateClouds/WorkingwithVPNConnectionsinaVPC/index.html",
     "build/docs/Subscribers/Networking/VirtualPrivateClouds/WorkingwithVPNConnectionsinaVPC",
-    "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/CreateListandViewVPCs/index.html",
     "build/img/sbs.png",
     "build/img/sps.png",
     "build/img/sps.svg",
@@ -215,12 +216,10 @@
     "docs/Subscribers/AccountCentre/InvoicesandCreditNotes.md",
     "docs/Subscribers/AccountCentre/eKYC.md",
     "docs/Subscribers/AccountCentre/AboutApiculusAccountCentre.md",
-    "docs/GettingStarted/SignupConfigurations/ConfiguringAccountDefaults.md",
     "docs/GettingStarted/InBuiltApps/ekyc.md",
     "docs/GettingStarted/InBuiltApps/ConfiguringSystemEmailsusingSMTP.md",
     "docs/GettingStarted/InBuiltApps/ConfiguringSMSGateway.md",
     "docs/GettingStarted/InBuiltApps/ManagingPaymentGateways.md",
-    "docs/Administration/SubscribersandAccounts/WorkingwithKYCandAccountVerification.md",
     "docs/Subscribers/AccountCentre/ekyc.md",
     "docs/GettingStarted/PlatformAdministration/ManagingServiceProviderProfile.md",
     "docs/GettingStarted/PlatformAdministration/ConfiguringAutomationPolicies.md",
