@@ -20,7 +20,7 @@ Configure the following details as per your requirements:
     You can set the following other default settings for the account:  
 	 - **KYC renewal for accounts** -  If this option is enabled, you can set the number of months after which the user must renew their KYC based on the last verification.  
 		 :::note  
-		  The customer will receive an email notification when their KYC renewal is about to expire. Refer to the [re-KYC](/docs/Subscribers/AccountCentre/Organisation-AccountProfile#kyc-renewal) section for more details.  
+		  The customer will receive an email notification when their KYC renewal is about to expire. Refer to the [KYC renewal](/docs/Subscribers/AccountCentre/KYCrenewal) section for more details.  
 		 :::  
 	 - **Min. Phone Digit** - The minimum digits can be specified for a phone number associated with the account.  
 	 - **Max. Phone Digit** - The maximum digits can be specified for a phone number associated with the account.  
