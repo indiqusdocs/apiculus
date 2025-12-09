@@ -9,7 +9,6 @@ Follow these steps to create a Quick Plan:
 
 1. Navigate to **Marketplace**, and click **Quick Plans**.
   ![Managing Quick Plans](img/QuickPlans4.png)
-
 2. Click the **Add Quick Plan** button at the top right of the Quick Plans screen. A new page opens where you need to provide additional details.
 
 The creation process is divided into five key sections.
@@ -23,8 +22,7 @@ The creation process is divided into five key sections.
 
 The Details section gathers the basic details about the Quick Plan.
 ![Managing Quick Plans](img/QuickPlans5.png)
-![Managing Quick Plans](img/QuickPlans6.png)
-
+![Creating Quick Plans](img/Prorate.png)
 1. **Category** - Select one of the previously created categories from the drop-down menu. The Quick Plan will be listed under this category for users.
 2. **Name** - Click **Add Name** to enter a descriptive name for the Quick Plan.
 3. **Description** - Click **Add Description** to provide details about what the Quick Plan offers.
@@ -34,10 +32,13 @@ The Details section gathers the basic details about the Quick Plan.
 7. **Pro-rate on Entry** - Enable this option if you want to bill the user from the date of purchase rather than from the beginning of the billing month.
 8. **Pro-rate on Exit** - Enable this option if you want to bill the user only for the days they used the Quick Plan, rather than until the end of the billing month.
 9. **Approval Needed** - Enable this if the Quick Plan requires admin approval before activation. When enabled, an email notification will be sent to admins, and the Quick Plan will only activate after the admin approval.
-10. **Multiple Quantity Allowed** - Enable this option if you want to let users purchase multiple quantities of the Quick Plan. The number of subscriptions generated will correspond to the quantity selected by the user.
-11. **Redirect URL** - Specify that URL if you want users to be redirected to a specific page.
-12. Click the **Next** button to proceed to the **Components** section.
-
+10. **Multiple Quantity Allowed** - If this option is enabled, admin can do the following:
+	- Set the **minimum quantity**.
+	- Set the **maximum quantity**. 
+	- Enter the custom label (optional).
+11. **Create Single Subscription** - If this option is enabled, admin can create single subscription.
+12. **Redirect URL** - Specify that URL if you want users to be redirected to a specific page.
+13. Click the **Next** button to proceed to the **Components** section.
 ## Components
 
 The **Components** section allows you to define the components of the Quick Plan, which can include different service or feature bundled in the plan.
@@ -54,16 +55,20 @@ The **Components** section allows you to define the components of the Quick Plan
 ## Customer Input
 
 In the **Customer Input** section, you can create custom fields to capture specific information from the customer when they purchase or provision the Quick Plan.
-![Managing Quick Plans](img/QuickPlans8.png)
+![Addfield](img/AddField.png)
 
 1. **Add Input Fields** - Click **Add Input Fields** to open a window where you can create a new field.
 	- **Field Name** - Enter the name of the field (for example, Email, Org Name).
-	- **Field Type** - Select the type of field (options include Email, Password, URL, and Text).
+	- **Field Type** - Select the type of field (option includes Email, Password, URL, Text, and Dropdown).
+	 If you select the dropdown option, the following screen appears:
+		![Dropdown](img/dropdown.png)
+	Here, you can mention the options (for example, option1, option2, etc.) available for the subscriber.
+	- **Helper Text** - Enter the Helper text to insert the description.
 	- **Mandatory Field** - Indicate whether this field is mandatory for the user to fill out.
 2. You can add multiple fields if needed to gather all the required information from the user.
 ![Managing Quick Plans](img/QuickPlans9.png)
 :::note
-The Customer Input section is not mandatory. You can create these fields depending on the requirement.
+The Customer` Input section is not mandatory. You can create these fields depending on the requirement.
 :::
 ## Access Fields
 

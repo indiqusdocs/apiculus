@@ -3,37 +3,25 @@ sidebar_position: 7
 ---
 # Working with KYC and Account Verification
 
-The Apiculus Admin Console allows to set up default KYC-based restrictions for both self-signup and admin-assisted accounts. When enabled, the respective account types will not be able to make purchases anything till their KYC/identity verification has been completed.
+The Apiculus Admin Console enables administrators to configure the KYC settings for both organisation and individual subscriber accounts. It also allows them to set the KYC renewal period for all subscribers or specific accounts.
 
-## Configuring KYC For Self-Signup Accounts
+### For All Subscriber Accounts
 
-To configure KYC for self- signup accounts, admins need to perform the following steps on the admin portal.
+To configure the default KYC settings for all user accounts, navigate to **Administration > Settings > Account Defaults**, and follow the steps provided on [configure the Account Defaults section](/docs/GettingStarted/SignupConfigurations/ConfiguringAccountDefaults).
 
-1. Navigate to **Administration** > **Settings** > **Account Defaults**.
-2. Turn on the **Require KYC for Self-signup Accounts**, then click the **Update** button.![Working with KYC and Account Verification](img/KYC1.png)
-3. The Save Settings screen appears where you can review your changes. Click **Update** to save the updated configuration.![Working with KYC and Account Verification](img/KYC2.png)
-4. Publish the saved settings by clicking the **Publish Settings** button in the top right corner.
+### For Specific Subscriber Account 
 
-:::note
-This setting will apply to all accounts created using the self-signup method.
-:::
+To configure KYC settings for a specific user account or an admin-assisted account, follow these steps:
 
-## Configuring KYC For Admin-Assisted Accounts
+1. Navigate to **Accounts > Account Management**. The following screen appears:   ![screen](img/screen.png)
+2. Click the **Edit** icon.  ![Edit](img/Edit.png)  The following screen appears:![KYC Verification](img/KYCVerification.png)
+3. The following KYC verification options are available:  
+	- **Require KYC:** Enable this option to make KYC approval mandatory before purchasing any service from the marketplace.  
+	- **KYC Renewal for this account:** Enable this option to set the number of months after which KYC renewal will be required.
 
-To configure KYC for admin-assisted accounts, admins need to perform the following steps on the admin portal.
-
-1. Navigate to **Administration** > **Settings** > **Account Defaults**.
-2. Switch on the **Require KYC for Admin-Assisted Accounts**.![Working with KYC and Account Verification](img/KYC3.png)
-3. Click the **Update** button to save the updated configuration.
-4. The Save Settings screen appears where you can review your changes. Click **Update** button to save the updated configuration.![Working with KYC and Account Verification](img/KYC4.png)
-5. Publish the saved settings by clicking the **Publish Settings** button in the top right corner.
-
-:::note
-This setting will apply to all accounts created through the administration console, or manually approved from the administration console. It will also apply to accounts created on external/other systems and imported into Apiculus using our MQ-based integration.
-:::
 ## Actions Required for Self-Signup Accounts/Admin Assisted Accounts
 
-Whenever newly created accounts login to the portal, they will see a popup message for KYC, and the restriction will be applied, preventing them from purchasing or activating any resources.
+Whenever newly created accounts login to the portal, a popup message for KYC, and the restriction will be applied, preventing them from purchasing or activating any resources.
 ![Working with KYC and Account Verification](img/KYC5.png)
 
 By clicking **OK** or **TAKE ME THERE**, the user will be redirected to the Basic section and automatically navigated to the **Documents** section. The appropriate document category must be selected, and the required should be uploaded for admin approval.
