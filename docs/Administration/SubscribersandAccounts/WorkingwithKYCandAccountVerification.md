@@ -3,29 +3,25 @@ sidebar_position: 7
 ---
 # Working with KYC and Account Verification
 
-The Apiculus Admin Console enables administrators to configure the KYC settings for both organisation and individual user accounts. It also helps them to set the period for KYC renewal for all users and specific accounts as well.
+The Apiculus Admin Console enables administrators to configure the KYC settings for both organisation and individual subscriber accounts. It also allows them to set the KYC renewal period for all subscribers or specific accounts.
 
-### For All User Accounts
+### For All Subscriber Accounts
 
-To configure the default KYC settings for all user accounts, navigate to **Administration** > **Settings** > **Account Defaults**. Administrator need to [configure the Account Defaults section](/docs/GettingStarted/SignupConfigurations/ConfiguringAccountDefaults).
+To configure the default KYC settings for all user accounts, navigate to **Administration > Settings > Account Defaults**, and follow the steps provided on [configure the Account Defaults section](/docs/GettingStarted/SignupConfigurations/ConfiguringAccountDefaults).
 
-### For Specific User Account 
+### For Specific Subscriber Account 
 
-To configure KYC settings for specific user account or admin-assisted account, follow these steps:
+To configure KYC settings for a specific user account or an admin-assisted account, follow these steps:
 
-1. Navigate to **Accounts > Account Management**. The following screen appears:
-	![screen](img/screen.png)
-2. Click the **Edit** icon.
-	![Edit](img/Edit.png)
-	The following screen appears:
-	![KYC Verification](img/KYCVerification.png)
-3. The following KYC verification options are available:
-- **Require KYC:** Enable this option to make KYC approval mandatory before purchasing any service from the marketplace.
-- **KYC Renewal for this account:** Enable this option to set the number of months after which KYC renewal will be required.
+1. Navigate to **Accounts > Account Management**. The following screen appears:   ![screen](img/screen.png)
+2. Click the **Edit** icon.  ![Edit](img/Edit.png)  The following screen appears:![KYC Verification](img/KYCVerification.png)
+3. The following KYC verification options are available:  
+	- **Require KYC:** Enable this option to make KYC approval mandatory before purchasing any service from the marketplace.  
+	- **KYC Renewal for this account:** Enable this option to set the number of months after which KYC renewal will be required.
 
 ## Actions Required for Self-Signup Accounts/Admin Assisted Accounts
 
-Whenever newly created accounts login to the portal, they will see a popup message for KYC, and the restriction will be applied, preventing them from purchasing or activating any resources.
+Whenever newly created accounts login to the portal, a popup message for KYC, and the restriction will be applied, preventing them from purchasing or activating any resources.
 ![Working with KYC and Account Verification](img/KYC5.png)
 
 By clicking **OK** or **TAKE ME THERE**, the user will be redirected to the Basic section and automatically navigated to the **Documents** section. The appropriate document category must be selected, and the required should be uploaded for admin approval.

@@ -10,7 +10,7 @@ To configure account defaults, navigate to **Administration** > **Settings** > *
 
 Configure the following details as per your requirements:
 
-1. **Oragnisation**  
+1. **Organisation**  
 	 - **Require KYC for Organisation Accounts** - If this option is enabled, organisation accounts can purchase or activate any services, only when their KYC is approved.  
 	 - **Organisation Profile Check** - If this option is enabled, organization accounts must complete their profile before they can purchase any services.
 2. **Individual**  
