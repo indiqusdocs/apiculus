@@ -4,7 +4,7 @@ sidebar_position: 1
 # Welcome
 
 Apiculus is an end-to-end cloud-as-a-service solution that addresses the technology, business enablement and customer experience needs of regional, domestic and edge cloud service providers. Apiculus presents itself as an all-in-one technology platform that combines cloud service monetisation, infrastructure management and customer life cycle management, and offers an integrated solution for cloud providers in edge markets.
-![Welcome](welcome1.png)
+![Welcome](img/welcome1.png)
 
 Apiculus enables:
 
@@ -17,9 +17,9 @@ Items in <span class="blue">**blue**</span> are Apiculus software capabilities;
 ![Stack Components](StackComponents.webp)
 ## Features and Specifications
 This section covers the following:
-- [Self-service and Administration](intro#self-service-and-administration)
-- [Integrated Billing and XaaS Monetisation](intro#integrated-billing-and-xaas-monetisation)
-- [End-to-end Business Enablement](intro#end-to-end-business-enablement)
+- [Self-service and Administration](welcome.md#self-service-and-administration)
+- [Integrated Billing and XaaS Monetisation](welcome.md#integrated-billing-and-xaas-monetisation)
+- [End-to-end Business Enablement](welcome.md#end-to-end-business-enablement)
 ### Self-service and Administration
 
 Apiculus brings a powerful layer of self-service along with a multitude of configurable options for managing customer journeys, admin operations and cloud commerce.

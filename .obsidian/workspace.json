@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/GettingStarted/SignupConfigurations/ConfiguringAccountDefaults.md",
+                "file": "docs/welcome/Stackcomponents.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ConfiguringAccountDefaults"
-            }
-          },
-          {
-            "id": "64c4973b22b2ba32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Subscribers/AccountCentre/KYCrenewal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "KYCrenewal"
+              "title": "Stackcomponents"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 417.5
+    "width": 227.5
   },
   "right": {
     "id": "d1303f5c52f5e51b",
@@ -180,36 +165,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64c4973b22b2ba32",
+  "active": "fe0ab96d7b0e9b5e",
   "lastOpenFiles": [
+    "docs/welcome/Servicecatalogue.md",
+    "docs/welcome/Stackcomponents.md",
+    "docs/welcome/welcome.md",
+    "docs/welcome/img/StackComponents.png",
+    "docs/welcome/img/StackComponents.webp",
+    "docs/StackComponents.webp",
+    "docs/StackComponents.png",
+    "docs/StackComponents.svg",
+    "docs/welcome/img/welcome1 - Copy.png",
+    "docs/welcome/img/welcome1.png",
+    "docs/welcome/_category_.json",
+    "docs/GettingStarted/SignupConfigurations/ConfiguringAccountDefaults.md",
+    "docs/welcome.md",
+    "docs/welcome1.png",
+    "docs/welcome/img",
+    "docs/welcome/New folder",
+    "docs/welcome",
+    "docs/New folder",
+    "docs/LoggingIn.md",
+    "docs/Introduction/BillingConcepts.md",
+    "docs/Introduction/ApiculusCentral.png",
+    "docs/Introduction/AccessCentral.md",
+    "docs/AboutServiceProviderAdministration/img/ISVConsoles.png",
+    "docs/Administration/MarketingManagement/Overview.md",
+    "docs/Subscribers/AccountCentre/KYCrenewal.md",
     "build/search-index.json",
     "build/sitemap.xml",
     "build/docs/Subscribers/Storage/BlockVolumes/CreatingDataDisk/index.html",
     "build/docs/Subscribers/Storage/BlockVolumes/CreatingDataDisk",
     "build/docs/Subscribers/Storage/BlockVolumes/AboutBlockVolumes/index.html",
-    "build/docs/Subscribers/Storage/BlockVolumes/AboutBlockVolumes",
-    "build/docs/Subscribers/Storage/ObjectStorageBucket/FeatureListandIntegrationDetails/index.html",
-    "build/docs/Subscribers/Storage/ObjectStorageBucket/FeatureListandIntegrationDetails",
-    "build/docs/Subscribers/ToolsandUtilities/ManagingInstanceandVolumeSnapshots/index.html",
-    "build/docs/Subscribers/ToolsandUtilities/ManagingCustomTemplatesandImages/index.html",
-    "build/docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairs/index.html",
-    "build/img/apiculus-social-card.png",
-    "build/img/logo.svg",
-    "build/img/logo.png",
-    "build/img/sps.svg",
-    "build/img/sps.png",
-    "build/img/sbs.svg",
-    "build/img/sbs.png",
-    "build/img/rn.svg",
-    "build/img/rn.png",
-    "build/icons/home.svg",
     "docs/Subscribers/AccountCentre/eKYC.md",
-    "docs/Subscribers/AccountCentre/KYCrenewal.md",
     "docs/Subscribers/AccountCentre/Organisation-AccountProfile.md",
     "docs/Subscribers/AccountCentre/AboutApiculusAccountCentre.md",
     "docs/GettingStarted/InBuiltApps/ekyc.md",
     "docs/Administration/SubscribersandAccounts/WorkingwithKYCandAccountVerification.md",
-    "docs/GettingStarted/SignupConfigurations/ConfiguringAccountDefaults.md",
     "docs/Subscribers/AccountCentre/UnbilledCharges.md",
     "docs/Subscribers/AccountCentre/ViewActivityLogs.md",
     "docs/Subscribers/AccountCentre/SupportandTickets.md",
@@ -220,14 +212,6 @@
     "docs/Subscribers/AccountCentre/InvoicesandCreditNotes.md",
     "docs/GettingStarted/InBuiltApps/ConfiguringSystemEmailsusingSMTP.md",
     "docs/GettingStarted/InBuiltApps/ConfiguringSMSGateway.md",
-    "docs/GettingStarted/InBuiltApps/ManagingPaymentGateways.md",
-    "docs/Subscribers/AccountCentre/ekyc.md",
-    "docs/GettingStarted/PlatformAdministration/ManagingServiceProviderProfile.md",
-    "docs/GettingStarted/PlatformAdministration/ConfiguringAutomationPolicies.md",
-    "docs/Subscribers/AccountCentre/WalletandTransactions.md",
-    "docs/GettingStarted/SignupConfigurations/RestrictingFreeEmailDomains.md",
-    "docs/GettingStarted/SignupConfigurations/SignupSettings.md",
-    "Quantity.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
