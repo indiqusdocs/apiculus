@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/welcome/Stackcomponents.md",
+                "file": "docs/welcome/welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stackcomponents"
+              "title": "welcome"
             }
           }
         ]
@@ -167,8 +167,8 @@
   },
   "active": "fe0ab96d7b0e9b5e",
   "lastOpenFiles": [
-    "docs/welcome/welcome.md",
     "docs/welcome/Stackcomponents.md",
+    "docs/welcome/welcome.md",
     "docs/welcome/img/StackComponents.webp",
     "docs/welcome/img/Stack",
     "docs/welcome/StackComponents.svg",
