@@ -1,14 +1,11 @@
 ---
-sidebar_position: 2
+sidebar_position: 2.1
 ---
-# Stack Components
-Items in <span class="blue">**blue**</span> are Apiculus software capabilities; items in **black** are services and extensions that can be monetised; items in <span class="green">**green**</span> are service provider’s assets.
-![Stack Components](img/StackComponents.webp)
-## Features and Specifications
+# Features and Specifications
 This section covers the following:
-- [Self-service and Administration](welcome.md#self-service-and-administration)
-- [Integrated Billing and XaaS Monetisation](welcome.md#integrated-billing-and-xaas-monetisation)
-- [End-to-end Business Enablement](welcome.md#end-to-end-business-enablement)
+- [Self-service and Administration](Introduction.md#self-service-and-administration)
+- [Integrated Billing and XaaS Monetisation](Introduction.md#integrated-billing-and-xaas-monetisation)
+- [End-to-end Business Enablement](Introduction.md#end-to-end-business-enablement)
 ### Self-service and Administration
 
 Apiculus brings a powerful layer of self-service along with a multitude of configurable options for managing customer journeys, admin operations and cloud commerce.
@@ -40,7 +37,6 @@ With Apiculus, service providers can set up a marketplace of IaaS, PaaS, multi-c
 | Discounts, Coupons & Trials                        | Streamline your customer acquisition by creating on-site discounting, cash vouchers and structured trial benefits.                                           |
 
 ### End-to-End Business Enablement
-
 Apiculus ships with SLA-backed integrated support and all the tools needed to enable stellar service delivery on the cloud. As an extension of business enablement, Apiculus also offers comprehensive localisation across branding, regulatory, compliance and other localisation domains.
 
 | FEATURES                                            | DESCRIPTION                                                                                                                                                     |
