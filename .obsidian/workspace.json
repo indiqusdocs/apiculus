@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/ApiculusStack.md",
+                "file": "docs/intro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ApiculusStack"
+              "title": "intro"
             }
           }
         ]
@@ -167,10 +167,10 @@
   },
   "active": "fe0ab96d7b0e9b5e",
   "lastOpenFiles": [
-    "docs/FeaturesandSpecifications.md",
     "docs/ApiculusStack.md",
+    "docs/FeaturesandSpecifications.md",
     "docs/Servicecatalogue.md",
-    "docs/Introduction.md",
+    "docs/intro.md",
     "docs/ResettingPassword.md",
     "docs/LoggingIn.md",
     "docs/Subscribers/welcome1.png",
