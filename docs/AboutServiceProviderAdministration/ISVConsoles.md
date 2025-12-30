@@ -3,7 +3,7 @@ sidebar_position: 3
 ---
 # Independent Software Vendor Consoles
 
-The [Apiculus solution](/docs/Introduction/BuildingBlocks) is built using an 'integrations' approach using Independent Software Vendor (ISV) products that are enterprise-grade and deliver powerful technical orchestration capabilities.
+The [Apiculus solution](/docs/Components/BuildingBlocks) is built using an 'integrations' approach using Independent Software Vendor (ISV) products that are enterprise-grade and deliver powerful technical orchestration capabilities.
 
 A standard Apiculus deployment includes the following ISVs on which, service provider teams have restricted access:
 
