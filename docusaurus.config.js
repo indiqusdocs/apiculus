@@ -164,6 +164,8 @@ require.resolve("@easyops-cn/docusaurus-search-local"),
           position: 'right',
           className: 'button button--primary', // Add button classes here
         },
+		  { type: 'search', position: 'right' }, // KEEP RIGHT
+
 		  	  
 		  ],
       },
