@@ -20,10 +20,13 @@ To create Autoscale Groups, follow these steps:
     - **Expunge VM grace period:** This defines how long before a scale-down is executed should the app/user connections to an Instance be removed.
     - **Polling Interval:** This defines at what interval should the Autoscale Group check your policy conditions and execute the relevant Scale or Scale-down configurations.
       ![Creating Autoscale Groups](img/CreatingAutoscaleGroups3.png)
+:::note 
+The **Polling Interval** must be between 60 and 3600 seconds.
+:::
 10. Define the **Scale Up policy** (Multiple policies can be configured; if multiple conditions are specified, all of them need to be met for the Autoscale Group to execute). You need to specify the following:
 	- **Policy Name**: Specify the name for your policy.
-	- **Duration (in mins):** This is the duration in which the conditions have to be true before action is taken.
-	- **Quiet Time (in mins):** The cool-down period in which the policy should not be evaluated after the action has been taken.
+	- **Duration (in mins):** This is the duration in which the conditions have to be true before action is taken. The duration must be between 3700 and 7200 seconds.
+	- **Quiet Time (in mins):** The cool-down period in which the policy should not be evaluated after the action has been taken. The quiet time must be between 120 and 3600 seconds.
 	- **Parameter:** Name of the counter for which the policy will be evaluated.
 	    - **Parameters:** The performance parameters expose the state of the monitored Instances. As of now, there are five new parameters to work with that feature:
 		- **VM CPU Percentage** - average percentage
