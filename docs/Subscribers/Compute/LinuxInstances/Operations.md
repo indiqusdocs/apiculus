@@ -15,11 +15,8 @@ Apiculus Cloud Console provides the options to perform the following operations 
 - **Rename Instance** - Rename the Linux Instance.
 - **Migrate Instance** - Migrate Linux Instance between VPC networks within the same Availability Zone.
 - **Reinstall Instance** - Restore this Instance to its original configuration by reinstalling its Operating System or choosing a new one. Choosing a new Operating System image may have an additional billing component if it is a priced Operating System.
-- **Delete Instance** - Delete the Linux Instance.   
-  :::warning
-  Deleting a Linux Instance will remove it entirely along with its subscription and is a non-reversible action.
-  :::
-
+- **Delete Instance** - Provide the input field where the user needs to type DELETE, to enable SCHEDULE DELETE and DELETE NOW button.
+	![img](img/operation3.png)
 
 
 

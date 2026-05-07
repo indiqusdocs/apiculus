@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/AccountCentre/ViewActivitylogs.md",
+                "file": "docs/Subscribers/Compute/WindowsInstances/ConnectingtoaWindowsInstance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ViewActivitylogs"
+              "title": "ConnectingtoaWindowsInstance"
             }
           }
         ]
@@ -167,6 +167,18 @@
   },
   "active": "fe0ab96d7b0e9b5e",
   "lastOpenFiles": [
+    "docs/Subscribers/Compute/WindowsInstances/CreatingWindowsInstances.md",
+    "docs/Subscribers/Compute/WindowsInstances/NetworkingManagementonWindowsInstances.md",
+    "docs/Subscribers/Compute/WindowsInstances/ReconfiguringWindowsInstances.md",
+    "docs/Subscribers/Compute/WindowsInstances/ViewingDetailsofWindowsInstances.md",
+    "docs/Subscribers/Compute/WindowsInstances/ViewingGraphsandUtilisationofWindowsInstances.md",
+    "docs/Subscribers/Compute/WindowsInstances/VolumeManagementwithWindowsInstances.md",
+    "docs/Subscribers/Compute/WindowsInstances/WindowsInstanceOperations.md",
+    "docs/Subscribers/Compute/LinuxInstances/Operations.md",
+    "docs/Subscribers/Compute/WindowsInstances/WorkingwithWindowsInstanceSnapshots.md",
+    "docs/Subscribers/Compute/LinuxInstances/img/operation3.png",
+    "docs/Subscribers/AccountCentre/ViewActivitylogs.md",
+    "docs/APIs/CreateAccount.md",
     "docs/AboutServiceProviderAdministration/AdminConsole.md",
     "docs/Subscribers/Compute/Autoscale/EditingAutoscaleGroup.md",
     "docs/Subscribers/Compute/Autoscale/img/update.png",
@@ -183,17 +195,6 @@
     "docs/Administration/BillingandFinancials/ResendingCreditNotes.md",
     "docs/Administration/BillingandFinancials/ReversingTransactions.md",
     "docs/Administration/BillingandFinancials/UpdatingSubscriptionCharges.md",
-    "docs/Administration/BillingandFinancials/ViewinganddownloadingInvoices.md",
-    "docs/Administration/BillingandFinancials/ViewingTransactionDetails.md",
-    "docs/Administration/BillingandFinancials/ViewingTaxDeductions.md",
-    "docs/Administration/BillingandFinancials/ViewingReceiptsandAcknowledgments.md",
-    "docs/Administration/BillingandFinancials/ViewingandDownloadingCreditNotes.md",
-    "docs/Administration/BillingandFinancials/RecordingTaxDeductions.md",
-    "docs/Administration/BillingandFinancials/Overview.md",
-    "docs/Administration/BillingandFinancials/DeactivatingaSubscription.md",
-    "docs/GettingStarted/PlatformAdministration/ManagingSPAdminUsers.md",
-    "docs/GettingStarted/PlatformAdministration/ManagingServiceProviderProfile.md",
-    "docs/GettingStarted/PlatformAdministration/GeneralPlatformSettings.md",
     "build/search-index.json",
     "build/sitemap.xml",
     "build/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Networking services/ConfiguringVirtualPrivateClouds/index.html",
@@ -212,7 +213,6 @@
     "build/assets/images/WorkingwithDiscountCodes9-20fc6541fdd4044d0bd5b2d91359a32f.png",
     "build/assets/images/WorkingwithDiscountCodes8-3c029b00e303846b5dbaece44344bb0c.png",
     "build/assets/images/WorkingwithDiscountCodes7-33c4dd24fc7d924f4aaf8712f1989d54.png",
-    "build/assets/images/WorkingwithDiscountCodes6-bf2731aaac826890535ceafe5cd4bc6e.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
