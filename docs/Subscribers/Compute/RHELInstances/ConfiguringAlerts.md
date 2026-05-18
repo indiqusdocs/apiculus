@@ -24,14 +24,14 @@ The Alerts tab lists all the alerts already configured for that particular RHEL 
 
 You can create or add alerts simply by clicking the **CREATE ALERT** button. The following screen appears, and you can configure the alert using the on-screen input form.
 
-![Configuring Alerts on Linux Instances](img/ConfiguringAlerts2.png)
+![Configuring Alerts on Linux Instances](img/alert.png)
 
 The various fields of the add alert page are described below:
 
 1. **Name** - You can define the name for your alert.
 2. **Choose Parameter** - This option will allow you to define what parameter needs to be monitored to trigger the alert email. Apiculus Cloud supports CPU, RAM, Disk, 1-min Load Average, 5- min Load Average, 15- min Load Average parameters.
 3. **Trigger when** - This set of options lets you define whether to trigger above or below a custom value.
-4. **Value** - You can define the trigger value/threshold.
+4. **Value in Percentage** - You can define the trigger value/threshold.
 5. **Reading duration** - This option lets you define the breach window, i.e., the duration for which the breach has to be consistent to trigger the alert email.
 6. **Send email to** - Email IDs (comma-separated) can be added here, or also you can add them by using the configure recipients.
 
@@ -44,7 +44,7 @@ This will list and display all the email IDs already configured for the alerts. 
 3. Add the email ids; multiple IDs can be added (separated by a comma).
 4. Click the **+** icon.
 5. Click **Update**.
-![Configuring Alerts on Linux Instances](img/ConfiguringAlerts3.png)
+![img](img/recipt.png)
 
 :::note
 All the recipients configured will receive all the setup alerts. If no email ID is configured or added, then no email will be sent for the already configured alerts.
