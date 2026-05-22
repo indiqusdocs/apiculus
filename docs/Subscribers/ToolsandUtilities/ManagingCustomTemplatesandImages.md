@@ -6,7 +6,7 @@ Custom OS templates can be created from a Volume Snapshot.
 
 ## Viewing Custom Image
 To view custom images, perform these steps:
-1. Navigate to **Tools and Utilities > My Images**. The following screen is appears:![Managing Custom Templates and Images](img/ManagingCustomTemplatesandImages1.png)
+1. Navigate to **Tools and Utilities > My Images**. The following screen appears:![Managing Custom Templates and Images](img/ManagingCustomTemplatesandImages1.png)
 2. Click on the image name. The following screen appears that shows the details associated with the image:![Managing Custom Templates and Images](img/myimg.png)
 ## Deleting a Custom Image
 You can delete an image by clicking the delete icon. You can also check the status by clicking the image name.

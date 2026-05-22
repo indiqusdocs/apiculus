@@ -11,46 +11,45 @@ Follow these steps to create a Quick Plan:
   ![Managing Quick Plans](img/QuickPlans4.png)
 2. Click the **Add Quick Plan** button at the top right of the Quick Plans screen. A new page opens where you need to provide additional details.
 
-The creation process is divided into five key sections.
+The creation process is divided into the following key sections.
 - [Details](#details)
 - [Components](#components)
 - [Customer Input](#customer-input)
 - [Access Fields](#access-fields)
 - [Customer Communication](#customer-communication)
-
 ## Details
 
 The Details section gathers the basic details about the Quick Plan.
 ![Managing Quick Plans](img/quick.png)
 ![Creating Quick Plans](img/quick2.png)
-1. **Category** - Select one of the previously created categories from the drop-down menu. The Quick Plan will be listed under this category for users.
-2. **Name** - Click **Add Name** to enter a descriptive name for the Quick Plan.
-3. **Description** - Click **Add Description** to provide details about what the Quick Plan offers.
-4. **Interval** - Select whether the Quick Plan is billed **Monthly** or **One-time**. This determines how the user will be charged.
-5. **Interval Type** - Select the interval type whether **fixed** or **Actual**.
-6. **Currency** - If multiple currencies are supported in your cloud environment, choose the appropriate one from the drop-down menu.
-7. **Region** - Select the Region.  
-8. **Pro-rate on Entry** - Enable this option if you want to bill the user from the date of purchase rather than from the beginning of the billing month.
-9. **Pro-rate on Exit** - Enable this option if you want to bill the user only for the days they used the Quick Plan, rather than until the end of the billing month.
-10. **Approval Needed** - Enable this if the Quick Plan requires admin approval before activation. When enabled, an email notification will be sent to admins, and the Quick Plan will only activate after the admin approval.
-11. **Multiple Quantity Allowed** - If this option is enabled, admin can do the following:
+- **Category** - Select one of the previously created categories from the drop-down menu. The Quick Plan will be listed under this category for users.
+- **Name** - Click **Add Name** to enter a descriptive name for the Quick Plan.
+- **Description** - Click **Add Description** to provide details about what the Quick Plan offers.
+- **Interval** - Select whether the Quick Plan is billed **Monthly** or **One-time**. This determines how the user will be charged.
+- **Interval Type** - Select the interval type whether **fixed** or **Actual**.
+- **Currency** - If multiple currencies are supported in your cloud environment, choose the appropriate one from the drop-down menu.
+- **Region** - Select the Region.  
+- **Pro-rate on Entry** - Enable this option if you want to bill the user from the date of purchase rather than from the beginning of the billing month.
+- **Pro-rate on Exit** - Enable this option if you want to bill the user only for the days they used the Quick Plan, rather than until the end of the billing month.
+- **Approval Needed** - Enable this if the Quick Plan requires admin approval before activation. When enabled, an email notification will be sent to admins, and the Quick Plan will only activate after the admin approval.
+- **Multiple Quantity Allowed** - If this option is enabled, admin can do the following:
 	- Set the **minimum quantity**.
 	- Set the **maximum quantity**. 
 	- Enter the custom label (optional).
-12. **Redirect URL** - Specify that URL if you want users to be redirected to a specific page.
-13. Click the **Next** button to proceed to the **Components** section.
+- **Redirect URL** - Specify that URL if you want users to be redirected to a specific page.
+- Click the **Next** button to proceed to the **Components** section.
 ## Components
 
 The **Components** section allows you to define the components of the Quick Plan, which can include different service or feature bundled in the plan.
 ![Managing Quick Plans](img/QuickPlans7.png)
 
-1. **Name** - Click the pencil icon to edit the component name, then click **Add Name** to enter the name of the component.
-2. **Description** - Click **Add Description** to provide details about what this component includes.
-3. **Measurement Unit** - Select a measurement unit from the dropdown list for example, GB, MB, Number, Count). If the required unit isn’t available, select **None/Other**.
-4. **Units** - Specify the number of units included in this component (for example, 10 GB of storage).
-5. **Rate** - Enter the price per unit of this component. This is the amount the user will be charged for each unit they consume.
-6. Click **Update** to save the information.
-7. Click **Next** to move to the Customer Input section.
+- **Name** - Click the pencil icon to edit the component name, then click **Add Name** to enter the name of the component.
+- **Description** - Click **Add Description** to provide details about what this component includes.
+- **Measurement Unit** - Select a measurement unit from the dropdown list for example, GB, MB, Number, Count). If the required unit isn’t available, select **None/Other**.
+- **Units** - Specify the number of units included in this component (for example, 10 GB of storage).
+- **Rate** - Enter the price per unit of this component. This is the amount the user will be charged for each unit they consume.
+- Click **Update** to save the information.
+- Click **Next** to move to the Customer Input section.
 
 ## Customer Input
 
@@ -68,7 +67,7 @@ In the **Customer Input** section, you can create custom fields to capture speci
 2. You can add multiple fields if needed to gather all the required information from the user.
 ![Managing Quick Plans](img/QuickPlans9.png)
 :::note
-The Customer` Input section is not mandatory. You can create these fields depending on the requirement.
+The Customer Input section is not mandatory. You can create these fields depending on the requirement.
 :::
 ## Access Fields
 

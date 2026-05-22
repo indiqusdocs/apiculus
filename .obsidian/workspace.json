@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/SigningUp.md",
+                "file": "docs/Subscribers/ToolsandUtilities/ManagingCustomTemplatesandImages.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SigningUp"
+              "title": "ManagingCustomTemplatesandImages"
             }
           }
         ]
@@ -167,6 +167,9 @@
   },
   "active": "fe0ab96d7b0e9b5e",
   "lastOpenFiles": [
+    "docs/ApiculusStack.md",
+    "docs/Administration/ManagingQuickPlans/CreatingQuickPlans.md",
+    "docs/Subscribers/SigningUp.md",
     "docs/Subscribers/ResettingPassword.png",
     "docs/Subscribers/Compute/LinuxInstances/ConfiguringAlerts.md",
     "docs/Subscribers/Compute/WindowsInstances/ConfiguringAlertsonWindowsInstances.md",
@@ -192,8 +195,6 @@
     "docs/Subscribers/AccountCentre/Payments.md",
     "docs/Subscribers/AccountCentre/Organisation-AccountProfile.md",
     "docs/Subscribers/AccountCentre/KYCrenewal.md",
-    "docs/Subscribers/AccountCentre/InvoicesandCreditNotes.md",
-    "docs/Subscribers/AccountCentre/eKYC.md",
     "docs/Subscribers/AccountCentre/img/activitylogs2.png",
     "docs/Administration/SubscribersandAccounts/img/billing3.png",
     "docs/Subscribers/AccountCentre/img/payment.png",
@@ -202,7 +203,6 @@
     "docs/Administration/ManagingQuickPlans/img/quick.png",
     "docs/GettingStarted/BillingandFinancials/img/create.png",
     "docs/GettingStarted/BillingandFinancials/img/payment.png",
-    "docs/GettingStarted/BillingandFinancials/img/additional.png",
     "build/search-index.json",
     "build/sitemap.xml",
     "build/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Networking services/ConfiguringVirtualPrivateClouds/index.html",
