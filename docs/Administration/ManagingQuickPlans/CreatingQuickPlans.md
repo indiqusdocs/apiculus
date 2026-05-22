@@ -21,22 +21,22 @@ The creation process is divided into five key sections.
 ## Details
 
 The Details section gathers the basic details about the Quick Plan.
-![Managing Quick Plans](img/QuickPlans5.png)
-![Creating Quick Plans](img/Prorate.png)
+![Managing Quick Plans](img/quick.png)
+![Creating Quick Plans](img/quick2.png)
 1. **Category** - Select one of the previously created categories from the drop-down menu. The Quick Plan will be listed under this category for users.
 2. **Name** - Click **Add Name** to enter a descriptive name for the Quick Plan.
 3. **Description** - Click **Add Description** to provide details about what the Quick Plan offers.
 4. **Interval** - Select whether the Quick Plan is billed **Monthly** or **One-time**. This determines how the user will be charged.
-5. **Currency** - If multiple currencies are supported in your cloud environment, choose the appropriate one from the drop-down menu.
-6. **Region** - Select the Region.  
-7. **Pro-rate on Entry** - Enable this option if you want to bill the user from the date of purchase rather than from the beginning of the billing month.
-8. **Pro-rate on Exit** - Enable this option if you want to bill the user only for the days they used the Quick Plan, rather than until the end of the billing month.
-9. **Approval Needed** - Enable this if the Quick Plan requires admin approval before activation. When enabled, an email notification will be sent to admins, and the Quick Plan will only activate after the admin approval.
-10. **Multiple Quantity Allowed** - If this option is enabled, admin can do the following:
+5. **Interval Type** - Select the interval type whether **fixed** or **Actual**.
+6. **Currency** - If multiple currencies are supported in your cloud environment, choose the appropriate one from the drop-down menu.
+7. **Region** - Select the Region.  
+8. **Pro-rate on Entry** - Enable this option if you want to bill the user from the date of purchase rather than from the beginning of the billing month.
+9. **Pro-rate on Exit** - Enable this option if you want to bill the user only for the days they used the Quick Plan, rather than until the end of the billing month.
+10. **Approval Needed** - Enable this if the Quick Plan requires admin approval before activation. When enabled, an email notification will be sent to admins, and the Quick Plan will only activate after the admin approval.
+11. **Multiple Quantity Allowed** - If this option is enabled, admin can do the following:
 	- Set the **minimum quantity**.
 	- Set the **maximum quantity**. 
 	- Enter the custom label (optional).
-11. **Create Single Subscription** - If this option is enabled, admin can create single subscription.
 12. **Redirect URL** - Specify that URL if you want users to be redirected to a specific page.
 13. Click the **Next** button to proceed to the **Components** section.
 ## Components

@@ -11,7 +11,7 @@ Subscribers can configure alerts for instances running on the Apiculus. Subscrib
 
 # Instance Alerts
 
-The Alerts tab can be accessed from the instances details. It shows the alerts already configured for that particular VM with following details:
+The Alerts tab can be accessed from the instances details. It shows the alerts already configured for that particular instance with following details:
 - ID
 - Alert Name
 - Parameter
@@ -23,17 +23,17 @@ The Alerts tab can be accessed from the instances details. It shows the alerts a
 
 # Adding an Alert
 
-Subscribers can create or add alerts simply by clicking on the **Add Alert** button. The following screen will open up, and the subscriber needs to describe the details of the alert.
+You can create or add alerts by clicking on the **Add Alert** button. The following screen appears where you can provide the details of the alert you want to create.
 
 ![Configuring Alerts on Windows Instances](img/alert.png)
 
-The various fields of the add alert page are described below:
+To create an alert, provide the following details:
 
-- **Name** - You can define the name for your alert.
+- **Name** - Provide the name for your alert.
 - **Choose parameter** - This option allows you to define what parameter needs to be monitored to trigger the alert email. Apiculus Cloud supports CPU, RAM, Disk, 1-min Load Average, 5-min Load Average, 15-min Load Average parameters.
-- **Trigger when** - This set of options lets you define whether to trigger above or below a custom value.
+- **Trigger when** - This option lets you define whether to trigger above or below a custom value.
 - **Reading duration** - This option lets you define the breach window, i.e., the duration for which the breach has to be consistent to trigger the alert email.
-- **Add Recipients** - You can add recipients from the dropdown.
+- **Add Recipients** - This option lets you add recipients from the dropdown.
 # Configuring Recipients
 
 This will list and display all the email IDs already configured for the alerts. You can delete the existing ids and add other email ids by following these steps:

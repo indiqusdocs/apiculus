@@ -11,7 +11,7 @@ You can configure alerts for instances running on the Apiculus. You can define a
 
 ## Instance Alerts
 
-The Alerts tab lists all the alerts already configured for that particular Linux Instance. In addition, it will show the following details:
+The Alerts tab lists all the alerts already configured for that particular Linux Instance. In addition, it shows the following details:
 - ID
 - Name for the alert
 - Parameter
@@ -23,31 +23,31 @@ The Alerts tab lists all the alerts already configured for that particular Linux
 
 ## Adding an Alert
 
-To create or add alerts, click the **Create Alert** button. The Create Alert window opens.
+To create or add alerts, click the **Create Alert** button. The following window appears:.
 
 ![Configuring Alerts on Linux Instances](img/alertt.png)
 
-The various fields of the Create Alert screen are as follows:
+To create an alert, provide the following details:
 
-- **Name** - You can define the name for your alert.
-- **Choose Parameter** - This option will allow you to define what parameter needs to be monitored to trigger the alert email. Apiculus Cloud supports CPU, RAM, Disk, 1-min Load Average, 5-min Load Average, 15-min Load Average parameters.
+- **Name** - Provide the name for your alert.
+- **Choose Parameter** - This option allows you to define what parameter needs to be monitored to trigger the alert email. Apiculus Cloud supports CPU, RAM, Disk, 1-min Load Average, 5-min Load Average, 15-min Load Average parameters.
 - **Trigger when** - This set of options lets you define whether to trigger above or below a custom value.
 - **Reading duration** - This option lets you define the breach window, that is, the duration for which the breach must be consistent to trigger the alert email.
-- **Add Recipients** - You can add recipients from the dropdown.
+- **Add Recipients** - This option lets you add recipients from the dropdown.
 
 ## Configuring Recipients
 
-This section list and display all the email IDs already configured for the alerts. You can delete the existing email IDs and add other email IDs by following these steps:
+You can delete the existing email IDs and add other email IDs by following these steps:
 
 1. Click on the **Manage Recipients**.
 2. Click on **+ Add Recipients**.
 3. Select the recipients from the dropdown.
-4. Click on the **Update** button, and update the recipient's list.
+4. Click the **Update** button.
 
 ![Configuring Alerts on Linux Instances](img/managealert.png)
 
 :::note
-All the recipients configured will receive all the setup alerts. If no email ID is configured or added, then no email will be sent for the already configured alerts.
+All the recipients will receive all the setup alerts. If no email ID is  added, no email will be sent for the already configured alerts.
 :::
 
 
