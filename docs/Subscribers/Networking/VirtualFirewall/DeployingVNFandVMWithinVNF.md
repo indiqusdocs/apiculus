@@ -11,7 +11,7 @@ It is ideal for use cases requiring:
 - Policy enforcement
   
 The following are the high level steps required for deploying VNF and VM within VNF:
-  
+
 1. [Creating The New Virtual Firewall](#creating-the-new-virtual-firewall)
 2. [Configuration Options For Virtual Firewall](#configuration-options-for-virtual-firewall)
 3. [Deploying Virtual Firewall](#deploying-virtual-firewall)

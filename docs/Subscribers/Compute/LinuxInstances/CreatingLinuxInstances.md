@@ -25,7 +25,7 @@ To create a Linux instance, follow these steps:
 10. **Choose an Authentication Method**:
     - **Use SSH key pair**: To view all the SSH key pairs present in your account, click the **Use SSH key pair** option. If your account doesn’t have any SSH key pair, then you can click the **Generate a new key pair** or upload the key pair by clicking the **Upload a key pair** option.
     - **Use root user password**: On selecting Use root user password, the **Also email me the password** option is displayed. If you select this option, the password, along with the details, for instance, will be emailed to your registered email ID.
-11. In the **Name Your Linux Instance** field, enter the desired name for your Linux Instance. The Instance name contains alphanumeric characters, underscore, dots and hyphens only. 
+11. In the **Name Your Linux Instance** field, enter the desired name upto 52 characters for your Linux Instance. The Instance name contains upto alphanumeric characters, underscore, dots and hyphens only. 
 12. Verify the Estimated Cost of your Linux Instance based on the chosen specifications from the Summary and Estimated Costs Section (Here, both Hourly and Monthly Prices summary are displayed).
 	![Summary](img/Summary.png)
 13. Select the **I have read and agreed to the End User License Agreement and Privacy Policy** option.
