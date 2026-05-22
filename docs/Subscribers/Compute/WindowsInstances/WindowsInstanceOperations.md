@@ -14,7 +14,7 @@ Apiculus Cloud Console provides the options to perform common operations on Wind
 - **Rename Instance** - to rename the Windows Instance.
 - **Migrate Instance** - to migrate Windows Instance between VPC networks within the same Availability Zone.
 - **Reinstall Instance** - to restore this Instance to its original configuration by reinstalling its Operating System or choosing a new one. Selecting a priced Operating System image may incur additional charges.
-- **Delete Instance** - Provide the input field where the user needs to type DELETE, to enable SCHEDULE DELETE and DELETE NOW button.
+- **Delete Instance** - Type DELETE in the provided field, and click the Schedule Deletion or Delete Now button based on your requirements.
 	:::note 
 	Deleting a Windows instance will remove it entirely along with its subscription and is a non-reversible action.
 	:::

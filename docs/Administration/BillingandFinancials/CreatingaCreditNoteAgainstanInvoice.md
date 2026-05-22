@@ -7,7 +7,7 @@ You can create credit notes against paid or unpaid invoices. A credit note requi
 
 You can create credit notes against any invoice that is present in the account-level or global list of invoices.
 
-Navigate to an invoice and click on ![Create Credit Note Icon](img/plusicon.png) (create credit note icon).
+Navigate to an invoice and click on ![Create Credit Note Icon|30](img/plusicon.png) (create credit note icon).
 
 ![Creating a Credit Note Against an Invoice](img/CreatingaCreditNoteAgainstanInvoice.png)
 
