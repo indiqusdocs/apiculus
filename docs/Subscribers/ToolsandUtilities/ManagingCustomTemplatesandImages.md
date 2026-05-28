@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 # Managing Custom Images
-Custom OS templates can be created from a Volume Snapshot. 
+Custom OS templates can be created from a [Volume Snapshot](/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/WorkingwithVolumeSnapshots#creating-a-volume-from-a-snapshot). 
 
 ## Viewing Custom Image
 To view custom images, perform these steps:
