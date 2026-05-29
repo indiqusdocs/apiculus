@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/ToolsandUtilities/ManagingCustomTemplatesandImages.md",
+                "file": "docs/Subscribers/ToolsandUtilities/ManagingInstanceandVolumeSnapshots.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ManagingCustomTemplatesandImages"
+              "title": "ManagingInstanceandVolumeSnapshots"
             }
           }
         ]
@@ -167,16 +167,23 @@
   },
   "active": "10c2ea9bdb5180be",
   "lastOpenFiles": [
-    "().md",
+    "docs/Subscribers/ToolsandUtilities/img/delete3.png",
+    "docs/Subscribers/ToolsandUtilities/img/restore4.png",
+    "docs/Subscribers/ToolsandUtilities/img/disk.png",
+    "docs/Subscribers/ToolsandUtilities/img/delete.png",
+    "docs/Subscribers/ToolsandUtilities/img/restore3.png",
+    "docs/Subscribers/ToolsandUtilities/img/restorepoint2.png",
+    "docs/Subscribers/ToolsandUtilities/img/restorepoint.png",
     "docs/Subscribers/ToolsandUtilities/ManagingCustomTemplatesandImages.md",
+    "docs/Subscribers/ToolsandUtilities/img/revert1.png",
+    "docs/Subscribers/ToolsandUtilities/img/revert.png",
+    "docs/Subscribers/ToolsandUtilities/img/snapshot2.png",
+    "docs/Subscribers/ToolsandUtilities/img/snapshot.png",
+    "().md",
     "docs/Subscribers/Compute/Autoscale/EditingAutoscaleGroup.md",
-    "docs/Subscribers/Compute/Autoscale/img/EditGroup.png",
     "docs/Subscribers/Compute/Autoscale/CreatingAutoscaleGroups.md",
     "docs/Subscribers/ResettingPassword.md",
-    "docs/Subscribers/ResettingPassword.png",
     "docs/Subscribers/SigningUp.md",
-    "docs/Subscribers/Resetscreen.png",
-    "docs/Subscribers/Compute/Autoscale/img/edit.png",
     "docs/Subscribers/InstanceProtection/EnablingInstanceProtection.md",
     "docs/Subscribers/InstanceProtection/AboutInstanceprotection.md",
     "docs/GettingStarted/AdvancedConfigurations/EnablingResellerModule.md",
@@ -196,13 +203,6 @@
     "docs/FeaturesandSpecifications.md",
     "docs/FAQs.md",
     "docs/ApiculusStack.md",
-    "docs/Subscribers/AccountCentre/Organisation-AccountProfile.md",
-    "docs/Subscribers/AccountCentre/img/account.png",
-    "docs/Subscribers/AccountCentre/img/activitylogs2.png",
-    "docs/Administration/SubscribersandAccounts/img/billing3.png",
-    "docs/Subscribers/AccountCentre/img/payment.png",
-    "docs/Subscribers/ToolsandUtilities/img/myimg.png",
-    "docs/Administration/ManagingQuickPlans/img/quick2.png",
     "build/search-index.json",
     "build/sitemap.xml",
     "build/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Networking services/ConfiguringVirtualPrivateClouds/index.html",
