@@ -3,9 +3,9 @@ sidebar_position: 2.1
 ---
 # Features and Specifications
 This section covers the following:
-- [Self-service and Administration](docs/intro.md#self-service-and-administration)
-- [Integrated Billing and XaaS Monetisation](docs/intro.md#integrated-billing-and-xaas-monetisation)
-- [End-to-end Business Enablement](docs/intro.md#end-to-end-business-enablement)
+- [Self-service and Administration](#self-service-and-administration)
+- [Integrated Billing and XaaS Monetisation](#integrated-billing-and-xaas-monetisation)
+- [End-to-end Business Enablement](#end-to-end-business-enablement)
 ### Self-service and Administration
 
 Apiculus brings a powerful layer of self-service along with a multitude of configurable options for managing customer journeys, admin operations and cloud commerce.
