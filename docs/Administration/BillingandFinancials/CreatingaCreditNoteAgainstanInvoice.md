@@ -7,12 +7,13 @@ You can create credit notes against paid or unpaid invoices. A credit note requi
 
 You can create credit notes against any invoice that is present in the account-level or global list of invoices.
 
-Navigate to an invoice and click on ![Create Credit Note Icon|30](img/plusicon.png) (create credit note icon).
+1. Navigate to **Billing and Financial > Invoices**. The following screen appears:
+	![Add Icon](img/AddIcon.png)
 
-![Creating a Credit Note Against an Invoice](img/CreatingaCreditNoteAgainstanInvoice.png)
+2. Navigate to an invoice and click on Add icon (highlighted in red). The following screen appears:
+	![Creating a Credit Note Against an Invoice](img/CreatingaCreditNoteAgainstanInvoice.png)
 
-Credit notes can be created for (in increasing order of levels of control offered):
-
+You can create credit notes for (in increasing order of levels of control offered):
 - **Full Invoice Amount** - Generated with a single line item for the complete invoice amount.
 - **Partial Invoice amount** - Generated with a custom amount that can also include a custom/specified tax component.
 - **Custom Amount** - Generated with custom/specified line items with optional tax fields for each line item.
