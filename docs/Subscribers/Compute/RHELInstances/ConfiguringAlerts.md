@@ -11,7 +11,6 @@ To view the configured alerts or configure new ones, navigate to [RHEL Instance]
 ## Instance Alerts
 
 The Alerts tab lists all the alerts already configured for that particular RHEL Instance. In addition, it shows the following details:
-- ID
 - The name for the alert
 - Parameter
 - Trigger When

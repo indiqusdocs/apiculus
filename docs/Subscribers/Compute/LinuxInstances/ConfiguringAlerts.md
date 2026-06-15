@@ -12,7 +12,6 @@ You can configure alerts for instances running on the Apiculus. You can define a
 ## Instance Alerts
 
 The Alerts tab lists all the alerts already configured for that particular Linux Instance. In addition, it shows the following details:
-- ID
 - Name for the alert
 - Parameter
 - Trigger When
