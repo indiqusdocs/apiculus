@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/Compute/WindowsInstances/ConfiguringAlertsonWindowsInstances.md",
+                "file": "docs/Administration/BillingandFinancials/CreatingaCreditNoteAgainstanInvoice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ConfiguringAlertsonWindowsInstances"
+              "title": "CreatingaCreditNoteAgainstanInvoice"
             }
           }
         ]
@@ -167,6 +167,12 @@
   },
   "active": "25d456259de7080e",
   "lastOpenFiles": [
+    "docs/Administration/BillingandFinancials/img/AddIcon.png",
+    "docs/Administration/BillingandFinancials/img/addicon.png",
+    "docs/Administration/BillingandFinancials/img/screen.png",
+    "docs/Administration/BillingandFinancials/CreatingCreditNotesinBulk.md",
+    "docs/Administration/SubscribersandAccounts/CreatingandUpdatingSubscriberAccounts.md",
+    "docs/Subscribers/Compute/WindowsInstances/ConfiguringAlertsonWindowsInstances.md",
     "docs/Subscribers/Compute/Kubernetes/CreatingaKubernetesCluster.md",
     "docs/Subscribers/Compute/Kubernetes/AboutKubernetes.md",
     "docs/Subscribers/Compute/Kubernetes/AboutKubernetesDashboard.md",
@@ -189,10 +195,6 @@
     "docs/Administration/SubscribersandAccounts/UpdatingCreditLimitandOtherBillingInformation.md",
     "docs/Administration/SubscribersandAccounts/UpdatingaSubscribersTaxationCategory.md",
     "docs/Administration/SubscribersandAccounts/MaintainingRelationshipPersonnelInformation.md",
-    "docs/Administration/SubscribersandAccounts/ImpersonatinganAccount.md",
-    "docs/Administration/SubscribersandAccounts/CreatingandUpdatingSubscriberAccounts.md",
-    "docs/Administration/SubscribersandAccounts/ChangingSubscribersPrimaryEmail.md",
-    "docs/Administration/SubscribersandAccounts/ChangingResourceLimitsforSubscribers.md",
     "build/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Networking services/ConfiguringVirtualPrivateClouds/index.html",
     "build/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Networking services/ConfiguringVirtualFirewallInstances/index.html",
     "build/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Networking services/ConfiguringLoadBalancerInstances/index.html",
@@ -211,8 +213,6 @@
     "build/assets/images/WorkingwithDiscountCodes9-20fc6541fdd4044d0bd5b2d91359a32f.png",
     "build/assets/images/WorkingwithDiscountCodes8-3c029b00e303846b5dbaece44344bb0c.png",
     "build/assets/images/WorkingwithDiscountCodes7-33c4dd24fc7d924f4aaf8712f1989d54.png",
-    "build/assets/images/WorkingwithDiscountCodes5-a2f08222eff1ed6c10b602525a417464.png",
-    "build/assets/images/WorkingwithDiscountCodes4-c5fd249e779e9f3dededa9a32e3694b3.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
