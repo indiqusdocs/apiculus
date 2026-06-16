@@ -10,8 +10,7 @@ You can configure alerts for instances running on the Apiculus. You can define a
 To view the configured alerts or configure new ones, navigate to [RHEL Instance](AboutRHELInstances.md) and access the **Alerts** tab.
 ## Instance Alerts
 
-The Alerts tab lists all the alerts already configured for that particular RHEL Instance. In addition, it will show the details:
-- ID
+The Alerts tab lists all the alerts already configured for that particular RHEL Instance. In addition, it shows the following details:
 - The name for the alert
 - Parameter
 - Trigger When
@@ -22,32 +21,29 @@ The Alerts tab lists all the alerts already configured for that particular RHEL 
 
 ## Adding an Alert
 
-You can create or add alerts simply by clicking the **CREATE ALERT** button. The following screen appears, and you can configure the alert using the on-screen input form.
+You can create or add alerts by clicking the **CREATE ALERT** button. The following screen appears, and you can configure the alert using the on-screen input form:
 
-![Configuring Alerts on Linux Instances](img/ConfiguringAlerts2.png)
+![Configuring Alerts on Linux Instances](img/alertmanage.png)
 
-The various fields of the add alert page are described below:
+To create an alert, provide the following details:
 
 1. **Name** - You can define the name for your alert.
 2. **Choose Parameter** - This option will allow you to define what parameter needs to be monitored to trigger the alert email. Apiculus Cloud supports CPU, RAM, Disk, 1-min Load Average, 5- min Load Average, 15- min Load Average parameters.
 3. **Trigger when** - This set of options lets you define whether to trigger above or below a custom value.
-4. **Value** - You can define the trigger value/threshold.
-5. **Reading duration** - This option lets you define the breach window, i.e., the duration for which the breach has to be consistent to trigger the alert email.
-6. **Send email to** - Email IDs (comma-separated) can be added here, or also you can add them by using the configure recipients.
-
+4. **Reading duration** - This option lets you define the breach window, i.e., the duration for which the breach has to be consistent to trigger the alert email.
+5. **Add Recipients** - You can add recipients from the dropdown.
 ## Managing Recipients
 
-This will list and display all the email IDs already configured for the alerts. You can delete the existing ids and add other email ids by following the steps below.
+You can delete the existing ids and add other email IDs by following the steps below.
 
-1. Click the **Manage Recipients** button.
-2. Click **+ Add more recipients**.
-3. Add the email ids; multiple IDs can be added (separated by a comma).
-4. Click the **+** icon.
-5. Click **Update**.
-![Configuring Alerts on Linux Instances](img/ConfiguringAlerts3.png)
+1. Click on the **Manage Recipients**.
+2. Click on **+ Add Recipients**.
+3. Select the recipients from the dropdown.
+4. Click the **Update** button.
+![img](img/manage.png)
 
 :::note
-All the recipients configured will receive all the setup alerts. If no email ID is configured or added, then no email will be sent for the already configured alerts.
+All the recipients will receive all the setup alerts. If no email ID is added, no email will be sent for the already configured alerts.
 :::
 
 

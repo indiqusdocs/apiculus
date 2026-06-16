@@ -6,7 +6,6 @@ sidebar_position: 11
 To view all available Instance operations, navigate to [RHEL Instances](AboutRHELInstances.md) and access the **Operations** tab.
 Apiculus Cloud Console provides the options to perform common operations on RHEL Instances.
 
-- **Restart Instance** - Perform a quick reboot on your Instance. This is a simple restart, and no data will be lost.
 - **Force Stop Instance** - Force stop a running or a hung RHEL Instance.
 - **Reset Password**- Reset the RHEL Instances root user password. This requires the RHEL Instance to be powered off.
   ![RHEL Instance Operations](img/Operations1.png)
@@ -15,10 +14,7 @@ Apiculus Cloud Console provides the options to perform common operations on RHEL
 - **Rename Instance** - Rename the RHEL Instance.
 - **Migrate Network** - Migrate RHEL Instance between VPC networks within the same Availability Zone.
 - **Reinstall Instance** - Restore this Instance to its original configuration by reinstalling its Operating System or choosing a new one. Choosing a new Operating System image may have an additional billing component if it is a priced Operating System. 
-- **Delete Instance** - Delete the RHEL Instance. 
-  :::warning
-  Deleting a RHEL Instance will remove it entirely along with its subscription and is a non-reversible action.
-  :::
+- **Delete Instance** - Provide the input field where the user needs to type DELETE, to enable SCHEDULE DELETE and DELETE NOW button.
 
 
 

@@ -3,7 +3,7 @@ sidebar_position: 11
 ---
 # Operations
 
- To view all available Instance operations, navigate to the [Operating Linux Instances](AboutLinuxInstances.md), select a Linux Instance and access the **Operations** tab.
+ To view all the available Instance operations, navigate to the [Operating Linux Instances](AboutLinuxInstances.md), select a Linux Instance and access the **Operations** tab.
 ![Linux Instance Operations](img/Operations1.png)
 ![Linux Instance Operations](img/Operations2.png)
 Apiculus Cloud Console provides the options to perform the following operations on Linux Instances:
@@ -15,11 +15,8 @@ Apiculus Cloud Console provides the options to perform the following operations 
 - **Rename Instance** - Rename the Linux Instance.
 - **Migrate Instance** - Migrate Linux Instance between VPC networks within the same Availability Zone.
 - **Reinstall Instance** - Restore this Instance to its original configuration by reinstalling its Operating System or choosing a new one. Choosing a new Operating System image may have an additional billing component if it is a priced Operating System.
-- **Delete Instance** - Delete the Linux Instance.   
-  :::warning
-  Deleting a Linux Instance will remove it entirely along with its subscription and is a non-reversible action.
-  :::
-
+- **Delete Instance** - Type DELETE in the provided field, and click the Schedule Deletion or Delete Now button based on your requirements.
+	![img](img/operation3.png)
 
 
 

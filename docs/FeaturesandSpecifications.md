@@ -3,9 +3,9 @@ sidebar_position: 2.1
 ---
 # Features and Specifications
 This section covers the following:
-- [Self-service and Administration](docs/intro.md#self-service-and-administration)
-- [Integrated Billing and XaaS Monetisation](docs/intro.md#integrated-billing-and-xaas-monetisation)
-- [End-to-end Business Enablement](docs/intro.md#end-to-end-business-enablement)
+- [Self-service and Administration](#self-service-and-administration)
+- [Integrated Billing and XaaS Monetisation](#integrated-billing-and-xaas-monetisation)
+- [End-to-end Business Enablement](#end-to-end-business-enablement)
 ### Self-service and Administration
 
 Apiculus brings a powerful layer of self-service along with a multitude of configurable options for managing customer journeys, admin operations and cloud commerce.
@@ -43,10 +43,10 @@ Apiculus ships with SLA-backed integrated support and all the tools needed to en
 | --------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **SUPPORT AND LIFE CYCLE MANAGEMENT**               |                                                                                                                                                                 |
 | Integrated Ticketing System                         | Offer an engagement touchpoint to your customers via the integrated ITIL-compliant ticketing system, or offer real-time support using our marketing extensions. |
-| Customer Life Cycle Dashboards                      | Get complete visibility of your customer's journeys, cloud spending, technical health and more.                                                               |
-| 24/7 SLA-Driven L2-L4 Support                       | Enjoy SLA-based L2 to L4 support from our team of technology and business experts and eliminating vendor management hassles.                                         |
+| Customer Life Cycle Dashboards                      | Get complete visibility of your customer's journeys, cloud spending, technical health and more.                                                                 |
+| 24/7 SLA-Driven L2-L4 Support                       | Enjoy SLA-based L2 to L4 support from our team of technology and business experts and eliminating vendor management hassles.                                    |
 | **LOCALISATION AND PERSONALISATION**                |                                                                                                                                                                 |
 | On-premise and Locally Hosted                       | Offer a 100% localised offering, from your data centres, in your region.                                                                                        |
 | Design, Localisation and Regulatory White Labelling | Put your brand in front of the customers with our all-round white label philosophy.                                                                             |
 | Personalised Touchpoints for Customer Communication | Personalise your customer outreach using highly customisable messaging templates.                                                                               |
-| Integrable with External Billing and ITSM Systems   | Get our team of solution experts to onboard you and accelerate your GTM with our Cloud Accelerator program.                                                   |
+| Integrable with External Billing and ITSM Systems   | Get our team of solution experts to onboard you and accelerate your GTM with our Cloud Accelerator program.                                                     |

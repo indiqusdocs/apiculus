@@ -6,7 +6,7 @@ sidebar_position: 5
 Subscriber accounts' credit limits and other billing details can be updated from the Apiculus Admin Console.
 
 - To update credit period and credit limit, navigate to account details and update the field under the **Billing Details** sub-section.
-	![Updating Credit Limit](img/Billing.png)
+	![Updating Credit Limit](img/billing3.png)
 -  Choose the appropriate **Default TDS** option for the Subscriber account.
 	 ![](img/Billerentity.png)
 - Choose the required **Biller Entity** to map with Subscriber account.
