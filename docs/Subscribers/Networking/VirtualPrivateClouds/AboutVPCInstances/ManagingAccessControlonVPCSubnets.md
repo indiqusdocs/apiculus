@@ -2,40 +2,14 @@
 sidebar_position: 7
 ---
 # Managing Access Control on VPC Subnets
-
-Access control policies can be created using Access Control Lists (ACL) and configuring rules within these ACL (called ACL Rules). An ACL can then be applied to any tier within the VPC. These policies govern what traffic is allowed or restricted into and from your VPC network tiers.
-
-:::note
-Each VPC comes with **default_allow** and **default_deny** ACL, which can be edited but not deleted.
-:::
-
-To access the ACL navigate to **VPC details** and select the  **Access Control Lists** tab. You can perform the following actions on any available ACL:
-
-- Edit the ACL name
-- Add an ACL rule
-- Assign the ACL to a tier
-- Delete the ACL
-
-
-
-## Creating Custom ACL and Adding Rules
-
-An ACL is a collection of individual traffic control rules that must be configured after the ACL is created.
-The following are the steps to create custom ACL and adding rules:
-
-1. Click the **ADD ACCESS CONTROL LIST** button.
-   ![Managing Access Control on VPC Subnets](img/ManagingAccessControlonVPCSubnets1.png)
-2. Assign a name to the new ACL.
-   ![Adding ACL](img/AddingACL.png)
-3. After creating the ACL, configure the required traffic control rules within it.
-   ![](img/RuleAddition.png)
-
-Any available ACL (existing or new) can be viewed in detail by clicking its name in the list. This displays a list of rules that govern ingress (incoming) and egress (outgoing) traffic for the subnet. From this section, you can create new rules or delete existing ones.
-
-
-![Managing Access Control on VPC Subnets](img/ManagingAccessControlonVPCSubnets2.png)
-
-
-
+This section describes how to manage Access Control List (ACL) on VPC. An ACL is a set of rules for controlling and filtering incoming and outgoing network traffic and reducing network attacks.
+## 1. Use cases 
+The following are the use cases of ACL:
+- **Allow web traffic**: Permit HTTP (80) and HTTPS (443) traffic to web servers.
+- **Restrict SSH access**: Allow SSH only from specific IP addresses.
+- **Block unwanted traffic**: Deny access from suspicious or unauthorized IP ranges.
+- **Control subnet communication**: Allow or restrict traffic between public and private subnets.
+- **Enhance network security**: Add an extra layer of protection beyond instance-level security controls.
+You can create Access Control Policies by defining traffic rules that specify which inbound and outbound network traffic is allowed or denied. After that, you can apply the policies to any tier within the VPC to control network access.
 
 

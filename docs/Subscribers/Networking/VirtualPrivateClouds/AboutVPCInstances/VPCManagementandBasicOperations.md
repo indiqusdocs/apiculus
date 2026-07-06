@@ -1,7 +1,7 @@
 ---
 sidebar_position: 9
 ---
-# VPC Management and Basic Operations
+# VPC Operations
 
 VPC management offers the following operations. These are basic VPC management actions and don't have any impact on the actual network configurations.
 

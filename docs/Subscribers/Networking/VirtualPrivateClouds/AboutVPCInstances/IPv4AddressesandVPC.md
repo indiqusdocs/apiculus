@@ -3,11 +3,11 @@ sidebar_position: 6
 ---
 # IPv4 Addresses and VPC
 
-IPv4 Addresses are an integral part of using VPC networking, and need to be used to access various components of the VPC. By default, a public IPv4 Address is assigned to the VR which can communicate through the internet to transmit traffic to/from the VR. This IPv4 can also be used for configuring remote access (L2TP) and site-to-site (IPSec) VPN connections.
+IPv4 Addresses are an integral part of using VPC networking, and need to be used to access various components of the VPC. By default, a public IPv4 Address is assigned to the VR which can communicate through the internet to transmit traffic to/from the VR. You can user this IPv4 for configuring remote access (L2TP) and site-to-site (IPSec) VPN connections.
 
 ## Using Additional IPv4
 
-Primarily, IPv4 Addresses can be used for configuring access and NAT-ing via:
+Primarily, you can use IPv4 addresses for configuring access and perform NAT via the following:
 
 - [Load balancing](#configuring-load-balancing)
 - [Port Forwarding](#configuring-port-forwarding)

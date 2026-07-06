@@ -2,8 +2,8 @@
 sidebar_position: 4
 ---
 # Creating VPC Subnets and Tiers
-
-VPCs follow the convention of 3-tiered architectures, with web, app, and DB tiers forming the norm. You can, however, configure these tiers to suit your application architecture or just follow the common convention.
+Subnets and tiers are essential components of network design to ensure efficient traffic
+management and security.
 ## Subnet and Tiers 
 
 In a VPC, subnets define IP-based network segments, and tiers represent logical layers of your application architecture. You can design networking tiers within this VPC based on the overall network size and the allocated Super CIDR range.
@@ -57,7 +57,7 @@ It works only inside your VPC. It has a private IP address, which means it is no
 ![Lb](img/Lb.png)
 
 :::note
-Only empty tiers can be deleted, which means that to delete a tier, ensure that there are no Instances and no NAT rule(s) associated with it.
+You can delete only the empty tiers, which means that in order to delete a tier, ensure that there are no Instances and no NAT rule(s) associated with it.
 :::
 
 
