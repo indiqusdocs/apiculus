@@ -5,7 +5,6 @@ sidebar_position: 4
 Subnets and tiers are essential components of network design to ensure efficient traffic
 management and security.
 ## Subnet and Tiers 
-
 In a VPC, subnets define IP-based network segments, and tiers represent logical layers of your application architecture. You can design networking tiers within this VPC based on the overall network size and the allocated Super CIDR range.
 ![Subnet and Tier](img/SubnetandTier.png)
 
