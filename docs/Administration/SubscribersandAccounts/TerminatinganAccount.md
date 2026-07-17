@@ -2,7 +2,7 @@
 sidebar_position: 10
 ---
 # Terminating an Account
-Termination of an account refers to the **permanent closure or deactivation of an account**, after which the account can no longer be used.
+Termination of an account refers to the permanent closure or deactivation of an account, after which the account can no longer be used.
 
 To terminate an account, follow these steps:
 1. Navigate to **Accounts** > **Account Management**.The following screen appears:
@@ -13,6 +13,6 @@ To terminate an account, follow these steps:
 	![img](img/dots.png)
 	The following screen appears:
 	![img](img/disable.png)
-4. Select from the dropdown **(Terminate/Disable/Restrict)**.The following screen appears:
+4. Select from the **dropdown**. The following screen appears:
 	![img](img/accountt.png)
 5. Click the **YES** button to terminate an account.
