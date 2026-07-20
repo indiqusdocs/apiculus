@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Administration/SubscribersandAccounts/TerminatinganAccount.md",
+                "file": "docs/Subscribers/AccountCentre/SupportandTickets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TerminatinganAccount"
+              "title": "SupportandTickets"
             }
           }
         ]
@@ -167,6 +167,11 @@
   },
   "active": "25d456259de7080e",
   "lastOpenFiles": [
+    "docs/Subscribers/AccountCentre/img/robohelp.png",
+    "docs/Subscribers/AccountCentre/img/ticket2.png",
+    "docs/Subscribers/AccountCentre/img/support.png",
+    "docs/Subscribers/AccountCentre/img/ticket.png",
+    "docs/Administration/SubscribersandAccounts/TerminatinganAccount.md",
     "docs/Administration/SubscribersandAccounts/img/accountt.png",
     "docs/Administration/SubscribersandAccounts/img/disable.png",
     "docs/Administration/SubscribersandAccounts/img/dots.png",
@@ -174,7 +179,6 @@
     "docs/Administration/SubscribersandAccounts/img/translate.png",
     "docs/Administration/SubscribersandAccounts/img/termination.png",
     "docs/Subscribers/AccountCentre/SupportandTickets.md",
-    "docs/Administration/SubscribersandAccounts/TerminatinganAccount.md",
     "docs/Administration/SubscribersandAccounts/MaintainingRelationshipPersonnelInformation.md",
     "docs/Administration/SubscribersandAccounts/AccountManagementOverview.md",
     "docs/Administration/SubscribersandAccounts/ChangingResourceLimitsforSubscribers.md",
@@ -195,10 +199,6 @@
     "docs/Subscribers/Compute/LinuxInstances/VolumeManagement.md",
     "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/CreatingandViewingVPCs.md",
     "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/confirm.png",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/agreement.png",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/networkingpack.png",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/allowed.png",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/click.png",
     "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/CreatingVPCSubnetsTiers.md",
     "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC.md",
     "docs/Administration/ManagingQuickPlans/SettingUpaQuickPlanCategory.md",
