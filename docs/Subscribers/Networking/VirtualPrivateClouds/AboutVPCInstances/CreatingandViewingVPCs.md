@@ -1,8 +1,7 @@
 ---
 sidebar_position: 2
 ---
- # Creating and Viewing VPCs
-
+ ## Creating and Viewing VPCs
 Managing VPCs is important because it gives you full control over your cloud network. By creating, listing, and viewing VPCs, you can organize your resources better, keep track of active networks, and quickly access details when you need to manage or troubleshoot them.
 
 To create, list and view VPCs, navigate to the **Networking** tab and select the **Virtual Private Clouds** option.
