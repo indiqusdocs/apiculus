@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 ---
-# About Virtual Private Cloud and L2 Network
+# Difference Between L2 Networks and a VPC
 
 A VPC is a higher-level abstraction that allows you to create isolated network environments with more advanced features. A VPC can include multiple tiers, such as public and private subnets, and it provides for the implementation of advanced networking features like VPNs (Virtual Private Networks) and ACLs.
 ## 3-Tiered Network Architecture
@@ -24,9 +24,9 @@ VPCs follow the convention of 3-tiered network architecture, with web, app, and 
 - It resides in a private subnet and is strictly isolated from the internet.
 - It is accessed only by the app tier to ensure data protection.
 
- VPC is delivered using a virtual router (VR). The following sections outline various functionalities using a VPC:
+ A VPC is delivered using a virtual router (VR). The following sections outline various functionalities using a VPC:
 ![Create, List and View VPCs](img/CreateVPC3.png)
-- [Create, List and View VPCs](CreateListandViewVPCs)
+- [Create, List and View VPCs](CreatingandViewingVPCs.md)
 - [Overview](docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/Overview.md)
 - [Creating subnets and tiers](CreatingVPCSubnetsTiers)
 - [Managing VPC Instances](ManagingVPCInstances)
@@ -43,5 +43,5 @@ The end-users can create L2 networks; however, network offerings that allow the 
 
 The difference in Traffic Flow is simplified in the following diagram:
 
-![Difference Between L2 Networks and VPC](img/VPCDiagram.png)
+![Difference Between L2 Networks and VPC](img/TrafficFlow.png)
 
