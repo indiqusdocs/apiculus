@@ -17,17 +17,16 @@ As a first step, add the new IP Address to the VPC. To do this, follow these ste
 2. Click the **VPC Name**.
 3. Navigate to the **IP Addresses** menu. The following screen appears:
 	![img](img/ipa.png)
-4. Click the **ADD PUBLIC IPv4 Address** button. The following screen appears:
+4. Click the **Add Public IPv4 Address** button. The following screen appears:
 	![img](img/addingip.png)
 5. Click the **Confirm Purchase** button. The following screen appears:
 	![img](img/monthly.png)
 6. Click **Confirm**.
  :::note 
- IP Address may carry a price which may vary depending on availability of IP address in the country of operation, and/or how the service provider has priced them.
- :::
+ IP Address may carry a price which may vary depending on availability of IP address in the country of operation, and/or how the service provider has priced them.:::
 ## Configuring Load Balancing 
 To configure the Load Balancing Rule, follow these steps:
-1. To create Load Balancing Rule, click the ![Icon](img/LoadBalancingIcon.png)icon.
+1. To create Load Balancing Rule, click the icon.
 2. The following window appears:
 	![Window](img/AddRule1.png)
 3. Click **Add Rule**. The following window appears:
@@ -64,7 +63,7 @@ A load balancer IP rule can only be configured if the tier/subnet type is set to
 A Port Forwarding rule is required for accessing the virtual machines contained in a VPC. Since virtual machines in a VPC only have a private IP address, a public IP address is required for each virtual machine that you want to access from your terminal.
 
 To configure port forwarding, follow these steps:
-1. To configure Port Forwarding Rule, click the ![Icon](img/PortForwardingIcon.png)icon.
+1. To configure Port Forwarding Rule, click the icon (highlighted in red).
 2. The following window appears:  ![Add Port](img/AddPort1.png)
 3. Click **ADD RULE**. The following window appears: ![IPv4 Addresses and VPC](img/IPv4AddressesandVPC4.png)
 4. Specify the following details in the window:

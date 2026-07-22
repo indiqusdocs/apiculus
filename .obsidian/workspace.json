@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e607298688dbf9e3",
+        "id": "eafcffcf36d51c74",
         "type": "tabs",
         "children": [
           {
-            "id": "25d456259de7080e",
+            "id": "a13196a0959d6088",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/Networking/LoadBalancerInstances/CreatingaLoadBalancerInstance.md",
+                "file": "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CreatingaLoadBalancerInstance"
+              "title": "IPv4AddressesandVPC"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "terminat",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,36 +165,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "25d456259de7080e",
+  "active": "a13196a0959d6088",
   "lastOpenFiles": [
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/CreatingandViewingVPCs.md",
+    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets.md",
+    "docs/Administration/SubscribersandAccounts/AccountManagementOverview.md",
+    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/Overview.md",
+    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/VPCManagementandBasicOperations.md",
+    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/Reconfiguring.md",
+    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingVPCInstances.md",
     "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/CreatingVPCSubnetsTiers.md",
+    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/CreatingandViewingVPCs.md",
+    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/InternalLBRule.md",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Untitled.base",
     "docs/Subscribers/Networking/LoadBalancerInstances/CreatingaLoadBalancerInstance.md",
-    "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/InternalLBRule/index.html",
-    "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/InternalLBRule",
-    "build/assets/js/ccc49370.7162d060.js",
-    "build/assets/js/cb0a67a0.58820f2a.js",
-    "build/assets/js/c60d192a.4ae5e22b.js",
+    "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/CreatingandViewingVPCs/index.html",
+    "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/CreatingandViewingVPCs",
+    "build/assets/js/f2112fa6.23670d96.js",
+    "build/assets/js/901d88b7.813bfc8d.js",
+    "build/assets/js/8f524f20.8ec3d174.js",
+    "build/assets/js/90206688.456f1002.js",
+    "build/assets/js/90880634.d32ffd67.js",
+    "build/assets/images/drag-a9bc2c1820a51d8f437bc3df47e5bc81.png",
+    "build/assets/images/delete2-4a04f57860e4887f1fe420b1cfa7efe8.png",
+    "build/assets/images/edit-c5c49e4e379d2a9cf48ca6764c738b3e.png",
+    "build/assets/images/rule-b087f20bfb26232666171df5d36fab7d.png",
+    "build/assets/images/delete-230ef954785f6d4bf2e364f85d8e9028.png",
+    "build/assets/images/tier-d527203efeeb15393adf55e3e5a69147.png",
+    "build/assets/images/allowed-53fb1ed8fc7d41b326d3826081574101.png",
+    "build/assets/images/click-9ceefe9ade5d1d8941c6d42193a9d47c.png",
+    "build/assets/images/ipa-37f85d20b29ce6b38ffabf044a7ca4fc.png",
     "build/assets/images/select-bac2a99ddf43a02cf901db234c438bf8.png",
-    "build/assets/images/newrule-7ab11dc484612a85112bfdcd34f4b22f.png",
-    "build/assets/images/addthis-00c84a7c847b961574da0e1752dc47b4.png",
-    "build/assets/images/delete4-dadfd94db503a3ef536788036fa8a034.png",
-    "build/assets/images/delete3-51ec034a10cfe19ff8e995c8c9c7723a.png",
-    "build/assets/images/instance-5bcd58b3d1f067beae2071a02547333a.png",
-    "build/assets/images/internal-8dfe86df2dc8ce5d61dcb845ad3c9531.png",
-    "build/assets/images/monthly-3e2fc82a2a2b8fa509593e8db30dcce6.png",
-    "build/assets/images/vpcscreen-8793bd0cb070808b28e6105d088adb39.png",
-    "build/assets/images/addingip-e40028753d82f06c5515bc69097a83d3.png",
     "docs/Subscribers/Networking/LoadBalancerInstances/AboutLoadBalancerInstances.md",
     "docs/Subscribers/AccountCentre/SupportandTickets.md",
-    "build/docs/Administration/SubscribersandAccounts/TerminatinganAccount/index.html",
-    "build/docs/Administration/SubscribersandAccounts/TerminatinganAccount",
-    "build/assets/js/main.4a53d0d4.js",
-    "build/assets/js/main.4a53d0d4.js.LICENSE.txt",
-    "build/assets/js/f35f820b.e8082ca0.js",
     "docs/Administration/SubscribersandAccounts/TerminatinganAccount.md",
     "docs/Administration/SubscribersandAccounts/MaintainingRelationshipPersonnelInformation.md",
-    "docs/Administration/SubscribersandAccounts/AccountManagementOverview.md",
     "docs/Administration/SubscribersandAccounts/ChangingResourceLimitsforSubscribers.md",
     "docs/Administration/SubscribersandAccounts/WorkingwithKYCandAccountVerification.md",
     "docs/Administration/SubscribersandAccounts/WorkingwithAccountStates.md",
@@ -207,11 +213,6 @@
     "docs/Components/SupportedSMSGateways.md",
     "docs/Components/SupportedPaymentGateways.md",
     "docs/Components/BuildingBlocks.md",
-    "docs/Components/BillingConcepts.md",
-    "docs/Components/AccessCentral.md",
-    "docs/APIs/AccountManagement/TerminateAccount.md",
-    "docs/Subscribers/Compute/LinuxInstances/VolumeManagement.md",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
