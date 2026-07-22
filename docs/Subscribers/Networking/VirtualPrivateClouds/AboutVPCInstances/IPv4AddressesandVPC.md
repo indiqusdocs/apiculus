@@ -22,8 +22,10 @@ As a first step, add the new IP Address to the VPC. To do this, follow these ste
 5. Click the **Confirm Purchase** button. The following screen appears:
 	![img](img/monthly.png)
 6. Click **Confirm**.
- :::note 
- IP Address may carry a price which may vary depending on availability of IP address in the country of operation, and/or how the service provider has priced them.:::
+
+	:::note 
+	IP Address may carry a price which may vary depending on availability of IP address in the country of operation, and/or how the service provider has priced them.
+	:::
 ## Configuring Load Balancing 
 To configure the Load Balancing Rule, follow these steps:
 1. To create Load Balancing Rule, click the icon (highlighted in red).The following window appears:
@@ -36,7 +38,7 @@ To configure the Load Balancing Rule, follow these steps:
 	- Select the **Tier**.
 	- The **load balancing algorithm** to use.
 	- **Public** and **private** port mapping.
-4. Click the **ADD LOAD BALANCING RULE** button.
+4. Click the **Add Load Balancing Rule** button.
 
 Once the load balancer rule has been created, you can navigate to load balancer and add (or remove) Instances to this rule. To do this, follow these steps:
 
@@ -50,9 +52,11 @@ Once the load balancer rule has been created, you can navigate to load balancer 
 
 To verify the load balancer configuration, log into each virtual machine behind it, create an **index.html** file with different content on each, and access the public IP address from your browser. If configured correctly, each browser page refresh should take turns in loading the two index.html pages.
 
+
 :::note
 A load balancer IP rule can only be configured if the tier/subnet type is set to **Public IP**.
 :::
+
 ## Configuring Port Forwarding
 A Port Forwarding rule is required for accessing the virtual machines contained in a VPC. Since virtual machines in a VPC only have a private IP address, a public IP address is required for each virtual machine that you want to access from your terminal.
 
