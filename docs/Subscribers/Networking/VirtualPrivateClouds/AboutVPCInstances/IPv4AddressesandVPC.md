@@ -40,6 +40,15 @@ To configure the Load Balancing Rule, follow these steps:
 	- **Public** and **private** port mapping.
 4. Click the **Add Load Balancing Rule** button.
 
+:::note
+To delete this Load Balancing Rule, click **Delete This Rule**.
+:::
+
+:::note
+You need at least one subnet tier to create a Load Balancer IP rule.
+:::
+
+
 Once the load balancer rule has been created, you can navigate to load balancer and add (or remove) Instances to this rule. To do this, follow these steps:
 
 1. Click the **Load Balancer Rule** icon.
@@ -61,22 +70,23 @@ A load balancer IP rule can only be configured if the tier/subnet type is set to
 A Port Forwarding rule is required for accessing the virtual machines contained in a VPC. Since virtual machines in a VPC only have a private IP address, a public IP address is required for each virtual machine that you want to access from your terminal.
 
 To configure port forwarding, follow these steps:
-1. To configure Port Forwarding Rule, click the icon (highlighted in red).
+1. Click the **Port Forwarding** icon (highlighted in red).
 	![img](img/portforwarding1.png)
-2. Click **ADD RULE**. The following window appears: ![IPv4 Addresses and VPC](img/IPv4AddressesandVPC4.png)
+2. Click **Add Rule**. The following window appears: ![IPv4 Addresses and VPC](img/IPv4AddressesandVPC4.png)
 3. Specify the following details in the window:
 	- **Protocol** for port-forwarding.
 	- The **tier** and the Instance to port-forward to.
-	- Set the**Public** and **private port** range.
+	- Set the **Public** and **private port** range.
 	  :::note
 	  The end ports should be equal to or greater than the start ports.
 	  :::
-4. Click **ADD PORT FORWARDING RULE**.
+4. Click **Add Port Forwarding Rule**.
 
 Once the Port-Forwarding rule is created, you can view its details by following these steps:
 1. Click the **Port Forwarding Rule** icon.
 2. The following window appears:![Port Forwarding](img/PortForwardingWindow.png)
-3. In this window, you can view the Instance where this rule is configured, along with the private and public port range mappings.
+
+In this window, you can view the Instance where this rule is configured, along with the private and public port range mappings.
 
 To test if port-forwarding is configured correctly, use the public IP to SSH into the virtual machine the IP forwards to.
 
@@ -85,9 +95,11 @@ A Port-Forwarding IP address can be used to configure multiple Port-Forwarding a
 :::
 ## Configuring Static NAT
 
-1. To use the public IP as a static translation, click the icon (highlighted in red). 
+Static NAT is required when you want a private instance inside a VPC to be accessible from the internet or external networks using a fixed Public IP.
+
+1. To use the public IP as a static translation, click the **Static NAT** icon (highlighted in red). 
 	![img](img/staticnat.png)
-2. The following window appears: 
+	The following window appears: 
 	![IPv4 Addresses and VPC](img/IPv4AddressesandVPC5.png)
 3. Select the Instance you want to assign the public IP to, then click **Add Static NAT**.
 
