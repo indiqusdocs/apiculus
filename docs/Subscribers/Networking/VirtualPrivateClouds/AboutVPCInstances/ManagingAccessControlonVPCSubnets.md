@@ -75,7 +75,7 @@ To delete an ACL, follow these steps:
 3. Type **DELETE** in the textbox.
 4. Click the **Delete ACL Rule** button.
 :::note 
-To delete an ACL, you must first disassociated it with the attached tier. For more information, refer [Replacing an ACL](https://eneyesee.netlify.app/docs/Guides/Networking/VirtualPrivateClouds/CreatingVPCSubnetsTiers#replacing-an-acl).
+To delete an ACL, you must first disassociated it with the attached tier. For more information, refer [Replacing an ACL](/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/CreatingVPCSubnetsTiers#replacing-an-acl).
 :::
 ## Creating Bulk Custom ACL and Adding Rules
 If you want to create custom ACL rule in bulk, then use the import option.

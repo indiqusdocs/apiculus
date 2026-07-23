@@ -48,25 +48,20 @@ To delete this Load Balancing Rule, click **Delete This Rule**.
 You need at least one subnet tier to create a Load Balancer IP rule.
 :::
 
-
 Once the load balancer rule has been created, you can navigate to load balancer and add (or remove) Instances to this rule. To do this, follow these steps:
-
 1. Click the **Load Balancer Rule** icon (highlighted in red).
-	![img](img/load.png)
+	![img](img/Balancer.png)
 2. Select the **Load Balancing Rule**.
-  ![Window](img/AddRule1.png)
+	![Window](img/ruleing.png)
 3. The following window appears:
-	  ![IPv4 Addresses and VPC](img/IPv4AddressesandVPC3.png)
+	![IPv4 Addresses and VPC](img/IPv4AddressesandVPC3.png)
 4. This window shows Instances that are part of this load balancer, and those available to be added. 
 5. Click the **+** icon to add an instance and the **X** icon to remove an instance.
 
 To verify the load balancer configuration, log into each virtual machine behind it, create an **index.html** file with different content on each, and access the public IP address from your browser. If configured correctly, each browser page refresh should take turns in loading the two index.html pages.
-
-
 :::note
 A load balancer IP rule can only be configured if the tier/subnet type is set to **Public IP**.
 :::
-
 ## Configuring Port Forwarding
 A Port Forwarding rule is required for accessing the virtual machines contained in a VPC. Since virtual machines in a VPC only have a private IP address, a public IP address is required for each virtual machine that you want to access from your terminal.
 
