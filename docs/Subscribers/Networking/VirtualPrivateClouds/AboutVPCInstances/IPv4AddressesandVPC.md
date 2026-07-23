@@ -51,7 +51,8 @@ You need at least one subnet tier to create a Load Balancer IP rule.
 
 Once the load balancer rule has been created, you can navigate to load balancer and add (or remove) Instances to this rule. To do this, follow these steps:
 
-1. Click the **Load Balancer Rule** icon.
+1. Click the **Load Balancer Rule** icon (highlighted in red).
+	![img](img/load.png)
 2. Select the **Load Balancing Rule**.
   ![Window](img/AddRule1.png)
 3. The following window appears:
