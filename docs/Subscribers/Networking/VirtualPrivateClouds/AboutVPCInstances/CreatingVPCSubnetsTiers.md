@@ -16,7 +16,7 @@ To add a tier to your VPC, navigate to the VPC, select the **Subnets and Tiers*
 - **Tier IPv6 Gateway** of this tier.
 - **Tier IPv6 CIDR** of this tier.
 - **Access Control** of this tier.
-	![Creating VPC Subnets/Tiers](img/Subnets.png)
+	![Creating VPC Subnets/Tiers](img/subnets.png)
 There are three icons available on the right side for quick actions:
 	- Restarting the network
 	- Replacing the access control list

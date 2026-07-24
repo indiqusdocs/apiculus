@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC.md",
+                "file": "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/CreatingVPCSubnetsTiers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IPv4AddressesandVPC"
+              "title": "CreatingVPCSubnetsTiers"
             }
           }
         ]
@@ -167,6 +167,7 @@
   },
   "active": "a13196a0959d6088",
   "lastOpenFiles": [
+    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC.md",
     "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/CreatingandViewingVPCs.md",
     "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/CreatingVPCSubnetsTiers.md",
     "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/DifferenceBetweenL2NetworksandaVPC.md",
@@ -178,7 +179,6 @@
     "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/replace.png",
     "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/addtier.png",
     "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/subnets.png",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC.md",
     "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/Balancer.png",
     "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/ruleing.png",
     "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/load .png",
