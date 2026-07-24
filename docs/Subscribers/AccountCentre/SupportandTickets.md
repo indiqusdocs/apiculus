@@ -2,7 +2,9 @@
 sidebar_position: 9
 ---
 # Support and Tickets
-Apiculus Cloud provides SLA-driven support to all subscriber customers in accordance with the terms and conditions outlined in the Service Level Agreement. To access the SLA, navigate to the User icon in the top helper bar and select Account under Account Centre.
+Apiculus provides support according to the terms and conditions defined in the Service Level Agreement. You can use the **Support & Ticket** section to create, track, and manage your tickets. You can raise tickets for incidents, service requests, or change requests and communicate directly with the assigned support agent.
+
+To access the **Support & Tickets** menu, click the **user** icon and navigate to **Account Centre > Account**.
 
 ![Support and Tickets](img/SupportandTickets1.png)
 ## Creating a Support Ticket
@@ -13,13 +15,13 @@ To create a support ticket, follow these steps:
 2. Click the **Create a Ticket** button. The following screen appears:
 	![img](img/support.png)
 3. Provide the following details:
-- **Type:** This is a high-level classification in terms of Account, Billing, Technical, or another issue.
-- **Category:** Select the appropriate category (For example: Accounts, Antivirus, Apache SQL Injection Attack, Backup) based on the ticket type.
-- **Ticket Sub Category:** Select the appropriate subcategory according to the selected category.
-- **Priority:** You can choose a priority level for your ticket: Very Low, Low, Normal, High, or Critical.
-- **Subject:** Based on the type provide a relevant subject to your ticket that pinpoint exactly which item you’re having an issue with.
-- **Details:** You should provide as much information as possible for Apiculus’s support agents to be able to diagnose your issue better.
-- **Attachments:** Optionally, you can also attach a .png, .jpg, or .pdf file as an attachment.
+	- **Type:** This is a high-level classification in terms of Account, Billing, Technical, or another issue.
+	- **Category:** Select the appropriate category (For example: Accounts, Antivirus, Apache SQL Injection Attack, Backup) based on the ticket type.
+	- **Ticket Sub Category:** Select the appropriate subcategory according to the selected category.
+	- **Priority:** You can choose a priority level for your ticket: Very Low, Low, Normal, High, or Critical.
+	- **Subject:** Based on the type provide a relevant subject to your ticket that pinpoint exactly which item you’re having an issue with.
+	- **Details:** You should provide as much information as possible for Apiculus’s support agents to be able to diagnose your issue better.
+	- **Attachments:** Optionally, you can also attach a .png, .jpg, or .pdf file as an attachment.
 4. Click the **Create Support Ticket** button.
 
 After successfully creating the ticket, you get a notification email and a separate email containing the ticket details on your registered email id. You can use the ticket information to track the request and communicate with the support agent(s).
@@ -36,24 +38,23 @@ To communicate with an agent, follow these steps:
 You can also reply directly to the email containing the ticket information or the latest response from the support agent.
 # Ticket Classifiers
 
-Please refer to the following table for a quick reference on ticket classifiers:
+The following table is a quick reference on ticket classifiers:
 
-|   |   |   |
-|---|---|---|
-|**Type**|**Sub-type**|**Item**|
-|Billing|Transactions|List of transactions to choose from|
-||Invoices|List of invoices to choose from|
-||Statements|List of statements to choose from|
-||Other|-|
-|Technical|Virtual Machines|List of VMs to choose from|
-||Virtual Private Clouds|List of VPCs to choose from|
-||Disks|List of root and addon volumes to choose from|
-||Other|-|
-|Account|Active Subscriptions|List of active subscriptions to choose from|
-||Inactive Subscriptions|List of inactive subscriptions to choose from|
-||Users|List of child users to choose from|
-||Other|-|
-|Other|-|-|
+| **Type**  | **Sub-type**           | **Item**                                      |
+| --------- | ---------------------- | --------------------------------------------- |
+| Billing   | Transactions           | List of transactions to choose from           |
+|           | Invoices               | List of invoices to choose from               |
+|           | Statements             | List of statements to choose from             |
+|           | Other                  | -                                             |
+| Technical | Virtual Machines       | List of VMs to choose from                    |
+|           | Virtual Private Clouds | List of VPCs to choose from                   |
+|           | Disks                  | List of root and addon volumes to choose from |
+|           | Other                  | -                                             |
+| Account   | Active Subscriptions   | List of active subscriptions to choose from   |
+|           | Inactive Subscriptions | List of inactive subscriptions to choose from |
+|           | Users                  | List of child users to choose from            |
+|           | Other                  | -                                             |
+| Other     | -                      | -                                             |
 
 
 

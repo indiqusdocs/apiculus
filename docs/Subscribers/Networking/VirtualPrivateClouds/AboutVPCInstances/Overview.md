@@ -2,7 +2,6 @@
 sidebar_position: 3
 ---
 # Overview
-
 To view a list of sections and the various operations or actions you can perform by going inside the particular section, click on the VPC name. Below the VPC name is an informational view where you can find the details below.
 - Configuration
 - Availability Zone
