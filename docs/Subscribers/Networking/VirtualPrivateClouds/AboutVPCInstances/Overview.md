@@ -2,16 +2,13 @@
 sidebar_position: 3
 ---
 # Overview
-
 To view a list of sections and the various operations or actions you can perform by going inside the particular section, click on the VPC name. Below the VPC name is an informational view where you can find the details below.
-
 - Configuration
 - Availability Zone
 - Public IP
 - Created
 
 Along with the summary, the following information is readily available under the **Overview** tab:
-
 - **Configuration and Availability**-
     - The instance's status, **RUNNING**, is displayed in <span class="green">**green**</span>, whereas **STOPPED** is displayed in <span style={{ color: 'grey' }}>grey</span>.
     - Information about the Virtual Router Pack.

@@ -2,35 +2,48 @@
 sidebar_position: 4
 ---
 # Creating VPC Subnets and Tiers
-
-VPCs follow the convention of 3-tiered architectures, with web, app, and DB tiers forming the norm. You can, however, configure these tiers to suit your application architecture or just follow the common convention.
+Subnets and tiers are essential components of network design to ensure efficient traffic
+management and security.
 ## Subnet and Tiers 
-
 In a VPC, subnets define IP-based network segments, and tiers represent logical layers of your application architecture. You can design networking tiers within this VPC based on the overall network size and the allocated Super CIDR range.
 ![Subnet and Tier](img/SubnetandTier.png)
-
-![Creating VPC Subnets/Tiers](img/VPCSubnets1.png)
-
-To add a tier to your VPC, navigate to the VPC you wish to add the tier to, and click the **ADD TIER** option present inside the **SUBNETS AND TIERS** section of the VPC. This will open up a dialog box asking you to provide the following information:
+To add a tier to your VPC, navigate to the VPC, select the **Subnets and Tiers** section. The following details are displayed:
 
 - **Name** of the tier.
-- **Gateway** for the subnet.
-- **Netmask** for the tier/subnet.
-	:::note
-	 The gateway should be consistent with the subnet mask.
-	:::
-- Default **access control** policy for this tier.
-- **Load balancing type** required on this tier. 
-  :::note
-	 To set up a public load balancer, you need to select **Public LB** on this dropdown. There can only be 1 tier of type Public LB in a network.
-  :::
+- **Gateway**for the subnet. 
+- **Netmask** for the tier/subnet.
+- **Tier CIDR** for this tier.
+- **Tier IPv6 Gateway** of this tier.
+- **Tier IPv6 CIDR** of this tier.
+- **Access Control** of this tier.
+	![Creating VPC Subnets/Tiers](img/subnets.png)
+There are three icons available on the right side for quick actions:
+	- Restarting the network
+	- Replacing the access control list
+	- Deleting the tier
+### Adding a Tier
+To add a tier, follow these steps:
+1. Click the **Add Tier** button. The following screen appears:
+	![img](img/addtier.png)
+2. Enter the following details:
+    - **Tier Name:** Name of the network tier you are creating.
+    - **Gateway:** IP address for the gateway of the tier.
+    - **Netmask:** Subnet mask defining the IP range.
+    - **Access Control:** Choose rules for network traffic control.
+3. Click the **Add Network Tier** button.
+:::note 
+You can attach the network tier to the instance as a Network Interface Card (NIC).
+:::
+### Replacing an ACL
+To replace an ACL, follow these steps:
+1. Click the **Replace Access Control List** (highlighted in red) icon.
+	![img](img/replace.png)
+	The following screen appears:
+	![img](img/tieracl.png)
+2. Select a different **ACL** from the dropdown list.
+3. Click the **Replace Tier ACL** button.
 
-![Creating VPC Subnets/Tiers](img/VPCSubnets2.png)
-
-To create the tier or subnet to be used as part of the VPC, click on **ADD NETWORK TIER**.
-
-There are three icons available on the right side for quick actions like restarting the network, replacing the access control list, and deleting the tier.
-
+The tier is attached with selected ACL.
 ### Public Load Balancer
 
 A Public Load Balancer is used to manage traffic that comes from the internet. It comprises a public IP address, allowing users or external systems to access your application from outside your network.
@@ -57,7 +70,7 @@ It works only inside your VPC. It has a private IP address, which means it is no
 ![Lb](img/Lb.png)
 
 :::note
-Only empty tiers can be deleted, which means that to delete a tier, ensure that there are no Instances and no NAT rule(s) associated with it.
+You can delete only the empty tiers, which means that in order to delete a tier, ensure that there are no Instances and no NAT rule(s) associated with it.
 :::
 
 

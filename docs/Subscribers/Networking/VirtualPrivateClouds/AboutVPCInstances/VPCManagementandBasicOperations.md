@@ -1,10 +1,9 @@
 ---
 sidebar_position: 9
 ---
-# VPC Management and Basic Operations
+# VPC Operations
 
 VPC management offers the following operations. These are basic VPC management actions and don't have any impact on the actual network configurations.
-
 ## Powering ON/OFF the Virtual Router
 
 Switching the VPC power state is possible using the **power status** button on top. This is usually <span class="green">**green**</span> if the VPC is powered ON, and <span style={{ color: 'grey' }}>greyed</span> out if powered OFF.

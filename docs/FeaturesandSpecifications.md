@@ -3,10 +3,10 @@ sidebar_position: 2.1
 ---
 # Features and Specifications
 This section covers the following:
-- [Self-service and Administration](#self-service-and-administration)
-- [Integrated Billing and XaaS Monetisation](#integrated-billing-and-xaas-monetisation)
-- [End-to-end Business Enablement](#end-to-end-business-enablement)
-### Self-service and Administration
+1. [Self-service and Administration](#self-service-and-administration)
+2. [Integrated Billing and XaaS Monetisation](#integrated-billing-and-xaas-monetisation)
+3. [End-to-end Business Enablement](#end-to-end-business-enablement)
+## Self-service and Administration
 
 Apiculus brings a powerful layer of self-service along with a multitude of configurable options for managing customer journeys, admin operations and cloud commerce.
 
@@ -21,7 +21,7 @@ Apiculus brings a powerful layer of self-service along with a multitude of confi
 | Customer Identity Verification Workflows      | Define workflows for mandatory or regulatory KYC (Know Your Customer) identity verification of your customers.                                                                       |
 | Self-service Platform Configurations          | Configure the end-user experience, right from branding to policy documentation, custom links and platform default behaviours.                                   |
 | Role-based Admin Access                       | Onboard various functional personnel with our customisable role-based access system.                                                                            |
-### Integrated Billing and XaaS Monetisation
+## Integrated Billing and XaaS Monetisation
 With Apiculus, service providers can set up a marketplace of IaaS, PaaS, multi-cloud and other value-added service offerings. Apiculus offers not only the listing of services, but also a complete automated and integrated provisioning, operating, and billing paradigm.
 
 | FEATURES                                           | DESCRIPTION                                                                                                                                                  |
@@ -36,7 +36,7 @@ With Apiculus, service providers can set up a marketplace of IaaS, PaaS, multi-c
 | Multi-currency and Multi-Region                    | Offer billing in global currencies in addition to local ones to serve your local and global demand.                                                          |
 | Discounts, Coupons & Trials                        | Streamline your customer acquisition by creating on-site discounting, cash vouchers and structured trial benefits.                                           |
 
-### End-to-End Business Enablement
+## End-to-End Business Enablement
 Apiculus ships with SLA-backed integrated support and all the tools needed to enable stellar service delivery on the cloud. As an extension of business enablement, Apiculus also offers comprehensive localisation across branding, regulatory, compliance and other localisation domains.
 
 | FEATURES                                            | DESCRIPTION                                                                                                                                                     |

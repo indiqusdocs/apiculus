@@ -97,5 +97,13 @@ Refer to the [Apiculus Datasheet](apioverview.md) for a [complete list of Servic
 
 
 <div className="custom-block-green">
+  This is a custom-styled block with a light green background and a green border.
+</div>
+
+<div className="custom-block-blue">
   This is a custom-styled block with a light blue background and a blue border.
+</div>
+
+<div className="custom-block-peach">
+  This is a custom-styled block with a light peach background and a peach border.
 </div>
