@@ -22,16 +22,15 @@ To add a new admin user:
 
 2. Enter all the essential information, and click **Confirm**.
 ## Editing Admin User's Details
-To edit existing user details: <br />
-Click on the three-dots icon ![Three dots](img/threedots.png)  against the admin user whose details you want to edit, and click **Edit**. The Edit Account window opens where you can edit the details.
+To edit existing user details, click on the three-dots icon against the admin user whose details you want to edit, and click **Edit**. The Edit Account window opens where you can edit the details.
 ![Editing SP Admin Users Details](img/EditAccount.png)
 
 :::note
 You can edit only the First Name, Last Name, Phone Number, and Role.
 :::
 ## Deleting Admin User
-To delete existing admin user's details: <br />
-1. Click on the three-dots icon ![Three dots](img/threedots.png)  against the admin user you want to delete, and click **Delete**. The following screen appears:
+To delete existing admin user's details:
+1. Click on the three-dots icon against the admin user you want to delete, and click **Delete**. The following screen appears:
    
    ![Deleting Admin Users](img/Delete1.png)
 2. Click on **Yes, Delete**.

@@ -27,7 +27,7 @@ The various information about the discount codes that are listed is as follows:
 :::note
 You can download the information in a .CSV format.
 :::
-You can edit the discount codes by clicking the  ![Pencil Icon](img/PencilIcon.png) (pencil icon).
+You can edit the discount codes by clicking the pencil icon.
 ![Working with Discount Codes](img/WorkingwithDiscountCodes3.png)
 
 ## Adding Discount Codes
@@ -43,7 +43,7 @@ To add a new discount code, follow these steps:
 
 ## Sending the Discount Code to the Customer
 
-You can email the discount codes to the specific customer by ![Notify Icon](img/NotifyIcon.png)  (Notify icon). 
+You can email the discount codes to the specific customer by notify icon. 
 A confirmation message appears. Click **Confirm** to send the email to the customer.
 ![Working with Discount Codes](img/WorkingwithDiscountCodes8.png)
 

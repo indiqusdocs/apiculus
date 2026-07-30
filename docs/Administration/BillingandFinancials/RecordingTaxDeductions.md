@@ -32,8 +32,8 @@ Tax Deductions can be accessed and added in the following ways:
     - Status
 
 	![Recording Tax Deductions](img/RecordingTaxDeductions1.png)
-1. You can view the details by clicking on ![Eye icon](img/Eye.png) (Eye icon).
-2. You can also reverse the transaction by clicking on ![Reverse icon](img/Reverse.png)  (Reverse icon).
+1. You can view the details by clicking on eye icon.
+2. You can also reverse the transaction by clicking on reverse icon.
 3. You can also filter using the options available above the table.
 4. For adding the tax deduction from the global section, click on the **Add Tax Deduction**. The following screen appears:![Recording Tax Deductions](img/RecordingTaxDeductions2.png)
 	1. Download the template (.Xlsx or .Ods).
@@ -54,8 +54,8 @@ Tax Deductions can be accessed and added in the following ways:
 
 	![Recording Tax Deductions](img/RecordingTaxDeductions5.png)
 
-3. You can view the details by clicking on ![Eye icon](img/Eye.png) (Eye icon).
-4. You can also reverse the transaction by clicking on ![Reverse icon](img/Reverse.png)  (Reverse icon).
+3. You can view the details by clicking on eye icon.
+4. You can also reverse the transaction by clicking on Reverse icon.
 5. You can also filter using the options available above the table.
 6. For adding the tax deduction, click on the **Add Tax Deduction**. The Add Tax Deduction window opens.![Recording Tax Deductions](img/RecordingTaxDeductions6.png)
 7. Enter the required details, and click the **Submit** button.
