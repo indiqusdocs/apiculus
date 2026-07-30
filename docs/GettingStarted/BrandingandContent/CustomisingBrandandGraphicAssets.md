@@ -9,14 +9,14 @@ Navigate to **Administration** > **Settings** > **Brand Assets** to customise b
 
 ![Branding](img/brand1.png)
 
-### Signup/Logon Page Layout
+## Signup/Logon Page Layout
 Select the layout for the signup/login page by clicking on the respective icon.
 
 |                                                                                                                      |                             |
 | -------------------------------------------------------------------------------------------------------------------- | --------------------------- |
 | > Form on left; banner on right <br /> > Form in centre; banner as background <br /> > Banner on left; form on right | ![Branding](img/brand2.png) |
 
-### Main Logo
+## Main Logo
 
 You can view and delete the existing logo and upload a new one to match your branding requirements. 
 
@@ -26,19 +26,19 @@ You can use the Main Logo for the Cloud Navigation, Account Center, and Email fo
 
 ![Branding](img/brand3.png)
 
-### Favicon
+## Favicon
 
 You can view and delete the existing favicon and upload a new favicon to match your branding requirements. 
 
 Click the **Attach File** button to upload a new favicon.
 
-### Banner
+## Banner
 
 You can view and delete the existing banner and upload a new banner to match your branding requirements. 
 
 Click the **Attach File** button to upload a new Banner.
 
-### Theme
+## Theme
 
 You can edit the existing theme to match your branding requirements. 
 ![Branding](img/brand4.png)
@@ -53,7 +53,7 @@ You can modify the theme customisation kit (.css) to define the following:
 - Navigation panel colour palette
 - Login/signup page colour palette
 
-### Fonts
+## Fonts
 
 The system supports .woff files for fonts. 
 
