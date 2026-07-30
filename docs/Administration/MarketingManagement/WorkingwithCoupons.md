@@ -25,7 +25,7 @@ Apiculus comes with a built-in mini dashboard for viewing information related to
 You can download the information in .CSV format.
 :::
 
-You can edit the coupon codes by clicking the  ![Pencil Icon](img/PencilIcon.png) (pencil icon).![Working with Coupons](img/Coupons3.png)
+You can edit the coupon codes by clicking the pencil icon.![Working with Coupons](img/Coupons3.png)
 
 ## Creating/Generating the Coupon Codes
 To create/generate coupon code, follow these steps:
@@ -35,7 +35,7 @@ To create/generate coupon code, follow these steps:
 3. Enter the **Coupon Value**, **Currency**, **Number of Coupons**, **Start** and **Expiry Date**, and click the **Generate** button.![Working with Coupons](img/Coupons5.png)
 ## Sending the Coupon Code to the Customer
 
-You can email the coupon codes to specific customer by clicking the ![Notify Icon](img/NotifyIcon.png)  (Notify icon). 
+You can email the coupon codes to specific customer by clicking the notify icon. 
 A confirmation message appears. Click **Send Email** to send the email to the customer.
 
 ![Working with Coupons](img/Coupons6.png)

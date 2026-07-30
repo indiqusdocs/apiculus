@@ -15,7 +15,7 @@ You can add custom links such as demo videos, help guides, etc. These custom lin
 
 ## Editing and Deleting Custom Links
 1. Navigate to **Administration** > **Settings** > **Links**. 
-2. Click on the three-dots icon ![Three dots](img/threedots.png) at the end of the custom link for the following options:
+2. Click on the three-dots icon at the end of the custom link for the following options:
 	- **Edit** the custom link.
 	- **Delete** the custom link.
 

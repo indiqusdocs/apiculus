@@ -18,7 +18,7 @@ This does not regenerate an invoice. The same invoice is sent again to the same 
 :::
 
 ## Canceling Invoice
-To cancel an Invoice, click on ![Cancel Icon](img/CancelIcon.png)(cancel icon) in the global-level or account-level list of invoices.
+To cancel an Invoice, click on cancel icon in the global-level or account-level list of invoices.
 
 ![Cancel Invoice](img/Invoices1.png)
 

@@ -9,7 +9,6 @@ Navigate to **Administration** > **Settings** > **Content** to customise the st
 ![Publishing](img/Publishing1.png)
 
 Apiculus includes a built-in content versioning and management system. Each time a static content document is updated, the system triggers an acceptance from all subscribers and admin users.
-## Updating Standard Content/Policies
 
 To update the standard content/policies:
 
