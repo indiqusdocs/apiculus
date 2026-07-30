@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/ReleaseNotes/Ver2610.md",
+                "file": "docs/ReleaseNotes/Ver2620.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ver2610"
+              "title": "Ver2620"
             }
           }
         ]
@@ -167,6 +167,8 @@
   },
   "active": "a13196a0959d6088",
   "lastOpenFiles": [
+    "docs/ReleaseNotes/Ver2610.md",
+    "docs/ReleaseNotes/Ver2620.md",
     "StackComponents.svg",
     "docs/Subscribers/Compute/Kubernetes/ScalingKubernetesClusters.md",
     "docs/Subscribers/Compute/Kubernetes/IngressNetworkingonKubernetesClusters.md",
@@ -192,7 +194,6 @@
     "docs/Subscribers/Compute/Kubernetes/Overview.md",
     "docs/Subscribers/Compute/Kubernetes/CreatingaKubernetesCluster.md",
     "docs/Subscribers/Compute/Kubernetes/Accessingthekubernetesdashboard.md",
-    "docs/Subscribers/Compute/WindowsInstances/WorkingwithWindowsInstanceSnapshots.md",
     "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/tieracl.png",
     "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/replace.png",
     "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/addtier.png",
@@ -202,7 +203,6 @@
     "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/load .png",
     "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/staticnat.png",
     "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/portforwarding1.png",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/loadbalancing.png",
     "Untitled 2.base",
     "Untitled 1.base",
     "Untitled.base",
