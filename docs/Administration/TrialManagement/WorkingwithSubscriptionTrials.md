@@ -17,7 +17,6 @@ To create a new subscription trial programme, click on **Add New Subscription T
 To create the trial programme, click on the CREATE button.
 
 ## Enrolling Subscriptions in the Trial Programme
-
 To add a subscription to the created subscription trial Programme, follow these steps:
 1. Click on the **Edit** button to enter the trial programme.![Working with Subscription Trials](img/SubscriptionTrials1.png)
 2. Navigate to **Subscriptions**.
