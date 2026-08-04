@@ -14,7 +14,8 @@ You can create credit notes in bulk in two steps:
 :::note
 Each row of the file(s) being uploaded should have a unique combination of column cells; there should be no empty cells in the file being uploaded, except for tax amount and tax name. For invoices where multiple line items need to be credited against, the exact number of rows should be created.
 :::
-### Example
+
+**Example**
 ![Creating Credit Notes in Bulk](img/CreatingCreditNotesinBulk.png)
 This will generate two credit notes:
 
