@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/Compute/LinuxInstances/ReconfiguringLinuxInstances.md",
+                "file": "docs/ServicesandSystemRequirements/AWSLinkage/Prerequisites.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ReconfiguringLinuxInstances"
+              "title": "Prerequisites"
             }
           }
         ],
@@ -184,6 +184,18 @@
   },
   "active": "ef518349f04007e0",
   "lastOpenFiles": [
+    "docs/ServicesandSystemRequirements/AWSLinkage/AboutAWSLinkage.md",
+    "docs/ServicesandSystemRequirements/ApiculusObjectStorage/SystemRequirements.md",
+    "docs/Components/BillingConcepts.md",
+    "docs/Administration/ResellerManagement/ManagingReseller-taggedAccounts.md",
+    "docs/Administration/MarketingManagement/WorkingwithCoupons.md",
+    "docs/Administration/MarketingManagement/WorkingwithDiscountCodes.md",
+    "docs/Administration/ResellerManagement/CreatingandUpdatingResellers.md",
+    "docs/Administration/ResellerManagement/Overview.md",
+    "docs/GettingStarted/BrandingandContent/CustomisingBrandandGraphicAssets.md",
+    "docs/GettingStarted/BrandingandContent/PublishingStandardStaticContent.md",
+    "docs/GettingStarted/BrandingandContent/ConfiguringCustomLinks.md",
+    "docs/Subscribers/Compute/LinuxInstances/ReconfiguringLinuxInstances.md",
     "docs/Subscribers/Compute/LinuxInstances/ProtectingLinuxInstances.md",
     "docs/Subscribers/Compute/LinuxInstances/Overview.md",
     "docs/Subscribers/Compute/LinuxInstances/Operations.md",
@@ -198,18 +210,6 @@
     "docs/Subscribers/Compute/Kubernetes/ClusterOperations.md",
     "docs/Subscribers/Compute/Kubernetes/Accessingthekubernetesdashboard.md",
     "docs/Subscribers/Compute/Kubernetes/CreatingaKubernetesCluster.md",
-    "docs/Subscribers/Compute/Kubernetes/ViewingKubernetesClusterDetails.md",
-    "docs/Subscribers/Compute/Kubernetes/ScalingKubernetesClusters.md",
-    "docs/Subscribers/Compute/Kubernetes/Overview.md",
-    "docs/Subscribers/Compute/Kubernetes/IngressNetworkingonKubernetesClusters.md",
-    "docs/Subscribers/AccountCentre/WalletandTransactions.md",
-    "docs/Subscribers/AccountCentre/ViewActivitylogs.md",
-    "docs/Subscribers/AccountCentre/UnbilledCharges.md",
-    "docs/Subscribers/AccountCentre/TeamandChildUserManagement.md",
-    "docs/Subscribers/AccountCentre/SupportandTickets.md",
-    "docs/Subscribers/AccountCentre/SubscriptionsandServices.md",
-    "docs/Subscribers/AccountCentre/StandardAgreements.md",
-    "docs/Subscribers/AccountCentre/Payments.md",
     "StackComponents.svg",
     "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/tieracl.png",
     "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/replace.png",

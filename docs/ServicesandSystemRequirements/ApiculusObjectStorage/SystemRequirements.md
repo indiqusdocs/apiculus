@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 # System Requirements
-
+Before deploying the Cloudian HyperStore integration with Apiculus, ensure that your environment meets the required software, hardware, and licensing prerequisites. The recommended system configuration may vary depending on the HyperStore release. 
 ## Software Version
 
 The required version may vary depending on the HyperStore release. The recommended version is Cloudian HyperStore Version 7.4.1.

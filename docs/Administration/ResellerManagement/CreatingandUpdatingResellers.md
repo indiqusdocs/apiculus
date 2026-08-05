@@ -17,7 +17,7 @@ Admins can define a **Commission Percentage** while creating a reseller. This in
 Reseller billing is not handled on the Apiculus platform as all invoices are generated on the system and sent directly to the end customers.
 :::
 
-## Updating a Reseller
+**Updating a Reseller**
 
 Reseller details can be updated by navigating to a reseller from the list of resellers. 
 
