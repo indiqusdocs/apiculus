@@ -17,7 +17,7 @@ To add a tax deduction, follow these steps:
 
 ## Viewing Tax Deduction
 
-You can view [tax deductions recorded quarterly](RecordingTaxDeductions) against historical invoices as per [fiscal period configurations](https://coda.grammarly.com/docs/GettingStarted/BillingandFinancials/ConfiguringTaxDeductions).
+You can view tax deductions recorded quarterly against historical invoices as per [fiscal period configurations](/docs/GettingStarted/BillingandFinancials/ConfiguringTaxDeductions).
 
-Click the **eye** icon on any account-level or global listing of tax deductions.  
+Click the **eye** icon; the following screen appears with tax details:
 ![Viewing Tax Deductions](img/ViewingTaxDeductions.png)

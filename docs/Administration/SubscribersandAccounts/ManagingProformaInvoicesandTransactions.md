@@ -1,20 +1,19 @@
 ---
-sidebar_position: 30.2
+sidebar_position: 12
 ---
-# Generating a Proforma Invoice 
+# Managing Proforma Invoices and Transactions 
 
 A Proforma Invoice (PI) is a preliminary invoice issued before the final invoice and is typically used to facilitate advance payments for added services. If you require specific services or resources, you can submit your requirements to the admin. 
 
-Based on the requested services, estimated charges, and duration the admin generates a proforma invoice. While adding the advance payment, the transaction can be made against open PIs. Admins can add transactions that have been made by the subscriber against a PI or multiple PIs 
+Based on the requested services, estimated charges, and duration the admin generates a proforma invoice. While adding the advance payment, the transaction can be made against open Proforma Invoices. Admins can add transactions that have been made by the subscriber against a Proforma Invoice or multiple Proforma Invoices. 
 
 This section covers the following topics: 
-- [Generating a PI](#generating-a-pi) 
+- [Generating a Proforma Invoice](#generating-a-proforma-invoice) 
 - [Adding a Transaction](#adding-a-transaction)
 
+## Generating a Proforma Invoice
 
-## Generating a PI
-
-To generate a PI for a particular account, follow these steps:
+To generate a Proforma Invoice for a particular account, follow these steps:
 
 1. Navigate to **Accounts > Accounts Management**. The following screen appears: 
    ![Account management](img/AccountMgmt.png)
@@ -42,14 +41,14 @@ To generate a PI for a particular account, follow these steps:
 
 ### Downloading Proforma Invoice
 
-To download the PI, click the **Download** icon (highlighted in red).
+To download the Proforma Invoice, click the **Download** icon (highlighted in red).
 
 ![Download Highlighted](img/Downloadhighlighted.png)
 
 
 ### Resending Proforma Invoice
 
-To resend the PI, follow these steps: 
+To resend the Proforma Invoice, follow these steps: 
 
 1. Click the **Resend proforma invoice** icon (highlighted in red). ![Resending Proforma Invoice](img/ResendingProformaInvoice1.png)
 	The following screen appears:![Resending Proforma Invoice](img/ResendingProformaInvoice2.png)
@@ -57,7 +56,7 @@ To resend the PI, follow these steps: 
 
 ## Adding a Transaction
 
-You can add a transaction against a single or multiple PIs in a single payment. To do this, follow these steps: 
+You can add a transaction against a single or multiple Proforma Invoices in a single payment. To do this, follow these steps: 
 
 1. Click the **Add Transaction** button. The following screen appears:![Adding Transaction](img/Transactionform.png)
 2. Provide the following details: 
@@ -68,13 +67,13 @@ You can add a transaction against a single or multiple PIs in a single paymen
 	- Select the **Payment Mode**.
 	- Enter the **Transaction Reference**. 
 	- Enter the **Narration**, if required.
-3. An editable table is displayed, allowing you to modify the distribution of the received amount across one or more PIs. 
-4. If any amount remains undistributed after allocation to the PIs, it is automatically recorded as an Advance Payment. 
+3. An editable table is displayed, allowing you to modify the distribution of the received amount across one or more Proforma Invoices. 
+4. If any amount remains undistributed after allocation to the Proforma Invoices, it is automatically recorded as an Advance Payment. 
 	:::note
-		If there are no pending PIs then distributed table is not visible and you can add the entire amount to advance amount. 
+		If there are no pending Proforma Invoices then distributed table is not visible and you can add the entire amount to advance amount. 
 	:::
 5. Click the **Submit** button. The following screen appears:![Edit Screen](img/Editform.png)
 6. Click the **Confirm** button. 
 
 
-The transaction is added successfully, and accordingly, the amount due column is updated for each respective PI.
+The transaction is added successfully, and accordingly, the amount due column is updated for each respective Proforma Invoice.

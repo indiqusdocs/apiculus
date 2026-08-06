@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Administration/BillingandFinancials/GenerationgaProformaInvoiceandAddingaTransaction.md",
+                "file": "docs/Administration/SubscribersandAccounts/ManagingProformaInvoicesandTransactions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GenerationgaProformaInvoiceandAddingaTransaction"
+              "title": "ManagingProformaInvoicesandTransactions"
             }
           }
         ],
@@ -184,6 +184,11 @@
   },
   "active": "ef518349f04007e0",
   "lastOpenFiles": [
+    "docs/Administration/BillingandFinancials/ManagingTaxDeductions.md",
+    "docs/Administration/BillingandFinancials/GenerationgaProformaInvoiceandAddingaTransaction.md",
+    "docs/Administration/SubscribersandAccounts/ManagingProformaInvoicesandTransactions.md",
+    "docs/Administration/SubscribersandAccounts/CreatingandUpdatingSubscriberAccounts.md",
+    "docs/Administration/SubscribersandAccounts/AddingTaxDeduction.md",
     "docs/Administration/SubscribersandAccounts/img/ReversingTransactions.png",
     "docs/Administration/SubscribersandAccounts/img/Reverse.png",
     "docs/Administration/SubscribersandAccounts/img/ResendinganInvoice.png",
@@ -201,15 +206,10 @@
     "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/InternalLBRule/index.html",
     "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/DifferenceBetweenL2NetworksandaVPC/index.html",
     "docs/Administration/BillingandFinancials/DeactivatingaSubscription.md",
-    "docs/Administration/SubscribersandAccounts/GeneratingaProformaInvoice.md",
     "build/img/sbs.svg",
     "build/img/sps.svg",
     "build/img/sps.png",
     "build/img/rn.png",
-    "build/img/sbs.png",
-    "docs/Administration/SubscribersandAccounts/AddingTaxDeduction.md",
-    "docs/Administration/SubscribersandAccounts/CreatingandUpdatingSubscriberAccounts.md",
-    "docs/Administration/BillingandFinancials/GenerationgaProformaInvoiceandAddingaTransaction.md",
     "docs/Administration/SubscribersandAccounts/AccountManagementOverview.md",
     "docs/Administration/SubscribersandAccounts/TerminatinganAccount.md",
     "docs/Administration/SubscribersandAccounts/UpdatingaSubscribersTaxationCategory.md",
@@ -219,7 +219,6 @@
     "docs/Administration/SubscribersandAccounts/WorkingwithAccountStates.md",
     "docs/Administration/SubscribersandAccounts/WorkingwithKYCandAccountVerification.md",
     "docs/Administration/SubscribersandAccounts/ChangingSubscribersPrimaryEmail.md",
-    "docs/Administration/BillingandFinancials/ManagingTaxDeductions.md",
     "docs/GettingStarted/BillingandFinancials/ConfiguringAdditionalFields.md",
     "docs/GettingStarted/BillingandFinancials/ConfiguringBasicBilling.md",
     "docs/GettingStarted/BillingandFinancials/ConfiguringTaxDeductions.md",
