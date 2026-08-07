@@ -1,0 +1,26 @@
+---
+sidebar_position: 11
+---
+# Proforma Invoices
+Invoices are generated at the end of each billing cycle for the services consumed during the billing cycle.
+To view this section, Navigate to Account Centre > Billing and click the Invoices, PIs and Credit Notes tab. For online payments, click the wallet/payment icon next to the invoice. It redirects you to the payment gateway page, where you can use any of the supported modes of payment.
+  
+:::note 
+Apiculus does not store any card or bank account information, and the same is handled solely by
+the payment gateway provider. 
+:::
+
+To view and pay the PI, follow these steps:
+1. Navigate to Account Centre > Billing and click the Invoices, PIs and Credit Notes tab.
+	![img](img/Pls.png)
+2. Click the Pay Now button. The following screen appears:
+	![img](img/paymentmethod.png)
+3. Select the Payment method. The following screen appears:
+	![img](img/method.png)
+4. Click the Proceed button. The following screen appears:
+	![img](img/confirm.png)
+5. Click the Confirm button.
+
+
+
+

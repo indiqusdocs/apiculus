@@ -18,11 +18,11 @@ You can download the invoices in the following ways:
 - [Account Level](#account-level)
 ## Global Level
 1. Navigate to **Billing and Financials** > **Invoices**.![Invoices](img/Invoices.png)
-2. Click on  ![](img/download.png)  (download icon) to download the required invoice. 
+2. Click the download icon to download the required invoice. 
 
 ## Account Level
 1. Navigate to **Accounts** > **Account Management** > **Select Account** > **Edit Account** > **Subscriptions**.![Downloading Invoice](img/InvoicesAccount2.png)
-2. Click on  ![Download Button](img/downloadblack.png) (download icon) to download the required invoice. 
+2. Click on download icon to download the required invoice. 
 
 :::note
 Apiculus allows complete customisation of the invoice template according to brand, local and national compliance requirements. For any invoice customisation request, a ticket may be raised to the Support support team.

@@ -9,20 +9,21 @@ Availability Zones (AZ) on Apiculus are a highly versatile and unique way of man
 
 The following is a description of AZ for each type of Service that uses AZ:
 
-|Service|Availability Zone|
-|---|---|
-|Linux/Windows Instances|CloudStack-based|
-|Block Volumes|
-|Virtual Private Clouds|
-|IPv4 Addresses|
-|Kubernetes|
-|Load Balancer Instances|
-|Virtual Firewall Instances|
-|Secondary Storage & Data Transfer|
-|Metal Instances|MAAS-based|
-|Object Storage|HyperStore-based|
+| Service                           | Availability Zone |
+| --------------------------------- | ----------------- |
+| Linux/Windows Instances           | CloudStack-based  |
+| Block Volumes                     |                   |
+| Virtual Private Clouds            |                   |
+| IPv4 Addresses                    |                   |
+| Kubernetes                        |                   |
+| Load Balancer Instances           |                   |
+| Virtual Firewall Instances        |                   |
+| Secondary Storage & Data Transfer |                   |
+| Metal Instances                   | MAAS-based        |
+| Object Storage                    | HyperStore-based  |
 
-## Mapping an Availability Zone
+
+**Mapping an Availability Zone**
 
 To map a new availability zone, navigate to **Services > Availability Zones** and click on the **+ MAP NEW AVAILABILITY ZONE** button. The following screen appears: ![Working with Availability Zones](img/AZ1.png)
 

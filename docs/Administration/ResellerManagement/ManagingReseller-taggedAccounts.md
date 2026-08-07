@@ -2,12 +2,13 @@
 sidebar_position: 3
 ---
 # Managing Reseller-tagged Accounts
+
 :::note
 [This feature requires the reseller module to be enabled.](/docs/GettingStarted/AdvancedConfigurations/EnablingResellerModule)
 :::
 
 ## Creating Reseller-tagged Accounts
-
+The **Reseller-Tagged Accounts** feature in Apiculus enables administrators to associate reseller accounts with specific tags for efficient categorization, management, and operational control.
 ### Admin-assisted Tagging
 
 New accounts can be tagged to an existing reseller. When a subscriber account is being created/verified by an admin, all available reseller codes will be shown to the account creator in a dropdown menu.

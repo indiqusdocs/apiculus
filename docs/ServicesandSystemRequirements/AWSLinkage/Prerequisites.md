@@ -2,6 +2,7 @@
 sidebar_position: 2
 ---
 # Prerequisites
+Prerequisites are the conditions, requirements, or dependencies that must be met **before** performing a task, installing software, configuring a feature, or using a system.
 
 ## For Service Providers
 An AWS Organisation account created with AISPL (India) or AWS (elsewhere) is required and mandatory. 

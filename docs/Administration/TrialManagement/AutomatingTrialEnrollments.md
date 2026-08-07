@@ -24,8 +24,6 @@ Supported actions (available for any automation policy type):
 
 - **Enroll into account trial** - enrollment into a specified account trial
 
-## Sample Trial Automations
-
 The table below describes some common scenarios that can be addressed using trial automation on Apiculus.
 
 | Scenario                                                                                             | Trigger                                           | Action                                                  |

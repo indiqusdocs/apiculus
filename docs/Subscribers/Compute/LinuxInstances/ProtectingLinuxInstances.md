@@ -2,7 +2,6 @@
 sidebar_position: 10
 ---
 # Protecting Linux Instances
-
 Enabling protection ensures that all instances are protected while all the threats are tracked.
 
 To enable instance protection, follow these steps:
