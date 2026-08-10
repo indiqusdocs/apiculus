@@ -21,7 +21,6 @@ To generate a Proforma Invoice for a particular account, follow these steps:
    ![Proforma Invoice](img/ProformaInvoice.png)
 3. Click the **Generate PI** button. The following screen appears:![Generate Proforma Invoice Screen](img/GenerateProformaInvoiceScreen1.png)
 4. Provide the following details: 
-	- Select the **Customer Name** from the dropdown menu. 
 	- Select the **PI Date**.
 	- Select the **PI Duration** from the dropdown menu (1 month, 3 months, 6 months, 9 months, and 12 months). 
 5. Click the **Add Services** button. The following screen appears: ![Add Service Screen](img/AddServiceScreen1.png)
@@ -60,7 +59,6 @@ You can add a transaction against a single or multiple Proforma Invoices in a
 
 1. Click the **Add Transaction** button. The following screen appears:![Adding Transaction](img/Transactionform.png)
 2. Provide the following details: 
-	- Select the **Customer Name** from the dropdown menu. 
 	- Select the **Posting Date.**
 	- Enter the **Amount Received**. 
 	- Select the **Transaction Date**. 

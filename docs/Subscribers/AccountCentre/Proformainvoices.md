@@ -11,15 +11,15 @@ the payment gateway provider.
 :::
 
 To view and pay the PI, follow these steps:
-1. Navigate to Account Centre > Billing and click the Invoices, PIs and Credit Notes tab.
+1. Navigate to **Account Centre > Billing** and click the **Invoices, PIs and Credit Notes** tab.
 	![img](img/Pls.png)
-2. Click the Pay Now button. The following screen appears:
+2. Click the **Pay Now** button. The following screen appears:
 	![img](img/paymentmethod.png)
-3. Select the Payment method. The following screen appears:
+3. Select the **Payment method**. The following screen appears:
 	![img](img/method.png)
-4. Click the Proceed button. The following screen appears:
+4. Click the **Proceed** button. The following screen appears:
 	![img](img/confirm.png)
-5. Click the Confirm button.
+5. Click the **Confirm** button.
 
 
 
