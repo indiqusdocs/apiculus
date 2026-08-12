@@ -6,11 +6,11 @@ Termination of an account refers to the permanent closure or deactivation of an 
 
 To terminate an account, follow these steps:
 1. Navigate to **Accounts** > **Account Management**. The following screen appears:
-	![img](img/editt.png)
+	![img](img/terminate.png)
 2. Click the **Edit** icon (highlighted in red). The following screen appears:
-	![img](img/dots.png)
-3. Click on the **three dots** icon (highlighted in red).
-	![img](img/disable.png)
+	![img](img/screen2.png)
+3. Click on the **three dots** icon.
+	![img](img/terminatescreen.png)
 4. Select **Terminate** from the dropdown. The following screen appears:
-	![img](img/accountt.png)
+	![img](img/termination3.png)
 5. Click the **Yes** button to terminate the account.
