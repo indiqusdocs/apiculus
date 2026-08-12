@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/AccountCentre/MakingPaymentAgainstaProformaInvoice.md",
+                "file": "docs/Subscribers/AccountCentre/WalletandTransactions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MakingPaymentAgainstaProformaInvoice"
+              "title": "WalletandTransactions"
             }
           }
         ],
@@ -184,8 +184,8 @@
   },
   "active": "ef518349f04007e0",
   "lastOpenFiles": [
-    "docs/Subscribers/AccountCentre/Proformainvoices.md",
     "docs/Subscribers/AccountCentre/MakingPaymentAgainstaProformaInvoice.md",
+    "docs/Subscribers/AccountCentre/Proformainvoices.md",
     "docs/Subscribers/AccountCentre/WalletandTransactions.md",
     "docs/Subscribers/AccountCentre/img/pay.png",
     "docs/Subscribers/AccountCentre/img/paymentscreen.png",
