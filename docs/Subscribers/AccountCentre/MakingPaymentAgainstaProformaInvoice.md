@@ -6,11 +6,11 @@ This section covers the steps for making a payment against a Proforma Invoice, w
 To pay a Proforma Invoice, follow these steps:
 1. Navigate to **Account Centre > Billing** and click the **Invoices, PIs and Credit Notes** tab.
 2. Click the **Proforma Invoices** tab. The following screen appears:
-	![img](img/pli.png)
+	![img](img/Pls.png)
 3. Click the **Pay Now** button. The following screen appears:
-	![img](img/paymentscreen.png)
+	![img](img/method.png)
 4. Select the payment method. The following screen appears:
-	![img](img/pay.png)
+	![img](img/confirm.png)
 5.  Provide the following details:
 	- Remarks
 	- Amount you want to pay.
