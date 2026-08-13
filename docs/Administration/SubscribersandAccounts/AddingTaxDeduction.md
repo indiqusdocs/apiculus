@@ -9,17 +9,17 @@ To add a TDS for a particular account, follow these steps:
 
 1. Navigate to **Accounts > Accounts Management**. The following screen appears:
    ![Account management](img/AccountMgmt.png)
-2. Click the **Edit** icon and navigate to the **Tax Deductions** tab. The following screen appears:
+2. Click the **Edit** icon (highlighted in red) and navigate to the **Tax Deductions** tab. The following screen appears:
    ![TDS Tab Screen](img/TDS1.png)
 3. Click the **Add Tax Deduction** button. The following screen appears:
    ![TDS Form](img/TDS2.png)
 4. Provide the following details: 
-	- Select the **Proforma Invoice or Invoice** from the Add deduction dropdown menu.
-	- Select the **Posting Date**.
-	- Enter the **Tax Account ID**.
-	- Enter the **Certificate No**. 
-	- Select the **Financial year** from the dropdown menu.
-	- Select the **Quarter** from the dropdown menu.
-	- Enter the **TDS under income tax act**.
-	- Enter the **TDS under GST**.
+	- **Proforma Invoice or Invoice** 
+	- **Posting Date**
+	- **Tax Account ID**
+	- **Certificate No.**
+	- **Financial year** 
+	- **Quarter** 
+	- **TDS under income tax act**
+	- **TDS under GST**
 5. Click the **Submit** button.

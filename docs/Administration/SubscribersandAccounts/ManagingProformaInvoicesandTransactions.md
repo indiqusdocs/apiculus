@@ -22,19 +22,19 @@ To generate a Proforma Invoice for a particular account, follow these steps:
 3. Click the **Generate PI** button. The following screen appears:![Generate Proforma Invoice Screen](img/GenerateProformaInvoiceScreen1.png)
 4. Provide the following details: 
 	- Select the **PI Date**.
-	- Select the **PI Duration** from the dropdown menu (1 month, 3 months, 6 months, 9 months, and 12 months). 
+	- Select the **PI Duration** from the dropdown menu (1 month, 3 months, 6 months, 9 months, or 12 months). 
 5. Click the **Add Services** button. The following screen appears: ![Add Service Screen](img/AddServiceScreen1.png)
 6. Provide the following details: 
-	- Enter the **Product Family**.
-	- Enter the **HSN/SAC Code**. 
-	- Select the **Charge Type** (Fixed, Usage, or One-time). 
-	- Enter the **Quantity**. 
-	- Enter the **Monthly Price**. 
+	- **Product Family**
+	- **HSN/SAC Code**
+	- **Charge Type** (Fixed, Usage, or One-time)
+	- **Quantity**
+	- **Monthly Price**
 	:::note
 	The duration is fixed and is applied uniformly to all the services included in the proforma invoice. It cannot be modified for individual services.
 	:::
 7. Click the **Confirm** button. After the confirmation, the details get added as shown in the following screen:![Add Services](img/AddServiceScreen2.png)
-8. To add additional services to the proforma invoice, click **Add Services**. You can also modify an existing service by clicking the **Edit** icon (highlighted in red). 
+8. To add additional services to the proforma invoice, click the **Add Services** button. You can also modify an existing service by clicking the **Edit** icon (highlighted in red). 
 9. Review the **PI Summary** and click the **Submit PI** button. The following screen appears:![Confirmation Screen](img/ConfirmationScreen.png)
 10. Click the **Submit** button.
 
@@ -59,12 +59,12 @@ You can add a transaction against a single or multiple Proforma Invoices in a
 
 1. Click the **Add Transaction** button. The following screen appears:![Adding Transaction](img/Transactionform.png)
 2. Provide the following details: 
-	- Select the **Posting Date.**
-	- Enter the **Amount Received**. 
-	- Select the **Transaction Date**. 
-	- Select the **Payment Mode**.
-	- Enter the **Transaction Reference**. 
-	- Enter the **Narration**, if required.
+	- **Posting Date**
+	- **Amount Received**
+	-  **Transaction Date**
+	- **Payment Mode**
+	- **Transaction Reference**
+	- **Narration**
 3. An editable table is displayed, allowing you to modify the distribution of the received amount across one or more Proforma Invoices. 
 4. If any amount remains undistributed after allocation to the Proforma Invoices, it is automatically recorded as an Advance Payment. 
 	:::note

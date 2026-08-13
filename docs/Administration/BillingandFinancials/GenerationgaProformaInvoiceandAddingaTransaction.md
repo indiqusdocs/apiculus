@@ -18,17 +18,16 @@ To generate a PI, follow these steps: 
 1. Navigate to **Billing and Financial > Proforma Invoice**. The following screen appears: ![Billing and Financial](img/ProformaInvoice1.png)
 2. Click the **Generate PI** button. The following screen appears:![Generate Proforma Invoice Screen](img/GenerateProformaInvoiceScreen1.png)
 3. Provide the following details: 
-	- Select the **Customer Name** from the dropdown menu. 
-	- Select the **PI Date**.
-	- Select the **PI Duration** from the dropdown menu (1 month, 3 months, 6 months, 9 months, and 12 months). 
+	- **Customer Name**  
+	- **PI Date**
+	- **PI Duration** (1 month, 3 months, 6 months, 9 months, or 12 months)
 4. Click the **Add Services** button. The following screen appears: ![Add Service Screen](img/AddServiceScreen1.png)
 5. Provide the following details: 
-	- Enter the **Product Family**.
-	- Enter the **HSN/SAC Code**. 
-	- Select the **Charge Type** (Fixed, Usage, or One-time). 
-	- Enter the **Quantity**. 
-	- Enter the **Monthly Price**. 
-
+	- **Product Family**
+	- **HSN/SAC Code**
+	- **Charge Type** (Fixed, Usage, or One-time)
+	- **Quantity**
+	- **Monthly Price**
 	:::note
 	The duration is fixed and is applied uniformly to all the services included in the proforma invoice. It cannot be modified for individual services.
 	:::
@@ -65,17 +64,17 @@ You can add a transaction against a single or multiple PIs in a single paymen
 
 1. Click the **Add Transaction** button. The following screen appears:![Adding Transaction](img/AddTransaction.png)
 2. Provide the following details: 
-	- Select the **Customer Name** from the dropdown menu. 
-	- Select the **Posting Date.**
-	- Enter the **Amount Received**. 
-	- Select the **Transaction Date**. 
-	- Select the **Payment Mode**.
-	- Enter the **Transaction Reference**. 
-	- Enter the **Narration**, if required.
+	- **Customer Name** 
+	- **Posting Date**
+	- **Amount Received**
+	- **Transaction Date**
+	- **Payment Mode**
+	- **Transaction Reference**
+	- **Narration**
 3. An editable table is displayed, allowing you to modify the distribution of the received amount across one or more PIs. 
 4. If any amount remains undistributed after allocation to the PIs, it is automatically recorded as an Advance Payment. 
 	:::note
-		If there are no pending PIs then distributed table is not visible and you can add the entire amount to advance amount. 
+		If there are no pending PIs, the distributed table is not visible and you can add the entire amount to advance amount. 
 	:::
 5. Click the **Submit** button. The following screen appears:![Edit Screen](img/EditScreen.png)
 6. Click the **Confirm** button. 

@@ -11,7 +11,7 @@ To add a tax deduction, follow these steps:
 
 1. Navigate to **Billing and Financial > Tax Deduction**. The following screen appears:![Tax Deduction Screen](img/TDS1.png)
 2. Click the **Add Tax Deduction** button. The following screen appears:![Tax Deduction button after screen](img/TDS2.png)
-3. You can download the Invoice or Proforma Invoice template (.Xlsx or .Ods format). Fill in the tax deduction details as per the template.
+3. You can download the Invoice or Proforma Invoice template (.xlsx or .ods format). Fill in the tax deduction details as per the template.
 4. Click the **Upload** icon to upload the edited file.
 5. Click the **Upload** button.
 
