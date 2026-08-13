@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 # Working with Coupons
-
+The Coupons module in Apiculus enables organizations to create and manage promotional offers that customers can redeem during the booking process
 ## Viewing Coupons
 
 To access Coupons, navigate to **Marketing > Promotions** section in the main admin navigation panel and switching the view to show Coupons using the switcher dropdown at the top of the listing.

@@ -3,7 +3,7 @@ sidebar_position: 2
 ---
 # Organisation/Account Profile
 
-Using the **Profile** section, you can manage your organisation account profile on Apiculus Cloud. The profile management section can be accessed from the **Account Centre** in the top helper bar by clicking on the organisation.. Account profiles include the following:
+Using the **Profile** section, you can manage your organisation account profile on Apiculus Cloud. The profile management section can be accessed from the **Account Centre** in the top helper bar by clicking on the organisation. Account profiles include the following:
 
 1. **Details -** These are the basic demographic details of your organisation. All editable fields can be updated at any time.
 	![Account Profile](img/AccountProfile1.png)

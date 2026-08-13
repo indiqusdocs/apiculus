@@ -22,10 +22,10 @@ To configure Virtual Private Clouds, follow these steps:
 	![[VPC3.png]]
  8. Navigate to the **Virtual Routers**, and select all Virtual Router Packs and collections that you want to available as part of default service. To update the details of virtual Router Collection, edit the changes as per your requirement and click **SAVE AND UPDATE**.
 	![Virtual Router Pricing](img/VPC4.png)
-9.  The VPC networking creates one default, publicly accessible IPV4 address.
-   :::note
-   You can purchase additional IPV4 addresses for configuring port forwarding, load balancing(L4), remote access VPN and Static NAT.
-   :::
+9.  The VPC networking creates one default, publicly accessible IPv4 address.
+	   :::note
+	   You can purchase additional IPv4 addresses for configuring port forwarding, load balancing(L4), remote access VPN and Static NAT.
+	   :::
 	![IPV4 Addresses](img/VPC5.png)
 
 10. Finally, return to **Default Services** and select **PUBLISH DEFAULT CATALOGUE**.

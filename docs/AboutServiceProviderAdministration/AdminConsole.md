@@ -13,7 +13,6 @@ In addition to a high-level techno-commercial landing dashboard, the Admin Cloud
 - [Billing and financials](/docs/Administration/BillingandFinancials/Overview)
 - [Services and catalogue management](/docs/category/working-with-custom-catalogues)
 - [Marketing management](/docs/Administration/MarketingManagement/Overview)
-- [Support and basic operations](/docs/Administration/SupportManagement/Overview)
 - [Reseller management](/docs/Administration/ResellerManagement/Overview)
 
 

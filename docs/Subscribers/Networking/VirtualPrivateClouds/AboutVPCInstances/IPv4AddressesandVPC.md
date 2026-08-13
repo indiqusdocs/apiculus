@@ -3,7 +3,7 @@ sidebar_position: 6
 ---
 # IPv4 Addresses and VPC
 
-IPv4 Addresses are an integral part of using VPC networking, and need to be used to access various components of the VPC. By default, a public IPv4 Address is assigned to the VR which can communicate through the internet to transmit traffic to/from the VR. You can user this IPv4 for configuring remote access (L2TP) and site-to-site (IPSec) VPN connections.
+IPv4 Addresses are an integral part of using VPC networking, and need to be used to access various components of the VPC. By default, a public IPv4 Address is assigned to the VR which can communicate through the internet to transmit traffic to/from the VR. You can use this IPv4 for configuring remote access (L2TP) and site-to-site (IPSec) VPN connections.
 
 ## Using Additional IPv4
 Primarily, you can use IPv4 addresses for configuring access and perform NAT via the following:
@@ -28,16 +28,16 @@ As a first step, add the new IP Address to the VPC. To do this, follow these ste
 	:::
 ## Configuring Load Balancing 
 To configure the Load Balancing Rule, follow these steps:
-1. To create Load Balancing Rule, click the icon (highlighted in red).The following window appears:
-	![img](img/loadbalancing.png)
+1. To create Load Balancing Rule, click the icon (highlighted in red).	![img](img/loadbalancing.png)
 2. Click **Add Rule**. The following window appears:
 	![IPv4 Addresses and VPC](img/IPv4AddressesandVPC2.png)
 3. Specify the following details in the window:
 	- A **name** and **description** for the load balancer rule.
 	- **Protocol** to use for the load balancer.
 	- Select the **Tier**.
-	- The **load balancing algorithm** to use.
 	- **Public** and **private** port mapping.
+	- The **load balancing algorithm** to use.
+
 4. Click the **Add Load Balancing Rule** button.
 
 :::note

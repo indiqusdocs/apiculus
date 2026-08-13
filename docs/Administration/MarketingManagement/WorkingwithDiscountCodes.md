@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 # Working with Discount Codes
-
+Discount Codes module enables administrators to create and manage promotional codes that customers can apply during the booking process to receive eligible discounts.
 ## Viewing Discount Codes
 
 To access Discount Codes, navigate to **Marketing > Promotions**. By default, it shows the Discount Codes from the drop-down list on top-left corner of the screen.
