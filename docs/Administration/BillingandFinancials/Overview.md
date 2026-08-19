@@ -73,7 +73,7 @@ Apiculus supports recording quarterly tax deductions for all customer invoices. 
 Available actions:
 
 - [Recording Tax Deductions](RecordingTaxDeductions)
-- [Viewing Tax Deductions](ViewingTaxDeductions)
+- [Viewing Tax Deductions](ManagingTaxDeductions.md)
 
 ![Billing and Financials Overview](img/Overview5.png)
 

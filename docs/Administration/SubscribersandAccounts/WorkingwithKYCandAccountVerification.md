@@ -5,7 +5,7 @@ sidebar_position: 7
 
 The Apiculus Admin Console enables administrators to configure the KYC settings for both organisation and individual subscriber accounts. It also allows them to set the KYC renewal period for all subscribers or specific accounts.
 
-### For All Subscriber Accounts
+## For All Subscriber Accounts
 
 To configure the default KYC settings for all user accounts, navigate to **Administration > Settings > Account Defaults**, and follow the steps provided on [configure the Account Defaults section](/docs/GettingStarted/SignupConfigurations/ConfiguringAccountDefaults).
 

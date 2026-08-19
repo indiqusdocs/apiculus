@@ -1,5 +1,5 @@
 ---
-sidebar_position: 6
+sidebar_position: 14
 ---
 # Invoices and Credit Notes
 Invoices are generated at the end of each billing cycle for the services consumed during the billing cycle. Invoices can be accessed from the **Billing > Invoices & Credit Notes** section on the main navigation panel.

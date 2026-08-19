@@ -23,26 +23,26 @@ The following are the high-level tasks required to configure port forwarding for
 
 This section outlines the steps to access and select a NAT Gateway within the Apiculus cloud platform. Before managing configuration or operational settings, users must navigate to the appropriate section of the dashboard and identify the NAT Gateway instance relevant to their network environment. This ensures that all subsequent actions are performed on the correct gateway associated with the intended Virtual Network Function (VNF). 
 
-The following steps guide you through locating and selecting your NAT Gateway from the dashboard:
 
-1. Navigate to the **Networking > NAT Gateways** section from the  Cloud dashboard.
+To locate and select your NAT Gateway, follow these steps:
+
+1. Navigate to the **Networking > NAT Gateways**.
 2. Select the appropriate NAT Gateway (for example, ADC-R522-40-Test_ISOLATED_NETWORK) associated with your VNF.
 ![gatewaynat](img/gatewaynat.png)
 ## Reviewing Configuration
 
 This section offers a detailed review of the current NAT Gateway configuration within the  Cloud environment. It includes essential system specifications, deployment parameters, and operational status to ensure the gateway is correctly set up and functioning as expected. Verify these details before initiating any advanced networking configurations, such as port forwarding or scaling operations.
 
-The following steps guide you through reviewing key configuration details, checking operational status, and accessing internal system information necessary for validation and troubleshooting within your cloud environment: 
-
-1. NAT Gateway Configuration Overview: The following details summarize the key configuration parameters of the selected NAT Gateway.
+To review key configuration details, check operational status, and access internal system information necessary for validation and troubleshooting within your cloud environment, follow these steps:
+1. **NAT Gateway Configuration Overview**: The following details summarize the key configuration parameters of the selected NAT Gateway.
     - **vCPU/RAM**: For example 2 vCPU Cores / 2048 MB RAM (Indicates the computational resources allocated for the NAT Gateway).
     - **AVAILBILITY Zone**: For example AZ1-India North 1 (The region or zone where the gateway is deployed).
     - **PUBLIC IP**: The public-facing IP through which outbound traffic is routed.
-2. Check Operational Status: The NAT Gateway is in a **RUNNING** state, indicating it is active and fully operational.
-3. Confirm Network and Gateway Configuration: Review the virtual gateway pack and network size settings to ensure the correct configuration is applied before proceeding with port forwarding or deployment steps.
+2. **Check Operational Status**: The NAT Gateway is in a **RUNNING** state, indicating it is active and fully operational.
+3. **Confirm Network and Gateway Configuration**: Review the virtual gateway pack and network size settings to ensure the correct configuration is applied before proceeding with port forwarding or deployment steps.
      - **Virtual Gateway Pack**: Default NAT Gateway for Virtual Firewall.
      - **Network Size**: 128 (Specifies the subnet size associated with the gateway).
-4. Access Internal Information for System Reference: The following internal configuration details are provided for system-level reference and tracking of the NAT Gateway within the  Cloud environment.
+4. **Access Internal Information for System Reference**: The following internal configuration details are provided for system-level reference and tracking of the NAT Gateway within the  Cloud environment.
     - **TEMPLATE NAME**: systemvm-kvm-4.19.1 (Base image used to launch this NAT Gateway).
     - **VIRTUAL GATEWAY INTERNAL NAME**: r-7165-VM (Used internally by  for VM/gateway tracking and routing).
     - **CREATED ON**: 24th Jun 2025, 15:09:15 (Exact timestamp of NAT Gateway provisioning).
@@ -51,9 +51,9 @@ The following steps guide you through reviewing key configuration details, check
 
 To enable external access to internal services hosted behind a NAT Gateway, you must configure port forwarding rules. This section explains how to access the port forwarding settings for a NAT Gateway within the  Cloud environment. Port forwarding allows specific inbound traffic to reach designated internal resources by mapping external ports to internal IPs and ports.
 
-The following steps outline the process to navigate to the NAT Gateway, locate the public IP address, and access the port forwarding configuration interface to add or manage rules effectively:
+To navigate to the NAT Gateway, locate the public IPaddress, and access the port forwarding configuration interface to add or manage ruleseffectively, follow these steps:
 
-1. In the left-hand menu, click on **NAT Gateways** under the **Networking** section.
+1. In the left-hand menu, click on **NAT Gateways** under the **Networking** .
 2. Select your NAT Gateway from the list (for example, ADC-R522-40-Test_ISOLATED_NETWORK).
 3. In the gateway page, click on the **IPv4 Addresses** tab.
 4. Find your public IP address listed on this page.

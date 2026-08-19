@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/ReleaseNotes/Ver2620.md",
+                "file": "docs/ServicesandSystemRequirements/LoadBalancerInstances/SystemRequirements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ver2620"
+              "title": "SystemRequirements"
+            }
+          },
+          {
+            "id": "ef518349f04007e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/VolumeManagement.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VolumeManagement"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -78,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 349.5
   },
   "right": {
     "id": "d1303f5c52f5e51b",
@@ -165,54 +182,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a13196a0959d6088",
+  "active": "ef518349f04007e0",
   "lastOpenFiles": [
-    "docs/ReleaseNotes/Ver2610.md",
-    "docs/ReleaseNotes/Ver2620.md",
-    "StackComponents.svg",
-    "docs/Subscribers/Compute/Kubernetes/ScalingKubernetesClusters.md",
-    "docs/Subscribers/Compute/Kubernetes/IngressNetworkingonKubernetesClusters.md",
-    "docs/Subscribers/Compute/Kubernetes/ClusterOperations.md",
-    "docs/Subscribers/Compute/Kubernetes/AccessingaClusterusingtheCommandLine.md",
-    "docs/Subscribers/AccountCentre/WalletandTransactions.md",
-    "docs/Subscribers/AccountCentre/ViewActivitylogs.md",
-    "docs/Subscribers/AccountCentre/UnbilledCharges.md",
-    "docs/Subscribers/AccountCentre/TeamandChildUserManagement.md",
-    "docs/Subscribers/AccountCentre/SupportandTickets.md",
-    "docs/Subscribers/AccountCentre/SubscriptionsandServices.md",
-    "docs/Subscribers/AccountCentre/StandardAgreements.md",
-    "docs/Subscribers/AccountCentre/Payments.md",
-    "docs/Subscribers/AccountCentre/Organisation-AccountProfile.md",
-    "docs/Subscribers/AccountCentre/KYCrenewal.md",
-    "docs/Subscribers/AccountCentre/InvoicesandCreditNotes.md",
-    "docs/Subscribers/AccountCentre/eKYC.md",
-    "docs/Subscribers/AccountCentre/AboutApiculusAccountCentre.md",
-    "docs/Subscribers/FAQs.md",
-    "docs/Subscribers/AccessCentral.md",
-    "docs/Subscribers/Compute/Kubernetes/AboutKubernetesDashboard.md",
-    "docs/Subscribers/Compute/Kubernetes/ViewingKubernetesClusterDetails.md",
-    "docs/Subscribers/Compute/Kubernetes/Overview.md",
-    "docs/Subscribers/Compute/Kubernetes/CreatingaKubernetesCluster.md",
-    "docs/Subscribers/Compute/Kubernetes/Accessingthekubernetesdashboard.md",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/tieracl.png",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/replace.png",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/addtier.png",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/subnets.png",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/Balancer.png",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/ruleing.png",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/load .png",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/staticnat.png",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/portforwarding1.png",
-    "Untitled 2.base",
-    "Untitled 1.base",
-    "Untitled.base",
-    "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/CreatingandViewingVPCs/index.html",
-    "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/CreatingandViewingVPCs",
-    "build/assets/js/f2112fa6.23670d96.js",
-    "build/assets/js/901d88b7.813bfc8d.js",
-    "build/assets/js/8f524f20.8ec3d174.js",
-    "build/assets/js/90206688.456f1002.js",
-    "build/assets/js/90880634.d32ffd67.js",
+    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ViewingVirtualFirewallDetails.md",
+    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ViewingGraphsandUtilization.md",
+    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/Snapshots.md",
+    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ReconfiguringVirtualFirewall.md",
+    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/Overview.md",
+    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/Operations.md",
+    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/NetworkingManagement.md",
+    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ConfiguringAlerts.md",
+    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/AboutFirewallInstances.md",
+    "docs/Subscribers/Networking/LoadBalancerInstances/CreatingaLoadBalancerInstance.md",
+    "docs/Subscribers/Networking/LoadBalancerInstances/ActivatingtheNetScalerVPX.md",
+    "docs/Subscribers/Networking/LoadBalancerInstances/AboutLoadBalancerInstances.md",
+    "docs/Subscribers/Networking/IPv4-basedNetworking/UsingRemoteAccessVPNwithVPC.md",
+    "docs/Subscribers/Networking/IPv4-basedNetworking/ManagingVPNGatewaysandSite-to-SiteVPN.md",
+    "docs/Subscribers/Networking/IPv4-basedNetworking/EstablishingSite-to-SiteVPNBetweenTwoVPCs.md",
+    "docs/Subscribers/Networking/IPv4-basedNetworking/AboutIPv4-basedNetworking.md",
+    "docs/Subscribers/Networking/DNSManagement/SwitchingtoAnotherDNSProvider.md",
+    "docs/Subscribers/Networking/DNSManagement/LinkingDomainstoApiculusCloudConsole.md",
+    "docs/Subscribers/Networking/DNSManagement/AboutDNSManagement.md",
+    "docs/Subscribers/Networking/VirtualPrivateClouds/WorkingwithVPNConnectionsinaVPC.md",
+    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/VolumeManagement.md",
+    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/CreatingandViewingVPCs.md",
+    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC.md",
+    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/InternalLBRule.md",
+    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/CreatingVPCSubnetsTiers.md",
+    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/VPCManagementandBasicOperations.md",
+    "build/docs/Subscribers/AccountCentre/MakingPaymentAgainstaProformaInvoice/index.html",
+    "build/docs/Subscribers/AccountCentre/MakingPaymentAgainstaProformaInvoice",
+    "build/docs/GettingStarted/InBuiltApps/EnablingandDisablingPaymentGateways/index.html",
+    "build/docs/GettingStarted/InBuiltApps/EnablingandDisablingPaymentGateways",
+    "build/docs/Administration/SubscribersandAccounts/ManagingProformaInvoicesandTransactions/index.html",
+    "build/docs/Administration/SubscribersandAccounts/ManagingProformaInvoicesandTransactions",
+    "build/docs/Administration/SubscribersandAccounts/AddingTaxDeduction/index.html",
+    "build/docs/Administration/SubscribersandAccounts/AddingTaxDeduction",
+    "build/docs/Administration/BillingandFinancials/ManagingTaxDeductions/index.html",
+    "build/docs/Administration/BillingandFinancials/ManagingTaxDeductions",
+    "build/assets/images/ResendingProformaInvoice2-df4f7281ccd748bc835e5f312af7b2e5.png",
+    "build/assets/images/AddTransaction-9b559645ad159ad3e572c4c48a7d2dd2.png",
+    "build/assets/images/ResendingProformaInvoice1-b8f42cf943e908dc2b4c924f19a212b5.png",
+    "build/assets/images/EditScreen-845e66f9847beddddabf119493194fe7.png",
+    "build/assets/images/Downloadhighlighted-75c8e3c09be051ab47b3b57c522c7665.png",
+    "build/assets/images/ResendingProformaInvoice2-ed09d60ff513488c0d8824b3a0156649.png",
+    "build/assets/images/AccountMgmt-fb57982bbbd51df5f4c837092c3231fa.png",
+    "build/assets/images/AddServiceScreen1-4435cef56f1ddcb5b35e4467dbc7223d.png",
+    "build/assets/images/ResendingProformaInvoice1-01a481a2f87e31c5977b4a090ba1662b.png",
+    "build/assets/images/GenerateProformaInvoiceScreen1-38c4ee76a99821d4d554b3c621b6324f.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"

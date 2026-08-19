@@ -9,7 +9,8 @@ The reseller and channel management feature on Apiculus is aimed at service prov
 This is an experimental feature and offers limited functionality. This is not to be construed as a white-label partner/distribution management module. This feature is under further development.
 :::
 
-## What's Included
+
+**What's Included**
 
 The reseller management features include:
 

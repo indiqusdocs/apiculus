@@ -4,7 +4,8 @@ sidebar_position: 2
 # Billing Concepts
 Billing on Apiculus Cloud works on a subscription model. In line with modern-day apps and services, subscription billing models are an efficient way to deliver service value as a pay-as-you-go license. This not only eliminates heavy upfront costs for any service purchase, but also gives you the flexibility to cancel at any time and pay for only the amount or duration of use.
 
-## Billing on Apiculus Cloud
+ **Billing on Apiculus Cloud**
+ 
 To understand the various billing and financial aspects of Apiculus Cloud, it is essential to be aware of certain billing concepts:
 
 - **Billing Cycle:** By default, Apiculus Cloud follows a monthly billing cycle from the 1st to the 31st (or 30th or 28th) of each month. Any resource or service purchased during the billing cycle will be invoiced in the next month.
