@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/VolumeManagement.md",
+                "file": "docs/ReleaseNotes/Ver2620.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VolumeManagement"
+              "title": "Ver2620"
+            }
+          },
+          {
+            "id": "ebe06149f52ea3b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/LoggingIn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LoggingIn"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,7 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5
+    "width": 292.16668701171875
   },
   "right": {
     "id": "d1303f5c52f5e51b",
@@ -182,34 +196,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef518349f04007e0",
+  "active": "ebe06149f52ea3b0",
   "lastOpenFiles": [
-    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ViewingVirtualFirewallDetails.md",
-    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ViewingGraphsandUtilization.md",
-    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/Snapshots.md",
-    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ReconfiguringVirtualFirewall.md",
-    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/Overview.md",
-    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/Operations.md",
-    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/NetworkingManagement.md",
-    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ConfiguringAlerts.md",
-    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/AboutFirewallInstances.md",
-    "docs/Subscribers/Networking/LoadBalancerInstances/CreatingaLoadBalancerInstance.md",
-    "docs/Subscribers/Networking/LoadBalancerInstances/ActivatingtheNetScalerVPX.md",
-    "docs/Subscribers/Networking/LoadBalancerInstances/AboutLoadBalancerInstances.md",
-    "docs/Subscribers/Networking/IPv4-basedNetworking/UsingRemoteAccessVPNwithVPC.md",
-    "docs/Subscribers/Networking/IPv4-basedNetworking/ManagingVPNGatewaysandSite-to-SiteVPN.md",
-    "docs/Subscribers/Networking/IPv4-basedNetworking/EstablishingSite-to-SiteVPNBetweenTwoVPCs.md",
-    "docs/Subscribers/Networking/IPv4-basedNetworking/AboutIPv4-basedNetworking.md",
-    "docs/Subscribers/Networking/DNSManagement/SwitchingtoAnotherDNSProvider.md",
-    "docs/Subscribers/Networking/DNSManagement/LinkingDomainstoApiculusCloudConsole.md",
-    "docs/Subscribers/Networking/DNSManagement/AboutDNSManagement.md",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/WorkingwithVPNConnectionsinaVPC.md",
-    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/VolumeManagement.md",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/CreatingandViewingVPCs.md",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC.md",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/InternalLBRule.md",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/CreatingVPCSubnetsTiers.md",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/VPCManagementandBasicOperations.md",
+    "docs/ServicesandSystemRequirements/ApiculusObjectStorage/SystemRequirements.md",
+    "docs/ServicesandSystemRequirements/ApiculusObjectStorage/FrequentlyAskedQuestions.md",
+    "docs/ServicesandSystemRequirements/ApiculusObjectStorage/FeatureListandIntegrationDetails.md",
+    "docs/Subscribers/CloudExperienceManagement/CloudOperationsManagement.md",
+    "docs/Subscribers/CloudExperienceManagement/CloudConsoleOverview.md",
+    "docs/GettingStarted/SignupConfigurations/SignupSettings.md",
+    "docs/GettingStarted/SignupConfigurations/ConfiguringAccountDefaults.md",
+    "docs/GettingStarted/SignupConfigurations/RestrictingFreeEmailDomains.md",
+    "docs/APIs/AccountManagement/DisableAccount.md",
+    "docs/GettingStarted/PlatformAdministration/ManagingSPAdminUsers.md",
+    "docs/GettingStarted/PlatformAdministration/ManagingServiceProviderProfile.md",
+    "docs/GettingStarted/PlatformAdministration/GeneralPlatformSettings.md",
+    "docs/GettingStarted/PlatformAdministration/ConfiguringAutomationPolicies.md",
+    "docs/Administration/TrialManagement/AboutTrials.md",
+    "docs/Administration/TrialManagement/AutomatingTrialEnrollments.md",
+    "docs/Administration/TrialManagement/WorkingwithSubscriptionTrials.md",
+    "docs/Administration/TrialManagement/WorkingwithAccountTrials.md",
+    "docs/Administration/ResellerManagement/Overview.md",
+    "docs/Administration/ResellerManagement/ManagingReseller-taggedAccounts.md",
+    "docs/Administration/ResellerManagement/ManagingBillingforResellers.md",
+    "docs/Administration/ResellerManagement/CreatingandUpdatingResellers.md",
+    "docs/GettingStarted/LoginConfigurations/LoginSecurityand2FA.md",
+    "docs/GettingStarted/LoginConfigurations/ConfiguringPasswordPolicies.md",
+    "docs/GettingStarted/BillingandFinancials/ConfiguringTaxDeductions.md",
+    "docs/GettingStarted/BillingandFinancials/ConfiguringBasicBilling.md",
+    "docs/GettingStarted/BillingandFinancials/ConfiguringAdditionalFields.md",
+    "docs/Subscribers/AdminVerification.png",
     "build/docs/Subscribers/AccountCentre/MakingPaymentAgainstaProformaInvoice/index.html",
     "build/docs/Subscribers/AccountCentre/MakingPaymentAgainstaProformaInvoice",
     "build/docs/GettingStarted/InBuiltApps/EnablingandDisablingPaymentGateways/index.html",
@@ -229,7 +244,6 @@
     "build/assets/images/AccountMgmt-fb57982bbbd51df5f4c837092c3231fa.png",
     "build/assets/images/AddServiceScreen1-4435cef56f1ddcb5b35e4467dbc7223d.png",
     "build/assets/images/ResendingProformaInvoice1-01a481a2f87e31c5977b4a090ba1662b.png",
-    "build/assets/images/GenerateProformaInvoiceScreen1-38c4ee76a99821d4d554b3c621b6324f.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
