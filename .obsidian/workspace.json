@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/LoggingIn.md",
+                "file": "docs/AboutServiceProviderAdministration/ManagingSupportTickets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LoggingIn"
+              "title": "ManagingSupportTickets"
             }
           }
         ],
@@ -198,6 +198,13 @@
   },
   "active": "ebe06149f52ea3b0",
   "lastOpenFiles": [
+    "docs/AboutServiceProviderAdministration/ISVConsoles.md",
+    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/Overview.md",
+    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/NetworkingManagement.md",
+    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/AboutFirewallInstances.md",
+    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ConfiguringAlerts.md",
+    "docs/Subscribers/Networking/L2 Networks/AddanL2Networks.md",
+    "docs/LoggingIn.md",
     "docs/ServicesandSystemRequirements/ApiculusObjectStorage/SystemRequirements.md",
     "docs/ServicesandSystemRequirements/ApiculusObjectStorage/FrequentlyAskedQuestions.md",
     "docs/ServicesandSystemRequirements/ApiculusObjectStorage/FeatureListandIntegrationDetails.md",
@@ -217,13 +224,6 @@
     "docs/Administration/TrialManagement/WorkingwithAccountTrials.md",
     "docs/Administration/ResellerManagement/Overview.md",
     "docs/Administration/ResellerManagement/ManagingReseller-taggedAccounts.md",
-    "docs/Administration/ResellerManagement/ManagingBillingforResellers.md",
-    "docs/Administration/ResellerManagement/CreatingandUpdatingResellers.md",
-    "docs/GettingStarted/LoginConfigurations/LoginSecurityand2FA.md",
-    "docs/GettingStarted/LoginConfigurations/ConfiguringPasswordPolicies.md",
-    "docs/GettingStarted/BillingandFinancials/ConfiguringTaxDeductions.md",
-    "docs/GettingStarted/BillingandFinancials/ConfiguringBasicBilling.md",
-    "docs/GettingStarted/BillingandFinancials/ConfiguringAdditionalFields.md",
     "docs/Subscribers/AdminVerification.png",
     "build/docs/Subscribers/AccountCentre/MakingPaymentAgainstaProformaInvoice/index.html",
     "build/docs/Subscribers/AccountCentre/MakingPaymentAgainstaProformaInvoice",

@@ -2,14 +2,10 @@
 sidebar_position: 8
 ---
 # Configuring Alerts
-
-To view the configured alerts or configure new ones, navigate to the Virtual Firewall and access the **Alerts** tab.
+Alerts get triggered whenever a configured condition is met. You can create multiple alerts on an instance. Alerts are sent to recipients that you can define and manage. 
 ![Creating Alert](img/Alert.png)
 
-Alerts get triggered whenever a configured condition is met. You can create multiple alerts on an instance. Alerts are sent to recipients that you can define and manage.
-
-You can configure alerts for instances running on the Apiculus. You can define alerts for Instances and configure the email recipients for these alerts using a straightforward and easy-to-use interface.
-
+You can configure alerts for instances running on the Yntraa Cloud. You can define alerts for Instances and configure the email recipients for these alerts using a straightforward and easy-to-use interface.
 ## Instance Alerts
 
 The Alerts tab lists all the alerts already configured for that particular Virtual Firewall. In addition, it shows the following details:
@@ -37,7 +33,7 @@ The various fields of the Create Alert screen are as follows:
 
 ## Configuring Recipients
 
-This section list and display all the email IDs already configured for the alerts. You can delete the existing email IDs and add other email IDs by following these steps:
+This section displays all the email IDs already configured for the alerts. You can delete the existing email IDs and add other email IDs by following these steps:
 
 1. Click the **Manage Recipients** button.
 2. Click **Add More Recipients**.
@@ -47,9 +43,6 @@ This section list and display all the email IDs already configured for the alert
 
 ![Configuring Alerts on Virtual Firewall](img/UpdateAlertRecipients.png)
 
-:::note
-All configured recipients receive all setup alerts. If no email ID is configured or added, no email is sent for the already configured alerts.
-:::
 
 
 
