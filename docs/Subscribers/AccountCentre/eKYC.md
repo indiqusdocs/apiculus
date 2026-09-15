@@ -10,25 +10,26 @@ To start your eKYC, follow these steps:
 1.  Navigate to **Account Centre > KYC Documents**. The following screen appears:
 	![re-kyc](img/re-KYC.png)
 2. Click **Start eKYC.** 
-	- **For individual account** -
+	- **For individual account**:
 		1. Enter your Aadhar number. Click **Send OTP**.
 			![Adhar](img/Adhar.png)
+			The following screen appears:
+			![Verify details](img/verfiydetails.png)
 		2. Enter the **OTP** your received on your registered mobile number and email ID.
 		3. Click **Confirm**.
-			![Verify details](img/verfiydetails.png)
-			The following pop-up appears:
+			The following screen appears:
 			![Billing Details Conflict](img/billingdetailsconflict.png)
 		4. If you want to update the account information, select the **With Billing Information, also Update Primary Account Information with new Information from Aadhar** option.
-		5.  Click **proceed with new information**.
+		5.  Click the **Proceed With New Information** button..
 			![Verified](img/success.png)	
-	- **For organisation account**-
+	- **For organisation account**:
 		1. Enter your GSTIN number. Click **Send OTP**.
 			![GSTIN](img/GSTIN.png)
 		2. Enter the **OTP** your received on your registered mobile number and email ID.
 		3. Click **Confirm**.
 			![verify](img/verfiydetails2.png)
-		 The following pop-up appears:
+		 The following screen appears:
 			![conflict](img/billingconflict2.png)
 		4. If you want to update the account information, select the **With Billing Information, also Update Primary Account Information with new Information from GSTIN** option.
-		5. Click **proceed with new information**.
+		5. Click the **Proceed With New Information** button..
 			![Verified](img/verified.png)

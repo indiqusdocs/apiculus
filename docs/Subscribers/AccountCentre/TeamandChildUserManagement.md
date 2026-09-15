@@ -3,11 +3,11 @@ sidebar_position: 3
 ---
 # Team and Child User Management
 
-Team members or child users can be onboarded using the **TEAM** section from the Account Centre. Apiculus Cloud allows you to add billing, technical, or other admin users who can log in to your account and perform operations.
+Team members or child users can be onboarded using the **Team** section from the Account Centre. Apiculus Cloud allows you to add billing, technical, or other admin users who can log in to your account and perform operations.
 
 ![Team and Child User Management](img/TeamandChildUserManagement1.png)
 
-To add a child user, click the **+INVITE TEAM MEMBERS** button on the top right. This will open up a dialog box with the following information requirements:
+To add a child user, click the **+Invite Team Members** button on the top right. This will open up a dialog box with the following information requirements:
 
 - **User Details -** name, email, country, phone number, etc., for the child user.
 - **Password -** set a strong password to begin with. 

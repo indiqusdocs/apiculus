@@ -36,7 +36,7 @@ To communicate with an agent, follow these steps:
 3. Click **Send**.
 
 You can also reply directly to the email containing the ticket information or the latest response from the support agent.
-# Ticket Classifiers
+# Ticket Types
 
 The following table is a quick reference on ticket classifiers:
 
