@@ -7,7 +7,7 @@ Team members or child users can be onboarded using the **Team** section from t
 
 ![Team and Child User Management](img/TeamandChildUserManagement1.png)
 
-To add a child user, click the **+Invite Team Members** button on the top right. This will open up a dialog box with the following information requirements:
+To add a child user, click the **+Invite Team Members** button on the top right. This opens a dialog box with the following information requirements:
 
 - **User Details -** name, email, country, phone number, etc., for the child user.
 - **Password -** set a strong password to begin with. 
