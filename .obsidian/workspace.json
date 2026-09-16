@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/AccountCentre/TeamandChildUserManagement.md",
+                "file": "docs/Subscribers/AccountCentre/eKYC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TeamandChildUserManagement"
+              "title": "eKYC"
             }
           }
         ],
@@ -198,6 +198,9 @@
   },
   "active": "ebe06149f52ea3b0",
   "lastOpenFiles": [
+    "docs/Subscribers/AccountCentre/InvoicesandCreditNotes.md",
+    "docs/Subscribers/AccountCentre/eKYC.md",
+    "docs/Subscribers/AccountCentre/TeamandChildUserManagement.md",
     "docs/Subscribers/CloudExperienceManagement/CloudConsoleOverview.md",
     "docs/Subscribers/CloudExperienceManagement/img/dashboard.png",
     "docs/Subscribers/AccountCentre/WalletandTransactions.md",
@@ -213,10 +216,7 @@
     "docs/ReleaseNotes/Ver2620.md",
     "docs/ServicesandSystemRequirements/LoadBalancerInstances/SystemRequirements.md",
     "docs/Administration/BillingandFinancials/AboutInvoice.md",
-    "docs/Subscribers/AccountCentre/InvoicesandCreditNotes.md",
-    "docs/Subscribers/AccountCentre/eKYC.md",
     "docs/Subscribers/CloudExperienceManagement/CloudOperationsManagement.md",
-    "docs/Subscribers/AccountCentre/TeamandChildUserManagement.md",
     "docs/intro.md",
     "docs/Subscribers/AccessCentral.md",
     "docs/Administration/ResellerManagement/Overview.md",

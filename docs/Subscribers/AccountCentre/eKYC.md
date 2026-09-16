@@ -31,5 +31,5 @@ To start your eKYC, follow these steps:
 		 The following screen appears:
 			![conflict](img/billingconflict2.png)
 		4. If you want to update the account information, select the **With Billing Information, also Update Primary Account Information with new Information from GSTIN** option.
-		5. Click the **Proceed With New Information** button..
+		5. Click the **Proceed With New Information** button.
 			![Verified](img/verified.png)
