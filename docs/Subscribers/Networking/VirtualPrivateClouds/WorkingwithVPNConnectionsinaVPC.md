@@ -1,5 +1,5 @@
 ---
-sidebar_position: 8
+sidebar_position: 12
 ---
 # Working with VPN Connections in a VPC
 

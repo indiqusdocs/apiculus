@@ -25,10 +25,10 @@ To start your eKYC, follow these steps:
 	- **For organisation account**:
 		1. Enter your GSTIN number. Click **Send OTP**.
 			![GSTIN](img/GSTIN.png)
+			The following screen appears:![verify](img/verfiydetails2.png)
 		2. Enter the **OTP** your received on your registered mobile number and email ID.
 		3. Click **Confirm**.
-			![verify](img/verfiydetails2.png)
-		 The following screen appears:
+		  The following screen appears:
 			![conflict](img/billingconflict2.png)
 		4. If you want to update the account information, select the **With Billing Information, also Update Primary Account Information with new Information from GSTIN** option.
 		5. Click the **Proceed With New Information** button.
