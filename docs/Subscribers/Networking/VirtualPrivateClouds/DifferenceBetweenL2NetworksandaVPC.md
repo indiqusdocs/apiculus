@@ -27,7 +27,7 @@ VPCs follow the convention of 3-tiered network architecture, with web, app, and 
  A VPC is delivered using a virtual router (VR). The following sections outline various functionalities using a VPC:
 ![Create, List and View VPCs](img/CreateVPC3.png)
 - [Create, List and View VPCs](CreatingaVPCs.md)
-- [Overview](docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/Overview.md)
+- [Viewing VPC Details](ViewingVPCDetails.md)
 - [Creating subnets and tiers](CreatingSubnetsTiers.md)
 - [Managing VPC Instances](ManagingVPCInstances)
 - [Working with IPv4 addresses](IPv4AddressesandRules.md)
