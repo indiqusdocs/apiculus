@@ -1,12 +1,9 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
-## Creating and Viewing VPCs
+# Creating a VPC
 Managing VPCs is important because it gives you full control over your cloud network. By creating, listing, and viewing VPCs, you can organize your resources better, keep track of active networks, and quickly access details when you need to manage or troubleshoot them.
-
-To create, list and view VPCs, navigate to the **Networking** tab and select the **Virtual Private Clouds** option.
-## Creating a VPC
- A VPC is created to provide a secure, isolated, and fully controllable virtual network environment for cloud resources.
+ 
 To create a VPC, follow the below steps:
 1. Navigate to **Networking > Virtual Private Clouds**. The following screen appears:
 	![img](img/vpc1.png)
@@ -38,17 +35,3 @@ To know allowed IP address ranges for VPC creation, select the **click here** 
 	![img](img/confirm.png)
 12. Click **Confirm**.
 	Once ready, you get the notification of this purchase on your email address on record.
-## Viewing Available VPCs
-You can access all the VPCs created in your account from **Networking >** **Virtual Private Clouds** on the main navigation panel. The listing will have the following details.
-- VPC Name
-- Public IP
-- Network Size
-- Created
-![Create, List and View VPCs](img/CreateVPC2.png)
-Click on the VPC name to view the associated details and manage the VPC.
-
-
-
-
-
-

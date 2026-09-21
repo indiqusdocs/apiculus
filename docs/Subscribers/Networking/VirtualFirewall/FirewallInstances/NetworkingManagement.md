@@ -3,10 +3,11 @@ sidebar_position: 10
 ---
 # Networking Management
 
-To view the networks that of particular Instance, navigate to the Virtual Firewall and access the **Networking** tab.
+To view the networks Instance, navigate to the **Virtual Firewall** > **Networking** tab.
+The following screen appears:
 ![Networking Management](img/Networking.png)
 
-The Networking and NICs section list all the networks that a Linux Instance is attached to.
+The Networking and NICs section lists all the networks that a Linux Instance is attached to.
 
 The following actions are available:
 
@@ -14,6 +15,6 @@ The following actions are available:
 - Network/tier associations can be removed from this section by using the **unlink** action.
 
 :::note
-Advanced networking configurations can be done using the Virtual Private Clouds service.
+You can configure advanced networking settings using the Virtual Private Clouds service.
 :::
 

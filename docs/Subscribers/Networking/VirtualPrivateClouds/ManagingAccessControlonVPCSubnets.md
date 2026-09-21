@@ -20,9 +20,9 @@ Each VPC comes with **default_allow** and **default_deny** ACL. You can edit
 ## Managing Individual Custom ACL and Adding Rules
 
 You can access ACLs from the Access Control Lists menu item under the VPC details. The following actions are available:
-- [Creating an ACL Rule](/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets#creating-an-acl-rule)
-- [Editing ACL name](/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets#editing-acl-name)
-- [Deleting an ACL](/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets#deleting-an-acl)
+- [Creating an ACL Rule](#creating-an-acl-rule)
+- [Editing ACL name](#editing-acl-name)
+- [Deleting an ACL](#deleting-an-acl)
 ### Creating an ACL Rule
 
 To create a custom ACL and add rules, follow these steps:
@@ -75,7 +75,7 @@ To delete an ACL, follow these steps:
 3. Type **DELETE** in the textbox.
 4. Click the **Delete ACL Rule** button.
 :::note 
-To delete an ACL, you must first disassociated it with the attached tier. For more information, refer [Replacing an ACL](/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/CreatingVPCSubnetsTiers#replacing-an-acl).
+To delete an ACL, you must first disassociated it with the attached tier. For more information, refer [Replacing an ACL](CreatingSubnetsTiers.md#replacing-an-acl).
 :::
 ## Creating Bulk Custom ACL and Adding Rules
 If you want to create custom ACL rule in bulk, then use the import option.

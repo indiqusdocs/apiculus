@@ -8,7 +8,7 @@ You can also view the service balance, which is an aggregation of your credit li
 
 To add a payment against your invoice or Proforma invoice, follow these steps:
 
-1. Navigate to **Billing > Wallet & Transactions**.	![img](img/wallet1.png)
+1. Navigate to **Billing > Wallet & Transactions**. The following screen appears:![img](img/wallet1.png)
 2. Enter the amount to pay and click the **Pay Now** button. The following screen appears:![img](img/bank.png)
 3. Select the preferred payment method.
 4. Select one of the following tabs:

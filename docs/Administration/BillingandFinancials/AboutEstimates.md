@@ -3,7 +3,6 @@ sidebar_position: 6
 ---
 
 # About Estimates
-
 Estimates provide a better control to admin users and integrate seamlessly with IRP/ERP systems for effective invoice management. It reduces manual data entry errors by automating the invoicing process and ensure compliance with regulatory requirements for e-invoicing, such as generating Invoice Reference Numbers (IRN) and integrating with tax authorities.
 
 You receive an email, once the estimates are available. To view the estimates, navigate to the **Billing and Financial** section and select **Estimates**. 

@@ -3,8 +3,7 @@ sidebar_position: 5
 ---
 # Overview
 
-To view the below details, navigate to the [Firewall Instance](AboutFirewallInstances.md), select the Virtual Firewall and access the **Overview** tab.
-
+To view the details associated with a virtual firewall instances, follow these steps:
 -  [Configuration and Availability](#configuration-and-availability)
 - [Internal Information](#internal-information)
 - [Security and Access Control](#security-and-access-control)
