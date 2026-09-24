@@ -2,13 +2,14 @@
 sidebar_position: 2
 ---
 # Creating a Virtual Firewall
+Creating a virtual firewall allows you to deploy a firewall instance to secure and manage network traffic for your cloud resources. It helps protect your environment by applying the required security configuration and traffic control policies during deployment.
 
  To create a Virtual Firewall, follow these steps:
  
  1. In the main menu, navigate to the **Networking > Virtual Firewalls** tab. 
  2. To activate the service, click the **NEW VIRTUAL FIREWALL** button.
 	:::note
-	 Apiculus currently only supports one Virtual Firewall per Availability Zone.
+	 Apiculus currently supports only one Virtual Firewall per Availability Zone.
 	 :::
 	![Creating a Virtual Firewall](img/CreatingaVirtualFirewall1.png)
 3. Select your Availability Zone.

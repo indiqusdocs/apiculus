@@ -13,7 +13,7 @@ To view available reconfiguration options, navigate to the **Networking** sectio
 :::note
 Your Virtual Firewall needs to be powered OFF in order to be reconfigured.
 :::
-The Virtual Firewall on Apiculus can be reconfigured in the following ways:
+The Virtual Firewall on Apiculus can be reconfigured in the following reasons:
 
 - The Billing interval changed between monthly and hourly.
 - Choosing and applying a new Compute pack.

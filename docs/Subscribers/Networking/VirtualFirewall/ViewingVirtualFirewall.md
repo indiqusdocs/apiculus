@@ -1,7 +1,7 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
-# Viewing Virtual Firewall Details
+# Viewing Virtual Firewall 
 
 As the virtual firewalls are created, Cloud Console users can view the enabled Virtual Firewalls in the **Networking > Virtual Firewalls** section. The following details are shown:
 
@@ -25,7 +25,6 @@ On the top right corner, two quick options are available, one to **LAUNCH CONSO
 
 Details about Virtual Firewall operations and actions can be found in their respective sections:
 
-- [Overview](docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/Overview.md)
 - [Viewing Graphs and Utilisation](docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ViewingGraphsandUtilization.md)
 - [Configuring Alerts](docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ConfiguringAlerts.md)
 - [Volume Management](docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/VolumeManagement.md)
@@ -33,6 +32,34 @@ Details about Virtual Firewall operations and actions can be found in their resp
 - [Snapshots](docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/Snapshots.md)
 - [Reconfiguring Virtual Firewall](ReconfiguringVirtualFirewall.md)
 - [Operations](docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/Operations.md)
+
+To view the details associated with a virtual firewall instances, follow these steps:
+-  [Configuration and Availability](#configuration-and-availability)
+- [Internal Information](#internal-information)
+- [Security and Access Control](#security-and-access-control)
+
+![Overview](img/Overview.png)
+---
+
+## Configuration and Availability
+
+This section displays the instance's status, **RUNNING**, is displayed in  <span class="green">**green**</span>, whereas STOPPED is displayed in <span style={{ color: 'grey' }}>greyed</span> out and the information about the networking zone.
+## Internal Information
+
+This section displays the information used for internal identification of this instance and communication with other internal services.
+
+- Template Name
+- Internal Name
+- Created On
+## Security and Access Control
+
+This section displays the following information:
+
+- Network Name
+- MAC Address
+- IP Address
+- Netmask
+- Gateway
 
 
 

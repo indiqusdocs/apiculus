@@ -162,11 +162,9 @@ The following steps guide you through the configuration and final review before 
 1. **Choose an Authentication Method**:
     - **Use SSH key pair (Recommended)**
     - **Use root user password** (Root passwords are less secure than SSH-based access). 
-     
 :::note
 If you choose root user password method, ensure that **Also email me the password** is checked to receive the root password via email for initial access.
 ::
-  
 2. **Name Your Linux Instance**:
     - For example, **Test-VNF-Ubuntu** (Instance name can only contain alphanumeric characters, underscores, dots, and hyphens).
 3. **Summary and Estimated Costs**:
