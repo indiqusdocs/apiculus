@@ -8,7 +8,7 @@ This section comprises of the following sub-sections:
 - [Viewing Attached Disk](#viewing-attached-disk)
 - [Creating Disk Restore Point](#creating-disk-restore-point)
 - [Viewing Disk Restore Point](#viewing-disk-restore-point)
-- [Creating Volume from Disk Restore Point](#creating-volume-from-restore-point)
+- [Creating Volume from Disk Restore Point](#creating-volume-from-disk-restore-point)
 - [Deleting Disk Restore Point](#deleting-disk-restore-point)
 ## Viewing Attached Disk
 

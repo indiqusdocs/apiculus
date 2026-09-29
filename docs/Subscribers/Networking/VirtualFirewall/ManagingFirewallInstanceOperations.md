@@ -5,10 +5,10 @@ sidebar_position: 12
 Managing virtual firewall operations allows you to perform essential administrative tasks on your Virtual Firewall, such as restarting, force stopping, renaming, and deleting it. These operations help you maintain the firewall, manage its lifecycle, and ensure efficient administration of your cloud resources.
 
 This section comprises of the following sub-sections:
-- [Restarting a Virtual Firewall](#Restarting-a-Virtual-Firewall)
-- [Force Stopping a Virtual Firewall](#Force-Stopping-a-Virtual-Firewall)
-- [Renaming a Virtual Firewall](#Renaming-a-Virtual-Firewall)
-- [Deleting a Virtual Firewall](#Deleting-a-Virtual-Firewall)
+- [Restarting a Virtual Firewall](#restarting-a-virtual-firewall)
+- [Force Stopping a Virtual Firewall](#force-stopping-a-virtual-firewall)
+- [Renaming a Virtual Firewall](#renaming-a-virtual-firewall)
+- [Deleting a Virtual Firewall](#deleting-a-virtual-firewall)
 ## Restarting a Virtual Firewall
 
 Restart a Virtual Firewall to refresh its services and apply recent configuration changes. Use this option to restore normal firewall operations or resolve temporary service or connectivity issues.
