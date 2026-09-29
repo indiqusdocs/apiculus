@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 13
 ---
 # Adding Instances to a VFI-based Network
 

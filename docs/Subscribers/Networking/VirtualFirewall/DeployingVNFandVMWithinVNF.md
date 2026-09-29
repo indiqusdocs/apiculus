@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 14
 ---
 # Deploying VNF and VM Within VNF
 
@@ -35,7 +35,7 @@ The following steps guide you through the process of navigating to the correct s
 2. On the Virtual Firewalls page, click the **NEW VIRTUAL FIREWALL** button.
 3. Follow the prompts to configure and create the virtual firewall.
 ![virtualapiculus](img/virtualapiculus.png)
-### Configuration Options for Virtual Firewall
+## Configuration Options for Virtual Firewall
 
 To configure the new virtual firewall in the Apiculus cloud platform, you must define a few key options such as the zone, compute size, firewall provider, and access rules. These settings ensure the firewall is tailored to your deployment needs.
 
@@ -49,7 +49,7 @@ The following steps guide you through selecting configuration options like avail
 6. **Review Estimated Costs**: Check the summary and pricing before proceeding.
 ![newvapiculus1](img/newvapiculus1.png)
 ![newvapiculus2](img/newvapiculus2.png)
-### Deploying Virtual Firewall
+## Deploying Virtual Firewall
 
 After completing the configuration and deployment steps, the newly created virtual firewall appears in the Virtual Firewalls section. This interface provides a summary of key details such as the firewall's name, compute configuration, provider, zone, public IP address, instance count, and deployment status.
 
@@ -66,7 +66,7 @@ The following steps guide you through accessing the Virtual Firewalls section an
     - Creation time 
 A green **POWERED ON** icon confirms that the firewall is active and running.
 ![greenapiculus](img/greenapiculus.png)
-### Viewing Firewall Details
+## Viewing Firewall Details
 
 To check the configuration and operational status of your deployed virtual firewall, you can access its detailed view in the Apiculus cloud platform. This section provides essential system specifications, network settings, and real-time status indicators.
 
@@ -82,7 +82,7 @@ The following steps guide you through viewing the full details of your virtual f
     - **Public IPv4 (L2-WAN)**: Note down the public IP which is used for SSH access.
     - **Status**: Ensure the firewall is in **Running** state.
 ![overviewapiculus](img/overviewapiculus.png)
-### Viewing LAN and WAN Tiers
+## Viewing LAN and WAN Tiers
 
 To understand the network configuration, navigate to the **Networking** section where you can view both **LAN** and **WAN** tiers. This helps identify how instances are connected and how traffic flows between internal and external networks.
 
@@ -95,7 +95,7 @@ The following steps guide you through accessing the Networking section and ident
     - ADC-R522-40-Test_L2_LAN_TIER_1
     - ADC-R522-40-Test_L2_LAN_TIER_2
 ![networkapiculus](img/networkapiculus.png) 
-### Accessing pfsense Firewall GUI
+## Accessing pfsense Firewall GUI
 
 To manage and configure the pfsense firewall, you can access its web-based Graphical User Interface (GUI). This interface allows you to perform tasks such as monitoring network traffic, updating firewall rules, and managing network settings. You can access the GUI securely using the public IP address assigned to the firewall. 
 
@@ -109,7 +109,7 @@ The following steps help you access the pfsense firewall GUI from your browser u
 ![pfsenseapi](img/pfsenseapi.png)
 ![pfsenseapi1](img/pfsenseapi1.png)
 
-### Deploying a Linux VM under pfsense Firewall
+## Deploying a Linux VM under pfsense Firewall
 
 To deploy a Linux virtual machine (VM) behind the pfsense firewall in Apiculus Cloud, begin by navigating through the dashboard and accessing the compute section. This allows you to view existing Linux instances or initiate the creation of the new under the desired network configuration.
 
@@ -137,7 +137,7 @@ The following steps guide you through the process of creating a new Linux instan
 3. Choose an OS image, (for example, Ubuntu Server 22.04), or use a custom one if needed; note that some images may be chargeable.
 ![zoneapiculus](img/zoneapiculus.png)
 ![deployapiculus](img/deployapiculus.png)
-### Choosing a Root Disk
+## Choosing a Root Disk
    
 When deploying a Linux VM in Apiculus cloud platform, selecting the right root disk is a key step in defining your VM’s storage capacity and performance. The root disk serves as the primary storage where the operating system and essential files are installed. You can choose from predefined disk packs or specify a custom size based on your needs.
    
@@ -150,7 +150,7 @@ The following steps guide you through choosing a root disk option that best fits
 2. Click on **Select Pack** for your desired option. For Example:
      - **RD 100** (100 GB) is selected.
 ![rootapiculus](img/rootapiculus.png)
-### Authentication Method
+## Authentication Method
 
 To ensure secure access to your Linux instance, selecting the right authentication method is crucial. The following options are available: 
 
@@ -162,11 +162,9 @@ The following steps guide you through the configuration and final review before 
 1. **Choose an Authentication Method**:
     - **Use SSH key pair (Recommended)**
     - **Use root user password** (Root passwords are less secure than SSH-based access). 
-     
 :::note
 If you choose root user password method, ensure that **Also email me the password** is checked to receive the root password via email for initial access.
 ::
-  
 2. **Name Your Linux Instance**:
     - For example, **Test-VNF-Ubuntu** (Instance name can only contain alphanumeric characters, underscores, dots, and hyphens).
 3. **Summary and Estimated Costs**:
@@ -176,7 +174,7 @@ If you choose root user password method, ensure that **Also email me the passwor
     - HOURLY: **USD 200.00/Hr**
     - MONTHLY: **USD 400.00/Mo**
 ![authenticationapi](img/authenticationapi.png)
-### Confirming Instance Purchase 
+## Confirming Instance Purchase 
 
 Once you finalized all the configuration details for your Linux VM in Apiculus cloud platform, the platform prompts you to confirm the instance purchase. This is your final opportunity to review costs and apply any available discount codes before deployment.
    
@@ -187,7 +185,7 @@ The following steps guide you through the confirmation process:
 3. Click the **CONFIRM** button to proceed with the instance purchase.
 ![purchaseapi](img/purchaseapi.png)
 ![vmapiculus](img/vmapiculus.png)
-### Checking VM Console and Internet Connectivity
+## Checking VM Console and Internet Connectivity
 
 After deploying a Linux VM under the pfsense firewall in Apiculus cloud platform, it is important to verify that the instance is running correctly and has internet access. This ensures successful configuration and network functionality.
  
