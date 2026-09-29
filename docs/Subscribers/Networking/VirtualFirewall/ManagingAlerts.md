@@ -19,7 +19,7 @@ To configure alerts, follow these steps:
 3. Click **Alerts**. The following screen appears:
 	![img](img/createalert.png)
 4. Click the **Create Alert** button. The following screen appears where you provide the required details:
-	![img](img/alertt.png)
+	![img](img/Alertt.png)
 	- **Name** - You can define the name for your alert.
     - **Choose Parameter** - This option allows you to define what parameter needs to be monitored to trigger the alert email. Yntraa Cloud supports CPU, RAM, Network Input, and Network Output parameters.
     - **Trigger when** - This set of options lets you define whether to trigger above or below a custom value.
