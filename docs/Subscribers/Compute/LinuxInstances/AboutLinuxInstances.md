@@ -28,9 +28,8 @@ Details on available Linux Instance operations and actions can be found in their
 
 - [Overview](docs/Subscribers/Compute/LinuxInstances/Overview.md)
 - [Graphs & Utilisation](ViewingGraphsandUtilizationofLinuxInstances.md)
-- [Alerts](docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ConfiguringAlerts.md)
-- [Volumes](docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/VolumeManagement.md)
-- [Networking](docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/NetworkingManagement.md)
+- [Alerts](docs/Subscribers/Networking/VirtualFirewall/ManagingAlerts.md)
+- [Networking](docs/Subscribers/Networking/VirtualFirewall/NetworkingManagement.md)
 - [Snapshots](WorkingwithLinuxInstanceSnapshots.md)
 - [Reconfigure](docs/Subscribers/Compute/LinuxInstances/ReconfiguringLinuxInstances.md)
 - [Operations](docs/Subscribers/Compute/LinuxInstances/Operations.md)
