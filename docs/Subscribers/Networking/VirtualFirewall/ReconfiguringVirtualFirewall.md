@@ -1,29 +1,20 @@
 ---
-sidebar_position: 13
+sidebar_position: 11
 ---
 # Reconfiguring Virtual Firewall
+Reconfigure a virtual firewall to replace its current firewall appliance with a different one that better meets your operational and security requirements. This operation updates the firewall configuration by applying the selected appliance.
 
-To view available reconfiguration options, navigate to the **Networking** section and select a **Virtual Firewall** and access the **Reconfigure** tab.
+To reconfigure the existing virtual firewall, follow these steps:
 
-![Reconfiguration](img/Reconfiguration.png)
-
-
-![Reconfiguration](img/Reconfiguration1.png)
-
-:::note
-Your Virtual Firewall needs to be powered OFF in order to be reconfigured.
-:::
-The Virtual Firewall on Apiculus can be reconfigured in the following reasons:
-
-- The Billing interval changed between monthly and hourly.
-- Choosing and applying a new Compute pack.
-- Choosing and applying a new Root Disk pack.
-
-:::note
-You can only reconfigure with the same billing interval. If you wish to change the billing interval, please use the Switch Plan button. We suggest switching the plan first before reconfiguring the instance if you intend to use both the Reconfigure and Switch Plan options. Charges apply based on the reconfigured pack, not the older pack.
-:::
-
-
-
-
-
+1. Navigate to **Networking > Virtual Firewalls**. The following screen appears:
+	![img](img/home.png)
+2. Click on your created virtual firewall name from the list.
+3. Click **Reconfigure**. The following screen appears:
+	![img](img/reconfigure.png)
+4. Click the **Stop Instance** button. The following screen appears:
+	![img](img/recon.png)
+5. Click the **Yes** button. The following screen appears:
+	![img](img/reconfigure1.png)
+6. Select a **Firewall Appliance** from the list, and click the **Reconfigure Virtual Firewall Pack** button. The following screen appears:
+	![img](img/apiculus.png)
+7. Select **I have read and agreed to the Yntraa Cloud Terms and Conditions and Privacy policy** option, and click the **Confirm Reconfigure** button.

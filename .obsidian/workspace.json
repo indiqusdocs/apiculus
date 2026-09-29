@@ -41,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/Networking/VirtualFirewall/ViewingUtilization.md",
+                "file": "docs/Subscribers/Networking/VirtualFirewall/Managing Volume.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Managing Volume"
+            }
+          },
+          {
+            "id": "121bbbb999a3ec18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Subscribers/Networking/VirtualFirewall/ViewingVirtualFirewall.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ViewingUtilization"
+              "title": "ViewingVirtualFirewall"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -196,18 +210,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ebe06149f52ea3b0",
+  "active": "121bbbb999a3ec18",
   "lastOpenFiles": [
-    "docs/Subscribers/Networking/VirtualFirewall/img/utilization.png",
-    "docs/Subscribers/Networking/VirtualFirewall/ViewingGraphs.md",
-    "docs/Subscribers/Networking/VirtualFirewall/ViewingUtilization.md",
+    "docs/Subscribers/Networking/VirtualFirewall/ManagingSnapshots.md",
+    "docs/Subscribers/Networking/VirtualFirewall/ViewingVirtualFirewall.md",
     "docs/Subscribers/Networking/VirtualFirewall/ManagingAlerts.md",
-    "docs/Subscribers/Networking/VirtualFirewall/img/recipients.png",
-    "docs/Subscribers/Networking/VirtualFirewall/img/Alertt.png",
-    "docs/Subscribers/Networking/VirtualFirewall/img/createalert.png",
-    "docs/Subscribers/Networking/VirtualFirewall/img/Graphss.png",
-    "docs/Subscribers/Networking/VirtualFirewall/img/firewall.png",
+    "docs/Subscribers/Networking/VirtualFirewall/DeployingVNFandVMWithinVNF.md",
+    "docs/Subscribers/Networking/VirtualFirewall/ViewingVirtualFirewall.md",
+    "docs/Subscribers/Networking/VirtualFirewall/AccessingtheVFIControlPanel.md",
+    "docs/Subscribers/Networking/VirtualFirewall/AddingInstancestoaVFI-basedNetwork.md",
+    "docs/Subscribers/Networking/VirtualFirewall/ManagingFirewallInstanceOperations.md",
+    "docs/Subscribers/Networking/VirtualFirewall/ReconfiguringVirtualFirewall.md",
+    "docs/Subscribers/Networking/VirtualFirewall/NetworkingManagement.md",
+    "docs/Subscribers/Networking/VirtualFirewall/Managing Volume.md",
+    "docs/Subscribers/Networking/VirtualFirewall/ViewingUtilization.md",
+    "docs/Subscribers/Networking/VirtualFirewall/ViewingGraphs.md",
     "docs/Subscribers/Networking/VirtualFirewall/CreatingaVirtualFirewall.md",
+    "docs/Subscribers/Networking/VirtualFirewall/AboutFirewallInstances.md",
+    "docs/Subscribers/Networking/VirtualFirewall/img/delete6.png",
+    "docs/Subscribers/Networking/VirtualFirewall/img/rename.png",
+    "docs/Subscribers/Networking/VirtualFirewall/img/operations2.png",
+    "docs/Subscribers/Networking/VirtualFirewall/img/restart.png",
+    "docs/Subscribers/Networking/VirtualFirewall/img/operationss.png",
+    "docs/Subscribers/Networking/VirtualFirewall/img/apiculus.png",
+    "docs/Subscribers/Networking/VirtualFirewall/img/reconfigure1.png",
+    "docs/Subscribers/Networking/VirtualFirewall/img/recon.png",
+    "docs/Subscribers/Networking/VirtualFirewall/img/reconfigure.png",
+    "docs/Subscribers/Networking/VirtualFirewall/img/networking3.png",
+    "img/d.md",
     "docs/Subscribers/Networking/VirtualPrivateClouds/DifferenceBetweenL2NetworksandaVPC.md",
     "docs/Subscribers/Networking/VirtualPrivateClouds/IPv4AddressesandRules.md",
     "docs/Subscribers/Networking/VirtualPrivateClouds/ViewingVPCDetails.md",
@@ -218,11 +248,6 @@
     "docs/Subscribers/Networking/VirtualPrivateClouds/ManagingVirtualRouters.md",
     "docs/Subscribers/Networking/VirtualPrivateClouds/ManagingAccessControlonVPCSubnets.md",
     "docs/Subscribers/Networking/VirtualPrivateClouds/CreatingaVPC.md",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/CreatingSubnetsTiers.md",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/InternalLBRule.md",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/img/delete13.png",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/img/view.png",
-    "docs/Subscribers/Networking/VirtualFirewall/VolumeManagement.md",
     "build/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Compute/ConfiguringRHELInstances/index.html",
     "build/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Storage/ConfiguringObjectStorage/index.html",
     "build/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Storage/ConfiguringBlockVolumes/index.html",
@@ -233,17 +258,6 @@
     "build/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Networking services/ConfiguringLoadBalancerInstances/index.html",
     "build/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Networking services/ConfiguringVirtualPrivateClouds/index.html",
     "build/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Networking services/ConfiguringDNSManagement/index.html",
-    "docs/Subscribers/Networking/VirtualFirewall/ViewingVirtualFirewall.md",
-    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ViewingVirtualFirewall.md",
-    "build/assets/images/WorkingwithVolumeSnapshots-bacaba26967ba54567afe3db68ca3b55.png",
-    "build/assets/images/ZabbixDashboardandNMS-726fef8836244c6f0597c6e2fb84faed.png",
-    "build/assets/images/WorkingwithInstanceVolumes1-12b7c2dac49eba1e5eeca32f65c69852.png",
-    "docs/Subscribers/Networking/VirtualFirewall/Overview.md",
-    "docs/Subscribers/Networking/VirtualFirewall/ManagingVirtualFirewallProvisioningRequests.md",
-    "docs/Subscribers/Networking/VirtualFirewall/AboutFirewallInstances.md",
-    "docs/Subscribers/Networking/VirtualFirewall/Snapshots.md",
-    "docs/Subscribers/Networking/VirtualFirewall/ReconfiguringVirtualFirewall.md",
-    "docs/Subscribers/Networking/VirtualFirewall/Operations.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
