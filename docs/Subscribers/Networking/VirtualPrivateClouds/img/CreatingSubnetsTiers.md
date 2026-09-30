@@ -12,8 +12,7 @@ In a VPC, subnets define IP-based network segments, and tiers represent logical 
 To create a subnet and tier, follow these steps:
 1. Navigate to the **Networking** > **Virtual Private clouds** > **Subnets and Tiers** section. The following screen appears:
 ![Creating VPC Subnets/Tiers](img/subnets.png)
-2. Click on your created VPC name from the list.
-3. Click the **Add Tier** button. The following screen appears:
+2. Click the **Add Tier** button. The following screen appears:
 ![img](img/addtier.png)
 3. Enter the following details:
     - **Tier Name:** Name of the network tier you are creating.
