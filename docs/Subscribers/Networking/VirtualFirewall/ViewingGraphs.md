@@ -11,13 +11,3 @@ To view the available graphs and monitor the instance in real-time, follow these
 2. Click on your created virtual firewall name from the list.
 3. Click **Graphs**. The following screen appears:
 	![img](img/Graphss.png)
-## Utilisation (Historical)[​](http://localhost:3000/docs/Subscribers/Compute/LinuxInstances/ViewingGraphsandUtilizationofLinuxInstances#utilisation-historical "Direct link to Utilisation (Historical)")
-
-To view historical usage across supported parameters, navigate to the [Networking](AboutVirtualFirewallInstances.md), select the **Virtual Firewall** and access the **Utilisation** tab.
-![Utilisation](img/Utilisation.png)
-
-The Utillisation table shows a historical date-wise details of daily maximum, minimum, and average readings for all parameters. The utilisation report is downloadable as a .csv file.
-
-
-
-
