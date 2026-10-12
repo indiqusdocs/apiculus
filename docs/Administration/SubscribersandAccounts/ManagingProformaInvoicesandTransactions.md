@@ -17,13 +17,12 @@ To generate a Proforma Invoice for a particular account, follow these steps:
 
 1. Navigate to **Accounts > Accounts Management**. The following screen appears: 
    ![Account management](img/AccountMgmt.png)
-2. Click the **Edit** icon and navigate to **Proforma Invoice** tab. The following screen appears:
-   ![Proforma Invoice](img/ProformaInvoice.png)
-3. Click the **Generate PI** button. The following screen appears:![Generate Proforma Invoice Screen](img/GenerateProformaInvoiceScreen1.png)
+2. Click the **Edit** icon and navigate to **Proforma Invoice** tab. The following screen appears:![Proforma Invoice](img/ProformaInvoice.png)
+3. Click the **Generate PI** button. The following screen appears:![Generate Proforma Invoice Screen](img/ScreenAfterClickingtheGeneratePI.png)
 4. Provide the following details: 
 	- Select the **PI Date**.
 	- Select the **PI Duration** from the dropdown menu (1 month, 3 months, 6 months, 9 months, or 12 months). 
-5. Click the **Add Services** button. The following screen appears: ![Add Service Screen](img/AddServiceScreen1.png)
+5. Click the **Add Services** button. The following screen appears: ![Add Services](img/ServicesAdded.png)
 6. Provide the following details: 
 	- **Product Family**
 	- **HSN/SAC Code**
@@ -33,9 +32,9 @@ To generate a Proforma Invoice for a particular account, follow these steps:
 	:::note
 	The duration is fixed and is applied uniformly to all the services included in the proforma invoice. It cannot be modified for individual services.
 	:::
-7. Click the **Confirm** button. After the confirmation, the details get added as shown in the following screen:![Add Services](img/AddServiceScreen2.png)
-8. To add additional services to the proforma invoice, click the **Add Services** button. You can also modify an existing service by clicking the **Edit** icon (highlighted in red). 
-9. Review the **PI Summary** and click the **Submit PI** button. The following screen appears:![Confirmation Screen](img/ConfirmationScreen.png)
+7. Click the **Confirm** button. After the confirmation, the details get added as shown in the following screen:![Add Services](img/ServicesAdded1.png)
+8. To add additional services to the proforma invoice, click the **Add Services** button. You can also modify an existing service by clicking the **Edit** icon. 
+9. Review the **PI Summary** and click the **Submit PI** button. The following screen appears:![Confirmation Screen](img/SubmitScreen.png)
 10. Click the **Submit** button.
 
 ### Downloading Proforma Invoice
