@@ -83,12 +83,20 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "docs/Subscribers/Networking/L2 Networks/AddinganL2Networks.md",
+=======
+                "file": "docs/Administration/BillingandFinancials/RecordingTaxDeductions.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< Updated upstream
               "title": "AddinganL2Networks"
+=======
+              "title": "RecordingTaxDeductions"
+>>>>>>> Stashed changes
             }
           },
           {
@@ -254,6 +262,7 @@
   },
   "active": "7e3a3eb498df57d5",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "docs/Subscribers/Networking/L2 Networks/img/L211.png",
     "docs/Subscribers/Networking/L2 Networks/ViewingL2Networks.md",
     "docs/Subscribers/Networking/L2 Networks/AddinganL2Networks.md",
@@ -285,6 +294,8 @@
     "docs/Subscribers/Networking/LoadBalancerInstances/ActivatingtheNetScalerVPX.md",
     "docs/Administration/BillingandFinancials/RecordingTaxDeductions.md",
     "docs/Administration/SubscribersandAccounts/img/SubmitScreen.png",
+=======
+>>>>>>> Stashed changes
     "docs/Administration/BillingandFinancials/Overview.md",
     "docs/Administration/BillingandFinancials/AboutEstimates.md",
     "docs/Subscribers/Networking/IPv4-basedNetworking/EstablishingSite-to-SiteVPNBetweenTwoVPCs.md",
@@ -300,6 +311,37 @@
     "docs/Subscribers/ToolsandUtilities/ManagingCustomTemplatesandImages.md",
     "docs/Subscribers/AccessCentral.md",
     "docs/Subscribers/ToolsandUtilities/AboutToolsandUtilities.md",
+<<<<<<< Updated upstream
+=======
+    "docs/ReleaseNotes/Ver2620.md",
+    "docs/ReleaseNotes/Ver2630.md",
+    "docs/Subscribers/Networking/NATGateways/PortForwardingwithPublicIP.md",
+    "docs/Subscribers/Networking/NATGateways/StartingandStoppingaNATGateway.md",
+    "docs/Subscribers/Networking/NATGateways/PortForwardingforVMviaVNF.md",
+    "docs/Subscribers/Networking/NATGateways/Overview.md",
+    "docs/Subscribers/Networking/NATGateways/AboutNATGateways.md",
+    "docs/Subscribers/Networking/NATGateways/Instances.md",
+    "docs/Subscribers/Networking/NATGateways/img/home.png",
+    "docs/Subscribers/Networking/VirtualFirewall/img/apiculus.png",
+    "docs/Subscribers/Networking/VirtualFirewall/img/Alertt.png",
+    "docs/Subscribers/Networking/VirtualFirewall/img/alertt.png",
+    "build/assets/images/apiculus-87cca92ffa0b07eed295e741c5e6ec7b.png",
+    "build/assets/images/delete6-ffc41b181ae5f6c5bd11462c8313ca52.png",
+    "build/assets/images/rename-f9a543b53ead956f327b20f2a8b7f949.png",
+    "build/assets/images/restart-cc6ff3b102bb8fe2f01f08af715c0b2b.png",
+    "build/assets/images/restorepoint-357d19d00857ff6be43f1f3ff8d5c1ad.png",
+    "build/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Storage/ConfiguringObjectStorage/index.html",
+    "build/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Networking services/ConfiguringVirtualPrivateClouds/index.html",
+    "build/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Storage/ConfiguringBlockVolumes/index.html",
+    "build/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Networking services/ConfiguringLoadBalancerInstances/index.html",
+    "build/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Networking services/ConfiguringIPv4Addresses/index.html",
+    "build/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Networking services/ConfiguringVirtualFirewallInstances/index.html",
+    "build/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Compute/ConfiguringWindowsInstances/index.html",
+    "build/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Networking services/ConfiguringDNSManagement/index.html",
+    "build/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Compute/ConfiguringKubernetesService/index.html",
+    "build/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Compute/ConfiguringLinuxInstances/index.html",
+    "build/icons/home.svg",
+>>>>>>> Stashed changes
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
