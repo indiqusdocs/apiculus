@@ -2,6 +2,7 @@
 sidebar_position: 2
 ---
 # Viewing NAT Gateways Details
+You can view and validate the gateway's settings, monitor its performance, and manage it more effectively.
 
 To manage a NAT gateway, follow these steps:
 

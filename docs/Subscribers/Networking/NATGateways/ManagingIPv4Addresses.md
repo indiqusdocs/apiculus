@@ -1,19 +1,19 @@
 ---
 sidebar_position: 4
 ---
-# IPv4 Addresses
-Each virtual gateway comes with a default IPv4 address that belongs to the Virtual Gateway governing the network. The default (source - NAT) IPv4 address can be used to access the Virtual Gateway publicly or via Remote Access (RA) VPN.
-![Manage NAT gateway](img/NAT4.png)
-
+# Managing IPv4 Addresses
+Each virtual gateway comes with a default IPv4 address that belongs to the Virtual Gateway governing the network. The default (source - NAT) IPv4 address can be used to access the Virtual Gateway publicly or via Remote Access (RA) VPN
 ## Adding Public IPv4 Addresses
-You can add additional public IPv4 addresses to configure firewall rules, port forwarding rules and source NATs.
+A public IPv4 address uniquely identifies a resource on the internet and enables communication with external networks. Add a public IPv4 address to a NAT Gateway to allow private instances to access the internet and external services while keeping them protected from direct inbound internet traffic.
 
-1. Click the **Add Public IPv4 Address** button. The following screen appears:
-   ![Manage NAT gateway](img/NAT5.png)
-2. Select the **Monthly** or **Hourly** option and then click the **Confirm Purchase** button. The following screen appears.
-   
-	  ![Manage NAT gateway](img/NAT6.png)
-3. Verify the details and click the **Confirm** button to create complete adding a public IPv4 address.
+To add a public IPv4 address, follow these steps:
+
+1. Navigate to **Networking > NAT Gateways**. The following screen appears:
+	![img](img/home.png)
+2. Click a NAT Gateway name from the list.
+3. Click **IP Addresses**. The following screen appears:
+	![img](img/Ip.png)
+4. Click the **Add Public IPv4 Address** button. The following screen appears:
 ## Managing Firewall Rules
 1. Click the **Firewall Rules** icon.
    ![Manage NAT gateway](img/NAT4a.png)

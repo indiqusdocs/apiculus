@@ -8,113 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a13196a0959d6088",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Subscribers/AccountCentre/MakingPaymentAgainstaProformaInvoice.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MakingPaymentAgainstaProformaInvoice"
-            }
-          },
-          {
-            "id": "ef518349f04007e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Subscribers/AccountCentre/Organisation-AccountProfile.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Organisation-AccountProfile"
-            }
-          },
-          {
-            "id": "ebe06149f52ea3b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Subscribers/Networking/VirtualFirewall/Managing Volume.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Managing Volume"
-            }
-          },
-          {
-            "id": "121bbbb999a3ec18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/ReleaseNotes/Ver2630.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ver2630"
-            }
-          },
-          {
-            "id": "d6645199fbf3a3d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/ReleaseNotes/Ver2630.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ver2630"
-            }
-          },
-          {
             "id": "7e3a3eb498df57d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< Updated upstream
-                "file": "docs/Subscribers/Networking/L2 Networks/AddinganL2Networks.md",
-=======
-                "file": "docs/Administration/BillingandFinancials/RecordingTaxDeductions.md",
->>>>>>> Stashed changes
+                "file": "docs/Subscribers/Networking/VirtualFirewall/CreatingaVirtualFirewall.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< Updated upstream
-              "title": "AddinganL2Networks"
-=======
-              "title": "RecordingTaxDeductions"
->>>>>>> Stashed changes
-            }
-          },
-          {
-            "id": "2823030ac425a4e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Subscribers/Networking/VirtualPrivateClouds/ViewingVpcs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ViewingVpcs"
+              "title": "CreatingaVirtualFirewall"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -262,25 +169,44 @@
   },
   "active": "7e3a3eb498df57d5",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
-    "docs/Subscribers/Networking/L2 Networks/img/L211.png",
-    "docs/Subscribers/Networking/L2 Networks/ViewingL2Networks.md",
-    "docs/Subscribers/Networking/L2 Networks/AddinganL2Networks.md",
-    "docs/Subscribers/Networking/VirtualFirewall/AccessingtheVFIControlPanel.md",
+    "docs/Subscribers/Networking/VirtualFirewall/ManagingAlerts.md",
     "docs/Subscribers/Networking/VirtualFirewall/AboutVirtualFirewallInstances.md",
+    "docs/Subscribers/Networking/NATGateways/PortForwardingforVMviaVNF.md",
+    "docs/Subscribers/Networking/NATGateways/PortForwardingwithPublicIP.md",
+    "docs/Subscribers/Networking/NATGateways/StartingandStoppingaNATGateway.md",
+    "docs/Subscribers/Networking/NATGateways/ViewingNATGatewayInstances.md",
+    "docs/Subscribers/Networking/NATGateways/ViewingNATGateways.md",
+    "docs/Subscribers/Networking/NATGateways/ViewingNATGatewaysDetails.md",
+    "docs/Subscribers/Networking/NATGateways/Operations.md",
+    "docs/Subscribers/Networking/NATGateways/ManagingIPv4Addresses.md",
+    "docs/Subscribers/Networking/NATGateways/AboutNATGateways.md",
+    "docs/Subscribers/Networking/NATGateways/Overview.md",
+    "docs/Subscribers/Networking/IPv4-basedNetworking/EstablishingSite-to-SiteVPNBetweenTwoVPCs.md",
+    "docs/Subscribers/Networking/IPv4-basedNetworking/AboutIPv4-basedNetworking.md",
+    "docs/Subscribers/Networking/L2 Networks/AddinganL2Networks.md",
+    "docs/Subscribers/Networking/L2 Networks/ViewingL2Networks.md",
+    "docs/Subscribers/AccountCentre/Payments.md",
+    "docs/Subscribers/AccountCentre/eKYC.md",
+    "docs/Subscribers/AccountCentre/AboutApiculusAccountCentre.md",
+    "docs/Subscribers/AccountCentre/InvoicesandCreditNotes.md",
+    "docs/Subscribers/AccountCentre/KYCrenewal.md",
+    "docs/Subscribers/Networking/IPv4-basedNetworking/UsingRemoteAccessVPNwithVPC.md",
+    "docs/Subscribers/Networking/IPv4-basedNetworking/ManagingVPNGatewaysandSite-to-SiteVPN.md",
+    "docs/Subscribers/Networking/NATGateways/img/Ip.png",
+    "docs/Subscribers/Networking/NATGateways/img/ip .png",
+    "docs/Subscribers/Networking/NATGateways/img/Stoping.png",
+    "docs/Subscribers/Networking/NATGateways/img/starting.png",
+    "docs/Subscribers/Networking/NATGateways/img/stopping.png",
+    "docs/Subscribers/Networking/NATGateways/img/stop.png",
+    "docs/Subscribers/Networking/L2 Networks/img/L211.png",
+    "docs/Subscribers/Networking/VirtualFirewall/AccessingtheVFIControlPanel.md",
     "docs/Subscribers/Networking/VirtualPrivateClouds/ManagingVPCInstances.md",
     "build/assets/js/520300f5.cc428dd1.js",
     "build/assets/js/90206688.3d1e699b.js",
     "build/img/sps.svg",
     "build/img/sps.png",
     "build/img/sbs.svg",
-    "build/img/sbs.png",
-    "build/img/rn.svg",
-    "build/img/rn.png",
-    "build/img/logo.svg",
-    "build/img/logo.png",
     "build/img/favicon.ico",
-    "build/img/apiculus-social-card.png",
     "build/img",
     "build/assets/js/runtime~main.23f8ac90.js",
     "docs/Subscribers/Networking/LoadBalancerInstances/CreatingaLoadBalancerInstance.md",
@@ -289,59 +215,6 @@
     "build/docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairs/index.html",
     "build/docs/Subscribers/ToolsandUtilities/ManagingInstanceandVolumeSnapshots/index.html",
     "build/docs/Subscribers/ToolsandUtilities/ManagingCustomTemplatesandImages/index.html",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/CreatingSubnetsandTiers.md",
-    "docs/Subscribers/Networking/LoadBalancerInstances/AboutLoadBalancerInstances.md",
-    "docs/Subscribers/Networking/LoadBalancerInstances/ActivatingtheNetScalerVPX.md",
-    "docs/Administration/BillingandFinancials/RecordingTaxDeductions.md",
-    "docs/Administration/SubscribersandAccounts/img/SubmitScreen.png",
-=======
->>>>>>> Stashed changes
-    "docs/Administration/BillingandFinancials/Overview.md",
-    "docs/Administration/BillingandFinancials/AboutEstimates.md",
-    "docs/Subscribers/Networking/IPv4-basedNetworking/EstablishingSite-to-SiteVPNBetweenTwoVPCs.md",
-    "docs/Subscribers/Networking/IPv4-basedNetworking/UsingRemoteAccessVPNwithVPC.md",
-    "docs/Subscribers/Networking/IPv4-basedNetworking/ManagingVPNGatewaysandSite-to-SiteVPN.md",
-    "docs/Subscribers/Networking/IPv4-basedNetworking/AboutIPv4-basedNetworking.md",
-    "docs/Subscribers/Networking/DNSManagement/AboutDNSManagement.md",
-    "docs/Subscribers/Networking/DNSManagement/SwitchingtoAnotherDNSProvider.md",
-    "docs/Subscribers/Networking/DNSManagement/ManagingDNSRecords.md",
-    "docs/Subscribers/Networking/DNSManagement/LinkingDomainstoApiculusCloudConsole.md",
-    "docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairs.md",
-    "docs/Subscribers/ToolsandUtilities/ManagingInstanceandVolumeSnapshots.md",
-    "docs/Subscribers/ToolsandUtilities/ManagingCustomTemplatesandImages.md",
-    "docs/Subscribers/AccessCentral.md",
-    "docs/Subscribers/ToolsandUtilities/AboutToolsandUtilities.md",
-<<<<<<< Updated upstream
-=======
-    "docs/ReleaseNotes/Ver2620.md",
-    "docs/ReleaseNotes/Ver2630.md",
-    "docs/Subscribers/Networking/NATGateways/PortForwardingwithPublicIP.md",
-    "docs/Subscribers/Networking/NATGateways/StartingandStoppingaNATGateway.md",
-    "docs/Subscribers/Networking/NATGateways/PortForwardingforVMviaVNF.md",
-    "docs/Subscribers/Networking/NATGateways/Overview.md",
-    "docs/Subscribers/Networking/NATGateways/AboutNATGateways.md",
-    "docs/Subscribers/Networking/NATGateways/Instances.md",
-    "docs/Subscribers/Networking/NATGateways/img/home.png",
-    "docs/Subscribers/Networking/VirtualFirewall/img/apiculus.png",
-    "docs/Subscribers/Networking/VirtualFirewall/img/Alertt.png",
-    "docs/Subscribers/Networking/VirtualFirewall/img/alertt.png",
-    "build/assets/images/apiculus-87cca92ffa0b07eed295e741c5e6ec7b.png",
-    "build/assets/images/delete6-ffc41b181ae5f6c5bd11462c8313ca52.png",
-    "build/assets/images/rename-f9a543b53ead956f327b20f2a8b7f949.png",
-    "build/assets/images/restart-cc6ff3b102bb8fe2f01f08af715c0b2b.png",
-    "build/assets/images/restorepoint-357d19d00857ff6be43f1f3ff8d5c1ad.png",
-    "build/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Storage/ConfiguringObjectStorage/index.html",
-    "build/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Networking services/ConfiguringVirtualPrivateClouds/index.html",
-    "build/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Storage/ConfiguringBlockVolumes/index.html",
-    "build/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Networking services/ConfiguringLoadBalancerInstances/index.html",
-    "build/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Networking services/ConfiguringIPv4Addresses/index.html",
-    "build/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Networking services/ConfiguringVirtualFirewallInstances/index.html",
-    "build/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Compute/ConfiguringWindowsInstances/index.html",
-    "build/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Networking services/ConfiguringDNSManagement/index.html",
-    "build/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Compute/ConfiguringKubernetesService/index.html",
-    "build/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Compute/ConfiguringLinuxInstances/index.html",
-    "build/icons/home.svg",
->>>>>>> Stashed changes
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
