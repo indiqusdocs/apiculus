@@ -1,7 +1,7 @@
 ---
-sidebar_position: 5
+sidebar_position: 6
 ---
-# Operations
+# Managing NAT Gateway Operations
 
 You can perform the following operations in the Operations section:
 

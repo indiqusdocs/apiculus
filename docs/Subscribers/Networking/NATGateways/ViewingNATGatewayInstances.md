@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 ---
 # Viewing NAT Gateway Instances
 A NAT Gateway enables private instances in a virtual network to access the internet without assigning them public IP addresses. Viewing a NAT Gateway instance helps you verify its configuration and status, ensuring secure and reliable outbound internet connectivity.

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 5
 ---
 # Managing IPv4 Addresses
 Each virtual gateway comes with a default IPv4 address that belongs to the Virtual Gateway governing the network. The default (source - NAT) IPv4 address can be used to access the Virtual Gateway publicly or via Remote Access (RA) VPN
@@ -14,31 +14,30 @@ To add a public IPv4 address, follow these steps:
 3. Click **IP Addresses**. The following screen appears:
 	![img](img/Ip.png)
 4. Click the **Add Public IPv4 Address** button. The following screen appears:
-## Managing Firewall Rules
-1. Click the **Firewall Rules** icon.
-   ![Manage NAT gateway](img/NAT4a.png)
-2. Enter the details as shown to create a new firewall rule.
-	1. Select Traffic Rule from the drop-down list.
-	2. Enter the Source CIDR.
-	3. Select the Protocol from the drop-down list.
-	4. Enter the Start Port. 
-	5. Enter the End Port.
-	6. Click on **Add Rule**.
-    ![Manage NAT gateway](img/NAT4aa.png)
+	![img](img/IPAddress.png)
+5. Select the **Monthly** option and click the **Confirm Purchase** button. The following screen appears:
+	![img](img/nat62.png)
+6. Click the **Confirm** button.
 
+The public IPv4 address is added where you can perform the following actions:
+- [Adding Firewall Rules](#adding-firewall-rules)
+- [Adding Port Forwarding Rules](#adding-port-forwarding-rules)
+## Adding Firewall Rules
+A firewall rule defines how a NAT Gateway allows or blocks network traffic based on specified criteria, such as IP addresses, ports, and protocols. Adding firewall rules helps control network access, enhance security, and ensure that only authorized traffic passes through the NAT Gateway.
+
+To add a firewall rule, follow these steps:
+
+1. Navigate to **Networking > NAT Gateways**. The following screen appears:
+	![img](img/home.png)
+2. Click a NAT Gateway name from the list.
+3. Click **IP Addresses**. The following screen appears:
+	![img](img/firewallrules.png)
+4. Click the **Firewall Rule** icon (highlighted in red). The following screen appears where you provide the required details:
+	![img](img/rules.png)
+5. Click the **Add Rule** button. The firewall rule is added.
 ## Managing Port Forwarding Rules
 1. Click the **Port Forwarding Rule** icon.
-   ![Manage NAT gateway](img/NAT4b.png)
-	The following screen appears where you can view the already created port forwarding rules.
-	
-2. To add a new rule, click on **Add Rule**.
-   ![Manage NAT gateway](img/NAT4ba.png)
-
-3. Enter the required details to add a rule.
-   ![Manage NAT gateway](img/NAT4bb.png)
-
-5. Click the **Add Port Forwarding Rule** button.
-   
+	![Manage NAT gateway](img/home.png)   
 
 ## Changing Source NAT IPv4 Address
 1. Click the **Source NAT** icon.

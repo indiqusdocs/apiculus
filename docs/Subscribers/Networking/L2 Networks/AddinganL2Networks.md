@@ -9,6 +9,9 @@ To add an L2 network, follow these steps:
 1. Navigate to **Networking > L2 Networks**. The following screen appears:
 	![img](img/L211.png)
 2. Click the **New Network** button. The following screen appears where you provide the required details:
+	![img](img/new.png)
+3. Click the **Confirm** button.
+
 
    
 
