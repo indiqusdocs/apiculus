@@ -6,15 +6,15 @@ Creating a load balancer instance provisions a dedicated load balancing applianc
 
 To a create a load balancer instance, follow these steps:
 
-1. Navigate to **Networking > Load Balancers**. The following screen appears:
+1. Navigate to **Networking > Load Balancer Instances**. The following screen appears:
 	![img](img/home.png)
 2. Click the **New Load Balancer Instance** button. The following screen appears:
 	![img](img/home2.png)
 	![img](img/home3.png)
 3. Select an Availability Zone, which is the geographical region where your instance will be deployed.
 4. In the **Select Network Destination**, specify the VPC and subnet.
-5. **Select Load Balancer Version**.
-6. Under the **Choose an Appliance Configuration**, select a load balancer appliance pack.
+5. Select **Load Balancer Version**.
+6. Under **Choose an Appliance Configuration**, select a load balancer appliance pack.
 7. Enter name in **Name Your Load Balancer Instance**.
 8. Select the **I have read and agreed to the End User License Agreement and Privacy Policy** option, and click the **Buy Monthly** button. The following screen appears:
 	![img](img/purchase.png)

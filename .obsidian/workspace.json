@@ -13,22 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/Networking/LoadBalancerInstances/ActivatingtheNetScalerVPX.md",
+                "file": "docs/Subscribers/Networking/LoadBalancerInstances/ViewingLoadBalancerInstanceDetails.md",
                 "mode": "source",
                 "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "ActivatingtheNetScalerVPX"
+              "title": "ViewingLoadBalancerInstanceDetails"
             }
           }
         ]
@@ -179,25 +170,29 @@
   },
   "active": "7e3a3eb498df57d5",
   "lastOpenFiles": [
-    "docs/Subscribers/Networking/LoadBalancerInstances/AccessingtheAlteonLBIControlPanel.md",
-    "docs/Subscribers/Networking/LoadBalancerInstances/AboutLoadBalancerInstances.md",
-    "docs/Subscribers/Networking/LoadBalancerInstances/ViewingLoadBalancerInstanceDetails.md",
+    "docs/Subscribers/Networking/LoadBalancerInstances/img/overview.png",
     "docs/Subscribers/Networking/LoadBalancerInstances/ViewingLoadBalancerInstances.md",
-    "docs/Subscribers/Networking/LoadBalancerInstances/img/command.png",
-    "docs/Subscribers/Networking/LoadBalancerInstances/img/access.png",
+    "docs/Subscribers/Networking/LoadBalancerInstances/ViewingLoadBalancerInstanceDetails.md",
+    "docs/Subscribers/Networking/LoadBalancerInstances/ManagingInstanceRestorePoint.md",
+    "docs/Subscribers/Networking/LoadBalancerInstances/ManagingLoadBalanceInstanceOperations.md",
+    "docs/Subscribers/Networking/LoadBalancerInstances/AboutLoadBalancerInstances.md",
+    "docs/Subscribers/Networking/LoadBalancerInstances/AccessingtheAlteonLBIControlPanel.md",
     "docs/Subscribers/Networking/LoadBalancerInstances/CreatingaLoadBalancerInstance.md",
+    "docs/Subscribers/Networking/LoadBalancerInstances/img/delete.png",
+    "docs/Subscribers/Networking/LoadBalancerInstances/img/rename.png",
+    "docs/Subscribers/Networking/LoadBalancerInstances/img/forcestop.png",
+    "docs/Subscribers/Networking/LoadBalancerInstances/img/restart.png",
+    "docs/Subscribers/Networking/LoadBalancerInstances/img/operation.png",
+    "docs/Subscribers/Networking/LoadBalancerInstances/ReconfiguringLoadBalancerInstances.md",
+    "docs/Subscribers/Networking/LoadBalancerInstances/img/reconfigure2.png",
+    "docs/Subscribers/Networking/LoadBalancerInstances/img/reconfigure.png",
+    "docs/Subscribers/Networking/LoadBalancerInstances/img/stop3.png",
+    "docs/Subscribers/Networking/LoadBalancerInstances/img/restore6.png",
+    "docs/Subscribers/Networking/LoadBalancerInstances/img/restore5.png",
     "docs/Subscribers/Networking/LoadBalancerInstances/ActivatingtheNetScalerVPX.md",
     "docs/Subscribers/Networking/L2 Networks/ManagingL2Opeartions.md",
-    "docs/Subscribers/Networking/LoadBalancerInstances/img/stop2.png",
-    "docs/Subscribers/Networking/LoadBalancerInstances/img/stop.png",
-    "docs/Subscribers/Networking/LoadBalancerInstances/img/purchase.png",
-    "docs/Subscribers/Networking/LoadBalancerInstances/img/home3.png",
-    "docs/Subscribers/Networking/LoadBalancerInstances/img/home2.png",
-    "docs/Subscribers/Networking/LoadBalancerInstances/img/home.png",
     "docs/Subscribers/Networking/L2 Networks/ViewingL2Networks.md",
     "docs/Subscribers/Networking/L2 Networks/AddinganL2Networks.md",
-    "docs/Subscribers/Networking/L2 Networks/img/delete2.png",
-    "docs/Subscribers/Networking/L2 Networks/img/delete.png",
     "docs/Subscribers/Networking/NATGateways/ManagingIPv4Addresses.md",
     "docs/Subscribers/Networking/NATGateways/ManagingNATGatewayOperations.md",
     "docs/Subscribers/Networking/NATGateways/PortForwardingforVMviaVNF.md",
@@ -211,9 +206,6 @@
     "docs/Subscribers/Networking/VirtualFirewall/CreatingaVirtualFirewall.md",
     "docs/Subscribers/Networking/VirtualFirewall/ManagingAlerts.md",
     "docs/Subscribers/Networking/VirtualFirewall/AboutVirtualFirewallInstances.md",
-    "docs/Subscribers/Networking/IPv4-basedNetworking/EstablishingSite-to-SiteVPNBetweenTwoVPCs.md",
-    "docs/Subscribers/Networking/IPv4-basedNetworking/AboutIPv4-basedNetworking.md",
-    "docs/Subscribers/AccountCentre/Payments.md",
     "build/assets/js/520300f5.cc428dd1.js",
     "build/assets/js/90206688.3d1e699b.js",
     "build/img/favicon.ico",
