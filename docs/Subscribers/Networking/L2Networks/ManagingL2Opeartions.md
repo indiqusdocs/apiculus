@@ -5,7 +5,7 @@ sidebar_position: 3
 Managing an L2 network allows you to maintain its availability and lifecycle. Manage an L2 network to perform actions such as restarting the network to restore connectivity and deleting unused networks to free resources and keep your network environment organised.
 
 This section comprises of the following sub-sections:
-- [Restarting an L2 Network](#restart-an-l2-network)
+- [Restarting an L2 Network](#restarting-an-l2-network)
 - [Deleting an L2 Network](#deleting-an-l2-network)
 ## Restarting an L2 Network
 
