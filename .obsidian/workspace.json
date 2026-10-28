@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/Networking/L2Networks/ManagingL2Opeartions.md",
+                "file": "docs/Subscribers/Networking/NATGateways/ManagingIPv4Addresses.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ManagingL2Opeartions"
+              "title": "ManagingIPv4Addresses"
             }
           }
         ],
@@ -185,6 +185,7 @@
   },
   "active": "a29039866dfc3a6c",
   "lastOpenFiles": [
+    "docs/Subscribers/Networking/L2Networks/ManagingL2Opeartions.md",
     "docs/Subscribers/Networking/L2Networks/AddinganL2Networks.md",
     "docs/Subscribers/Networking/LoadBalancerInstances/ReconfiguringLoadBalancerInstances.md",
     "docs/Subscribers/Networking/L2Networks/img/ViewingVFINetworkDetails2.png",
@@ -199,7 +200,6 @@
     "docs/Subscribers/Networking/L2Networks/img/DeletingaVFINetwork2.png",
     "docs/Subscribers/Networking/L2Networks/_category_.json",
     "docs/Subscribers/Networking/L2Networks/ViewingL2Networks.md",
-    "docs/Subscribers/Networking/L2Networks/ManagingL2Opeartions.md",
     "docs/Subscribers/Networking/L2Networks/img",
     "docs/Subscribers/Networking/L2Networks",
     "build/assets/js/fa0ed69a.81dddaa5.js",

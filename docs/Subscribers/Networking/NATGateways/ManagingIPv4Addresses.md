@@ -21,7 +21,7 @@ To add a public IPv4 address, follow these steps:
 
 The public IPv4 address is added where you can perform the following actions:
 - [Adding Firewall Rules](#adding-firewall-rules)
-- [Adding Port Forwarding Rules](#adding-port-forwarding-rules)
+- [Managing Port Forwarding Rules](#managing-port-forwarding-rules)
 ## Adding Firewall Rules
 A firewall rule defines how a NAT Gateway allows or blocks network traffic based on specified criteria, such as IP addresses, ports, and protocols. Adding firewall rules helps control network access, enhance security, and ensure that only authorized traffic passes through the NAT Gateway.
 
