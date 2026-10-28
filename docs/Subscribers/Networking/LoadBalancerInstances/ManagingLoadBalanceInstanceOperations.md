@@ -11,7 +11,7 @@ Apiculus Cloud provides the following operations on load balancer instances:
 - [Deleting an Instance](#deleting-an-instance)
 ## Restarting an Instance
 
-Restart a load balancer instance to refresh its operating state, apply certain configuration changes, or resolve temporary issues without changing its existing settings. This action helps restore normal operation, improve service reliability, and ensure efficient traffic distribution across backend resources.
+Restart a load balancer instance to refresh its operating state, apply configuration changes, or resolve temporary issues without changing its existing settings. This action helps restore normal operation, improve service reliability, and ensure efficient traffic distribution across backend resources.
 
 To restart an instance, follow these steps:
 
@@ -49,8 +49,7 @@ To rename an instance, follow these steps:
 
 Delete a load balancer instance when it is no longer required to remove it permanently from cloud environment. This action helps free up resources, reduce unnecessary costs, and keep your infrastructure organized by eliminating unused instances.
 
-:::note
-
+:::Warning
 You can schedule deletion to continue using the resource until the end of the current billing cycle and cancel the deletion before it takes effect. Alternatively, you can delete the resource immediately, which is permanent and cannot be undone.
 :::
 
@@ -61,5 +60,5 @@ To delete an instance, follow these steps:
 2. Click on your created load balancer instance name from the list, and click **Operations**.
 3. Click the **Delete Instance** button. The following screen appears, where you can choose to delete the LBI instantly or schedule it to be deleted at a later stage:
 	![img](img/delete.png)
-- To delete the LBI instantly, enter **DELETE** and click the **Delete Now** button. The LBI is deleted.
-- To schedule the LBI to be deleted at a later stage, enter **DELETE** and click the **Schedule Deletion** button.
+	- To delete the LBI instantly, enter **DELETE** and click the **Delete Now** button. The LBI is deleted.
+	- To schedule the LBI to be deleted at a later stage, enter **DELETE** and click the **Schedule Deletion** button.

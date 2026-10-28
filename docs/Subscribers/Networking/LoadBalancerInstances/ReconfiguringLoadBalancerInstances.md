@@ -16,4 +16,4 @@ To reconfigure the load balancer instance, follow these steps:
 	![img](img/reconfigure.png)
 5. Select a **Compute Pack** from the list, and click the **Reconfigure Compute Pack** button. The following screen appears:
 	![img](img/reconfigure2.png)
-6. Select the **I have read and agreed to the Yntraa Cloud Terms and Conditions and Privacy Policy** option, and click the **Confirm reconfigure** button.
+6. Select the **I have read and agreed to the Yntraa Cloud Terms and Conditions and Privacy Policy** option, and click the **Confirm Reconfigure** button.

@@ -5,7 +5,7 @@ sidebar_position: 1
 
 Load balancer instance details provide an overview of the instance, including its current status, configuration, internal information, and network details. This information helps you monitor the instance, verify its configuration, and manage network connectivity effectively.
 
-This comprises of the following sub-sections:
+This topic comprises of the following sub-sections:
 - [Launching LBI Web Based Console](#launching-lbi-web-based-console)
 - [Stopping and Starting Load Balancer Instance](#stopping-and-starting-load-balancer-instance)
 
@@ -15,21 +15,18 @@ To view the details of a load balancer instance, follow these steps:
 	![img](img/home.png)
 2. Click on your load balancer. The following screen appears:
 	![img](img/overview.png)
-The screen shows the following details:
 
+The screen shows the following details:
 - **Configuration and Availability:** This section displays the following details to help verify load balancer instance current configuration and operational state:
-    
     - The instance's status **Running** or **Stopped**
     - Availability Zone
     - Operating System
     - Compute Pack
 - **Internal Information:** This section displays the following information used for internal identification of a load balancer instance and communication with other internal services:
-    
     - Template Name
     - Internal Name
     - Created On
 - **Network Details:** This displays the following network interface details associated with the load balancer instance to help identify and manage its network connectivity:
-    
     - VPC Name
     - Gateway
     - Subnet Mask
@@ -49,7 +46,7 @@ To launch LBI web based console, follow these steps:
 
 Stop the load balancer instance to apply updates, perform maintenance, or optimize resource usage. This action suspends firewall operations without deleting configurations and quickly restores protection when restarted.
 
-To start and stop the load balancer instance, follow these steps:
+To stop the load balancer instance, follow these steps:
 
 1. Navigate to **Networking > Load balancer Instances**. The following screen appears:
 	![img](img/home.png)
@@ -58,4 +55,4 @@ To start and stop the load balancer instance, follow these steps:
 	![img](img/stop.png)
 4. Click the **Yes** button. The following screen appears:
 	![img](img/stop2.png)
-5. Click the Start Instance button to restart the load balancer.
+5. Click the **Start Instance** button to restart the load balancer.
