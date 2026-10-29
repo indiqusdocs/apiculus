@@ -1,7 +1,7 @@
 ---
 sidebar_position: 8
 ---
-# Internal LB Rule 
+# Managing Internal LB Rule 
 An internal Load Balancer (LB) is a type of load balancer that routes traffic to workloads within a 
 private virtual network (VNet).
 ## Creating a New Internal LB Rule 

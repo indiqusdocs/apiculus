@@ -1,7 +1,7 @@
 ---
 sidebar_position: 6
 ---
-# IPv4 Addresses and Rules
+# Adding IPv4 Addresses and Rules
 Additional IPv4 addresses provide extra public network endpoints for resources within a Virtual Private Cloud (VPC). After an IPv4 address is added, you can configure network rules, such as load balancing, port forwarding, and Static NAT, to control how incoming traffic is routed and made accessible. This enables flexible network connectivity while supporting application availability and secure access.
 
 This section comprises of the following sub-sections: 
