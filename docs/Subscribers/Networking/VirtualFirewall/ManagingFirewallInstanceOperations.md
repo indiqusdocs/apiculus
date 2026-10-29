@@ -1,5 +1,5 @@
 ---
-sidebar_position: 12
+sidebar_position: 11
 ---
 # Managing Firewall Instance Operations
 Managing virtual firewall operations allows you to perform essential administrative tasks on your Virtual Firewall, such as restarting, force stopping, renaming, and deleting it. These operations help you maintain the firewall, manage its lifecycle, and ensure efficient administration of your cloud resources.

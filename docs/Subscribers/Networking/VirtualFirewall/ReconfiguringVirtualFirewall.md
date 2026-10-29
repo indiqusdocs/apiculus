@@ -1,5 +1,5 @@
 ---
-sidebar_position: 11
+sidebar_position: 10
 ---
 # Reconfiguring Virtual Firewall
 Reconfigure a virtual firewall to replace its current firewall appliance with a different one that better meets your operational and security requirements. This operation updates the firewall configuration by applying the selected appliance.
