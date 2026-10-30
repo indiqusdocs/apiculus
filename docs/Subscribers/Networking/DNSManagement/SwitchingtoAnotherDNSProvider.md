@@ -2,7 +2,6 @@
 sidebar_position: 4
 ---
 # Switching to Another DNS Provider
-
 In case you don't want to use the DNS Management Service on your Apiculus-powered cloud, you can always switch back to another provider of choice. To do so, head to your domain name provider's control panel and update the nameserver details to those of the DNS provider you wish to use.
 
 The following points, however, need to be considered:
