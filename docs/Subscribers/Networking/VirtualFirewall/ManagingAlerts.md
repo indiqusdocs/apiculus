@@ -7,7 +7,6 @@ Alerts help you monitor the health and performance of your virtual firewall by n
 This section comprises of the following sub-sections:
 - [Configuring Alerts](#configuring-alerts)
 - [Managing Recipients](#managing-recipients)
-
 ## Configuring Alerts
 Create an alert to monitor a specific virtual firewall metric and receive an email notification when the configured threshold is reached. While creating an alert, specify a name, select the parameter to monitor, define the trigger condition and reading duration, and add the email recipients for notifications.
 

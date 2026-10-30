@@ -1,8 +1,7 @@
 ---
-sidebar_position: 14
+sidebar_position: 13
 ---
 # Deploying VNF and VM Within VNF
-
 This section provides a step-by-step guide for deploying a Virtual Network Function (VNF)—specifically a virtual firewall—and provisioning a Virtual Machine (VM) behind it using the Apiculus Cloud platform. This setup allows users to route VM traffic through the VNF, enabling secure and segmented network environments. 
 
 It is ideal for use cases requiring:
@@ -164,7 +163,7 @@ The following steps guide you through the configuration and final review before 
     - **Use root user password** (Root passwords are less secure than SSH-based access). 
 :::note
 If you choose root user password method, ensure that **Also email me the password** is checked to receive the root password via email for initial access.
-::
+:::
 2. **Name Your Linux Instance**:
     - For example, **Test-VNF-Ubuntu** (Instance name can only contain alphanumeric characters, underscores, dots, and hyphens).
 3. **Summary and Estimated Costs**:

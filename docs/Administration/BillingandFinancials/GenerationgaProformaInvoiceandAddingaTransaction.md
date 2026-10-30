@@ -16,12 +16,12 @@ This section covers the following topics: 
 To generate a PI, follow these steps: 
 
 1. Navigate to **Billing and Financial > Proforma Invoice**. The following screen appears: ![Billing and Financial](img/ProformaInvoice1.png)
-2. Click the **Generate PI** button. The following screen appears:![Generate Proforma Invoice Screen](img/GenerateProformaInvoiceScreen1.png)
+2. Click the **Generate PI** button. The following screen appears:![Screen appears after clicking the button](img/AfterScreen.png)
 3. Provide the following details: 
 	- **Customer Name**  
 	- **PI Date**
 	- **PI Duration** (1 month, 3 months, 6 months, 9 months, or 12 months)
-4. Click the **Add Services** button. The following screen appears: ![Add Service Screen](img/AddServiceScreen1.png)
+4. Click the **Add Services** button. The following screen appears: ![Add Service Screen](img/AddServicesScreen1.png)
 5. Provide the following details: 
 	- **Product Family**
 	- **HSN/SAC Code**
@@ -32,15 +32,15 @@ To generate a PI, follow these steps: 
 	The duration is fixed and is applied uniformly to all the services included in the proforma invoice. It cannot be modified for individual services.
 	:::
 6. Click the **Confirm** button. After the confirmation, the details get added as shown in the following screen:
-	![Add Services](img/AddServiceScreen2.png)
+	![Add Services](img/AddServicesScreen2.png)
 7. To add additional services to the proforma invoice, click **Add Services**. You can also modify an existing service by clicking the **Edit** icon. 
 8. Review the **PI Summary** and click the **Submit PI** button. The following screen appears:
-	![Confirmation Screen](img/ConfirmationScreen.png)
+	![Confirmation Screen](img/SubmitButton.png)
 9. Click the **Submit** button.
 
 The PI is generated successfully.
 
-![Added PI](img/AddedPI.png)
+![Added PI](img/AddedPI1.png)
 
 ### Downloading Proforma Invoice
 

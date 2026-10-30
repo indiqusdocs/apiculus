@@ -28,12 +28,12 @@ VPCs follow the convention of 3-tiered network architecture, with web, app, and 
 ![Create, List and View VPCs](img/CreateVPC3.png)
 - [Create, List and View VPCs](CreatingaVPC.md)
 - [Viewing VPC Details](ViewingVPCDetails.md)
-- [Creating subnets and tiers](CreatingSubnetsTiers.md)
+- [Creating subnets and tiers](CreatingSubnetsandTiers.md)
 - [Managing VPC Instances](ManagingVPCInstances)
-- [Working with IPv4 addresses](IPv4AddressesandRules.md)
+- [Working with IPv4 addresses](AddingIPv4AddressesandRules.md)
 - [Access control on a VPC](ManagingAccessControlonVPCSubnets)
 - [Reconfiguring the VPC](ReconfiguringaVPC.md)
-- [VPC operations](VPCManagementandBasicOperations)
+- [VPC operations](ManagingVPCOperations.md)
 
 ## L2 Networks
 
