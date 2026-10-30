@@ -50,6 +50,11 @@ To replace an ACL, follow these steps:
 The tier is attached with selected ACL.
 
 ## Deleting a Network Tier
+
+:::note
+You can delete only the empty tiers, which means that in order to delete a tier, ensure that there are no Instances and no NAT rule(s) associated with it.
+:::
+
 To delete a network tier, follow these steps:
 1. Navigate to the **Networking** > **Virtual Private clouds** > **Subnets and Tiers** section. The following screen appears:
 	![Creating VPC Subnets/Tiers](img/subnets.png)
@@ -61,9 +66,7 @@ The following screen appears:
 4. Click **I confirm that I have removed everything from this tier** checkbox.
 5. Click **Delete Tier** button.
 
-:::note
-You can delete only the empty tiers, which means that in order to delete a tier, ensure that there are no Instances and no NAT rule(s) associated with it.
-:::
+
 
 
 
