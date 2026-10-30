@@ -16,4 +16,4 @@ To start and stop a NAT Gateway, follow these steps:
 5. Click the **Start NAT Gateway** button. The following screen appears:
 	![img](img/starting.png)
 6. Click the **Start Virtual Router** button. The following screen appears:
-	![img](img/stoping.png)
+	![img](img/Stoping1.png)
