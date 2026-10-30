@@ -1,7 +1,7 @@
 ---
 sidebar_position: 8
 ---
-# Managing Volume
+# Managing Volumes
 Manage volumes to monitor and protect the storage resources attached to your instances. Volume management allows you to view attached disks, create disk restore points to safeguard data before changes, and create custom images for rapid instance deployment and recovery. These operations help ensure data protection, simplify backup and restoration, and maintain consistent storage configurations across your cloud environment.
 
 This section comprises of the following sub-sections:

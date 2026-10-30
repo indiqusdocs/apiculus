@@ -2,7 +2,6 @@
 sidebar_position: 8
 ---
 # Port Forwarding for VM via VNF
-
 This section outlines the steps to configure port forwarding for a Virtual Machine (VM) using a Virtual Network Function (VNF) in a cloud environment. Port forwarding allows external clients to securely access services (for example SSH, HTTP) hosted on the VM by mapping ports from the VNF’s public IP to the VM’s private IP. This approach improves network segmentation and control by routing all incoming traffic through the VNF layer.
 
 The following are the high-level tasks required to configure port forwarding for a VM via a VNF:

@@ -2,7 +2,6 @@
 sidebar_position: 6
 ---
 # Managing NAT Gateway Operations
-
 You can perform the following operations in the Operations section:
 
 - **Restart NAT Gateway -** Use this option to perform a quick reboot on your Instance. This is a simple restart, and no data will be lost.

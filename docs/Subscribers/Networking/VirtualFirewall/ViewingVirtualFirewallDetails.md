@@ -7,6 +7,8 @@ Firewall instance details give a simple overview of the system. They show its cu
 This section comprises of the following sub-sections:
 - [Launching Virtual Firewall Web Based Console](#launching-virtual-firewall-web-based-console)
 - [Stopping and Starting Virtual Firewall Instance](#stopping-and-starting-virtual-firewall-instance)
+
+
 To view the details associated with a virtual firewall instance, follow these steps:
 
 1. Navigate to **Networking > Virtual Firewalls**. The following screen appears:
