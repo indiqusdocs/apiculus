@@ -2,7 +2,6 @@
 sidebar_position: 3
 ---
 # Overview
-
 To view the below details, navigate to [Kubernetes](AboutKubernetes.md), select a Kubernetes Cluster, and access the **Overview** tab.
 
 - [Configuration and Availability](#configuration-and-availability)

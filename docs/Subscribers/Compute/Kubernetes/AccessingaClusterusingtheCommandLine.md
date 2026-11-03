@@ -2,7 +2,6 @@
 sidebar_position: 4
 ---
 # Accessing a Cluster using the Command Line
-
 Kubernetes clusters can be accessed and controlled from the command line using the `kubeconfig` manifest for the cluster. Each cluster has a unique manifest which is required to identify and target the cluster using the `kubectl` utility.
 
 The manifest for a cluster can be downloaded using the **DOWNLOAD KUBECONFIG** button in the **Access** section of the cluster details.
