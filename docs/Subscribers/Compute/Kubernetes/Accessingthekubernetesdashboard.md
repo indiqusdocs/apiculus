@@ -2,7 +2,6 @@
 sidebar_position: 6.1
 ---
 # Accessing the Kubernetes Dashboard
-
 To access the dashboard in Kubernetes version 1.24 and onwards, follow these steps:
 
 1. Create a Kubernetes cluster.

@@ -2,7 +2,6 @@
 sidebar_position: 2
 ---
 # Viewing Kubernetes Cluster Details
-
 Apiculus Cloud Console offers a detailed view of Kubernetes clusters on the UI. Apiculus also brings the full power and accessibility of cluster management via the kubectl interface.
 
 To view cluster details on the UI, follow these steps:

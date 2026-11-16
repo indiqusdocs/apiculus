@@ -2,7 +2,6 @@
 sidebar_position: 2
 ---
 # Creating a Kubernetes Cluster
-
 To create a Kubernetes cluster, follow these steps:
 
 1. Navigate to **Compute > Kubernetes** 

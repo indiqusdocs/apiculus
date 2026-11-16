@@ -2,7 +2,6 @@
 sidebar_position: 7
 ---
 # Ingress Networking on Kubernetes Clusters
-
 To view networking, navigate to [Kubernetes](AboutKubernetes.md) and select a **cluster details**. This section manage a cluster's firewalls and ingress networking. Here, Port forwarding and load balancing rules can also be managed using `kubectl`.
 
 ![Ingress Networking on Kubernetes Clusters](img/Ingress1.png)
